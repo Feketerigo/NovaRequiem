@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\companions\companion_oom_outofparty</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>66</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>This. This is the creature you freed from the Changing God's mirror array. You recognize it as easily as your own breath. 
+
+Glowing discs twist and fold within the shapeless mass, moving in tandem, like eyes. Perhaps that's what they are. 
+
+They lift, bathing you in their glow, and memory overwhelms you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Oom's pale, glowing flower-like eyes widen - or unfold - as you approach.  </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>"This is my mind, and I want you out."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>::brlk:: Oom explains - or appears to explain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>"How did you end up in my head?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>You are blindfolded. You feel the rough fabric against your eyes, and the frame of the lens, this creature's prison, in your hands. It shakes, struggling to get free. You feel its terror. Its frustration. Its sorrow. 
+
+Your habitual frown deepens. Even now, after everything you've done to it, the thing wants to serve you. 
+
+You release the lens and push it to the top of the array with your mind. It is of no use to you now, but later? Who can say? 
+
+Then, the memory crumbles. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>But with that sound, thoughts flood your mind, and your gift is immediately overwhelmed. These are not words or symbols, or any language you recognize. They are... they are... aware. Aware that they are thoughts, and in your head.
+
+At the moment of that realization, they awaken within your mind, reorganizing *your* thoughts into images that communicate what the creature is thinking.
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>::blrb:: Oom says, through some hidden mouth. It is a thick, wet sound, but somehow not unfriendly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>::srssrs:: Oom hisses, cringing - or appears to cringe. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>It isn't quite clear if you are understanding the intention of those sounds, or are making potentially dangerous assumptions. 
+
+Oom's eyes focus on you, folding and unfolding. You hear a curious sound in the hidden reaches of the darkness above... </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>::mrmmrmm:: Oom agrees - or appears to agree. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>"You've traded one prison for another. That isn't fair."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>"Beautiful little thing, aren't you?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>"I'll find a way to free you."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>"What was that sound I heard when you looked at me before? Why did your eyes change color?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>The rasp of turning pages. Memories flash through your mind, tinged with your insatiable curiosity. 
+
+Oom's wide eyes momentarily flicker blue. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>The throbbing of a massive heart. Memories pulse through your mind, painted with the emotions you felt at the time. 
+
+Oom's wide eyes momentarily pulse red. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>The hum of countless voices. You strain to hear them, as you always have in the course of your short life, but can only sense their desperation - their need to be heard. 
+
+Oom's wide eyes momentarily burn a deep indigo. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The scratch and crackle of a flame - *the* flame inside you. The one that warms your heart when you hear the suffering of others. The one that urges you to sacrifice anything and everything to help them. 
+
+Oom's wide eyes momentarily burn a brilliant gold.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>The roar of an adoring crowd. An involuntary smile comes to your lips. *This* is what you have worked for in your short life. This is what you long to hear. 
+
+Oom's wide eyes momentarily flash silver. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>::mmmmm:: Oom says, pleased. Or at least, you think it's pleased. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>::rrrmm:: Oom says happily. Or at least, you think it's happy.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>"What kind of creature are you, anyway?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>"Can't you tell me anything else about what you are?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>"Goodbye."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The sound dies away. Oom stares up at you, waiting. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>::flrsk:: Oom explains, extending a slender tendril towards your ankle.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Let it touch you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Pull your foot away.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>The tendril coils around your ankle, cool and dry. Nothing else happens. Apparently, Oom just wanted to give you a hug.
+
+Oom eventually withdraws the tendril, taps your foot, and absorbs the delicate limb back into its body with a quiet *porp*.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>You lift your foot above the questing tentacle, and Oom withdraws it back into its body. Its eyes contract, studying you. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>"You aren't a reflection, are you? Can you leave my mind with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>"Do you want to come with me?"</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>For a while, Oom doesn't say anything at all. It merely looks at you. Just when you think it isn't going to respond at all, a bubble appears at the center of its shifting body, then divides into two. They merge again, split, and become three. They merge, become four. Merge, and five.
+
+Soft light wells from within each of the bubbles until they are the colors of the Tides. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>::sklk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>::mrlk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>Without warning, the bubbles launch into a whirling, spinning dance, moving too fast to track. As you watch, their glowing lines become a perfect circle. A column. A shape that hurts your eyes. A vortex. 
+
+Abruptly, the five bubbles pop, and the only light in Oom's body are its luminous eyes, watching you.
+
+::blrk:: it says, and falls silent. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>::flk::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Tendrils tickle the silent spaces behind your eyes. Images of the people already traveling with you flash through your thoughts. 
+
+::ssssrl:: Oom whispers shyly at last, its eyes contracting fold by fold. It seems the creature doesn't want to join you when so many are travelling with you already. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>::ssssrsl:: Oom murmurs, but does not move. 
+
+Again, you sense that It's too shy to travel with all the people you've assembled so far. It seems you'll need to leave one of them behind - at least temporarily - if you want to bring Oom with you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>::mmrmrmm:: Oom replies, surging towards you. Instinctively, you blink, and it's gone. 
+
+Still, you feel the... pressure of its presence around you. It may be waiting for you to return to the outside world.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>::prp::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>::mmmmm::</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>::mmm:: it says, and vanishes before your eyes. It should be waiting for you in the outside world, like before.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The creature - "Oom," your mind whispers - stares up at you with eyes like radiant, unfurling flowers.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

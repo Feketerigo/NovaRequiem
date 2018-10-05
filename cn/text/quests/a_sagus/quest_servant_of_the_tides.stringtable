@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>quests\a_sagus\quest_servant_of_the_tides</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>30</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>Servant of the Tides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>Search the Labyrinth for the creature that escaped from the Changing God's mirrors.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Discover Oom's purpose. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>Examine the floating cones in the Reef of Fallen Worlds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Left Sagus Without Discovering What Oom Wanted Me To See (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Learn from Oom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Discover more about Oom's past. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Learn more about the Tides and speak to Oom again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Witnessed Oom's last vision.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Left the Bloom before completing the Quest (FAIL)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10000</ID>
+      <DefaultText>I freed... something from the mirrors in the Buried Crossroads. Now, it seems to be calling to me from inside my own mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10001</ID>
+      <DefaultText>The shapeless creature in the mirrors has somehow found its way into my mind. I don't know what it wants - or if it is a threat to me. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10002</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10003</ID>
+      <DefaultText>The creature I freed from the Changing God's mirrors is called Oom - a formless being with an unknown purpose, if it has one at all. It may benefit me to take it with me as I travel and inspect it when I can.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10004</ID>
+      <DefaultText>Touching Oom's eye gave me a vision of the floating, laughing cones in the Reef of Fallen Worlds. Oom's intentions are, as always, unclear, but if I want to understand the creature, I should do what it seems to be asking of me.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10005</ID>
+      <DefaultText>I left Sagus Cliffs without investigating the mysteries of Oom's purpose in joining me. I may never discover what it wanted to show me now. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10006</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10007</ID>
+      <DefaultText>Oom brought me a vision of the Sorrow when I touched the floating cones in the Reef of Fallen World. I sense it's ready to show me something new. Perhaps I need to inspect the creature's eyes again. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10008</ID>
+      <DefaultText>Oom showed me a vision of its long imprisonment and torture by the Changing God. It seems to be encouraging me to improve my affinity to the Tides before I can learn more. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10010</ID>
+      <DefaultText>Oom showed me another of its memories - its long imprisonment at the hands of unknown captors, and the moment where the Changing God first learned of the Tides. 
+
+Now, it seems the creature wants me to improve my Tidal Affinity even further, but not from a Castoff this time. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10011</ID>
+      <DefaultText />
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10012</ID>
+      <DefaultText>I saw the place where Oom was born - or made. It was destroyed countless years ago, and Oom has been alive ever since. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10013</ID>
+      <DefaultText>I'm no longer in the Bloom. Whatever secrets Oom wanted to share with me will have to wait. Perhaps forever. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>The castoff Tol Maguur taught me how to channel the Tides. That should be enough to get more information from Oom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20001</ID>
+      <DefaultText>The castoff Melmoth taught me how to channel the Tides. That should be enough to get more information from Oom. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20002</ID>
+      <DefaultText>A being named Kwherezimian taught me more about the Tides. Oom might be ready to share more of what it knows. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20003</ID>
+      <DefaultText>I saw a vision of the person I should speak to - a being from beyond this reality, opened through a gate in a man's body.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

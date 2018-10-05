@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131_passablechasm4</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>20</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>You instinctively recoil from the darkness of this chasm. You'll need a bridge before you dare cross it.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>The collapsible bridge *might* reach across this wide chasm, but it's going to be close.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Try to bridge the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>You place the bridge on the ground. You're free to stroll across.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Walk away from the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Your bridge provides a safe passage across this impossibly deep and threatening chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Pull up the bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>It telescopes back into its original form.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Walk across the chasm.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Walk away from the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>If you had a way to bridge this gap... wait. Maybe the metal struts you pulled from under the statue could help.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Examine the metal struts I pulled from under the statue.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>Each of the one-meter struts is actually like a scroll - thin metal rods that pull apart, with a silvery netting of incredible tensile strength between them. If connected, these could perhaps create a long bridge suitable for some of the chasms in this room. The ends of the struts seem to have a rotating-gear mechanism attached to them, but you don't see any immediate way to connect them together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Try to find a way to fit these struts together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>With the proper manipulation - twisting, turning, and pulling - and some fortuitous placement of the struts, you manage to assemble a strange device. When you pull the rods to the side, that silvery mesh creates a walkable surface. Shake it forward, you've got a bridge about five meters long. Snap it back, and it collapses into an easily carried single strut. You're the proud owner of a collapsible bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>For all your experimentation and dedication, you're unable to make these struts snap together.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Examine the struts again.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>You put your head down and focus on the struts again. You feel as though there must be some solution.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>Something swims to the front of your mind: it's a collapsible bridge, one of the creations of the ancients. You just have to connect the struts in a certain order with the proper twists and turns, and you'll have a bridge that looks like it span about five meters.
+
+You do this, and now you are the proud owner of a collapsible bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Try to remember why these seem so familiar.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

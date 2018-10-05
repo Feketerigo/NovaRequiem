@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\codex</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>111</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>0</ID>
+      <DefaultText>...</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The castoffs of Miel Avest are led by a woman named Aadiriis, a visionary who keeps the peace, forcing the castoffs to focus on finding ways to fight the Sorrow. Aadiriis possesses an uncanny beauty. She is a mother and guide to the castoffs, with a kind and caring demeanor, but a mortal threat to anyone who threatens the castoff sanctuary. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>These transdimensional entities look like shadowy reflections of an angular, toothy humanoid, and the common folk believe them to be ghosts. They can phase in and out of reality at will, and they seek sources of transdimensional energy to feed upon. Beyond that, their motives are uncertain. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>A dour explorer and former Aeon Priest, with living, intricately designed tattoos that writhe across his forearms, Aligern thinks you might be the Changing God. He is watching you closely. He can pull the tattoos from his arm as if they were wires under his skin, using them in battle to defend himself and his companions.
+
+He wears a faded grey duster that buttons from the neck down to the waist. It has a number of pockets, bulging with small pieces of equipment.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>These bipedal herd animals are common pack and riding animals. Their small forelimbs and tiny claws keep them from being much of a threat to their handlers, and their generally docile natures make them ideal for long journeys – even across worlds and through the Maws of the Bloom.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>5</ID>
+      <DefaultText>Artaglio is a deserter in one of the armies of the Endless Battle. A former captain, he and his mercenary company – Artaglio's Irregulars – make their camp in Chiurgeon Slump, a fetid slum in a fleshy pocket of the Bloom. Artaglio wears blue and silver finery and keeps his breastplate and weaponry shiny and well-polished. He is always accompanied by his men, including his former sergeant, Ranard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Bericael Brunna is a warrior of iron will and exceptional self-control. Bericael is of indeterminate gender, and is muscular, slim, and tall. An unyielding foe, faithful ally, and deadly in battle, Bericael has been a squad leader and commando in the First's Militia for years and has been integral in many successful operations.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Only the most wretched and unfortunate people become permanent residents of the Bloom. Some are exiles, criminals, or madmen who were forced to flee the city of Sagus Cliffs. Others are vagrants with nowhere else to go. A few came here from far away – stumbling into a portal, perhaps – and found themselves trapped in the Bloom, with no hope of making their way back home. Eventually, the Bloom will devour them all.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Some people claim to know the ways of the Bloom. They've learned its tubes and byways, explored its stinking slums, and discovered what its Maws like to eat. Some even say that the Bloom favors them, opening passageways to take them where they want to go. Such people often hire themselves out as Bloom-guides, earning money by providing advice and direction to merchants and explorers. Their careers rarely last long, of course – the Bloom's favor is almost always short-lived.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>9</ID>
+      <DefaultText>Bloom-slaves are former criminals and convicts from the city of Sagus Cliffs. To pay their debt to society, some choose Bloom-slavery instead of prison or execution. They are auctioned off to merchants and explorers who use them to open the Bloom's Maws. Once a Bloom-slave has been fed to a Maw, they are free... that is, assuming they are still alive and mostly intact.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Bloom-tongues are wriggling tendrils that sprout from the flesh of the Bloom. Usually they surround Maws, but sometimes clusters of tongues exist on their own, especially in the deeper chambers of the Bloom. If you draw too near to a mass of Bloom-tongues, their voices will intrude upon your mind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>Beneath the crag of Sagus Cliffs, far below the level of human habitation, is a void in the rock. In the remote past, this place was a crossroads in some predecessor city, built by alien hands. More recently, the Changing God seems to have discovered this place and turned it into a secret refuge or laboratory. Inexplicably, the chamber is filled with breathable air, probably supplied by one of the Changing God's devices.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Callistege is a woman whose consciousness has fractured itself through the dimensions. Her echoes shimmer through multiple realities. She refers to these alternative shadows as her ""sisters"". She is a brilliant nano, and she seems to want something from you.
+
+Callistege wears a bright wardrobe of oranges and reds, as if she were on fire. Her long, metallic hair shimmers. She wears earrings, necklaces, bracelets, anklets, and belts of varying materials and workmanship. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>The highest peak of Sagus Cliffs serves as a mooring point for airships of all varieties, serving those who wish to avoid the dangerous overland journey to the Oasis of M'ra Jolios, the Valley of Dead Heroes, the city of Haref, or more distant destinations. A woman named Tranquility operates a hostel here for those who need a place to rest their heads.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>14</ID>
+      <DefaultText>Those who have been birthed by the Changing God's abandonment are known as castoffs. Though it's speculated that a few hundred or more are scattered throughout Sagus Cliffs and the wider Protectorate, no one knows how many there are.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>For hundreds of years, the Cave of Last Words was a thieves' bolt-hole, a place for the criminal element to hide from the law. It was also the site of countless suicides, where desperate people spent their last moments before throwing themselves into the sea. A great many of them chose to leave their final thoughts on the walls – words of despair, introspection, and rage. The Cave has, of late, been your sister Matkina's home as she sank deeper and deeper into paranoia and dementia.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Legends say that Chila was a teenage girl from Sagus Cliffs, forced into slavery in the Bloom. She formed a unique bond with the Bloom, and used that bond to start a slave rebellion that ultimately spilled into Sagus Cliffs. The slaves brought down the city's government and toppled its empire, installing Chila as their autarch. Ever since, Sagus Cliffs has been governed by those who trace their lineage to Chila's slave companions. Statues of Chila depict her with silver skin and a massive war hammer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>17</ID>
+      <DefaultText>Worshippers of your castoff brother Inifere, the Children of the Endless Gate are a splinter sect of the Dendra O'hur. They seek to "free" the spirits of the living from the prisons of their bodies. The Children use the blood of their victims to draw the symbol of the Endless Gate. If the Gate opens, the cultists hurl their screaming victims into the nightmare beyond. The Children pray to the entity within the Endless Gate in the hope that it will calm the turmoil in their own lives – or that it will grant them its power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>18</ID>
+      <DefaultText>This little pocket of Bloom-flesh has attracted a small collection of quacksalvers and chiurgeons, most of whom are here because of various ethical violations or ugly obsessions. The place is now under the command of a band of deserters from the Endless Battle, Artaglio's Irregulars.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>19</ID>
+      <DefaultText>The Church of the Changing God – at least its Sagus Cliffs chapter – venerate the Changing God as a literal deity, a man who has transcended mortality. They view castoffs as facets of his godhood. Its followers study the Changing God's exploits and seek to gain a deeper understanding of his actions so that they can apply his lessons to their lives. He is a symbol of enlightenment and knowledge to them, and they believe that by emulating him, they can heal the Ninth World of its ills.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20</ID>
+      <DefaultText>One of the prime markets in Sagus Cliffs, Circus Minor plays host to all manner of itinerant merchants and city spectacles. At its heart stands the Clock, the machine once said to have unmoored the city in time during an invasion. All manner of public events happen here – traveling religious revivals, executions, performances, and more. It sits near the bottom of the city, very near the Reef of Fallen Worlds.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>21</ID>
+      <DefaultText>This tough neighborhood sits along one of the more exposed faces of Sagus Cliffs. Sagging houses line the steep road – some along the cliff itself, where the ground is slowly crumbling away beneath them. This area is home to lower-class citizens, as well as merchants, beggars, and grifters. It also features a chiurgical parlor and the Fifth Eye tavern.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>22</ID>
+      <DefaultText>Sometimes the Bloom's Maws break free of its body and fragment into smaller, autonomous creatures. These ravenous horrors are known as corpuscular maws. They consist of a small central core, containing a tiny portal to another time or place, surrounded by knots of Bloom-flesh that form into arms and tendrils. The "arms" serve as a means of locomotion as well as attack.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>23</ID>
+      <DefaultText>Crystalvores are insectoid beings of unknown origin. They generate a chemical process that dissolves crystal, using it to hollow out crystalline chunks to serve as shells. They use their sharp mandibles, talons, and claws to make short work of those who intrude on their nests. They frequently withdraw within their shells, falling into a dormant state until they are disturbed.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>24</ID>
+      <DefaultText>A decanted is a tall, white automaton with a frosted glass dome implanted in its chest. Inside the dome is a frozen human head. The construct speaks through a buzzing grill, its voice stripped of emotion. Decanted sometimes appear in groups, sometimes alone, usually seeking healthy and beautiful humans to bring back to their city of Glass.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>25</ID>
+      <DefaultText>The Dendra O'hur are worshippers of the Lady of Maggots, the Great Queen Sar'lavun. They are a cult of cannibals, devouring flesh to draw the memories of the dead into their own minds. They wear distinctive robes, draped with hoses and filters, that they use to reduce their meals into an easily digestible slurry.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>26</ID>
+      <DefaultText>Dracogen is a gray-skinned, sharp-toothed artifact dealer, obsessed with the wonders of the prior worlds. Though he's widely traveled, he calls the Bloom home for now. He has cultivated a reputation for fair dealing and complete ruthlessness toward those who cross him – and he always finds out when he’s been cheated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>27</ID>
+      <DefaultText>Centuries ago, the Changing God and his castoffs worked together against the Sorrow. He and the First Castoff were especially close... until the day when a disagreement poisoned their relationship. The disagreement became an argument, which became a struggle, which became a battle and then a war. The castoffs chose sides, devoting their tremendous powers and talents to bloodshed. Some sided with the Changing God, believing that he had a plan to stop the Sorrow's genocide, or from a loyalty to the man responsible for their creation. Others sided with the First, believing that she had their best interests at heart against a fundamentally selfish creator. 
+
+The two sides fought with all the weapons at their disposal, always to a draw, until the Changing God's armies suddenly began to suffer defeat after defeat. He discovered that his weapons were worthless, for the First had found the Reconciler of Truth, a device that could collapse multiple realities. He sought – and found – a counter in Heaven's Rejoinder, and the overlapping realities of their effects have torn time in the battlefield, parallel truths rolling and twining around each other. 
+
+A century ago, the First sought to end the battle and strike a decisive blow against one of the Changing God's mercenary companies, the Sand Knights. Her lieutenant, Paj Rekken, was charged with leading an assault on one of the Sand Knights' fortresses, and she gained entry just as the First was torn apart in a coruscation of energies. Rekken did not know the First had been destroyed and used the Reconciler to snap the realities together, maintaining victory over the Sand Knights. By the time Rekken learned of the First's death, the First was irrevocably lost. The battle continues to divide the castoff community, and mercenaries still flock to the battlefield, but the Changing God has moved on.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>28</ID>
+      <DefaultText>A brash glaive, his intellect dimmed by the brilliant glow that surrounds him, Erritis is always ready for adventure – the more dangerous, the better! – and he's overjoyed to have you along to support him.
+
+Erritis is an unusually attractive young man, and his guiding star is to have as much excitement in his life as possible. Erritis doesn't plan, he doesn't do "tactics," and he doesn't like thinking things through because, really, what has that ever done for anyone, anyway? Point him toward a catastrophe, and let him go! And if no catastrophe exists? Time to create one!</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>29</ID>
+      <DefaultText>Those who worship the Bloom as a god are known as the Extremities of the Great Devourer. 
+
+Their greatest desire is to achieve union with the Bloom. They want only to serve the Bloom, to be brought to its innermost heart. They wear the Bloom's flesh as clothing and wear no shoes, so that they can touch their god at all times. They believe that being devoured by the Bloom is a mark of their deity’s favor, and they actively seek to be eaten.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>30</ID>
+      <DefaultText>The powerful, amoral woman who called herself the First Castoff of the Changing God was once one of the primary allies of the Changing God... but she betrayed him, or claimed that he betrayed her, and she led a great castoff revolt against him – a revolt that has spanned centuries and still continues today. According to legend, she fell in battle against the Changing God, and once he had vanquished her, he quit the field.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>31</ID>
+      <DefaultText>Residing in the Underbelly's Manufactory are three large constructs. Millennia ago, these Foremen built and maintained massive starships. Though they can no longer move, they are still able to direct the efforts of human laborers. The Foremen are constantly devising better ways to fabricate materials and rework the numenera to benefit Sagus Cliffs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>32</ID>
+      <DefaultText>Gar-koto is a prince among the mutants of Little Nihliesh, who revere those with the most severe mutations as nobility. He dwells inside a spherical tank, filled with murky fluid, making it impossible to catch more than a brief glimpse of his hideous form. The mutant prince speaks through a staticky grille at the front of his tank. He and his people have been stuck in the Bloom ever since the unexpected death of the Maw that led to their home city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>33</ID>
+      <DefaultText>The Ghibra Ny'kul – the children of Ny'kul – are the native inhabitants of the Oasis of M'ra Jolios. They are a race of aquatic humanoids, varying widely in appearance. They believe that this physical diversity is a gift from their god. They may have scales, hide, or shells; flippers or legs; claws or fingers. 
+
+The Ghibra communicate telepathically in a language they call Colosh Ny'kul – the word of Ny'kul. They frequently speak the Truth as well, for they believe in maintaining relationships with the world outside their watery bubble."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>34</ID>
+      <DefaultText>The Council of Sagus Cliffs meets on the sun-swept square at the top of the crag, overlooking the broad waters of Garravia Sound. Enormous synth slabs pave the square, and the tips of ancient space-faring vessels protrude from the ground, now repurposed as public buildings. The Order of Truth maintains its small, independent headquarters inside one of the starships, and emissaries from strange places meet in the Red Thicket, where their words cannot be overheard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>35</ID>
+      <DefaultText>Imbitu is the elderly leader of the Dendra O'hur chapter in Sagus Cliffs. Friendly and cunning, Imbitu  is devoted to keeping human knowledge from the grasp of the Great Queen Sar'lavun, the Lady of Maggots, who waits on the other side of death to devour the minds of those who pass on. Imbitu has consumed the corpses of countless leaders and scholarchs, so he possesses the experience of many lifetimes.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>36</ID>
+      <DefaultText>Inifere is one of your castoff siblings, born in a dimension of horror. He is almost skeletal in appearance, and utterly mad. He would be harmless if it were not for the cultists who venerate him as the living portal to the Endless Gate.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>37</ID>
+      <DefaultText>Soldier-sailors in service to some long-vanished interstellar empire, the lascars appear to be human underneath their bulky, highly-polished armor. Their exotic weapons suggest that it would be unwise to antagonize them. Most of the lascars speak an unfamiliar language and carry themselves with a practiced, military bearing. A Maw opened in the Bloom, connecting the Ninth World to their "anchorage."</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>38</ID>
+      <DefaultText>The constables of Sagus Cliffs are called levies – an army of nearly identical, manufactured humanoids who wear the silver-indigo colors of the city. It’s clear from the briefest of glances that levies are not quite human. Their features are plain, forgettable, and generic, their eyes too large, their smiles too firmly fixed on their faces. Though their manner is typically friendly, most people find them unsettling and try to avoid interacting with them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>39</ID>
+      <DefaultText>Little Nihliesh is the trash heap of the Bloom, as if the Bloom used this cavity as some sort of filtering organ. It's the home to a collection of mutants led by Gar-koto, whose people live among the squalor and debris. The back end of the catena can be seen here, its opposite end protruding into the Memovira's Courtyard.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>40</ID>
+      <DefaultText>In the distant past, the anchorage was a lavish port for trade and tourism between worlds. Constructed in grand style, sparing no expense, it orbits a world that is far from your own. The civilization that built the anchorage is long gone, and the place is inhabited only by lascars, descended from those who once crewed the ships that came and went from the anchorage. Now they are trapped in the anchorage, maintaining its systems as best they can, awaiting a ship that will take them home.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>41</ID>
+      <DefaultText>Your castoff sister is an albino assassin feared across the Sagus Protectorate. They call her the White Death. She is a calculating jack of all trades, with a huge intellect and enormous potential.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>42</ID>
+      <DefaultText>The Maws of the Bloom appear as mouth-like orificies, surrounded by foul, questing tentacles called “tongues.” Each Maw harbors a singular desire – for instance, an emotion like hatred, human blood, or memories of happiness. Sating that desire will open a portal to some other place or time... whether within the Bloom, an alien world, or a new dimension.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>43</ID>
+      <DefaultText>Wires and tubes run through your brother Mazzof's body. He has a special affinity – an almost-spiritual connection – for machines. He was captured by the Ghibra during a raid on one of M'ra Jolios's treasure troves and was abandoned by his ally, the Changing God.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>44</ID>
+      <DefaultText>Melmoth Leviarm is the leader of the cannibalistic Dendra O'Hur, and is devoted to the idea of retaining knowledge in all its forms. He wears tattered leather robes draped with a profusion of wires and tubes. He has piercing eyes set amidst a hideously scarred face, and he wears tattered robes, with countless wires and tubes snaking from every corner of his body.
+
+Melmoth is a master of the Tides, having spent his life trying to understand their function. He does not suffer fools lightly.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>45</ID>
+      <DefaultText>The Memorialists inhabit the Valley of Dead Heroes, tending the monuments and tombs. They teach that the Ninth World is the afterlife, and that the Valley contains the graves of every person on earth. They claim that if the "living" of the Ninth World find the graves of who they were in life, the Ninth World will become a true paradise. Conversely, if more of them forget their true selves, the world will slide into utter chaos. Thus the Memorialists maintain the graves, hoping the world will at last come to its senses.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>46</ID>
+      <DefaultText>The Memovira's Courtyard is an antechamber to the Bloom, and one of its main centers for human activity– it remains relatively stable, so people have built shanties and slave pits, the better to launch expeditions deeper in the Bloom. A catena crashed into the Bloom recently, and its leading car is here, slowly being absorbed into the Bloom's flesh. The Courtyard is adjoined to the Memovira's Fortress by a great gate, which is guarded at all times.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>47</ID>
+      <DefaultText>Miel Avest is a refuge from the Sorrow, a hidden sanctuary for castoffs alone, created by the Changing God and the First Castoff. Shields cast by generators from a long-dead world hide it from prying eyes. The only law in Miel Avest is peace, and in its verdant air castoffs can focus on ways to stop the Sorrow forever.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>48</ID>
+      <DefaultText>These birdlike abhumans are covered in greasy black feathers, their faces surmounted by sharp yellow beaks and beady eyes. They wear tattered leather cloaks and carry bulging leather bags to hoard the treasures they compulsively collect.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>49</ID>
+      <DefaultText>Mutants are humans whose bodies or minds are radically different from the norm. Sometimes these differences are due to the natural forces of evolution, and sometimes they are the result of an unnatural manipulation. In the Ninth World, mutants often band together, as those with hideous deformities may face violence and derision. While many mutants are outcasts, others are revered for the powers that their mutations confer upon them.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>50</ID>
+      <DefaultText>A nychthemeron is a hovering, biomechanical monstrosity, its squid-like body mounted atop a hovering orb, lasers and scalpels at its tentacles' tips. During the day, it is a creature of rage and hate. At night, it is calm and rational. Two explorers captured a nychthemeron, displaying it in a cage of energy in Circus Minor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>51</ID>
+      <DefaultText>Oom is an amorphous blob that you found hiding in the mirrors of the Buried Crossroads. Once contacted, Oom made a home in your mind. It's clearly psychically reactive, and it seems to have bonded to you.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>52</ID>
+      <DefaultText>The Order of Truth stretches far across the Ninth World, though its philosophies and activities differ from place to place. Its primary goal is to use the tools of the vanished worlds to help restore humanity to greatness. Those who join the Order are called "Aeon Priests", though they are not a religion. Instead, they prize intellect, understanding, and a deep comprehension of the wonders of the ancient world. Across the world, people trust Aeon Priests to handle, identify, and use the numenera.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>53</ID>
+      <DefaultText>As commander of the First's Militia, your sibling Paj is devoted to the struggle against the Changing God. She now carries the First's mantle and has devoted centuries of her life to overthrowing your sire. Paj is utterly committed to the survival of the castoffs, and she has little patience for those who support the Changing God, who she says seeks to kill all of your kind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>54</ID>
+      <DefaultText>The machine intelligence known as Peerless is more like a virus, installing copies of itself in other machines. These machines become Peerless drones, bloodthirsty and insane, and every one is convinced that it is the original Peerless. No one knows where the true source of the Peerless drones can be found.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>55</ID>
+      <DefaultText>Nowhere is the evidence of ancient civilizations more apparent than in the Reef of Fallen Worlds. In one section of the harbor, forgotten structures and abandoned war automatons break the surface of the water. This is prime pick for brave scavengers, but the place hides significant dangers for the unwary and the unlucky.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>56</ID>
+      <DefaultText>When a person you meet in the world has made a strong enough impression, a reflection of that person is born within the Calm of your mind. These are often distorted echoes of their true selves, but they might still hold secrets... or untapped power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>57</ID>
+      <DefaultText>You found Rhin hiding from slavers in a pile of rubbish in Cliff's Edge. 
+
+The poor child has a clearly visible head wound, and she says she came from another world. She claims to talk to gods and carries their totems in her pouch. Is she insane, or does she truly hold some latent power? Whatever her truth, she looks to you for her survival.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>58</ID>
+      <DefaultText>Sagus Cliffs is one of the oldest human cities in Greater Garravia, built upon the ruins of more ancient metropolises. It occupies the headland overlooking Garravia Sound, with switchbacks and cutouts in the bluffs creating broad avenues that wind down to the harbors. Humanity has filled the old streets with their own ramshackle constructions, building wherever they can find a place to stake their claim. Strange towers and remnants of lost worlds pock the city here and there, and old machines still hum in the artificial caverns beneath the city. It is in these caverns that you see the city's true geological strata – the detritus of forgotten times.  Some neighborhoods close to the cliffs' edges are in danger of falling into the bay below. Every year, the city loses a little ground and a few more lives.
+
+Once the heart of the Sagus Protectorate, the city's fortunes have slipped, its territory shrinking to a small pocket of land surrounding the city.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>59</ID>
+      <DefaultText>The people of Sagus Cliffs are laborers, merchants, artisans, entertainers, bureaucrats, vagrants, and criminals. Many are descended from the first people who settled here almost a thousand years ago. They're quite accustomed to the weird artifacts that are scattered about their city, but they're wise enough to avoid them. At least, most of them are.
+
+</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>60</ID>
+      <DefaultText>You found this young woman's corpse beneath the wreckage of a collapsed house in Cliff's Edge. When you first saw her, she dragged you into the Labyrinth of your mind, where she appeared as the shadowy outline of a woman. You found a puzzle box that was precious to her in life, allowing her to manifest as a ghost of her former self, but she is still just a memory... a reflection that belonged to another castoff.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>61</ID>
+      <DefaultText>Despite their name, silver orphans have little in common with helpless waifs. They are roughly the size of a full-grown human with shimmering, silver-alloy skin. They wander the Ninth World, seeking news of machine intelligences for some inexplicable reasons of their own. Silver orphans cannot speak, so they typically communicate through gestures and drawings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>62</ID>
+      <DefaultText>Sir Arthour Torein is a traveler and one of the foremost experts on the numenera... at least, that's what he says. He makes his home in the Steadfast, and has one of the most extensive libraries about the numenera in the known world. He is always on the move, seeking to build upon his existing knowledge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>63</ID>
+      <DefaultText>For centuries, the Slave Families have ruled Sagus Cliffs. They claim to be descended from the slaves who followed Chila the Great to victory over the old bosses of the city. The leaders of each family form the governing Council of the city, which seems simultaneously competent and disinterested in the affairs of the common people. Most members of the Council are content to wield power without drawing attention to themselves, but every rule has its exceptions. One such exception is Yars Vuntgen, a fat, yellow-skinned aristocrat who fancies himself a rabble-rouser.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>64</ID>
+      <DefaultText>Sticha are large, insectoid creatures. They are both organic and metallic, using their powerful digging claws to tunnel through rock. This activity generates piezoelectric energy that they feed upon. Sticha hatch from eggs and dig "death tunnels" when they are ready to die. They communicate via gestures, clicks and whistles, and a complex pheromonal language.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>65</ID>
+      <DefaultText>Before humanity emerged on earth about a thousand years ago, the Tabaht ruled Greater Garravia. They believed that conflict clarified them, and they thought of themselves as the perfect fighting force. Their chained god, an enslaved machine intelligence called the Underspine, guided them and prophesied their future. They claimed to be the chosen people of New Earth and destroyed any who dared stand against them. 
+
+That is, until they met the humans at Sagus Cliffs. This defeat led to their ruin, and when a massive detonation destroyed the Underspine, the Tabaht were finished. Only the Genocide remains, the last remnant of a forgotten people.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>66</ID>
+      <DefaultText>Tash was a member of the First's Militia, tasked with retrieving the jahk from Kholn Village with Matkina, but you rewrote his history when you entered his Merecaster, restoring Matkina's memory in the process.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>67</ID>
+      <DefaultText>The Ascension of Kex-Lianish is a world of stark, crystalline beauty, located far from the Ninth World and accessible only through one of the Bloom's Maws. Lights flicker within the crystals, some of which have strange, intricate shapes. The Ascension's sun is small and distant, leaving it in a cold, perpetual twilight. Explorers and merchants occasionally venture here, but they are few, and rarely stay for long.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>68</ID>
+      <DefaultText>The people of the Steadfast call the lands outside their kingdoms "the Beyond" – but what they really mean are the lands west of the Clock of Kala, north of the Southern Wall, and south of the Caecilian Jungle. The communities of these places have their own laws, living independently of the Amber Pope.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>69</ID>
+      <DefaultText>The Bloom is an amoeboid leviathan the size of a city, hauling itself through a gorge near Sagus Cliffs, inch by inch, trying to reach the sea. Its tendrils anchor it to the valley's walls – but they also reach through time and dimensions. Where it anchors its tendrils, portals open to far-off places, and explorers who dwell within the Great Devourer rush to take advantage of the  distant worlds and dimensions it unlocks.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>70</ID>
+      <DefaultText>The Chalcedon is commander of the Changing God's forces in the Endless Battle. He is devoted to your creator, believing that the Changing God has a plan that will stop the Sorrow for good. He is a dangerous foe and a brilliant tactician.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>71</ID>
+      <DefaultText>The landscape, culture, and history of Sagus Cliffs have been shaped in innumerable ways by the Changing God. At one point in the distant past, he was a respected researcher and scientist, albeit flawed and selfish. But unlike most mere humans, the Changing God is not confined to a single lifetime.
+
+For centuries, the Changing God has continued his existence by transferring his consciousness into bodies of his own creation, casting off the many vessels that have held his mind. He has moved from life to life, whether to avoid pain, injury, or death, or to seek new sensations and experiences. 
+
+What he didn't realize – at first – was that the bodies he left behind, though often left severely damaged, were not empty. Each time he tore his mind from one of these husks, a new consciousness was born inside – a new person with their own thoughts and dreams.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>72</ID>
+      <DefaultText>The Ninth World contains realms of wonder and beauty – and places of utter, mind-destroying horror. The Endless Gate is one such place, a doorway that leads to a being of infinite hunger. Those with great psychic potential draw its attention. One such is the castoff Inifere, abandoned in the Endless Gate – and his travails have brought him worshippers who venerate the Gate's power. The Children of the Endless Gate seek to liberate their hellish master in exchange for a sliver of its unfathomable power.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>73</ID>
+      <DefaultText>The Fifth Eye is an abandoned pumping station from a prior world, now used as a tavern by the people of Sagus Cliffs. Pipes lead deep underground, pumping a variety of fluids into the tavern. No one knows what the fluids are, but after some experimentation, they've learned which ones are relatively harmless and capable of intoxicating people. Veterans of countless psychic wars share ownership of the Fifth Eye, and they remain here at all hours. Something about the Fifth Eye's architecture serves to drown out the constant mental noise of the city. Their shared mental strength attracts strange beings from across the universe.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>74</ID>
+      <DefaultText>You are the Last Castoff, a discarded shell built to hold the consciousness of the Changing God, a man obsessed with cheating death. You awoke within the dark fathom of your own mind after plummeting from orbit toward Sagus Cliffs. It is a miracle that you managed to survive... and as the Sorrow draws closer to you, you may not survive much longer.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>75</ID>
+      <DefaultText>The ruler of the Bloom is a crime lord known as the Memovira. The Memovira is not a name, but a title, and it has passed to many individuals throughout history. As such, not every Memovira rules the Bloom in the same manner, but they are all bonded to the Bloom, and lead only by its favor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>76</ID>
+      <DefaultText>The countless dead of innumerable worlds find their eternal repose in the honeycombed cells of the Necropolis. Each civilization comes here through some strange compulsion, using the vast storage of the enormous cavern beneath the Valley to preserve the memories of their absent compatriots. No doubt one could spend years exploring the vaults.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>77</ID>
+      <DefaultText>The Ninth World is Earth, a world that has seen massive civilizations rise and fall over the course of two billion years since sentient life first arose – civilizations that could rekindle a dying sun, seed the atmosphere with nano-machines, shape the continents themselves into a massive mega-continent, become the seat of a vast interstellar empire, or make the fundamental forces of physics their playthings.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>78</ID>
+      <DefaultText>The caretaker at the Shrine of Great Chila is a small, elderly woman who calls herself the Observant Speck. Whenever she speaks, her words are softly echoed by the chittering voices of the Bloom, and she claims to understand what they are saying. She also claims to have met your sire, the Changing God, though that was many years ago. It's likely that she knows more about the Bloom and its secrets than anyone else alive.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>79</ID>
+      <DefaultText>The Sorrow is an ancient horror that hunts the Changing God and all his creations – namely, the castoffs. When you woke deep in the Labyrinth of your mind, you felt the Sorrow's inexorable pressure as you rebuilt your memories. When you emerged into the Calm and spoke to the Specter, the Sorrow ripped its way into your mind and spilled its fragments into your psyche.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>80</ID>
+      <DefaultText>A fragment of your imagination, the Specter manifests himself in the Calm. He is a handsome, affable man – or at least would be, if he weren't also a wispy, blue, psionic ghost. He drew power from the other memories that were in your mind to summon you back to consciousness, activating your body's healing abilities when you fell from the sky. He's a valuable friend - of sorts – and a font of information.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>81</ID>
+      <DefaultText>The Vast Interior is a cavernous void in the midst of the Bloom. Bony platforms cling to the walls or sit atop columns of flesh and gristle. Walkways connect these platforms, crafted by humans using whatever unpleasant materials are close at hand, suspended above the Bloom's cavernous depths. Some platforms hold shrines, shops, or homes, including the Shrine of Great Chila.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>82</ID>
+      <DefaultText>A charming rogue, a former mercenary, and an admitted confidence man – but not necessarily the bravest. He's quick with a blade, faster with his tongue, and prefers to lead from behind.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>83</ID>
+      <DefaultText>Far below the great ships that dominate Government Square lies the Underbelly, a series of caverns cut from the compressed detritus of millennia. Per its name and reputation, the dregs of society congregate in the gloom – mutants, the desperately poor, the cannibalistic Dendra O'hur, and other outcasts. The sticha can also be found here, digging and tunneling through the Underbelly's stone caverns.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>84</ID>
+      <DefaultText>Northeast of Sagus Cliffs, a pair of mountain ranges surrounds the Valley of Dead Heroes. The Valley is utterly lifeless, but it is filled with shrines, statues, and cenotaphs.  Many of these monuments were constructed by hands dead for millennia. Oddly, no corpses are buried in the valley – they are entombed in the Necropolis, which lies directly beneath the valley floor.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>85</ID>
+      <DefaultText>These humanoid creatures are tall and gaunt, with a violet-red tint to their flesh. Their eyes are contralateral and bulging, and a tall crest surmounts their head. They are often described by humans as cold and unemotional.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>86</ID>
+      <DefaultText>Waits-for-prey is an ancient construct created for battle. It is humanoid, but its entire body is lined with thorns and spikes, and its arms are long killing blades. Originally built by some vanished civilization from a prior world, it is now one of the last of its kind. Waits-for-prey has been standing in the Memovira's Courtyard for decades, accepting challenges from powerful people and creatures, and it has never been defeated.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>87</ID>
+      <DefaultText>Your mind is a strange place. The Changing God created some sort of psychic home for himself, a structure to contain his memories and consciousness. Reflections of people you once knew stand in the Calm at the center of your mind, and Fathoms below hide secrets and powers that your body once knew how to harness. Further exploration seems warranted... especially because the Sorrow has infected you with its fragments.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>88</ID>
+      <DefaultText>Far to the west of Sagus Cliffs, past the trackless wastes and the Clock of Kala, the nine nations of the Steadfast form a nucleus of civilization centered around the Amber Papacy – the core of the Order of Truth. The nine kingdoms of the Steadfast are Navarene, Milave, Ghan, Thaemor, Draolis, Malevich, Ancuan, Iscobal, and the Pytharon Empire.
+
+While the Steadfast is settled and civilized, it is still a dangerous place. Isolated communities are still threatened, and travel is risky. </DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>89</ID>
+      <DefaultText>The Labyrinth</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>90</ID>
+      <DefaultText>The Steadfast</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>91</ID>
+      <DefaultText>Extremities of the Great Devourer</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>92</ID>
+      <DefaultText>ENTRY_Valley of Dead Heroes</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>93</ID>
+      <DefaultText>ENTRY_Varjellen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>94</ID>
+      <DefaultText>ENTRY_Waits-for-prey</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>95</ID>
+      <DefaultText>Bloom-guides</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>96</ID>
+      <DefaultText>Bloom-slaves</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>97</ID>
+      <DefaultText>Bloom-tongues</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>98</ID>
+      <DefaultText>Chila the Great</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>99</ID>
+      <DefaultText>Children of the Endless Gate</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>100</ID>
+      <DefaultText>Church of the Changing God</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>101</ID>
+      <DefaultText>Dendra O'hur</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>102</ID>
+      <DefaultText>Endless Battle</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>103</ID>
+      <DefaultText>Foremen</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>104</ID>
+      <DefaultText>Memorialists</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>105</ID>
+      <DefaultText>Sagus Cliffs</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>106</ID>
+      <DefaultText>Slave Families</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>107</ID>
+      <DefaultText>The Beyond</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>108</ID>
+      <DefaultText>The Bloom</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>109</ID>
+      <DefaultText>The Necropolis</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>110</ID>
+      <DefaultText>The Ninth World</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

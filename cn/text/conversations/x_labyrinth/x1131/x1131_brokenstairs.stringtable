@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>conversations\x_labyrinth\x1131\x1131_brokenstairs</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>13</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1</ID>
+      <DefaultText>The stair here is collapsed and broken, and there's no way for you to cross. Water pours into the gap, spilling down from the stair above,
+ 
+You'll have to find another way up.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2</ID>
+      <DefaultText>You have knocked over the broken column, and it spans the gap handily.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3</ID>
+      <DefaultText>Your collapsible ladder has fused into the staircase here, making a strange but entirely safe crossing for the broken stairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>4</ID>
+      <DefaultText>The water that trickled down these stairs has solidified to ice, making a solid - if slippery - way for you to cross the gap in the stairs.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>6</ID>
+      <DefaultText>Lay the bridge down across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>7</ID>
+      <DefaultText>Summon the powers of the ice esotery to freeze the water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>8</ID>
+      <DefaultText>Walk away from the bridge.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>10</ID>
+      <DefaultText>Perhaps the collapsible bridge would work here.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>11</ID>
+      <DefaultText>The esotery you learned may be able to freeze that water.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>12</ID>
+      <DefaultText>Try to jump the gap anyway.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>13</ID>
+      <DefaultText>At the last moment, you realize that there's no way you could possibly jump the gap, and you withdraw to consider other options.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>15</ID>
+      <DefaultText>As you set the bridge down, its struts unfold and bend and twist, and the metal of the bridge melts into the stairs. The gap has been bridged, but you've lost your toy. No matter - you likely don't need it anymore.</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>16</ID>
+      <DefaultText>Freezing air pours from your outstretched hands, and the water dripping from the stairs solidifies rapidly. The water spreads out over the top of the ice until the gap in the stair is completely covered, and then the freezing process rockets up the stair until it reaches the landing. Oddly, the water at the top remains unfrozen, but you now have a safe passage across the gap.</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
