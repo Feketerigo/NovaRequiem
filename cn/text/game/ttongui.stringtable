@@ -956,7 +956,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>{1}值受到{0}伤害</DefaultText>
+      <DefaultText>{1}值受到{0}点伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1562,7 +1562,7 @@
     </Entry>
     <Entry>
       <ID>311</ID>
-      <DefaultText>你聪明伶俐，多谋善断，擅长愚弄他人，却鲜少被愚弄。不过你并不擅长记住琐碎的知识。</DefaultText>
+      <DefaultText>你聪明伶俐，多谋善断，擅长愚弄他人，却鲜少被愚弄。不过你并不擅长记忆琐碎的知识。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1572,7 +1572,7 @@
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>你博闻强记，聪明过人，能够轻易理解别人难以掌握地概念。不过与此同时，你可能=很容易分心。</DefaultText>
+      <DefaultText>你博闻强记，聪明过人，能够轻易理解别人难以掌握地概念。不过与此同时，你可能很容易分心。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2619,7 +2619,7 @@
     </Entry>
     <Entry>
       <ID>523</ID>
-      <DefaultText>每级努力等级增加{0}{1}伤害</DefaultText>
+      <DefaultText>每次提升努力等级增加{0}{1}伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3170,12 +3170,12 @@
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>Active</DefaultText>
+      <DefaultText>主动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>Passive</DefaultText>
+      <DefaultText>被动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3305,7 +3305,7 @@
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>无论选择什么类型，专精都会赋予你额外的能力。每种能力都会让你在战斗内外受益，让你获得处理问题的其他方式。</DefaultText>
+      <DefaultText>无论选择什么类型，专精都会赋予你额外的能力。 每种能力都会让你在战斗内外受益，让你获得处理问题的其他方式。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3580,12 +3580,12 @@
     </Entry>
     <Entry>
       <ID>715</ID>
-      <DefaultText>Active Abilities</DefaultText>
+      <DefaultText>主动能力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Passive Abilities</DefaultText>
+      <DefaultText>被动能力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4140,7 +4140,7 @@
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>每级努力等级+{0}点伤害，最大加值为+{1}</DefaultText>
+      <DefaultText>每次提升努力等级+{0}点伤害，最大加值为+{1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4315,17 +4315,17 @@
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>斗士是第九世界中的菁英战士，使用武器与盔甲与敌人作战。侦查兵、侍卫、军阀与士兵都可能是斗士。大部分斗士要么拥有很高的气力值，身着重型盔甲，挥舞重型武器；要么拥有很高的速度值，身着中型或轻型盔甲，使用轻型或远程武器。</DefaultText>
+      <DefaultText>斗士是第九世界中的菁英战士，使用武器与盔甲与敌人作战。 侦查兵、侍卫、军阀与士兵都可能是斗士。 大部分斗士要么拥有很高的气力值，着重型盔甲，挥舞重\n型武器； 要么拥有很高的速度值，着中型或轻型盔甲，使用轻型或远程武器。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>多面手是无畏的探索者和冒险家。他们熟悉各行各业的工作，就像寓言故事中的那些诡计多端、足智多谋的英雄。多面手可以利用武器、盔甲、秘术、秘具和自己如簧的巧舌展现出强大的力量。他们可以是赏金猎人、骗子、诗人、盗贼或者其他各种领域的专家。</DefaultText>
+      <DefaultText>多面手是无畏的探索者和冒险家。 他们熟悉各行各业的工作，就像寓言故事中的那些诡计多端、足智多谋的英雄。 多面手可以利用武器、盔甲、秘术、秘具和自己如簧的巧舌展现出强大的力量。 他们可以是赏金猎人、骗子、诗人、盗贼或者其他各种领域的专家。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>864</ID>
-      <DefaultText>纳米使有时被第九世界的人们称作魔法师、巫师或术士。纳米使掌握着古老的秘密，这让他们能够使用秘术，展现奇迹般的能力。秘术如同魔法一般，可以利用包括姿势、语言和心理状态的祈祷使用出来。他们能够与这种无处不在的神秘粒子，纳米之魂，进行交流，用以改变现实或学习用其他方式接触不到的知识。</DefaultText>
+      <DefaultText>纳米使有时被第九世界的人们称作魔法师、巫师或术士。 纳米使掌握着古老的秘密，这让他们能够使用秘术，展现奇迹般的能力。 秘术如同魔法一般，可以利用包括姿势、语言和心理状态的祈祷使用出来。 他们能够与无处不在的神秘粒子纳米精魂进行交流，改变现实或学习其他方式接触不到的知识。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4528,10 +4528,9 @@
       <DefaultText>[Color: TooltipFormatting]{0}属性：[/Color] {1}/{2}</DefaultText>
       <FemaleText />
     </Entry>
-<!--描述-->	
     <Entry>
       <ID>905</ID>
-      <DefaultText>属性池，即[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]，可以用于用于使用能力或提升努力等级以增加行动成功率。可以通过使用物品或休息来回复属性点数。</DefaultText>
+      <DefaultText>属性池，即[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]，可以用于用于使用能力或提升努力等级以增加行动成功率。 你可以通过使用物品或休息来回复属性点数。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5296,17 +5295,17 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>+1 [Color: Might]Might[/Color] Pool\n+1 [Color: Speed]Speed[/Color] Pool\n2 points to distribute to any Pool\n+5 [Color: Health]Health[/Color] at Tier 1\n+7 [Color: Health]Health[/Color] at each later Tier\nCan pick 1 weapon Skill at each Tier\nGains 1 Ability at each Tier\nCan pick 1 athletic Skill at Tier 1</DefaultText>
+      <DefaultText>+1 [Color: Might]气力[/Color]值\n+1 [Color: Speed]速度[/Color]值\n2属性点可分配给任意属性池\n初始 +5 [Color: Health]生命[/Color]\n之后每次升级 +7 [Color: Health]生命[/Color]\n每次升级可以选择1项武器技能\n每次升级学习一次能力\n初始选择1项运动技能</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1059</ID>
-      <DefaultText>4 points to distribute to any Pool\n+3 [Color: Health]Health[/Color] at Tier 1\n+6 [Color: Health]Health[/Color] at each later Tier\nGains 2 Abilities at Tier 1\nGains 1 Ability at each later Tier\nCan pick 1 exploration Skill at each Tier</DefaultText>
+      <DefaultText>4属性点可分配给任意属性池\n初始+3 [Color: Health]生命[/Color]\n之后每次升级+6 [Color: Health]生命[/Color]\n初始学习两次能力\n之后每次升级学习1次能力\n每次升级选择1项探索能力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>+2 [Color: Intellect]Intellect[/Color] Pool\n2 points to distribute to any Pool\n+5 [Color: Health]Health[/Color] at each Tier after 1st\nGains 2 Abilities at each Tier\nCan pick 1 lore Skill at Tier 1</DefaultText>
+      <DefaultText>+2 [Color: Intellect]心智[/Color]值\n2属性点可分配给任意属性池\n除初次升级外，每次升级+5 [Color: Health]生命[/Color]\n每次升级学习2次次能力\n初始选择1项知识技能</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5441,12 +5440,12 @@
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>能力可以使你在战斗中执行特殊动作，在探索和对话中获得优势，或持续获得被动加值。每一等级，你都可以学到更强大的新能力。每种类型都有着独特的能力可供学习。</DefaultText>
+      <DefaultText>能力可以使你在战斗中执行特殊动作，在探索和对话中获得优势，或持续获得被动加值。 每次升级你都可以学到更强大的新能力。每种人物类型都有着独特的能力可供学习。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>探索技能可以让你在行动或挑战中获得优势，提高成功率。部分探索技能还有用额外加值，如提升生命值，提升可安全携带的秘具数量。</DefaultText>
+      <DefaultText>探索技能可以让你在行动或挑战中获得优势，提高成功率。 部分探索技能还有用额外加值，如提升生命值，提升可安全携带的秘具数量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6221,7 +6220,7 @@
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>你开始了你的第一次行动。你的属性池中有三种属性点，&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]、&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]和&lt;quad class="intellectpool"&gt;[Color: Intellect]心智[/Color]，你可以消耗这些属性点数提高行动的成功率。</DefaultText>
+      <DefaultText>你开始了你的第一次行动。 你的属性池中有三种属性点，&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]、&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]和&lt;quad class="intellectpool"&gt;[Color: Intellect]心智[/Color]，你可以消耗这些属性点数提高行动的成功率。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6231,17 +6230,17 @@
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>当你踏入危险环境，危机就开始了。危机是一种回合制遭遇战，你可以战斗、潜行、操纵环境或对话解决问题。</DefaultText>
+      <DefaultText>当你踏入危险环境，就会触发危机。 危机是一种回合制遭遇战，你可以战斗、潜行、操纵环境或对话解决问题。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1246</ID>
-      <DefaultText>每一回合，你可以使用&lt;quad class="action"&gt;动作，发起攻击或使用能力，并可以进行&lt;quad class="move"&gt;移动。</DefaultText>
+      <DefaultText>每一回合，你可以使用&lt;quad class="action"&gt;动作，发起攻击或使用能力，同时还可以进行&lt;quad class="move"&gt;移动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>此次危机中，你需要通过切断苦痛与你大脑的连接从中逃离。为达成目标，你需要通过攻击杀死它束缚住的映像。</DefaultText>
+      <DefaultText>此次危机中，你需要通过切断苦痛与你大脑的连接从中逃离。 为达成目标，你需要通过攻击杀死它束缚住的映像。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6251,7 +6250,7 @@
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>你或你的同伴在每种属性点上都会有一个节省值。节省值可以减少你所消耗的属性点。每点节省值可以赋予1级努力等级，提高最低成功率\n\n使用技能过程中，节省值会首先减少技能消耗，剩余节省值会分配到努力等级上。</DefaultText>
+      <DefaultText>你和同伴在每种属性点上都会有一个节省值。 节省值可以减少你所消耗的属性点。 每点节省值可以提升1级努力等级，提高最低成功率\n\n使用技能过程中，节省值会首先减少技能消耗，剩余节省值会分配到努力等级上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6261,12 +6260,12 @@
     </Entry>
     <Entry>
       <ID>1251</ID>
-      <DefaultText>你发现了秘具。秘具是一种可以造成巨大效果的遗器，但只能使用一次。\n\n秘具和你的秘具上限会显示在物品页面上。注意不要使携带的秘具数量超出秘具上限，否则你将受到副作用的影响。</DefaultText>
+      <DefaultText>你发现了秘具。 秘具是一种可以造成巨大效果的遗器，但只能使用一次。\n\n秘具和你的秘具上限会显示在物品页面上。 注意不要使携带的秘具数量超出秘具上限，否则你将受到副作用的影响。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1252</ID>
-      <DefaultText>携带太多的秘具，获得秘具症状态。秘具放射出的神奇的力会相互作用，产生无法预料，但通常会造成伤害的效果。\n\n使用秘具，将秘具出售给商人，或将秘具交给同伴，可以消除或消除秘具症。</DefaultText>
+      <DefaultText>携带太多的秘具，获得秘具症状态。 秘具放射出的神奇的力会相互作用，产生无法预料，但通常会造成伤害的效果。\n\n使用秘具，将秘具出售给商人或交给同伴，可以减轻或消除秘具症。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6276,7 +6275,7 @@
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>旅行过程中，你会获得经验，你可以使用经验获得进阶。进阶可以让你选择提升属性、技巧或能力。请打开人物卡页面获得进阶。</DefaultText>
+      <DefaultText>旅行过程中，你会获得经验，你可以使用经验获得进阶。 进阶可以让你选择提升属性、技巧或能力。 请打开人物卡页面获得进阶。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6286,7 +6285,7 @@
     </Entry>
     <Entry>
       <ID>1256</ID>
-      <DefaultText>你已经耗尽了你的一项属性（气力、速度或心智）。你可以找地方休息，使用消耗品或秘具回复属性点。</DefaultText>
+      <DefaultText>你已经耗尽了你的一项属性（气力、速度或心智）。 你可以找地方休息，使用消耗品或秘具回复属性点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6296,7 +6295,7 @@
     </Entry>
     <Entry>
       <ID>1258</ID>
-      <DefaultText>点击屏幕左侧经验计旁的"+"按钮使用经验获得进阶。\n\n你可以进行4次进阶。4次进阶之后，你就会将能够升级，解锁新能力，获得其他加值。</DefaultText>
+      <DefaultText>点击屏幕左侧经验计旁的"+"按钮使用经验获得进阶。\n\n你可以进行4次进阶。 4次进阶之后，你就将能够升级，解锁新能力，获得其他加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6461,22 +6460,22 @@
     </Entry>
     <Entry>
       <ID>1291</ID>
-      <DefaultText>Light</DefaultText>
+      <DefaultText>轻型</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1292</ID>
-      <DefaultText>Medium</DefaultText>
+      <DefaultText>中型</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>Heavy</DefaultText>
+      <DefaultText>重型</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1294</ID>
-      <DefaultText>{0}护甲</DefaultText>
+      <DefaultText>{0}盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6607,7 +6606,7 @@
     </Entry>
     <Entry>
       <ID>1320</ID>
-      <DefaultText>护甲减少受到的[DamageIcon: Physical][Color: Physical]物理[/Color]伤害 。大多数武器都会造成[DamageIcon: Physical][Color: Physical]物理[/Color]伤害</DefaultText>
+      <DefaultText>护甲减少受到的[DamageIcon: Physical][Color: Physical]物理[/Color]伤害。大多数武器都会造成[DamageIcon: Physical][Color: Physical]物理[/Color]伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6832,7 +6831,7 @@
     </Entry>
     <Entry>
       <ID>1365</ID>
-      <DefaultText>选择伤害类型</DefaultText>
+      <DefaultText>选择伤害属性</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6937,37 +6936,37 @@
     </Entry>
     <Entry>
       <ID>1386</ID>
-      <DefaultText>点击[Control: lmb]攻击敌人或移动到指定位置。请点击高亮人物。</DefaultText>
+      <DefaultText>点击[Control: lmb]攻击敌人或移动到指定位置。 请点击高亮人物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1387</ID>
-      <DefaultText>使用[Control: leftstick]移动屏幕中央的标记，轻按[Control: a]攻击敌人或移动到指定位置。请选择高亮人物。</DefaultText>
+      <DefaultText>使用[Control: leftstick]移动屏幕中央的标记，轻按[Control: a]攻击敌人或移动到指定位置。 请选择高亮人物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1388</ID>
-      <DefaultText>将努力等级用于攻击上可以增加你的命中率。和进行其他行动一样，每级努力等级消耗1点属性点，提高命中率20%。徒手攻击消耗速度值，但其他武器和能力可能会消耗气力值或心智值。</DefaultText>
+      <DefaultText>将努力等级用于攻击上可以增加你的命中率。 和进行其他行动一样，每次提升努力等级消耗1点属性点，提高命中率20%。 徒手攻击消耗速度值，但其他武器和能力可能会消耗气力值或心智值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText>在攻击时提高努力等级也会增加你造成的伤害。不同武器和能力可以从努力等级中获得不同的伤害加值。</DefaultText>
+      <DefaultText>在攻击时提高努力等级也会增加你造成的伤害。 不同武器和能力可以从努力等级中获得不同的伤害加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1390</ID>
-      <DefaultText>你可以在回合中放弃采取&lt;quad class="action"&gt;动作发起攻击进行两倍移动。</DefaultText>
+      <DefaultText>你可以在回合中放弃进行&lt;quad class="action"&gt;动作发起攻击，进行两倍移动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>状态是暂时性提高或降低人物属性的情形或效果。苦痛刚刚在剩余的映像身上施加了一种状态。你无法移除这一状态，但仍可能找到方法战胜敌人。</DefaultText>
+      <DefaultText>状态是暂时性提高或降低人物属性的情形或效果。 苦痛刚刚在剩余的映像身上赋予了一种状态。 你无法移除这一状态，但仍可能找到方法战胜敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>&lt;quad class="armor"&gt;护甲可以削减受到的[DamageIcon: Physical]物理伤害。苦痛为该人物施加的状态提升了其&lt;quad class="armor"&gt;护甲10点，这表示它可以在每次攻击中吸收10点伤害。\n\n该映像的&lt;quad class="armor"&gt;护甲远远高出你徒手攻击可以造成的伤害。</DefaultText>
+      <DefaultText>&lt;quad class="armor"&gt;护甲可以削减受到的[DamageIcon: Physical]物理伤害。 苦痛为该人物赋予的状态提升了其&lt;quad class="armor"&gt;护甲10点，这表示它可以在每次攻击中吸收10点伤害。\n\n该映像的&lt;quad class="armor"&gt;护甲远远高出你徒手攻击可以造成的伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6977,12 +6976,12 @@
     </Entry>
     <Entry>
       <ID>1394</ID>
-      <DefaultText>拾取物品，在高亮位置点击[Control: lmb]。然后点击拾取全部或双击你想要的物品。</DefaultText>
+      <DefaultText>拾取物品，在高亮位置点击[Control: lmb]。 然后点击拾取全部或双击你想要的物品。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1395</ID>
-      <DefaultText>拾取物品，使用[Control: leftstick]移动到标记位置，轻按[Control: a]。轻按[Control: y]拾取全部或选择你想要的物品轻按[Control: a]。</DefaultText>
+      <DefaultText>拾取物品，使用[Control: leftstick]移动到标记位置，轻按[Control: a]。 轻按[Control: y]拾取全部或选择你想要的物品轻按[Control: a]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6992,7 +6991,7 @@
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>轻按[Control: rt]打开物品菜单，轻按[Control: 进行选择，用标记高亮使用目标，再次轻按[Control: a]。</DefaultText>
+      <DefaultText>轻按[Control: rt]打开物品菜单，轻按[Control: a]进行选择，标记使用目标，再次轻按[Control: a]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7002,17 +7001,17 @@
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>移动面前的大碗，点击[Control: lmb]消耗气力点数提高努力等级。不必担心失败。在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
+      <DefaultText>移动面前的大碗，点击[Control: lmb]消耗气力点数提高努力等级。不必担心失败。 在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>你已经拾取了一些物品和装备。为了更好地使用它们，你需要对它们进行查看、装备，或将它们交给你的同伴。点击右下角的物品按钮进行查看。</DefaultText>
+      <DefaultText>你已经拾取了一些物品和装备。为了更好地使用它们，你需要对它们进行查看、装备，或将它们交给你的同伴。 点击右下角的物品按钮进行查看。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1401</ID>
-      <DefaultText>你已经拾取了一些物品和装备。为了更好地使用它们，你需要对它们进行查看、装备，或将它们交给你的同伴。轻按[Control: dpadup]查看物品。</DefaultText>
+      <DefaultText>你已经拾取了一些物品和装备。为了更好地使用它们，你需要对它们进行查看、装备，或将它们交给你的同伴。 轻按[Control: dpadup]查看物品。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7022,17 +7021,17 @@
     </Entry>
     <Entry>
       <ID>1403</ID>
-      <DefaultText>最后一部分显示了你携带的秘具和你的秘具上限值。\n\n内圈的秘具显示为蓝色，表明可以安全携带。外圈的秘具显示为橙色，表明它们已经超出了你的秘具上限。如果你执意携带它们，你想受到负面效果的影响。你可以将它们出售、丢弃或交给同伴让你携带的秘具数量低于秘具上限。</DefaultText>
+      <DefaultText>最后一部分显示了你携带的秘具和你的秘具上限值。\n\n内圈的秘具显示为蓝色，表明可以安全携带。 外圈的秘具显示为橙色，表明它们已经超出了你的秘具上限。 如果你执意携带它们，你想受到负面效果的影响。 你可以将它们出售、丢弃或交给同伴让你携带的秘具数量低于秘具上限。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>本回合你已经耗尽了&lt;quad class="action"&gt;动作点数，你需要等到下一回合解决其他映像。你可以使用剩余的&lt;quad class="move"&gt;行动点数进行移动。点击左下角的结束回合按钮提前结束回合。</DefaultText>
+      <DefaultText>本回合你已经耗尽了&lt;quad class="action"&gt;动作点数，你需要等到下一回合解决其他映像。 你可以使用剩余的&lt;quad class="move"&gt;行动点数进行移动。点击左下角的结束回合按钮提前结束回合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1405</ID>
-      <DefaultText>本回合你已经耗尽了&lt;quad class="action"&gt;动作点数，你需要等到下一回合解决其他映像。你可以使用剩余的&lt;quad class="move"&gt;行动点数进行移动。轻按[Control: y]提前结束回合。</DefaultText>
+      <DefaultText>本回合你已经耗尽了&lt;quad class="action"&gt;动作点数，你需要等到下一回合解决其他映像。 你可以使用剩余的&lt;quad class="move"&gt;行动点数进行移动。轻按[Control: y]提前结束回合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7042,7 +7041,7 @@
     </Entry>
     <Entry>
       <ID>1407</ID>
-      <DefaultText>你获得了你的第一名同伴。他们会跟随最后的弃身，并在危机中成为可操纵人物。你可以与他们交谈了解他们的过去，使用他们的能力和技能。\n\n同伴有着自己的行事动机和性格，根据你的选择，他们可能会一直跟随着你。在第九世界旅行的过程中，你会发现更多可以加入的同步那。</DefaultText>
+      <DefaultText>你获得了第一名同伴。他们会跟随最后的弃身，并在危机中成为可操纵人物。 你可以与他们交谈了解他们的过去，使用他们的能力和技能。\n\n同伴有着自己的行事动机和性格，根据你的选择，他们可能会一直跟随着你。 在第九世界旅行的过程中，你会发现更多可以加入的同伴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7052,17 +7051,17 @@
     </Entry>
     <Entry>
       <ID>1409</ID>
-      <DefaultText>抓住机会探索周围环境。你可能会找到物品装备等为自己所用。准备好后你可以利用东北方向的楼梯离开破碎的穹顶。</DefaultText>
+      <DefaultText>抓住机会探索周围环境。你可能会找到物品装备等为自己所用。 准备好后你可以利用东北方向的楼梯离开破碎的穹顶。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>在努力等级窗口选择同伴的头像可以令他们协助最后的弃身采取相应的行动。此时你所消耗的是同伴的属性点，他们可能拥有某些技能、能力或状态，可以更容易地成功采取行动。\n\n同伴无法在危机中进行协助，只能在他们自己的回合中使用属性点。</DefaultText>
+      <DefaultText>在努力等级窗口选择同伴的头像可以令他们协助最后的弃身采取相应的行动。 此时你所消耗的是同伴的属性点，他们可能拥有某些技能、能力或状态，可以更容易地成功采取行动。\n\n同伴无法在危机中进行协助，只能在他们自己的回合中使用属性点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1411</ID>
-      <DefaultText>你获得了一样融合物品。这种特殊的装备是一种强大的遗器，可以被装备在物品页面的融合槽位中。进行装备之后，它们会直接与你的骨骼、神经系统或器官融合，提供强大的正面效果，但是它们的损害性也同样可能带来负面效果。</DefaultText>
+      <DefaultText>你获得了一样融合物品。 这种特殊的装备是一种强大的遗器，可以被装备在物品页面的融合槽位中。 装备之后，它们会直接与你的骨骼、神经系统或器官融合，提供强大的正面效果，但也同样可能带来负面效果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7072,27 +7071,27 @@
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>危机过程中，人物以屏幕上方显示的顺序采取行动。这一顺序是由人物的先攻决定的。（你可以通过学习先攻技能将人物的行动顺序提前）</DefaultText>
+      <DefaultText>危机过程中，人物以屏幕上方显示的顺序采取行动。 这一顺序是由人物的先攻决定的。 （你可以通过学习先攻技能将人物的行动顺序提前）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>并非所有的遭遇都需要用暴力解决。你还可以利用附近的遗器或与奎罗交谈。\n\n如何解决危机完全取决于你，但你的行为也会带来相应的后果。</DefaultText>
+      <DefaultText>并非所有的遭遇都需要用暴力解决。 你还可以利用附近的遗器或与奎罗交谈。\n\n如何解决危机完全取决于你，但你的行为也会带来相应的后果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1415</ID>
-      <DefaultText>危机过程中，某些事件可能会改变危机解决方案。杀死奎罗会导致光桥控制系统过载，如果不及时将其关闭，则会发生爆炸。\n\n若要毫发无伤地解决危机，你需要与奎罗的尸体互动，重启光桥。</DefaultText>
+      <DefaultText>危机过程中，某些事件可能会改变危机解决方案。 杀死奎罗会导致光桥控制系统过载，如果不及时将其关闭，则会发生爆炸。\n\n若要毫发无伤地解决危机，你需要与奎罗的尸体互动，重启光桥。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>你已经成功解决的奎罗和他的手下，现在你可以继续前往萨古斯峭壁。穿过平台北侧的光桥进入城市。</DefaultText>
+      <DefaultText>你已经成功解决的奎罗和他的手下，现在你可以继续前往萨古斯峭壁。 穿过平台北侧的光桥进入城市。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1417</ID>
-      <DefaultText>离开本区域之前，你可以花些时间进行回复，搜索敌人的尸体寻找装备或物品。</DefaultText>
+      <DefaultText>离开本区域之前，你可以花些时间进行回复，搜索敌人的尸体搜刮装备或物品。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7102,7 +7101,7 @@
     </Entry>
     <Entry>
       <ID>1419</ID>
-      <DefaultText>你需要进行双倍移动抵达另一个映像面前。请进行移动。你可以在下一回合发起攻击。</DefaultText>
+      <DefaultText>你需要进行双倍移动抵达另一个映像面前。 请进行移动。你可以在下一回合发起攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7122,62 +7121,62 @@
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>移动面前的大碗，使用[Control: leftstick]消耗气力点数提高努力等级。不必担心失败。在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
+      <DefaultText>移动面前的大碗，使用[Control: leftstick]消耗气力点数提高努力等级。不必担心失败。 在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>轻按[Control: y]使用经验进行进阶。\n\n你可以进行4次进阶。4次进阶之后，你就会提升等级，解锁新能力，获得其他加值。</DefaultText>
+      <DefaultText>轻按[Control: y]使用经验进行进阶。\n\n你可以进行4次进阶。 4次进阶之后，你将能够升级，解锁新能力，获得其他加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1425</ID>
-      <DefaultText>首先是装备，这一栏显示所有装备在当前人物上的装备。装备包括远程与近战武器、盾牌、盔甲、戒指或护符等饰品，以及融合物品。</DefaultText>
+      <DefaultText>首先是装备，这一栏显示所有装备在当前人物上的装备。 装备包括远程与近战武器、盾牌、盔甲、戒指或护符等饰品，以及融合物品。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1426</ID>
-      <DefaultText>背包栏显示当前人物所携带的物品。你可以从这里装备、调查或交换物品。</DefaultText>
+      <DefaultText>背包栏显示当前人物所携带的物品。 你可以在这里装备、调查或交换物品。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1427</ID>
-      <DefaultText>任务物品包含所有完成任务需要的特殊物品。任务物品无法丢弃或出售，所以不必担心任务物品意外丢失。</DefaultText>
+      <DefaultText>任务物品包含所有完成任务需要的特殊物品。 任务物品无法丢弃或出售，所以不必担心任务物品意外丢失。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1428</ID>
-      <DefaultText>你可以同时装备两件融合物品。如果你的专注技能为初学水平，两件物品都会带来负面效果；如果为受训水平，你将可以消除第一件物品的负面效果；如果为精通水平，你将可以消除所有融合物品的负面效果。如果你的专注技能水平为无能，你只能解锁一个融合物品槽位。</DefaultText>
+      <DefaultText>你可以同时装备两件融合物品。 如果你的专注技能为初学水平，两件物品都会带来负面效果； 如果为受训水平，你将可以消除第一件物品的负面效果； 如果为精通水平，你将可以消除所有融合物品的负面效果。 如果你的专注技能水平为无能，你只能解锁一个融合物品槽位。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1429</ID>
-      <DefaultText>你在记忆和镜子中做出的选择构建了你的人物，但是你依然能有机会决定人物的细节。首先，你可以决定人物的类型。类型决定了你之后可以获得的能力和技能。</DefaultText>
+      <DefaultText>你在记忆和镜子中做出的选择构建了你的人物，但是你依然能有机会决定人物的细节。 首先，你可以决定人物的类型。类型决定了你之后可以获得的能力和技能。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1430</ID>
-      <DefaultText>你虽然已经从镜子中的分身中选择了你的描述，但现在依然可以查看描述带给你的加值和减值。你还可以查看其他描述，选择你希望选择的新描述。</DefaultText>
+      <DefaultText>虽然已经从镜子中的分身上选择了描述，你现在依然可以查看描述带给你的加值和减值。 你还可以查看其他描述，选择你想得到的新描述。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1431</ID>
-      <DefaultText>属性池中的点数可以用于提升努力等级和使用能力。你可以随意分配属性点数。斗士倾向于增加气力和/或速度，纳米使倾向于增加心智，多面手倾向于平衡的属性。</DefaultText>
+      <DefaultText>属性池中的点数可以用于提升努力等级和使用能力。 你可以随意分配属性点数。 斗士倾向于增加气力和/或速度，纳米使倾向于增加心智，多面手倾向于平衡的属性。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1432</ID>
-      <DefaultText>能力是由你的类型决定的，它是一种动作（如攻击或使用秘术）或被动效果。</DefaultText>
+      <DefaultText>人物能力由类型决定的，它是一种主动动作（如攻击或使用秘术）或被动效果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1433</ID>
-      <DefaultText>技能可以提升你采取特定行动或动作的成功率，或被动提供加值。技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平，以获得相应的加值。\n\n描述一般会让你的某些技能处于[Skill: Inability]无能水平，表明该技能会带来减值惩罚。进行提升可以让这些技能达到初学水平.</DefaultText>
+      <DefaultText>技能可以提升你采取特定行动或动作的成功率，或被动提供加值。 技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平，以获得相应的加值。\n\n描述一般会让你的某些技能处于[Skill: Inability]无能水平，表明该技能会带来减值惩罚。 进行提升可以让这些技能达到初学水平.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1434</ID>
-      <DefaultText>武器技能可以增加人物使用特定武器攻击的命中率。和其他技能一样，武器技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平。</DefaultText>
+      <DefaultText>武器技能可以增加人物使用特定武器攻击的命中率。 和其他技能一样，武器技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7192,12 +7191,12 @@
     </Entry>
     <Entry>
       <ID>1437</ID>
-      <DefaultText>卡莱斯蒂是一个同时存在于多重现实中的维度外壳。她可以使用她的维度叠合能力进行传送。\n\n传送将会使用她的&lt;quad class="move"&gt;行动点数，而非&lt;quad class="action"&gt;动作点数，所以她可以在使用该能力之后继续采取其他行动。</DefaultText>
+      <DefaultText>卡莱斯蒂是一个同时存在于多重现实中的维度外壳。 她可以使用她的维度叠合能力进行传送。\n\n传送消耗她的&lt;quad class="move"&gt;行动点数，而非&lt;quad class="action"&gt;动作点数，所以她可以在使用该能力之后采取其他行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1438</ID>
-      <DefaultText>阿里戈恩的身体上覆盖着不断移动的奇怪纹身。他可以使用生命纹身能力从身体上摘出一条墨迹，获得[FettleIcon: Status]生命纹身状态。处于该状态下时，若连续采取同样的动作（如攻击、回复、施加其他状态），则可获得额外加值。采取其他动作之后，状态消失。\n\n这一能力不会消耗&lt;quad class="move"&gt;移动点数或&lt;quad class="action"&gt;动作点数，所以他可以在使用该能力之后继续采取其他行动。</DefaultText>
+      <DefaultText>阿里戈恩的身体上覆盖着不断移动的奇怪纹身。 他可以使用生命纹身能力从身体上摘出一条墨迹，获得[FettleIcon: Status]生命纹身状态。 处于该状态下，若连续进行相同动作（如攻击、回复、赋予状态），则可获得额外加值。 进行其他动作之后，该状态消失。\n\n该能力不会消耗&lt;quad class="move"&gt;移动点数或&lt;quad class="action"&gt;动作点数，所以他可以在使用能力之后继续采取其他行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
