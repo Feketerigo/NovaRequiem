@@ -5,7 +5,7 @@
 ## 使用方法：
 
 将cn文件夹复制到
-~\Torment Tides of Numenera\WIN\TidesOfNumenera_Data\StreamingAssets\data\localized
+~\Torment Tides of Numenera\WIN\TidesOfNumenera_Data\StreamingAssets\data\localized  
 游戏主菜单中点击Option，在Language一栏中选择中文
 
 ## Changelog
@@ -30,5 +30,5 @@ UI及教程汉化完毕
 * 邮箱：1034691180@QQ.com
 
 ***
-**本项目采用[知识共享“署名－非商业使用-禁止演绎 4.0”(CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)许可协议授权。**
+**本项目采用[知识共享“署名－非商业使用-禁止演绎 4.0”(CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)许可协议授权。**  
 ![by](https://creativecommons.org/icons/by/standard.gif)![nc](https://creativecommons.org/icons/nc/standard.gif)![nd](https://creativecommons.org/icons/sa/standard.gif)
