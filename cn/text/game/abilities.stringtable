@@ -6,12 +6,12 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Blink</DefaultText>
+      <DefaultText>闪烁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Defend</DefaultText>
+      <DefaultText>防御</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,7 +21,7 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Mental Blast</DefaultText>
+      <DefaultText>精神冲击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@
     </Entry>
     <Entry>
       <ID>205</ID>
-      <DefaultText>Drink Artaglio's Essence</DefaultText>
+      <DefaultText>饮用阿塔里奥精酿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1046,22 +1046,22 @@
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>Generic Heal</DefaultText>
+      <DefaultText>基因治疗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>209</ID>
-      <DefaultText>Generic Might Bonus</DefaultText>
+      <DefaultText>基因气力加值</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>Generic Speed Bonus</DefaultText>
+      <DefaultText>基因速度加值</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>211</ID>
-      <DefaultText>Generic Intellect Bonus</DefaultText>
+      <DefaultText>基因心智加值</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1081,7 +1081,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>Phased</DefaultText>
+      <DefaultText>相位</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1091,7 +1091,7 @@
     </Entry>
     <Entry>
       <ID>217</ID>
-      <DefaultText>Inspire</DefaultText>
+      <DefaultText>鼓舞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1101,7 +1101,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Dismay</DefaultText>
+      <DefaultText>恐吓</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1111,17 +1111,17 @@
     </Entry>
     <Entry>
       <ID>221</ID>
-      <DefaultText>Weapon Attack</DefaultText>
+      <DefaultText>武器攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>222</ID>
-      <DefaultText>Sorrow Fragment Charge Up</DefaultText>
+      <DefaultText>苦痛碎片蓄力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>223</ID>
-      <DefaultText>Thrust</DefaultText>
+      <DefaultText>刺击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1131,7 +1131,7 @@
     </Entry>
     <Entry>
       <ID>225</ID>
-      <DefaultText>Bash</DefaultText>
+      <DefaultText>锤击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1141,17 +1141,17 @@
     </Entry>
     <Entry>
       <ID>227</ID>
-      <DefaultText>Onslaught</DefaultText>
+      <DefaultText>突击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>228</ID>
-      <DefaultText>Choose a damage type. Deal [TotalDamage] of that type and confer a minor additional effect based on the choice.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>选择一种伤害属性，造成该属性[TotalDamage]并根据所选属性赋予额外效果。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>229</ID>
-      <DefaultText>Psychic Incision</DefaultText>
+      <DefaultText>灵能切割</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1161,7 +1161,7 @@
     </Entry>
     <Entry>
       <ID>231</ID>
-      <DefaultText>Bleeding</DefaultText>
+      <DefaultText>失血</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,7 +1171,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>Phased</DefaultText>
+      <DefaultText>相位</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1181,7 +1181,7 @@
     </Entry>
     <Entry>
       <ID>235</ID>
-      <DefaultText>Flamecaster Spray</DefaultText>
+      <DefaultText>火焰喷射</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1191,12 +1191,12 @@
     </Entry>
     <Entry>
       <ID>237</ID>
-      <DefaultText>Tidal Capacitor</DefaultText>
+      <DefaultText>潮力容器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>238</ID>
-      <DefaultText>Blinded</DefaultText>
+      <DefaultText>失明</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1206,12 +1206,12 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Confident</DefaultText>
+      <DefaultText>自信</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>241</ID>
-      <DefaultText>Quantum Teleporter</DefaultText>
+      <DefaultText>量子传送</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1231,7 +1231,7 @@
     </Entry>
     <Entry>
       <ID>245</ID>
-      <DefaultText>Flash</DefaultText>
+      <DefaultText>闪光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1271,7 +1271,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Basic Attack</DefaultText>
+      <DefaultText>普通攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1281,7 +1281,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Taunt</DefaultText>
+      <DefaultText>嘲讽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,7 +1291,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Bash</DefaultText>
+      <DefaultText>锤击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1301,7 +1301,7 @@
     </Entry>
     <Entry>
       <ID>259</ID>
-      <DefaultText>Chop</DefaultText>
+      <DefaultText>劈击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1311,7 +1311,7 @@
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Surgical Strike</DefaultText>
+      <DefaultText>外科手术打击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1321,7 +1321,7 @@
     </Entry>
     <Entry>
       <ID>263</ID>
-      <DefaultText>Incisive Strike</DefaultText>
+      <DefaultText>迅猛打击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>Dazzle</DefaultText>
+      <DefaultText>眩目</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1346,7 +1346,7 @@
     </Entry>
     <Entry>
       <ID>268</ID>
-      <DefaultText>White Death</DefaultText>
+      <DefaultText>白色死神</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>270</ID>
-      <DefaultText>Adaptation</DefaultText>
+      <DefaultText>适应</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1366,7 +1366,7 @@
     </Entry>
     <Entry>
       <ID>272</ID>
-      <DefaultText>Haste</DefaultText>
+      <DefaultText>加速</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1376,7 +1376,7 @@
     </Entry>
     <Entry>
       <ID>274</ID>
-      <DefaultText>Haste</DefaultText>
+      <DefaultText>加速</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>276</ID>
-      <DefaultText>Flash</DefaultText>
+      <DefaultText>闪光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1396,7 +1396,7 @@
     </Entry>
     <Entry>
       <ID>278</ID>
-      <DefaultText>Immobilized</DefaultText>
+      <DefaultText>定身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1406,7 +1406,7 @@
     </Entry>
     <Entry>
       <ID>280</ID>
-      <DefaultText>Energy Net</DefaultText>
+      <DefaultText>能量网</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1421,17 +1421,17 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Battleaxe</DefaultText>
+      <DefaultText>战斧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>284</ID>
-      <DefaultText>Battleaxe</DefaultText>
+      <DefaultText>战斧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>Transdimensional Rifle</DefaultText>
+      <DefaultText>跨维度步枪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1451,17 +1451,17 @@
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Tar Spout</DefaultText>
+      <DefaultText>焦油喷吐</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>290</ID>
-      <DefaultText>Sorrow Fragment Burst</DefaultText>
+      <DefaultText>苦痛碎片爆发</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Specter Blast</DefaultText>
+      <DefaultText>幽魂爆炸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>Brimming with Sorrow energy</DefaultText>
+      <DefaultText>苦痛能量满溢</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1481,7 +1481,7 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Sprayflesh</DefaultText>
+      <DefaultText>血肉喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,12 +1526,12 @@
     </Entry>
     <Entry>
       <ID>304</ID>
-      <DefaultText>Acid Spray</DefaultText>
+      <DefaultText>酸性喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>305</ID>
-      <DefaultText>Deals [Damage] to all enemies struck inside the radius. Even on a miss, deals [Color: Damage]1 damage[/Color] for each level of Effort applied.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>对范围内所有敌人造成[Damage]。即使未命中，依然可以造成每努力等级[Color: Damage]1点伤害[/Color] 。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1541,7 +1541,7 @@
     </Entry>
     <Entry>
       <ID>307</ID>
-      <DefaultText>Unarmed Attack</DefaultText>
+      <DefaultText>徒手攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1556,7 +1556,7 @@
     </Entry>
     <Entry>
       <ID>310</ID>
-      <DefaultText>Crystalline Shard</DefaultText>
+      <DefaultText>结晶碎片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1571,7 +1571,7 @@
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>Specter's Mark</DefaultText>
+      <DefaultText>幽魂面具</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1581,7 +1581,7 @@
     </Entry>
     <Entry>
       <ID>315</ID>
-      <DefaultText>Entropic Field</DefaultText>
+      <DefaultText>熵力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1591,12 +1591,12 @@
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>On hit, confers [Fettles] ([FettleEffectsBasic]). Armor reduction [BonusAmount1] per Tier, Resistance reduction [BonusAmount2] per Tier.</DefaultText>
+      <DefaultText>命中后，造成[Fettles]状态（[FettleEffectsBasic]）。每等级[BonusAmount1]盔甲，每等级[BonusAmount2]抗性。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>Phase</DefaultText>
+      <DefaultText>相位</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1611,7 +1611,7 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Innervate</DefaultText>
+      <DefaultText>激活</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1621,12 +1621,12 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Remove all negative fettles (excludes [FettleIcon: Debuff][Color: NegativeModifier]Flanked[/Color] and [FettleIcon: Debuff][Color: NegativeModifier]Lasting Damage[/Color]). [Healing].</DefaultText>
+      <DefaultText>移除所有负面效果（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）。[Healing]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>Protected</DefaultText>
+      <DefaultText>守护</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1641,7 +1641,7 @@
     </Entry>
     <Entry>
       <ID>327</ID>
-      <DefaultText>Vulnerable</DefaultText>
+      <DefaultText>脆弱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>Dimensional Superposition</DefaultText>
+      <DefaultText>维度叠合</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1666,12 +1666,12 @@
     </Entry>
     <Entry>
       <ID>332</ID>
-      <DefaultText>Teleport to a point within range then gain [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>传送至能力范围内一点，获得[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>333</ID>
-      <DefaultText>获得[Fettles]([FettleEffectsBasic])。每等级护甲加值+[BonusAmount1]，每等级抗性加值+[BonusAmount2]。</DefaultText>
+      <DefaultText>获得[Fettles]状态（[FettleEffectsBasic]）。每等级护甲加值+[BonusAmount1]，抗性加值+[BonusAmount2] 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1706,7 +1706,7 @@
     </Entry>
     <Entry>
       <ID>340</ID>
-      <DefaultText>Opportunist</DefaultText>
+      <DefaultText>投机攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1716,7 +1716,7 @@
     </Entry>
     <Entry>
       <ID>342</ID>
-      <DefaultText>Ends turn immediately. Make a basic attack against the first enemy that moves within weapon range. Gain [PassiveEffectsBasic] made this way.</DefaultText>
+      <DefaultText>立即结束回合。对第一个走进攻击范围的敌人发动一次普通攻击。进行攻击时获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1731,7 +1731,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Confers [Fettles], forcing the target to attack you.</DefaultText>
+      <DefaultText>赋予[Fettles]状态，强迫目标只能攻击你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1741,12 +1741,12 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Overload</DefaultText>
+      <DefaultText>过载</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>348</ID>
-      <DefaultText>Hidden</DefaultText>
+      <DefaultText>躲藏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1771,7 +1771,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Disrupted</DefaultText>
+      <DefaultText>分裂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,7 +1826,7 @@
     </Entry>
     <Entry>
       <ID>364</ID>
-      <DefaultText>Scan</DefaultText>
+      <DefaultText>扫描</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1841,7 +1841,7 @@
     </Entry>
     <Entry>
       <ID>367</ID>
-      <DefaultText>Mind Blast</DefaultText>
+      <DefaultText>精神冲击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1856,7 +1856,7 @@
     </Entry>
     <Entry>
       <ID>370</ID>
-      <DefaultText>Vicious Blow</DefaultText>
+      <DefaultText>残暴一击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1871,7 +1871,7 @@
     </Entry>
     <Entry>
       <ID>373</ID>
-      <DefaultText>Pierce</DefaultText>
+      <DefaultText>穿刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1881,7 +1881,7 @@
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>Attack all targets in a line in front of you, dealing [Damage] to any who fail to evade.</DefaultText>
+      <DefaultText>攻击面前一条线上地所有目标，对被命中的目标造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,12 +1896,12 @@
     </Entry>
     <Entry>
       <ID>378</ID>
-      <DefaultText>Stunned</DefaultText>
+      <DefaultText>眩晕</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>Data Tunneler</DefaultText>
+      <DefaultText>数据挖掘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,17 +1911,17 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>Phase Changer</DefaultText>
+      <DefaultText>相变</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>Spectral Armor</DefaultText>
+      <DefaultText>灵体盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>Brawler</DefaultText>
+      <DefaultText>打手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1931,12 +1931,12 @@
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Ignore the Flanked fettle when surrounded by enemies.</DefaultText>
+      <DefaultText>被敌人包围时无视夹击状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>386</ID>
-      <DefaultText>Trained Without Armor</DefaultText>
+      <DefaultText>擅长无甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1946,12 +1946,12 @@
     </Entry>
     <Entry>
       <ID>388</ID>
-      <DefaultText>Gain [StatModifiers] when wearing no armor or Light armor.</DefaultText>
+      <DefaultText>不穿盔甲或身着轻型盔甲时获得[StatModifiers]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>War Cry</DefaultText>
+      <DefaultText>战吼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1961,7 +1961,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Confers [Fettles] on all enemies in range, forcing them to attack you.</DefaultText>
+      <DefaultText>向范围内所有敌人施加[Fettles]，让他们只能对你发动攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1986,12 +1986,12 @@
     </Entry>
     <Entry>
       <ID>396</ID>
-      <DefaultText>Hair Comb</DefaultText>
+      <DefaultText>发梳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>397</ID>
-      <DefaultText>Living Tattoos</DefaultText>
+      <DefaultText>活体纹身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2001,7 +2001,7 @@
     </Entry>
     <Entry>
       <ID>399</ID>
-      <DefaultText>Deflection Field</DefaultText>
+      <DefaultText>偏折力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2016,82 +2016,82 @@
     </Entry>
     <Entry>
       <ID>402</ID>
-      <DefaultText>Call of the Inevitable</DefaultText>
+      <DefaultText>必然的召唤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>403</ID>
-      <DefaultText>Aligern's Duster</DefaultText>
+      <DefaultText>阿里戈恩的风衣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>404</ID>
-      <DefaultText>Callistege's Gown</DefaultText>
+      <DefaultText>卡莱斯蒂的长袍</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Eight-fingered Mace</DefaultText>
+      <DefaultText>八指锤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>Obscured</DefaultText>
+      <DefaultText>遮蔽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>Cloaked</DefaultText>
+      <DefaultText>覆盖</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>408</ID>
-      <DefaultText>Shielded</DefaultText>
+      <DefaultText>防护</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>409</ID>
-      <DefaultText>Shielded</DefaultText>
+      <DefaultText>防护</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>410</ID>
-      <DefaultText>Enraged</DefaultText>
+      <DefaultText>暴怒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>411</ID>
-      <DefaultText>Disrupted</DefaultText>
+      <DefaultText>分裂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>412</ID>
-      <DefaultText>Energized</DefaultText>
+      <DefaultText>激励</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>413</ID>
-      <DefaultText>Feinted</DefaultText>
+      <DefaultText>受到佯攻</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>414</ID>
-      <DefaultText>Knocked Down</DefaultText>
+      <DefaultText>倒地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Undetected</DefaultText>
+      <DefaultText>未被发现</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>416</ID>
-      <DefaultText>Hide</DefaultText>
+      <DefaultText>躲藏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Search</DefaultText>
+      <DefaultText>搜索</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2111,7 +2111,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Healing Touch</DefaultText>
+      <DefaultText>治疗之触</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2121,17 +2121,17 @@
     </Entry>
     <Entry>
       <ID>423</ID>
-      <DefaultText>Judge Character</DefaultText>
+      <DefaultText>评判性格</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>424</ID>
-      <DefaultText>Natural Charisma</DefaultText>
+      <DefaultText>天生魅力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Nocturnal</DefaultText>
+      <DefaultText>夜行客</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2141,7 +2141,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Training and Precision</DefaultText>
+      <DefaultText>精度训练</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2151,22 +2151,22 @@
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>Armor Expert</DefaultText>
+      <DefaultText>盔甲专家</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>Amaurotic Wound</DefaultText>
+      <DefaultText>失明创伤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>Surprise Attack</DefaultText>
+      <DefaultText>突然袭击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>432</ID>
-      <DefaultText>Trained Assassin</DefaultText>
+      <DefaultText>高等刺杀</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2176,157 +2176,157 @@
     </Entry>
     <Entry>
       <ID>434</ID>
-      <DefaultText>Survivor</DefaultText>
+      <DefaultText>幸存者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>Feint</DefaultText>
+      <DefaultText>佯攻</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>436</ID>
-      <DefaultText>Hunter</DefaultText>
+      <DefaultText>猎手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>Improved Initiative</DefaultText>
+      <DefaultText>提升先攻</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>438</ID>
-      <DefaultText>Move Unseen</DefaultText>
+      <DefaultText>隐蔽移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Strongarm</DefaultText>
+      <DefaultText>铁腕</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>440</ID>
-      <DefaultText>Successive Attack</DefaultText>
+      <DefaultText>连续攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>Trip</DefaultText>
+      <DefaultText>失足</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>442</ID>
-      <DefaultText>Practiced In Armor</DefaultText>
+      <DefaultText>擅长盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>443</ID>
-      <DefaultText>Incite Action</DefaultText>
+      <DefaultText>煽动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>444</ID>
-      <DefaultText>Resourceful</DefaultText>
+      <DefaultText>足智多谋</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Ward</DefaultText>
+      <DefaultText>监禁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>446</ID>
-      <DefaultText>Ignoring Callistege</DefaultText>
+      <DefaultText>无视卡莱斯蒂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>447</ID>
-      <DefaultText>Callistege is being ignored</DefaultText>
+      <DefaultText>卡莱斯蒂被无视</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>448</ID>
-      <DefaultText>Scan Thoughts</DefaultText>
+      <DefaultText>读心术</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>The surface thoughts of most people or creatures you speak with appear in conversations.</DefaultText>
+      <DefaultText>你与之对话的人物或生物的表层想法都会出现在对话中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>450</ID>
-      <DefaultText>Lasting Damage - Cranial Fracture</DefaultText>
+      <DefaultText>长期伤害-颅骨骨折</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>Lasting Damage - Blood Loss</DefaultText>
+      <DefaultText>长期伤害-失血</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>452</ID>
-      <DefaultText>Lasting Damage - Torn Tendon</DefaultText>
+      <DefaultText>长期伤害-肌腱撕裂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>453</ID>
-      <DefaultText>Lasting Damage - Concussion</DefaultText>
+      <DefaultText>长期伤害-脑震荡</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>454</ID>
-      <DefaultText>Elocutioner</DefaultText>
+      <DefaultText>演说家</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Ice Laser</DefaultText>
+      <DefaultText>酷寒激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>456</ID>
-      <DefaultText>Gravity Laser</DefaultText>
+      <DefaultText>重力激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>457</ID>
-      <DefaultText>Heal Laser</DefaultText>
+      <DefaultText>回复激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>458</ID>
-      <DefaultText>Heat Laser</DefaultText>
+      <DefaultText>炽热激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>459</ID>
-      <DefaultText>Ice Laser</DefaultText>
+      <DefaultText>寒冰激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>460</ID>
-      <DefaultText>Psychic Laser</DefaultText>
+      <DefaultText>灵能激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>461</ID>
-      <DefaultText>Shadow Laser</DefaultText>
+      <DefaultText>暗影激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>462</ID>
-      <DefaultText>Dimension Laser</DefaultText>
+      <DefaultText>维度激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>463</ID>
-      <DefaultText>A Laser</DefaultText>
+      <DefaultText>激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>464</ID>
-      <DefaultText>Magnetic Pulse</DefaultText>
+      <DefaultText>电磁脉冲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,17 +2336,17 @@
     </Entry>
     <Entry>
       <ID>466</ID>
-      <DefaultText>Mutation Roulette</DefaultText>
+      <DefaultText>突变轮盘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>Dash</DefaultText>
+      <DefaultText>冲撞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>468</ID>
-      <DefaultText>Tar Gooped</DefaultText>
+      <DefaultText>焦油黏质</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2366,17 +2366,17 @@
     </Entry>
     <Entry>
       <ID>472</ID>
-      <DefaultText>Image Blocker</DefaultText>
+      <DefaultText>视觉屏蔽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>Armor Field</DefaultText>
+      <DefaultText>护甲力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>474</ID>
-      <DefaultText>Armor Field</DefaultText>
+      <DefaultText>护甲力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,57 +2386,57 @@
     </Entry>
     <Entry>
       <ID>476</ID>
-      <DefaultText>Obelisk Beam</DefaultText>
+      <DefaultText>方石光线</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>[PassiveEffectsBasic]. Cannot be directly targeted. Removed by most actions, such as attacks and esoteries</DefaultText>
+      <DefaultText>[PassiveEffectsBasic]。无法直接作为目标，会因为大部分动作而被移除，如攻击或使用秘法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>Hidden</DefaultText>
+      <DefaultText>躲藏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>Fear</DefaultText>
+      <DefaultText>恐惧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>Lascar Grenade</DefaultText>
+      <DefaultText>水手手雷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Lascar Laser</DefaultText>
+      <DefaultText>水手激光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>482</ID>
-      <DefaultText>Lascar Laser Blast</DefaultText>
+      <DefaultText>水手激光爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Lascar Energy Shield</DefaultText>
+      <DefaultText>水手能量盾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>484</ID>
-      <DefaultText>Lascar Laser Flash</DefaultText>
+      <DefaultText>水手激光闪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>Lascar Healing Patch</DefaultText>
+      <DefaultText>水手伤药</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>486</ID>
-      <DefaultText>Alert</DefaultText>
+      <DefaultText>警觉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,17 +2446,17 @@
     </Entry>
     <Entry>
       <ID>488</ID>
-      <DefaultText>Lascar Freeze</DefaultText>
+      <DefaultText>水手僵硬</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>489</ID>
-      <DefaultText>Lascar Vulnerable</DefaultText>
+      <DefaultText>水手脆弱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>490</ID>
-      <DefaultText>Resisted Static</DefaultText>
+      <DefaultText>停滞抵抗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2471,27 +2471,27 @@
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Murden Static</DefaultText>
+      <DefaultText>默登停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>Murden Static</DefaultText>
+      <DefaultText>默登停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>495</ID>
-      <DefaultText>Murden Static</DefaultText>
+      <DefaultText>默登停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>Lascar Flash Bang</DefaultText>
+      <DefaultText>水手闪光爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>Static Field</DefaultText>
+      <DefaultText>停滞力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2501,7 +2501,7 @@
     </Entry>
     <Entry>
       <ID>499</ID>
-      <DefaultText>Charging</DefaultText>
+      <DefaultText>蓄力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@
     </Entry>
     <Entry>
       <ID>503</ID>
-      <DefaultText>Peerless Charge Up</DefaultText>
+      <DefaultText>无双蓄力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2531,7 +2531,7 @@
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Peerless Blast</DefaultText>
+      <DefaultText>无双爆发</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2546,12 +2546,12 @@
     </Entry>
     <Entry>
       <ID>508</ID>
-      <DefaultText>Thick Air Snare</DefaultText>
+      <DefaultText>浓稠空气陷阱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>Cluster of Sticha Eggs</DefaultText>
+      <DefaultText>啮蜂的卵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>Attempt to become [Fettles] ([FettleDescriptions]).\n\nLine of sight and distance from enemies affects the difficulty.</DefaultText>
+      <DefaultText>尝试进入[Fettles]状态（[FettleDescriptions]）。\n\n敌人的视线和与敌人的距离会影响行动难度。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2586,22 +2586,22 @@
     </Entry>
     <Entry>
       <ID>516</ID>
-      <DefaultText>Grants [Fettles]. While active, use similar actions (attacks, defensive esoteries/cyphers, or healing esoteries/cyphers) multiple turns in a row to chain increasing effects. Using a different kind of action breaks the chain and removes the fettle. When the chain reaches 4, the fettle is removed.</DefaultText>
+      <DefaultText>获得[Fettles]状态。该能力处于激活状态时连续采取相同的动作（攻击、防御性秘法/秘具、回复秘法/秘具）进行连锁可以提升该动作的效果。使用不同的动作会打破连锁，移除该状态。连锁数量达到4后，状态消失。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>Grants increasing bonuses by chaining similar actions over multiple turns.</DefaultText>
+      <DefaultText>多回合连锁进行相同的动作赋予不断增加的额外加值</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>518</ID>
-      <DefaultText>Bounder</DefaultText>
+      <DefaultText>跳跃者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>Bounder</DefaultText>
+      <DefaultText>跳跃者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2626,22 +2626,22 @@
     </Entry>
     <Entry>
       <ID>524</ID>
-      <DefaultText>[PassiveEffectsBasic] and consumes Movement to stand</DefaultText>
+      <DefaultText>[PassiveEffectsBasic]，消耗移动点数起身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>525</ID>
-      <DefaultText>Electrical Discharge</DefaultText>
+      <DefaultText>放电</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>526</ID>
-      <DefaultText>Sticha Healing Patch</DefaultText>
+      <DefaultText>啮蜂伤药</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>527</ID>
-      <DefaultText>Rage</DefaultText>
+      <DefaultText>暴怒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2651,22 +2651,22 @@
     </Entry>
     <Entry>
       <ID>530</ID>
-      <DefaultText>Psychic Rage</DefaultText>
+      <DefaultText>灵能狂怒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>531</ID>
-      <DefaultText>Psychic Wave</DefaultText>
+      <DefaultText>灵能震波</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>532</ID>
-      <DefaultText>Gate Ritual</DefaultText>
+      <DefaultText>唤门仪式</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>Rend</DefaultText>
+      <DefaultText>撕裂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2691,17 +2691,17 @@
     </Entry>
     <Entry>
       <ID>538</ID>
-      <DefaultText>Possession</DefaultText>
+      <DefaultText>附身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>Presence of the Gate</DefaultText>
+      <DefaultText>大门出现</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>540</ID>
-      <DefaultText>Gate Crack</DefaultText>
+      <DefaultText>大门打开</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2711,7 +2711,7 @@
     </Entry>
     <Entry>
       <ID>542</ID>
-      <DefaultText>Hollowed Out</DefaultText>
+      <DefaultText>挖空</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2721,7 +2721,7 @@
     </Entry>
     <Entry>
       <ID>544</ID>
-      <DefaultText>Sanity Hemorrhage</DefaultText>
+      <DefaultText>理智丧失</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2731,7 +2731,7 @@
     </Entry>
     <Entry>
       <ID>546</ID>
-      <DefaultText>Withering Flesh</DefaultText>
+      <DefaultText>血肉枯萎</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2741,37 +2741,37 @@
     </Entry>
     <Entry>
       <ID>548</ID>
-      <DefaultText>Psychic Dazed</DefaultText>
+      <DefaultText>灵能眩晕</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>Psychic Tumult</DefaultText>
+      <DefaultText>灵能骚乱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>550</ID>
-      <DefaultText>Psychic Stun</DefaultText>
+      <DefaultText>灵能昏迷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>551</ID>
-      <DefaultText>Stasis</DefaultText>
+      <DefaultText>停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>Cannot move or take actions and cannot be the target of any ability.</DefaultText>
+      <DefaultText>无法移动或展开行动，也无法作为任何能力的目标。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>553</ID>
-      <DefaultText>Prevents a target from taking action or being targeted by others for 1 round.</DefaultText>
+      <DefaultText>阻止目标展开行动或被其他人作为目标1回合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Charmed</DefaultText>
+      <DefaultText>魅惑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2781,7 +2781,7 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>Charm</DefaultText>
+      <DefaultText>魅惑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2791,7 +2791,7 @@
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>Drit Demon</DefaultText>
+      <DefaultText>粪坑恶魔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2801,32 +2801,32 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Sturdy</DefaultText>
+      <DefaultText>刚毅</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>561</ID>
-      <DefaultText>Misdirection</DefaultText>
+      <DefaultText>误导</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Brute Finesse</DefaultText>
+      <DefaultText>蛮力应对</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>Psychic Pierce</DefaultText>
+      <DefaultText>灵能穿刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>564</ID>
-      <DefaultText>Scramble Minds</DefaultText>
+      <DefaultText>大脑混乱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>565</ID>
-      <DefaultText>Panoramic Capture Ball</DefaultText>
+      <DefaultText>全景记录球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2836,12 +2836,12 @@
     </Entry>
     <Entry>
       <ID>567</ID>
-      <DefaultText>Rocket Attack</DefaultText>
+      <DefaultText>火箭攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>Backstab</DefaultText>
+      <DefaultText>背刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2851,7 +2851,7 @@
     </Entry>
     <Entry>
       <ID>570</ID>
-      <DefaultText>Double Slice</DefaultText>
+      <DefaultText>双重切</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2861,12 +2861,12 @@
     </Entry>
     <Entry>
       <ID>572</ID>
-      <DefaultText>Backstab</DefaultText>
+      <DefaultText>背刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>Double Slice</DefaultText>
+      <DefaultText>双重切</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2881,17 +2881,17 @@
     </Entry>
     <Entry>
       <ID>576</ID>
-      <DefaultText>Prey Teleport</DefaultText>
+      <DefaultText>掠食传送</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>577</ID>
-      <DefaultText>Antagonist</DefaultText>
+      <DefaultText>敌手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>578</ID>
-      <DefaultText>Stichus Amniotic Fluid</DefaultText>
+      <DefaultText>啮蜂羊膜液</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2901,17 +2901,17 @@
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>Mycometal Vine Fragment</DefaultText>
+      <DefaultText>菌金属藤碎片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>581</ID>
-      <DefaultText>Psychic Guard</DefaultText>
+      <DefaultText>灵能守卫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>582</ID>
-      <DefaultText>No Need For Weapons</DefaultText>
+      <DefaultText>舍弃武器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,12 +2921,12 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Hedge Magic</DefaultText>
+      <DefaultText>魔术戏法</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>585</ID>
-      <DefaultText>Automatically succeed on the next Quick Fingers or Smashing task.</DefaultText>
+      <DefaultText>下一次涉及手上功夫和击打的行动自动获得成功。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2936,7 +2936,7 @@
     </Entry>
     <Entry>
       <ID>587</ID>
-      <DefaultText>Brute Finesse</DefaultText>
+      <DefaultText>蛮力应对</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2946,7 +2946,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Mind Barrier</DefaultText>
+      <DefaultText>心灵屏障</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2961,17 +2961,17 @@
     </Entry>
     <Entry>
       <ID>592</ID>
-      <DefaultText>Interpose</DefaultText>
+      <DefaultText>干预</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>593</ID>
-      <DefaultText>Ends turn immediately. If any ally within Short range is hit by an attack while this ability is active, swap positions with them and take the damage, fettles, or other effects instead.</DefaultText>
+      <DefaultText>立即结束回合。能力激活时间内，如果短程范围内的同伴被敌人攻击，与同伴交换位置，承受伤害、状态或其他效果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>594</ID>
-      <DefaultText>Weapon Master</DefaultText>
+      <DefaultText>武器精通</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2981,7 +2981,7 @@
     </Entry>
     <Entry>
       <ID>596</ID>
-      <DefaultText>Weapon Defense</DefaultText>
+      <DefaultText>武器防御</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3041,7 +3041,7 @@
     </Entry>
     <Entry>
       <ID>608</ID>
-      <DefaultText>Reactive Triage</DefaultText>
+      <DefaultText>反应性分诊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3051,42 +3051,42 @@
     </Entry>
     <Entry>
       <ID>610</ID>
-      <DefaultText>Trained Infiltrator</DefaultText>
+      <DefaultText>熟练潜入</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>611</ID>
-      <DefaultText>All other party members gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>队伍中所有其他成员获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>612</ID>
-      <DefaultText>Tall Tale Teller</DefaultText>
+      <DefaultText>大吹法螺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>All other party members gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>队伍中所有其他成员获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>614</ID>
-      <DefaultText>Compelled</DefaultText>
+      <DefaultText>强迫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>Compelled to attack the enemy who conferred this fettle if they are in range.</DefaultText>
+      <DefaultText>如果位于攻击范围内，强制攻击处于强迫状态的敌人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>616</ID>
-      <DefaultText>Issue Challenge</DefaultText>
+      <DefaultText>提出挑战</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>All enemies in range who fail to resist gain [Fettles] (they are forced to attack you and receive [FettleEffectsBasic]).</DefaultText>
+      <DefaultText>范围能所有被命中的敌人获得[Fettles]状态（他们将只能对你发动攻击并获得[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3096,38 +3096,37 @@
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>Captivated</DefaultText>
+      <DefaultText>迷惑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>Mesmerized by the music of the statues, the stichus is irresistibly drawn to the nearest one.
-</DefaultText>
+      <DefaultText>Mesmerized by the music of the statues, the stichus is irresistibly drawn to the nearest one.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>621</ID>
-      <DefaultText>Enhanced Esoteries</DefaultText>
+      <DefaultText>强化秘法</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>While [FettleIcon: Status][Color: PositiveModifier]Phased[/Color], Callistege's esoteries can be cast one step further in range than normal and any fettles applied by them last [Color: PositiveModifier]+2 rounds[/Color].</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相位[/Color]状态中，卡莱斯蒂的秘法使用范围会比平常更大，秘法所施加的状态也会延长[Color: PositiveModifier]+2回合[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>623</ID>
-      <DefaultText>Shoot First</DefaultText>
+      <DefaultText>眼疾手快</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>Gain [PassiveEffectsBasic] against enemies with a lower Initiative than Tybir.</DefaultText>
+      <DefaultText>对先攻低于提比尔的敌人发动攻击时，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>625</ID>
-      <DefaultText>Armored Wall</DefaultText>
+      <DefaultText>甲墙</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3137,27 +3136,27 @@
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>Shield Master</DefaultText>
+      <DefaultText>盾牌精通</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>628</ID>
-      <DefaultText>Gain [StatModifiers] as long as you have an item equipped in the Offhand slot.</DefaultText>
+      <DefaultText>副手装备槽位装备物品则获得[StatModifiers]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Flex Skill</DefaultText>
+      <DefaultText>能屈能伸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>630</ID>
-      <DefaultText>Choose one exploration, lore, or conversation skill. [Color: PositiveModifier]+1 training level[/Color] in that skill while active.</DefaultText>
+      <DefaultText>选择一项探索、知识或谈话技能。激活能力获得[Color: PositiveModifier]+1技能水平[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>Adamant Foam</DefaultText>
+      <DefaultText>金刚泡沫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3172,7 +3171,7 @@
     </Entry>
     <Entry>
       <ID>634</ID>
-      <DefaultText>BioFeedback Glove</DefaultText>
+      <DefaultText>生物反馈手套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3187,7 +3186,7 @@
     </Entry>
     <Entry>
       <ID>637</ID>
-      <DefaultText>Broken Knot Charm</DefaultText>
+      <DefaultText>断结护符</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3202,7 +3201,7 @@
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>Bulwark's End</DefaultText>
+      <DefaultText>布瓦克的终结</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3252,7 +3251,7 @@
     </Entry>
     <Entry>
       <ID>650</ID>
-      <DefaultText>Cat's Eye</DefaultText>
+      <DefaultText>猫眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3267,7 +3266,7 @@
     </Entry>
     <Entry>
       <ID>653</ID>
-      <DefaultText>Chronal Thief</DefaultText>
+      <DefaultText>时光窃贼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3282,7 +3281,7 @@
     </Entry>
     <Entry>
       <ID>656</ID>
-      <DefaultText>Cobbled Explosive</DefaultText>
+      <DefaultText>卵石炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3297,7 +3296,7 @@
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>Conflict Analyzer</DefaultText>
+      <DefaultText>冲突分析仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3312,7 +3311,7 @@
     </Entry>
     <Entry>
       <ID>662</ID>
-      <DefaultText>Cypher Cage</DefaultText>
+      <DefaultText>秘具之笼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3327,7 +3326,7 @@
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>DataSphere Blast</DefaultText>
+      <DefaultText>数据体爆发</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3337,12 +3336,12 @@
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] to all enemies in range ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对范围内敌人造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>668</ID>
-      <DefaultText>DataSphere Whisper </DefaultText>
+      <DefaultText>数据体私语</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3357,7 +3356,7 @@
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Draining Bomb</DefaultText>
+      <DefaultText>枯竭炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3372,7 +3371,7 @@
     </Entry>
     <Entry>
       <ID>674</ID>
-      <DefaultText>Dynamic Hourglass</DefaultText>
+      <DefaultText>动力沙漏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3387,7 +3386,7 @@
     </Entry>
     <Entry>
       <ID>677</ID>
-      <DefaultText>Encephalic Rush</DefaultText>
+      <DefaultText>颅内涌流</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3402,7 +3401,7 @@
     </Entry>
     <Entry>
       <ID>680</ID>
-      <DefaultText>Energy Token</DefaultText>
+      <DefaultText>能量标记</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3417,7 +3416,7 @@
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>Essence Transfer</DefaultText>
+      <DefaultText>本体转移</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3432,7 +3431,7 @@
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>Exalted Vapor</DefaultText>
+      <DefaultText>崇高蒸汽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3462,7 +3461,7 @@
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>Flickering Cloak</DefaultText>
+      <DefaultText>闪烁披风</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3477,7 +3476,7 @@
     </Entry>
     <Entry>
       <ID>695</ID>
-      <DefaultText>Fresh Vapors</DefaultText>
+      <DefaultText>新鲜蒸汽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3492,7 +3491,7 @@
     </Entry>
     <Entry>
       <ID>698</ID>
-      <DefaultText>Fungal Harvest</DefaultText>
+      <DefaultText>真菌收获</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3507,7 +3506,7 @@
     </Entry>
     <Entry>
       <ID>701</ID>
-      <DefaultText>Gravity Bomb</DefaultText>
+      <DefaultText>重力炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3522,7 +3521,7 @@
     </Entry>
     <Entry>
       <ID>704</ID>
-      <DefaultText>Hyperkinetic Child</DefaultText>
+      <DefaultText>多动的孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3537,7 +3536,7 @@
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>Impatience</DefaultText>
+      <DefaultText>急躁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3552,7 +3551,7 @@
     </Entry>
     <Entry>
       <ID>710</ID>
-      <DefaultText>Instant Guardian</DefaultText>
+      <DefaultText>瞬间守卫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3567,7 +3566,7 @@
     </Entry>
     <Entry>
       <ID>713</ID>
-      <DefaultText>Knowledge of the Long Dead</DefaultText>
+      <DefaultText>亡者的知识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3597,7 +3596,7 @@
     </Entry>
     <Entry>
       <ID>719</ID>
-      <DefaultText>Memory Cube</DefaultText>
+      <DefaultText>记忆立方</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3612,7 +3611,7 @@
     </Entry>
     <Entry>
       <ID>722</ID>
-      <DefaultText>Mental Siphon</DefaultText>
+      <DefaultText>精神虹吸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3627,7 +3626,7 @@
     </Entry>
     <Entry>
       <ID>725</ID>
-      <DefaultText>One Perfect Cut</DefaultText>
+      <DefaultText>完美之刃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3642,7 +3641,7 @@
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>Phase Changer</DefaultText>
+      <DefaultText>相变</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3657,7 +3656,7 @@
     </Entry>
     <Entry>
       <ID>731</ID>
-      <DefaultText>Prestidigitator</DefaultText>
+      <DefaultText>戏法艺人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3672,7 +3671,7 @@
     </Entry>
     <Entry>
       <ID>734</ID>
-      <DefaultText>Psychic Focus</DefaultText>
+      <DefaultText>灵能聚集</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3687,7 +3686,7 @@
     </Entry>
     <Entry>
       <ID>737</ID>
-      <DefaultText>Root Spike</DefaultText>
+      <DefaultText>根部尖刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3717,7 +3716,7 @@
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Shattered Eye Powder</DefaultText>
+      <DefaultText>刺眼粉末</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3732,7 +3731,7 @@
     </Entry>
     <Entry>
       <ID>746</ID>
-      <DefaultText>Sofuhl</DefaultText>
+      <DefaultText>索夫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3747,7 +3746,7 @@
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Sparkle</DefaultText>
+      <DefaultText>火花</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3762,7 +3761,7 @@
     </Entry>
     <Entry>
       <ID>752</ID>
-      <DefaultText>Standstill</DefaultText>
+      <DefaultText>停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3792,7 +3791,7 @@
     </Entry>
     <Entry>
       <ID>758</ID>
-      <DefaultText>Stichus Fluid</DefaultText>
+      <DefaultText>啮蜂流</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3807,7 +3806,7 @@
     </Entry>
     <Entry>
       <ID>761</ID>
-      <DefaultText>Stone Skin Graft</DefaultText>
+      <DefaultText>石肤移植</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3822,7 +3821,7 @@
     </Entry>
     <Entry>
       <ID>764</ID>
-      <DefaultText>The Empty Child</DefaultText>
+      <DefaultText>呆板的孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3837,7 +3836,7 @@
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>Third Man</DefaultText>
+      <DefaultText>第三人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3852,7 +3851,7 @@
     </Entry>
     <Entry>
       <ID>770</ID>
-      <DefaultText>Tidal Compass</DefaultText>
+      <DefaultText>潮力罗盘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3882,7 +3881,7 @@
     </Entry>
     <Entry>
       <ID>776</ID>
-      <DefaultText>Tractile Bug</DefaultText>
+      <DefaultText>延展之虫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3897,7 +3896,7 @@
     </Entry>
     <Entry>
       <ID>779</ID>
-      <DefaultText>Transposer</DefaultText>
+      <DefaultText>换位器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3912,7 +3911,7 @@
     </Entry>
     <Entry>
       <ID>782</ID>
-      <DefaultText>Wailer of Agony</DefaultText>
+      <DefaultText>痛苦哀叹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3927,12 +3926,12 @@
     </Entry>
     <Entry>
       <ID>785</ID>
-      <DefaultText>Dimensional Power</DefaultText>
+      <DefaultText>维度能量</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>While [FettleIcon: Status][Color: PositiveModifier]Phased[/Color], gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相位[/Color]状态时，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3957,7 +3956,7 @@
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>Mesmerizing Sound</DefaultText>
+      <DefaultText>催眠之声</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3967,12 +3966,12 @@
     </Entry>
     <Entry>
       <ID>793</ID>
-      <DefaultText>Cautious</DefaultText>
+      <DefaultText>谨慎</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>794</ID>
-      <DefaultText>Hardened</DefaultText>
+      <DefaultText>强化</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3982,12 +3981,12 @@
     </Entry>
     <Entry>
       <ID>796</ID>
-      <DefaultText>Charming</DefaultText>
+      <DefaultText>魅惑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>Ball of Bloom-flesh</DefaultText>
+      <DefaultText>一块魔葵肉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3997,7 +3996,7 @@
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>Symbiotes</DefaultText>
+      <DefaultText>共生体</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4012,7 +4011,7 @@
     </Entry>
     <Entry>
       <ID>802</ID>
-      <DefaultText>Steady Resolve</DefaultText>
+      <DefaultText>持续消散</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4027,7 +4026,7 @@
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Knowledge of the Long Dead</DefaultText>
+      <DefaultText>亡者的知识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4047,7 +4046,7 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Cypher Sickness, Minor</DefaultText>
+      <DefaultText>秘具症，轻度</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4057,7 +4056,7 @@
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText>Cypher Sickness, Symptoms Increasing</DefaultText>
+      <DefaultText>秘具症，加重</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4067,7 +4066,7 @@
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText>Cypher Sickness, Acute</DefaultText>
+      <DefaultText>秘具症，严重</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4077,7 +4076,7 @@
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>Cypher Sickness, Terminal</DefaultText>
+      <DefaultText>秘具症，晚期</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4087,7 +4086,7 @@
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Conflict Analyzer</DefaultText>
+      <DefaultText>冲突分析</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4102,7 +4101,7 @@
     </Entry>
     <Entry>
       <ID>820</ID>
-      <DefaultText>Abtrucense</DefaultText>
+      <DefaultText>奥博图斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4112,12 +4111,12 @@
     </Entry>
     <Entry>
       <ID>822</ID>
-      <DefaultText>Permanently increase [Color: Might]Might[/Color] by 1 and [Healing].</DefaultText>
+      <DefaultText>永久获得1点[Color: Might]气力[/Color]值并[Healing]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>823</ID>
-      <DefaultText>Conduit Rings</DefaultText>
+      <DefaultText>导管戒指</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4132,7 +4131,7 @@
     </Entry>
     <Entry>
       <ID>826</ID>
-      <DefaultText>Contingent Subroutine</DefaultText>
+      <DefaultText>小队日常</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4152,7 +4151,7 @@
     </Entry>
     <Entry>
       <ID>830</ID>
-      <DefaultText>Contingent Subroutine</DefaultText>
+      <DefaultText>小队日常</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4162,7 +4161,7 @@
     </Entry>
     <Entry>
       <ID>832</ID>
-      <DefaultText>Cypher Explosion</DefaultText>
+      <DefaultText>秘具爆炸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4172,12 +4171,12 @@
     </Entry>
     <Entry>
       <ID>834</ID>
-      <DefaultText>Strength From Ink</DefaultText>
+      <DefaultText>墨水之力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>835</ID>
-      <DefaultText>Increase the effects gained from [FettleIcon: Buff][Color: PositiveModifier]Living Tattoos[/Color].</DefaultText>
+      <DefaultText>提升[FettleIcon: Buff][Color: PositiveModifier]活体纹身[/Color]赋予的效果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4202,7 +4201,7 @@
     </Entry>
     <Entry>
       <ID>840</ID>
-      <DefaultText>Instant Guard</DefaultText>
+      <DefaultText>瞬间守卫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4227,42 +4226,42 @@
     </Entry>
     <Entry>
       <ID>845</ID>
-      <DefaultText>Sorrow Fire</DefaultText>
+      <DefaultText>苦痛之火</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>Blood Nanites</DefaultText>
+      <DefaultText>血内纳米机器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Millions of incredibly tiny machines constantly swim around your blood, boosting your immune system and sealing wounds almost immediately.</DefaultText>
+      <DefaultText>无数不可思议的小机器不断在你的血液中游动，提升免疫系统的能力，并瞬间治疗伤口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>848</ID>
-      <DefaultText>Artificial Eyeball</DefaultText>
+      <DefaultText>人工眼球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>Made of synthetic materials and loaded to the brim with advanced sensor technology, this device greatly enhances your visual acuity. It also has a slightly disconcerting propensity to re-orient itself at random times, causing odd looks from passersby.</DefaultText>
+      <DefaultText>合成材料制造，利用最尖端的感应技术，该装置可以提升你的视觉敏锐度。但它可能会随时进行自我调整，引来路人古怪的目光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>850</ID>
-      <DefaultText>Numenera Analyzer</DefaultText>
+      <DefaultText>遗器分析仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Whispering directly into your mind in the voice of a somewhat befuddled gentleman of advanced years, this implant bestows upon its user the arcane and obscure knowledge from a mental copy of a long-gone nano. Often, this knowledge is indecipherable and confusing, but at other times it is useful.</DefaultText>
+      <DefaultText>来自科技发达年代的一位有点儿糊涂的老绅士正在你脑中低语，这个植入物可以让它的使用者从一位早已过世的纳米使的精神拷贝那里获得神秘而晦涩的知识。这些知识通常都古怪难懂，但有时会很有用。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>852</ID>
-      <DefaultText>Jagged Memory</DefaultText>
+      <DefaultText>交错的记忆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4272,7 +4271,7 @@
     </Entry>
     <Entry>
       <ID>854</ID>
-      <DefaultText>Tidal Surge</DefaultText>
+      <DefaultText>潮力汹涌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4287,7 +4286,7 @@
     </Entry>
     <Entry>
       <ID>857</ID>
-      <DefaultText>Seek Vitals</DefaultText>
+      <DefaultText>寻找要害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4297,27 +4296,27 @@
     </Entry>
     <Entry>
       <ID>859</ID>
-      <DefaultText>Fell Swoop</DefaultText>
+      <DefaultText>猛力一击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>860</ID>
-      <DefaultText>Attack an arc in front of you, dealing [Damage] to all enemies who fail to evade.</DefaultText>
+      <DefaultText>攻击面前一条弧上的所有敌人，对所有被命中的敌人造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Sucker Punch</DefaultText>
+      <DefaultText>出其不意</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>Attack that deals [Damage]. If the target has a negative fettle, confer [Fettles] for 1 round ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>攻击造成[Damage]。如果目标处于负面状态中，赋予[Fettles]一回合（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Siphon Strike</DefaultText>
+      <DefaultText>虹吸攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4327,7 +4326,7 @@
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Strike Unseen</DefaultText>
+      <DefaultText>潜行攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4337,17 +4336,17 @@
     </Entry>
     <Entry>
       <ID>867</ID>
-      <DefaultText>Myalgic Dust</DefaultText>
+      <DefaultText>酸痛魔尘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>868</ID>
-      <DefaultText>Fling a cloud of nano-particles in front of you, dealing [Damage] and conferring [Fettles] on any enemies who fail to resist ([FettleEffectsBasic]).\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>向前方抛出一把纳米粒子，并对被命中的敌人造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>869</ID>
-      <DefaultText>Dash</DefaultText>
+      <DefaultText>冲刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4357,17 +4356,17 @@
     </Entry>
     <Entry>
       <ID>871</ID>
-      <DefaultText>Infuse Weapon</DefaultText>
+      <DefaultText>武器注魔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>872</ID>
-      <DefaultText>Choose a damage type and then make a weapon attack. Deal [Color: Damage]weapon damage[/Color] of the chosen type, along with bonus effects based on the type.</DefaultText>
+      <DefaultText>选择一种伤害属性，然后发起攻击。造成所选属性[Color: Damage]武器伤害[/Color]以及属性带来的额外效果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>873</ID>
-      <DefaultText>Skill With Defense</DefaultText>
+      <DefaultText>精于防守</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4437,7 +4436,7 @@
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>You are skilled in many kinds of armor. Reduces all armor penalties by 1.</DefaultText>
+      <DefaultText>你擅长各种盔甲。降低所有盔甲惩罚1点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4452,22 +4451,22 @@
     </Entry>
     <Entry>
       <ID>890</ID>
-      <DefaultText>Sorrow Fire</DefaultText>
+      <DefaultText>苦痛之火</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>891</ID>
-      <DefaultText>Suppression Field</DefaultText>
+      <DefaultText>镇压力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>892</ID>
-      <DefaultText>Suppressed</DefaultText>
+      <DefaultText>镇压</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>893</ID>
-      <DefaultText>Severely Weakened</DefaultText>
+      <DefaultText>严重弱化</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4477,27 +4476,27 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Immune to Blinded Fettle</DefaultText>
+      <DefaultText>免疫失明状态</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>896</ID>
-      <DefaultText>Permanently increases [Color: Intellect]Intellect[/Color] by 1</DefaultText>
+      <DefaultText>[Color: Intellect]心智[/Color]值永久提升1点</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>Permanently increases [Color: Intellect]Intellect[/Color] by 1</DefaultText>
+      <DefaultText>[Color: Intellect]心智[/Color]值永久提升1点</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText>Psychic Bleeding</DefaultText>
+      <DefaultText>灵能失血</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>Inflict Woe</DefaultText>
+      <DefaultText>遭受痛苦</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4517,7 +4516,7 @@
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>When you kill an enemy, immediately make a bonus attack against the nearest enemy in range without moving. Applies to both melee and ranged attacks.</DefaultText>
+      <DefaultText>杀死一名敌人之后，立即在不进行移动的情况下对最近一名敌人发动一次额外攻击。可用于近战攻击和远程攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4592,12 +4591,12 @@
     </Entry>
     <Entry>
       <ID>918</ID>
-      <DefaultText>Target an ally with enemies in weapon range, then choose one of those enemies. The chosen ally makes an immediate attack on that enemy.</DefaultText>
+      <DefaultText>选择攻击范围内存在敌人的一名同伴，然后选择敌人。被选中的同伴会立即攻击那名敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>919</ID>
-      <DefaultText>[Color: PositiveModifier]Max Effort +1[/Color] on Persuasion, Deception, and Intimidation tasks.</DefaultText>
+      <DefaultText>涉及说服、欺骗和威胁的行动获得[Color: PositiveModifier]+1努力等级上限[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4612,7 +4611,7 @@
     </Entry>
     <Entry>
       <ID>922</ID>
-      <DefaultText>If this character is [FettleIcon: Status][Color: PositiveModifier]Hidden[/Color] or targeting an enemy that is [FettleIcon: Debuff][Color: NegativeModifier]Blinded[/Color], gain [SimpleTaskModifiers] and [SimpleDamageModifiers].</DefaultText>
+      <DefaultText>如果角色处于[FettleIcon: Status][Color: PositiveModifier]躲藏[/Color]状态或目标敌人处于[FettleIcon: Debuff][Color: NegativeModifier]目盲[/Color]状态，获得[SimpleTaskModifiers]和[SimpleDamageModifiers]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4627,7 +4626,7 @@
     </Entry>
     <Entry>
       <ID>925</ID>
-      <DefaultText>When an enemy fails to resist, confer [Fettles] ([FettleDescriptions]) .</DefaultText>
+      <DefaultText>命中敌人后，赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4637,7 +4636,7 @@
     </Entry>
     <Entry>
       <ID>927</ID>
-      <DefaultText>All other party members gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>队伍中所有其他成员获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4672,12 +4671,12 @@
     </Entry>
     <Entry>
       <ID>934</ID>
-      <DefaultText>When Matkina is [FettleIcon: Status][Color: PositiveModifier]Hidden[/Color] or the target is [FettleIcon: Debuff][Color: NegativeModifier]Blinded[/Color], gain [PassiveEffectsBasic] and confer or extend [Fettles] on the target ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>麦特琪娜处于[FettleIcon: Status][Color: PositiveModifier]躲藏[/Color]状态或目标处于[FettleIcon: Debuff][Color: NegativeModifier]失明[/Color]状态时，获得[PassiveEffectsBasic]并延长目标的[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>935</ID>
-      <DefaultText>The castoff's quiet, calculated presence inspires her allies to greater heights of deception and stealth.</DefaultText>
+      <DefaultText>这名弃子那沉默却精心的气质可以鼓舞她的同伴们提高欺骗和潜行技能水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4707,7 +4706,7 @@
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>[StatModifiers].</DefaultText>
+      <DefaultText>[StatModifiers]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4752,7 +4751,7 @@
     </Entry>
     <Entry>
       <ID>950</ID>
-      <DefaultText>Dawdle</DefaultText>
+      <DefaultText>偷懒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4762,7 +4761,7 @@
     </Entry>
     <Entry>
       <ID>952</ID>
-      <DefaultText>Nova</DefaultText>
+      <DefaultText>新星</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4772,17 +4771,17 @@
     </Entry>
     <Entry>
       <ID>954</ID>
-      <DefaultText>Irritant Powder</DefaultText>
+      <DefaultText>刺激粉末</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>955</ID>
-      <DefaultText>Amaurotic Field</DefaultText>
+      <DefaultText>失明力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>956</ID>
-      <DefaultText>Invisible</DefaultText>
+      <DefaultText>隐身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4792,22 +4791,22 @@
     </Entry>
     <Entry>
       <ID>958</ID>
-      <DefaultText>Invisibility</DefaultText>
+      <DefaultText>隐身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>959</ID>
-      <DefaultText>Blink Step</DefaultText>
+      <DefaultText>闪烁步</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>960</ID>
-      <DefaultText>Well of Healing</DefaultText>
+      <DefaultText>治疗之井</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>961</ID>
-      <DefaultText>Clarity of Mind</DefaultText>
+      <DefaultText>思维清晰</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4817,17 +4816,17 @@
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>Stasis Field</DefaultText>
+      <DefaultText>停滞力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>964</ID>
-      <DefaultText>Dark Barrier</DefaultText>
+      <DefaultText>黑暗屏障</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>965</ID>
-      <DefaultText>Execution Wave</DefaultText>
+      <DefaultText>处决波</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4837,7 +4836,7 @@
     </Entry>
     <Entry>
       <ID>967</ID>
-      <DefaultText>Appeased</DefaultText>
+      <DefaultText>抚慰</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4847,7 +4846,7 @@
     </Entry>
     <Entry>
       <ID>969</ID>
-      <DefaultText>Committed</DefaultText>
+      <DefaultText>坚定</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4857,7 +4856,7 @@
     </Entry>
     <Entry>
       <ID>971</ID>
-      <DefaultText>Uncommitted</DefaultText>
+      <DefaultText>动摇</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4867,7 +4866,7 @@
     </Entry>
     <Entry>
       <ID>973</ID>
-      <DefaultText>Restricted</DefaultText>
+      <DefaultText>受限</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4877,7 +4876,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Resonant Power</DefaultText>
+      <DefaultText>共鸣力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4887,7 +4886,7 @@
     </Entry>
     <Entry>
       <ID>977</ID>
-      <DefaultText>Damage Cage</DefaultText>
+      <DefaultText>破坏牢笼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4897,7 +4896,7 @@
     </Entry>
     <Entry>
       <ID>979</ID>
-      <DefaultText>Modify Floors</DefaultText>
+      <DefaultText>改变地面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4912,7 +4911,7 @@
     </Entry>
     <Entry>
       <ID>982</ID>
-      <DefaultText>Summon Lacuna</DefaultText>
+      <DefaultText>召唤虚空</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4922,7 +4921,7 @@
     </Entry>
     <Entry>
       <ID>984</ID>
-      <DefaultText>Teleport Foe</DefaultText>
+      <DefaultText>传送敌人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4932,7 +4931,7 @@
     </Entry>
     <Entry>
       <ID>986</ID>
-      <DefaultText>Unstoppable Force</DefaultText>
+      <DefaultText>无人能挡</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4947,22 +4946,22 @@
     </Entry>
     <Entry>
       <ID>989</ID>
-      <DefaultText>Gravity Manipulation</DefaultText>
+      <DefaultText>重力操控</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>990</ID>
-      <DefaultText>Space warping pulse that pushes or pulls all creatures in range.</DefaultText>
+      <DefaultText>翘曲空间推动或拉拽范围内所有生物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>991</ID>
-      <DefaultText>Push or pull everyone within Medium range </DefaultText>
+      <DefaultText>推动或拉拽中等范围内的所有人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>992</ID>
-      <DefaultText>Datasphere Link</DefaultText>
+      <DefaultText>数据体链接</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4977,27 +4976,27 @@
     </Entry>
     <Entry>
       <ID>995</ID>
-      <DefaultText>Energize</DefaultText>
+      <DefaultText>激励</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>Choose a damage type. Confer [Fettles] (all damage dealt is converted to the chosen type).</DefaultText>
+      <DefaultText>选择一种伤害属性，赋予[Fettles]（所有造成的伤害都会转换为该属性）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>997</ID>
-      <DefaultText>Quantum Step</DefaultText>
+      <DefaultText>量子穿越</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText>Teleport one ally to a point within range.</DefaultText>
+      <DefaultText>将一名同伴传送到能力范围内指定地点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText>Targeting Eye</DefaultText>
+      <DefaultText>敏锐目光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5007,72 +5006,72 @@
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText>Scanning Array</DefaultText>
+      <DefaultText>扫描阵列</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1002</ID>
-      <DefaultText>Gain a [Color: PositiveModifier]+[BonusAmount1]% bonus[/Color] for each level of Effort applied to Perception, Lore: Machinery, Lore: Mystical, and Lore: Natural tasks.</DefaultText>
+      <DefaultText>每次对涉及观察、知识：机械、知识：神秘和知识：自然的行动提升努力等级都会获得[Color: PositiveModifier]+[BonusAmount1]%加值[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Plague Spirits</DefaultText>
+      <DefaultText>灾祸之灵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>Infuse critical hits with entropic forces, conferring [Fettles] on top of the normal effects of the ability ([FettleDescriptions]).</DefaultText>
+      <DefaultText>在致命一击中灌注熵力，在平时的基础上赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1005</ID>
-      <DefaultText>Entropic forces destabilize the target, causing negative effects to increase each round.</DefaultText>
+      <DefaultText>熵力伤害你的敌人，让对方的负面状态每回合增加</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1006</ID>
-      <DefaultText>Maelstrom</DefaultText>
+      <DefaultText>漩涡风暴</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Deal [Damage] for a total of [TotalDamage]. Even on miss, deal [Color: Damage]1 damage[/Color] per level of Effort applied.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>造成[Damage]，伤害上限为[TotalDamage]。即使未命中，依然造成每努力等级[Color: Damage]1点伤害[/Color]。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1008</ID>
-      <DefaultText>Animate Balefire</DefaultText>
+      <DefaultText>活体野火</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1009</ID>
-      <DefaultText>Summon a construct that draws the attacks of all nearby enemies and fights on your side. This character can only summon 1 Animate Balefire at a time. [SummonDuration].</DefaultText>
+      <DefaultText>召唤一个构装体为你而战，将附近敌人的攻击吸引到它身上。人物一次只能使用一个活体野火。[SummonDuration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1010</ID>
-      <DefaultText>Elbow Grease</DefaultText>
+      <DefaultText>埋头苦干</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1011</ID>
-      <DefaultText>[Color: PositiveModifier]+5% bonus[/Color] gained from each level of Effort spent on Smashing or Quick Fingers tasks.</DefaultText>
+      <DefaultText>涉及击打和手上功夫的行动，每次提升努力等级都会获得[Color: PositiveModifier]+5%加值[/Color] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1012</ID>
-      <DefaultText>Unfailing Precision</DefaultText>
+      <DefaultText>万无一失</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1013</ID>
-      <DefaultText>[Color: PositiveModifier]+10% critical success chance[/Color] on weapon attacks.</DefaultText>
+      <DefaultText>提高武器攻击[Color: PositiveModifier]致命一击几率+10%[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1014</ID>
-      <DefaultText>Shove</DefaultText>
+      <DefaultText>推击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5082,37 +5081,37 @@
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>Vindictive Combatant</DefaultText>
+      <DefaultText>复仇战士</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>[SimpleDamageModifiers] against targets with positive fettles.</DefaultText>
+      <DefaultText>处于正面状态时对目标获得[SimpleDamageModifiers]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>Shockwave</DefaultText>
+      <DefaultText>冲击波</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1019</ID>
-      <DefaultText>Attack an enemy and deal [Damage]. On hit, all enemies in Immediate range are knocked down, conferring [Color: NegativeModifier]Evasion -45%[/Color] and consuming their movement on their next turn.</DefaultText>
+      <DefaultText>攻击一名敌人，并造成[Damage]。命中后，近身的所有敌人都将被击倒，造成[Color: NegativeModifier]回避-45%[/Color]，消耗他们下一回合的移动点数。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>Pinning Reaction</DefaultText>
+      <DefaultText>阻塞反应</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>Opportunist and Counterattack attacks end the target's turn on hit.</DefaultText>
+      <DefaultText>投机攻击和反击命中后结束目标的回合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1022</ID>
-      <DefaultText>Limits of Human Capacity</DefaultText>
+      <DefaultText>人类极限</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5122,7 +5121,7 @@
     </Entry>
     <Entry>
       <ID>1024</ID>
-      <DefaultText>Lucky Combatant</DefaultText>
+      <DefaultText>幸运战士</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5132,67 +5131,67 @@
     </Entry>
     <Entry>
       <ID>1026</ID>
-      <DefaultText>Warp Dash</DefaultText>
+      <DefaultText>空间翘曲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1027</ID>
-      <DefaultText>Teleport to a point and attack all enemies within Short range of the point. Enemies that fail to resist take [Damage] gain [Fettles] ([FettleEffectsBasic]).\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>传送至某一点，并攻击短程范围内所有敌人。被命中的敌人受到[Damage]获得[Fettles]状态（[FettleEffectsBasic]）。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1028</ID>
-      <DefaultText>Press Advantage</DefaultText>
+      <DefaultText>乘胜追击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1029</ID>
-      <DefaultText>Gain [Color: PositiveModifier] +30% critical success chance[/Color] on attacks against targets with negative fettles.</DefaultText>
+      <DefaultText>对处于负面状态的目标发起攻击时获得[Color: PositiveModifier]+30%致命一击几率[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1030</ID>
-      <DefaultText>Versatile Effort</DefaultText>
+      <DefaultText>多才多艺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>When [FettleIcon: Buff][Color: PositiveModifier]Flex Skill[/Color] is active, gain a [Color: PositiveModifier]+[BonusAmount1]% bonus[/Color] for each level of Effort applied to tasks it affects.</DefaultText>
+      <DefaultText>[FettleIcon: Buff][Color: PositiveModifier]能屈能伸[/Color]能力处于激活状态时，涉及所有得到加值技能的行动，每次提升努力等级获得[Color: PositiveModifier]+[BonusAmount1]%加值[/Color。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText>Annelidic Attack</DefaultText>
+      <DefaultText>魔虫攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Attack that deals [Damage]. If the target has any [FettleIcon: Debuff]negative fettles, you [Color: Heal]regain Health equal to [BonusAmount1]% of the damage dealt[/Color].</DefaultText>
+      <DefaultText>共计造成[Damage]。如果目标处于[FettleIcon: Debuff]负面状态中，你[Color: Heal]回复所造成的总伤害的[BonusAmount1]%的生命[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText>Scatter Bomb</DefaultText>
+      <DefaultText>开花炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Attack all enemies in range, dealing [Damage]. Any enemies with negative fettles that you hit are also pushed away a Short distance.\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>攻击范围内所有敌人，造成[Damage]。所有被命中的处于负面状态的敌人都会被推开一小段距离。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1036</ID>
-      <DefaultText>Illusory Warrior</DefaultText>
+      <DefaultText>幻象勇士</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>Summon a psychic construct that helps you flank your enemies. This character can only summon 1 Illusory Warrior at a time.</DefaultText>
+      <DefaultText>召唤一个精神构装体夹击你的敌人。人物一次只能召唤1个幻象勇士。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1038</ID>
-      <DefaultText>Solvent Spray</DefaultText>
+      <DefaultText>溶解喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5202,72 +5201,72 @@
     </Entry>
     <Entry>
       <ID>1040</ID>
-      <DefaultText>Inspiring Presence</DefaultText>
+      <DefaultText>鼓舞人心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>You and allies within Short range gain [Fettles] at all times ([FettleDescriptions]).</DefaultText>
+      <DefaultText>你和小范围内的同伴将一直处于[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1042</ID>
-      <DefaultText>Dealmaker</DefaultText>
+      <DefaultText>生意人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText>[Color: PositiveModifier]+5% shins earned[/Color] from selling items, [Color: PositiveModifier]-5% cost[/Color] when buying items.</DefaultText>
+      <DefaultText>出售物品获得[Color: PositiveModifier]+5%闪币[/Color]，购买物品节省[Color: PositiveModifier]-5%闪币[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>Sow Dismay</DefaultText>
+      <DefaultText>散播绝望</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText>Enemies in range who fail to resist gain [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对能力范围内被命中的敌人造成[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1046</ID>
-      <DefaultText>Sow Dismay</DefaultText>
+      <DefaultText>散播绝望</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Invigorating Conversation</DefaultText>
+      <DefaultText>坦诚对话</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>On critical success on Persuasion, Deception, or Intimidation tasks, completely refill your Intellect pool.</DefaultText>
+      <DefaultText>涉及说服、欺骗和威胁的行动取得大成功之后心智属性值回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1049</ID>
-      <DefaultText>Drink to the Dregs</DefaultText>
+      <DefaultText>一饮而尽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>[Color: PositiveModifier]Max Effort +1[/Color] on attacks.</DefaultText>
+      <DefaultText>攻击行动[Color: PositiveModifier]努力等级上限+1[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText>Virtuoso</DefaultText>
+      <DefaultText>技艺超群</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>[Color: PositiveModifier]Max Effort +1[/Color] on all non-combat tasks.</DefaultText>
+      <DefaultText>所有非战斗行动[Color: PositiveModifier]努力等级上限+1[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Singularity Spike</DefaultText>
+      <DefaultText>奇点尖刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5277,27 +5276,27 @@
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>Event Horizon</DefaultText>
+      <DefaultText>视界</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>Become [Fettles] (completely untargetable, only removed when it expires - not due to any action).</DefaultText>
+      <DefaultText>进入[Fettles]状态。（完全无法作为目标，只能等待能力作用时间结束以移除状态）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1057</ID>
-      <DefaultText>Ambush</DefaultText>
+      <DefaultText>伏击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>Gain an additional [SimpleTaskModifiers] and convert all damage to [DamageIcon: Relativistic][Color: Relativistic]Relativistic[/Color] when attacking while [FettleIcon: Status][Color: PositiveModifier]Hidden[/Color] or targeting an enemy that is [FettleIcon: Debuff][Color: NegativeModifier]Blinded[/Color].</DefaultText>
+      <DefaultText>攻击时处于[FettleIcon: Status][Color: PositiveModifier]躲藏[/Color]状态或目标敌人处于[FettleIcon: Debuff][Color: NegativeModifier]目盲[/Color]状态时，获得额外[SimpleTaskModifiers]并将所有伤害变为[DamageIcon: Relativistic][Color: Relativistic]时空[/Color]属性。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1059</ID>
-      <DefaultText>Shard Explosion</DefaultText>
+      <DefaultText>碎片炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5312,87 +5311,87 @@
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>Counterattack</DefaultText>
+      <DefaultText>反击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1063</ID>
-      <DefaultText>Ends turn immediately. Whenever an attack misses you, make a basic attack against that enemy if in range. There is no limit to the number of attacks that can be made this way each turn.</DefaultText>
+      <DefaultText>立即结束回合。若敌人的攻击未能击中你，你将可以立即向攻击范围内的敌人发动一次普通攻击。用这种方式发动的攻击不会受到攻击次数的限制。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1064</ID>
-      <DefaultText>Resilient</DefaultText>
+      <DefaultText>弹性</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1065</ID>
-      <DefaultText>Regain [BonusAmount1]% of points spent on Effort whenever you fail a non-combat task.</DefaultText>
+      <DefaultText>非战斗行动失败后回复花费在努力等级上的属性点的[BonusAmount1]%。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1066</ID>
-      <DefaultText>Bounceback</DefaultText>
+      <DefaultText>反弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1067</ID>
-      <DefaultText>Whenever an enemy makes a melee attack on you, they are shoved back a Short distance.</DefaultText>
+      <DefaultText>敌人对你进行近战攻击后会向后被推一小段距离。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1068</ID>
-      <DefaultText>Esoteric Knowledge</DefaultText>
+      <DefaultText>秘法知识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1069</ID>
-      <DefaultText>All other party members gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>所有其他队伍成员获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>While [FettleIcon: Status][Color: PositiveModifier]Phased[/Color], gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相位[/Color]状态时，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>Castoff Vitality</DefaultText>
+      <DefaultText>弃子活力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1072</ID>
-      <DefaultText>Matkina never gains [FettleIcon: Debuff][Color: NegativeModifiers]Lasting Damage[/Color] when knocked unconscious (dropped to [Color: Health]0 Health[/Color]).</DefaultText>
+      <DefaultText>失去意识之后，麦特琪娜不会受到[FettleIcon: Debuff][Color: NegativeModifiers]长期伤害[/Color]（[Color: Health]生命[/Color]降至[Color: Health]0[/Color]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Enemies within range of Matkina who fail to resist gain [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>麦特琪娜周围被命中的敌人获得[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1074</ID>
-      <DefaultText>Assassin</DefaultText>
+      <DefaultText>刺杀</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1075</ID>
-      <DefaultText>While [FettleIcon: Status][Color: PositiveModifier]Hidden[/Color] or attacking a [FettleIcon: Debuff][Color: NegativeModifier]Blinded[/Color] enemy, automatically kill the target if it is below [Color: Health][BonusAmount1]% Health[/Color].</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]躲藏[/Color]状态或对[FettleIcon: Debuff][Color: NegativeModifier]目盲[/Color]的敌人发动攻击时，如果对方[Color: Health]生命[/Color]小于[Color: Health][BonusAmount1]%[/Color]，则立即死亡。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1076</ID>
-      <DefaultText>Cypher Adept</DefaultText>
+      <DefaultText>秘具能手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1077</ID>
-      <DefaultText>Conserve the next cypher used, allowing it to be used a second time. Cannot be used with items that grant permanent bonuses.</DefaultText>
+      <DefaultText>保存已使用的秘具，让它们能够得再用一次。无法用于永久提供加值的秘具。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1078</ID>
-      <DefaultText>God of Hiding</DefaultText>
+      <DefaultText>隐藏之神</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5402,17 +5401,17 @@
     </Entry>
     <Entry>
       <ID>1080</ID>
-      <DefaultText>Cloak of Ahl</DefaultText>
+      <DefaultText>阿尔的斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText>All other party members gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>所有其他队伍成员获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Cobbler</DefaultText>
+      <DefaultText>小工匠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5422,17 +5421,17 @@
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>Spurred By Ink</DefaultText>
+      <DefaultText>墨水刺激</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1085</ID>
-      <DefaultText>While [FettleIcon: Buff][Color: PositiveModifier]Living Tattoos[/Color] is active, gain [StatModifiers].</DefaultText>
+      <DefaultText>处于[FettleIcon: Buff][Color: PositiveModifier]活体纹身[/Color]状态时获得[StatModifiers]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1086</ID>
-      <DefaultText>Combat Magus</DefaultText>
+      <DefaultText>战斗术士</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5442,27 +5441,27 @@
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>Never Boring</DefaultText>
+      <DefaultText>永不厌倦</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>Erritis bounces around the battlefield, gaining [Color: PositiveModifier]+20% critical hit chance[/Color] whenever he attacks a new target.</DefaultText>
+      <DefaultText>艾瑞提斯在战场中穿梭，对新目标发动攻击时获得[Color: PositiveModifier]+20%致命一击几率[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1090</ID>
-      <DefaultText>The Direct Approach</DefaultText>
+      <DefaultText>直截了当</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1091</ID>
-      <DefaultText>Erritis's affection for clobbering any problem that arises is infectious. All party members gain a bonus to Smashing tasks.</DefaultText>
+      <DefaultText>在面对问题时，艾瑞提斯喜欢直接攻击，这种想法似乎有一种传染性。队伍中所有成员在涉及击打的任务上获得加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1092</ID>
-      <DefaultText>Kinetic Overdrive</DefaultText>
+      <DefaultText>运动过载</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5472,72 +5471,72 @@
     </Entry>
     <Entry>
       <ID>1094</ID>
-      <DefaultText>Skirmish Spectacle</DefaultText>
+      <DefaultText>冲突场面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1095</ID>
-      <DefaultText>Whenever Erritis lands a critical hit with a melee weapon, confer [Fettles] to all enemies in Immediate range of him ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>艾瑞提斯成功使用近战武器发动一次致命一击之后，对所有近身的敌人施加[Fettles]状态（[FettleDescriptions]）。[Duration].</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1096</ID>
-      <DefaultText>Crescendo</DefaultText>
+      <DefaultText>渐强</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1097</ID>
-      <DefaultText>When Erritis lands a critical hit, gain [Color: Damage]+[BonusAmount1] damage[/Color] to his attacks for the rest of the Crisis. This effect stacks, increasing with each critical hit.</DefaultText>
+      <DefaultText>艾瑞提斯成功发动一次致命一击之后，整次危机接下来的攻击获得[Color: Damage]+[BonusAmount1]伤害[/Color]。该状态可以叠加，每一次致命一击都会提高加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1098</ID>
-      <DefaultText>Grav Grenade</DefaultText>
+      <DefaultText>重力手雷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1099</ID>
-      <DefaultText>Mind Control</DefaultText>
+      <DefaultText>心灵控制</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>Forced to fight on the caster's side.</DefaultText>
+      <DefaultText>强制对方与施法者并肩作战。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>Cypher Limit Increase</DefaultText>
+      <DefaultText>提升秘具上限</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>Practice with handling cyphers allows you to carry more without risking ill effects.</DefaultText>
+      <DefaultText>处理秘具的实践经验让你能够额外携带一件秘具而不用担心造成危险。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>Concentration Increase</DefaultText>
+      <DefaultText>专注提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Nanos gain a free level in the Concentration skill.</DefaultText>
+      <DefaultText>纳米使获得免费专注技能水平提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>Automatically succeed on the next Persuasion, Deception, or Intimidation task.</DefaultText>
+      <DefaultText>下一次涉及说服、欺骗和威胁的行动自动获得成功。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Lost</DefaultText>
+      <DefaultText>迷路的</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>Child</DefaultText>
+      <DefaultText>孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5597,7 +5596,7 @@
     </Entry>
     <Entry>
       <ID>1119</ID>
-      <DefaultText>Protection for the Weary</DefaultText>
+      <DefaultText>保护疲倦者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5612,52 +5611,52 @@
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>Summon Corpuscular Maw</DefaultText>
+      <DefaultText>召唤微食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>Nychthemeron Defense</DefaultText>
+      <DefaultText>昼夜魔怪的防御</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1124</ID>
-      <DefaultText>Grants a random fettle to any melee attacker, the effects as unpredictable as the Nychthemeron itself.</DefaultText>
+      <DefaultText>向近战攻击者赋予随机状态，能力效果就如昼夜魔怪一般无法预测。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>Erritis's Luck</DefaultText>
+      <DefaultText>艾瑞提斯的幸运</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1126</ID>
-      <DefaultText>[Color: PositiveModifier]+5% critical success chance[/Color] on all tasks.</DefaultText>
+      <DefaultText>所有行动[Color: PositiveModifier]+5%大成功几率[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>Catena Intelligence</DefaultText>
+      <DefaultText>卡泰纳的智慧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Max Effort +1 on Intellect tasks.</DefaultText>
+      <DefaultText>消耗心智点数的行动努力等级上限+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Inifere's Madness</DefaultText>
+      <DefaultText>因费尔的疯狂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Draw strength from madness, but pay a cost for that strength: [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>从疯狂中获得力量，但同时也要付出代价：[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>Seria's Peace</DefaultText>
+      <DefaultText>诗里亚的平和</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5667,7 +5666,7 @@
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>Choi's Balm</DefaultText>
+      <DefaultText>乔伊的慰藉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5677,22 +5676,22 @@
     </Entry>
     <Entry>
       <ID>1135</ID>
-      <DefaultText>Artaglio's Cunning</DefaultText>
+      <DefaultText>阿塔里奥的狡猾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1136</ID>
-      <DefaultText>All companions in short range gain [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>短程范围内所有同伴获得[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Inifere's Madness</DefaultText>
+      <DefaultText>因费尔的疯狂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>Dispassionate</DefaultText>
+      <DefaultText>冷静</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5702,7 +5701,7 @@
     </Entry>
     <Entry>
       <ID>1140</ID>
-      <DefaultText>Disassociated</DefaultText>
+      <DefaultText>冷静</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5712,7 +5711,7 @@
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>Tidal Stasis</DefaultText>
+      <DefaultText>潮力停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5722,7 +5721,7 @@
     </Entry>
     <Entry>
       <ID>1144</ID>
-      <DefaultText>Stasis Cage</DefaultText>
+      <DefaultText>停滞笼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5737,27 +5736,27 @@
     </Entry>
     <Entry>
       <ID>1147</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] if the target fails to resist ([FettleEffectsBasic]).\n\n[DamageFromEffort].</DefaultText>
+      <DefaultText>对被命中的敌人造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。\n\n[DamageFromEffort]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1148</ID>
-      <DefaultText>Though Callistege learned Onslaught long ago, her connection to the multiverse has limited its flexibility. She can only summon transdimensional energies for her attack.</DefaultText>
+      <DefaultText>虽然卡莱斯蒂很久之前就学会了突击能力，但她与多重宇宙的连接对能力造成了限制。攻击过程中她只能使用跨维度能量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1149</ID>
-      <DefaultText>Hook</DefaultText>
+      <DefaultText>抓勾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1150</ID>
-      <DefaultText>Snare a target with a grappling hook and pull them toward you.</DefaultText>
+      <DefaultText>用抓勾抓住目标，将他们拉往你所在的方向。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Raise Floor</DefaultText>
+      <DefaultText>升起地面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5772,7 +5771,7 @@
     </Entry>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>Lower Floor</DefaultText>
+      <DefaultText>降下地面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5787,17 +5786,17 @@
     </Entry>
     <Entry>
       <ID>1157</ID>
-      <DefaultText>Tol's Curse</DefaultText>
+      <DefaultText>托尔的诅咒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1158</ID>
-      <DefaultText>Spatial Crash</DefaultText>
+      <DefaultText>空间崩溃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1159</ID>
-      <DefaultText>Immovable</DefaultText>
+      <DefaultText>固定</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5927,17 +5926,17 @@
     </Entry>
     <Entry>
       <ID>1185</ID>
-      <DefaultText>All other party members gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>所有其他队伍成员获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1186</ID>
-      <DefaultText>Clear Mind</DefaultText>
+      <DefaultText>头脑清醒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>Free of the Sorrow's influence in your mind, you gain [PassiveEffectsBasic].</DefaultText>
+      <DefaultText>驱除苦痛在脑中带来的影响，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5947,12 +5946,12 @@
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>Transdimensional Onslaught</DefaultText>
+      <DefaultText>跨维度突击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1190</ID>
-      <DefaultText>Lurker's Presence</DefaultText>
+      <DefaultText>潜伏者现身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5977,7 +5976,7 @@
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>Harmonic Repulsion</DefaultText>
+      <DefaultText>和谐驱逐</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5987,7 +5986,7 @@
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>Repels crystalvores within its radius</DefaultText>
+      <DefaultText>驱逐范围内的食水晶虫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6012,7 +6011,7 @@
     </Entry>
     <Entry>
       <ID>1202</ID>
-      <DefaultText>On hit, confers [Fettles] (forces the target to fight on your side).</DefaultText>
+      <DefaultText>对被命中的敌人赋予[Fettles]状态（强迫目标为你而战）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6027,7 +6026,7 @@
     </Entry>
     <Entry>
       <ID>1205</ID>
-      <DefaultText>Avina's Dirge</DefaultText>
+      <DefaultText>艾维娜哀歌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6037,7 +6036,7 @@
     </Entry>
     <Entry>
       <ID>1207</ID>
-      <DefaultText>Avina's Ditty</DefaultText>
+      <DefaultText>艾维娜小调</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6047,7 +6046,7 @@
     </Entry>
     <Entry>
       <ID>1209</ID>
-      <DefaultText>获得[Fettles]（[FettleEffectsBasic]）。</DefaultText>
+      <DefaultText>获得[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6057,7 +6056,7 @@
     </Entry>
     <Entry>
       <ID>1211</ID>
-      <DefaultText>[Healing] and grants [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>[Healing]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6067,7 +6066,7 @@
     </Entry>
     <Entry>
       <ID>1213</ID>
-      <DefaultText>Bloom Quake</DefaultText>
+      <DefaultText>魔葵震</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6087,7 +6086,7 @@
     </Entry>
     <Entry>
       <ID>1217</ID>
-      <DefaultText>Violence Essence</DefaultText>
+      <DefaultText>暴力精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6097,12 +6096,12 @@
     </Entry>
     <Entry>
       <ID>1219</ID>
-      <DefaultText>Armor's weight means little to you. While others rattle and stumble, you move through battle with calm assurance.</DefaultText>
+      <DefaultText>盔甲的重量对你没有什么影响。其他人可能会跌跌撞撞，惊慌失措，但你可以冷静地穿过战场。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1220</ID>
-      <DefaultText>In the midst of combat, you withdraw, creating an opening... and the fool who tries to take advantage of it quickly discovers her mistake.</DefaultText>
+      <DefaultText>在战斗过程中，暂时撤退，露出破绽，然后……让那些想要抓住这个机会的傻瓜发现他的错误。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6112,142 +6111,142 @@
     </Entry>
     <Entry>
       <ID>1222</ID>
-      <DefaultText>Your keen eye and your unerring strikes drive your foes to their knees.</DefaultText>
+      <DefaultText>你敏锐的目光和准确的攻击令你的敌人跪地求饶。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1223</ID>
-      <DefaultText>You know how to place your feet, how to angle your shield, and how to deflect your enemies' blows. You dance through combat, and none can lay a finger on you.</DefaultText>
+      <DefaultText>你清楚身体要站成什么姿势，盾牌要摆成什么角度，清楚如何防御敌人的攻击。你在战场中舞蹈，没有人能碰你哪怕一根手指。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Jokes about heritage, parentage, appearance, smell, and imagined mating habits leave your friends rolling with laughter, and your foes seething with rage. They will try to kill you for these slights, to the exclusion of all others, because of your mastery of the form.</DefaultText>
+      <DefaultText>关于继承权、出身、外貌、体味和编造出的关于交配习惯的笑话，让你的朋友开怀大笑，让你的敌人怒不可遏。因为你高超的嘲讽技巧，他们会因为你的藐视而想要立刻杀死你，无视身边的其他人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>A chain, a hook, and an unbalanced enemy - that's all you need to ruin someone's day.  You throw a chain around your target and drag your foe stumbling within range of your attacks.</DefaultText>
+      <DefaultText>一条铁链，一只钩子，还有一名没站稳的敌人——这是毁掉某个人的幸福生活最棒的方式了。你冲着目标扔出铁链，将你的敌人跌跌撞撞地拉近你的攻击范围。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1226</ID>
-      <DefaultText>They might be bigger than you. They might be stronger than you. But they're not as devious as you, and you prove it every time you face someone who tries to get the upper hand.</DefaultText>
+      <DefaultText>他们可能比你高大，他们可能比你强壮，但他们没有你那么狡猾，一旦有人想要占据有利地位，你都将向他们证明这一点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1227</ID>
-      <DefaultText>Obstacles? No problem. Especially if those obstacles are made of flesh. You're a natural with ranged weapons, and you know just where to aim to pick off the people who hide behind their allies.</DefaultText>
+      <DefaultText>障碍物？小意思。特别是血肉构成的障碍物。你很有使用远程武器的天赋，知道瞄准哪里能够家中那些藏在他们的同伴身后的敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>Sometimes you might find yourself surrounded and realize that precision fighting isn't the best route forward. Sometimes only brute strength serves. Show them the error of their ways.</DefaultText>
+      <DefaultText>有时候，你会发现自己被包围了，对某个目标进行准确的攻击并非最好的手段。有时候只有纯粹的力量能够制敌。告诉他们，他们选错了战斗方式。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1229</ID>
-      <DefaultText>Make them notice you. Enrage your enemies and serve as the focal point of the battle.</DefaultText>
+      <DefaultText>让敌人注意到你，激怒他们，让你成为战场上他们关注的对象。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1230</ID>
-      <DefaultText>You're never surrounded. You're exactly where you're supposed to be.</DefaultText>
+      <DefaultText>你绝不会被包围，只会站在应该站的地方。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1231</ID>
-      <DefaultText>You're not done yet. After killing an enemy, you can turn your fury on another target without pausing for breath.</DefaultText>
+      <DefaultText>还没完。杀死一名敌人之后，你可以立刻将你的怒火倾泻到下一个目标上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>You strike the ground, unleashing a punishing wave of kinetic force that hurls your opponents away from you and knocks them down.</DefaultText>
+      <DefaultText>你攻击地面，发出一道动力冲击波，将你的敌人推到一边掀翻在地。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>A foe can't fight if she can't move. Your opportunistic attacks shock your enemies' minds, stopping them in their tracks.</DefaultText>
+      <DefaultText>如果敌人无法移动，那么她就无法攻击。你的投机攻击将敌人打懵了，对方将无法继续前进。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1234</ID>
-      <DefaultText>Focus. Effort. Precision. These are your watchwords, and you put them into play every time you make an attack.</DefaultText>
+      <DefaultText>专注，努力，严谨。这是你的格言，你每次发起攻击的时候都会践行它们。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>You know how to make the most of  your body, and how to summon your deepest reserves. You can push yourself harder and longer than any but the most elite athletes.</DefaultText>
+      <DefaultText>你了解如何将自己的身体能力发挥到最大限度，知道如何挖掘内心深处的力量。你可以让自己比最厉害的运动员还要强大。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Your mercurial temperament can occasionally be a hindrance... but when you focus on a skill, you are without parallel.</DefaultText>
+      <DefaultText>你不断变换的性格有时候可能是你行事的阻碍……但是若你潜心钻研某项技能，你的水平将无人能及。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1237</ID>
-      <DefaultText>Blindfolded and upside down, you'd still hit your target. You're just that good.</DefaultText>
+      <DefaultText>蒙住眼睛倒立攻击，你仍然能够命中目标。你就这么厉害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1238</ID>
-      <DefaultText>Who needs armor? It's slow and cumbersome, and that extra weight might just get you killed. You prefer speed and mobility anyway.</DefaultText>
+      <DefaultText>谁需要盔甲啊？那东西又慢又笨，额外的重量可能杀死你。你更喜欢速度和机动性。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>You snap your fingers, and knots untangle themselves. Doors pop open.  Chests unlock. It's easy if you know how to do it.</DefaultText>
+      <DefaultText>你打个响指，绳结解开，房门大敞，宝箱解锁。如果你知道要怎么做，这种事情很简单的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>Why fight fair? Take advantage of your opponents whenever you can - you know they'd do the same to you if the situation were reversed.</DefaultText>
+      <DefaultText>为什么战斗要讲究公平呢？要随时随地利用优势，因为你知道，你的对手同样会这么做的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>You force energy into your weapon, filling it with esoteric power. It's the perfect antidote to an armored enemy.</DefaultText>
+      <DefaultText>你将能量注入到武器中，让武器充满秘法能量。这是个解决重甲敌人的好办法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1242</ID>
-      <DefaultText>You know how to handle your cyphers and how to store them properly.</DefaultText>
+      <DefaultText>你了解如何处理手中的秘具，知道如何更好地将它们保存在身上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>Make an ally of someone who stands in your way. Tap into your secret powers and change their minds for them.</DefaultText>
+      <DefaultText>让面前阻挡你的人称为同伴。将你的秘密能量送入他们的大脑，改变他们的想法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1244</ID>
-      <DefaultText>Focusing on a point in the battlefield, you summon a glowing, ethereal being that whispers in your opponents' ears, distracting them.</DefaultText>
+      <DefaultText>将注意力集中在战场上的某一点，召唤一个发光的精妙个体不断在你的对手耳边低语，分散他的注意力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>A place exists under space - a way to connect two points by folding the fabric of reality. By touching these points together, you can almost be in two places at once... and the resulting burst of energy slows your foes.</DefaultText>
+      <DefaultText>藏在空间背后，一条路能够将空间结构进行折叠将两个点连接到一起。接触这两个点，你可以同时存在于两个地方……并造成能量爆炸阻碍敌人的脚步。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1246</ID>
-      <DefaultText>You're a jack of all trades, able to make connections between disparate tasks. Your broad base of knowledge makes it a snap to apply your skills to new situations.</DefaultText>
+      <DefaultText>你是一名多面手，能够将不同的任务联系起来。你广博的知识可以让你把技能出色地应用在新领域中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>You blow a dry handful of nano-spirits into the faces of your enemies. The tiny creatures swarm through their minds, exploding with tiny bursts of agonizing energy.</DefaultText>
+      <DefaultText>向敌人脸上抛出一把干燥的纳米精魂。这种小生物会爬进敌人的脑子，造成小小的能量爆炸。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1248</ID>
-      <DefaultText>You coat your weapon with a venom of your own creation. When you strike an enemy, you spill worms into his blood. They devour their way to fresh air and return to you, bringing the gift of life.</DefaultText>
+      <DefaultText>在你的武器上涂满你自己制造的毒液。击中敌人之后，虫子会钻进他的血液。它们会尽情吞噬直到抵达皮肤表然，然后回到你的身边，带回生命的馈赠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>You don't get tired as easily as normal beings, and you're able to keep working on certain tasks when others would falter.</DefaultText>
+      <DefaultText>你不像一般人那么容易疲劳，你能够在其他人已经累得摇摇晃晃了之后依然努力完成任务。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6257,42 +6256,42 @@
     </Entry>
     <Entry>
       <ID>1251</ID>
-      <DefaultText>The best time to strike an enemy is when he's weakened.</DefaultText>
+      <DefaultText>攻击敌人最好的时机是在他被削弱之后。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1252</ID>
-      <DefaultText>You summon the energy from the very air around you, drawing strength and power in massive quantities... and then you release it in a great wave.</DefaultText>
+      <DefaultText>你可以召集周围空气里，从中汲取强大的能量……接着，将这股能量爆发出去。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1253</ID>
-      <DefaultText>Assail your foes' bodies or their minds with a blast of summoned energy.</DefaultText>
+      <DefaultText>召唤一股能量攻击敌人的身体或精神。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1254</ID>
-      <DefaultText>While speaking with the inhabitants of the Ninth World, you will sometimes hear their thoughts. This is often helpful, though rarely appreciated.</DefaultText>
+      <DefaultText>在与第九世界的居民交流的过程中，你有时候可以听到他们的想法。这通常会对你很有帮助，但很难被觉察到。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1255</ID>
-      <DefaultText>Channel a subtle esotery through the body of an ally, purging most negative effects from them and healing their wounds.</DefaultText>
+      <DefaultText>将小小一股秘术能量传输到同伴身体里，净化大多数负面效果，并治疗伤势。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1256</ID>
-      <DefaultText>Surround your allies with a cloud of nano-spirits that will defend them against damage.</DefaultText>
+      <DefaultText>将你的同伴包围在可以帮助他们抵御伤害的纳米精魂云团内。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1257</ID>
-      <DefaultText>Distance is an illusion. You can manipulate space to create a shadow door, and draw your ally through it to the other side.</DefaultText>
+      <DefaultText>距离不过是一种幻觉而已。你能够操纵空间，创造出一扇幻影之门，让你的同伴前往门的另一端。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1258</ID>
-      <DefaultText>Your mind is an impenetrable tower of iron will, a fortress few can breach.</DefaultText>
+      <DefaultText>你的大脑是一座钢铁意志建成的高塔，一座无法破坏的堡垒。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6307,132 +6306,132 @@
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>Turn the mysterious forces of the world to your advantage. Fill your friends with power and your enemies with regret.</DefaultText>
+      <DefaultText>将世界上的神秘力量为自己所用。让你的朋友内心充满能量，让你的敌人内心充满悔恨。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1262</ID>
-      <DefaultText>You create an explosion of energy with your mind, a swirl of power that bursts among your foes.</DefaultText>
+      <DefaultText>你可以使用精神力量制造一场能量爆炸，能量漩涡可以伤害到敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>You create an energy-siphoning vortex, weakening all within its radius. None can stand before you.</DefaultText>
+      <DefaultText>你制造出了一个能量虹吸漩涡，削弱能力范围内所有敌人。没有人能与你匹敌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>Your unrivaled mental prowess strengthens your esoteries beyond the capabilities of weaker beings.</DefaultText>
+      <DefaultText>你无可比拟的精神力量让你的秘法能力变得更强。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1265</ID>
-      <DefaultText>You create a temporary matrix in your corneas that highlight and sharpen details that might have otherwise remained hidden.</DefaultText>
+      <DefaultText>你可以在你的角膜上暂时构建一个矩阵，高亮并锐化平常注意不到的细节。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>You focus on an ally, sharpening their reflexes and boosting their reaction times with your formidable psychic strength.</DefaultText>
+      <DefaultText>将注意力集中在同伴身上，用你可怕的精神力量磨砺他们的反射神经，提升他们的反应时间。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>You treat one of the fundamental forces of the universe as a tool. You draw enemies into your orbit or send them reeling away with the power of your mind alone.</DefaultText>
+      <DefaultText>你将宇宙中的一项基本相互作用作为你的工具。你可以使用精神力量将敌人拉到你的身边扔到一边。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>When you strike true, your enemies quail. The damage you do lasts beyond the moment, devouring your foes' energies from the inside.</DefaultText>
+      <DefaultText>你那结结实实的一击令敌人感到恐惧。你造成的伤害将不止于此，而会从内部吞噬敌人的能量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>You call upon hidden forces for aid. They shape a mindless minion from your desire and bind it to your will.</DefaultText>
+      <DefaultText>你可以召唤隐藏的力量为你所用。它们是依据你的想法制造出来的愚蠢生物，依你的意志行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1270</ID>
-      <DefaultText>You seize control of a rival's nervous system and make her dance to your need. You spill discord among your foes, turning their strengths to horrible weakness.</DefaultText>
+      <DefaultText>你可以控制对方的神经系统，让他们按照你的意志舞动。你的意志与敌人的想法并不协调，这会削弱他们的力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1271</ID>
-      <DefaultText>You unleash a many-faceted assault upon all enemies before you, using every secret in your extensive repertoire.</DefaultText>
+      <DefaultText>向面前的敌人释放多种属性的攻击，使用你武器库中的所有秘密。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1272</ID>
-      <DefaultText>He might be a drunkard, but Artaglio brings decades of tactical experience to every battle he fights... and now he's sharing that knowledge with you.</DefaultText>
+      <DefaultText>阿塔里奥可能确实是一个醉鬼，但他脑中有着自己打过的每一场仗带来的战术经验……现在，他与你分享了这些知识。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>When you have a captive machine intelligence augmenting your mind, pattern-matching and memory-related tasks become so much easier.</DefaultText>
+      <DefaultText>如果脑袋里囚禁着一个机械智慧协助你大脑的运作，进行模式匹配与和记忆相关的行动就会变得简单许多。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1274</ID>
-      <DefaultText>You have given Choi a peace of sorts. She returns the favor, helping you endure through difficult and painful times.</DefaultText>
+      <DefaultText>你让乔伊获得了平静。作为回报，她会帮助你安然度过那些痛苦的日子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1275</ID>
-      <DefaultText>Thanks to Erritis, your attacks are slightly more heroic now.</DefaultText>
+      <DefaultText>感谢艾瑞提斯，你的攻击现在变得更加英勇了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>Your brother's agony and power lives within you, crippling you. Strengthening you.</DefaultText>
+      <DefaultText>兄长的痛苦和力量留存在了你的体内，伤害着你，也强化着你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>The creature's alien thoughts fill your mind, lashing out at those foolish enough to attack you.</DefaultText>
+      <DefaultText>这个生物的奇特想法充斥了你的大脑，抽打着那些敢来攻击你的蠢货。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1278</ID>
-      <DefaultText>Seria's calming music fills you, strengthening you in every way.</DefaultText>
+      <DefaultText>诗里亚的音乐充满了你的身体，让你变得更加强大。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1279</ID>
-      <DefaultText>You are a natural leader, a gracious speaker, and gifted with words. People find it easy to relate to you.</DefaultText>
+      <DefaultText>你是天生的领导者，优雅的演说家，有着绝佳的语言天赋。人们都认为很容易就能亲近你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1280</ID>
-      <DefaultText>You have a keen eye for a bargain. Shopkeepers dread your coming.</DefaultText>
+      <DefaultText>你有着擅长讨价还价的精准目光。若是看到你，商人们都快吓死了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Your steady leadership and ability to keep calm in danger is contagious. Your friends and allies can count on you to guide them to victory.</DefaultText>
+      <DefaultText>你沉着的领导力和危险中保持冷静的能力仿佛有一种传染性。你的朋友和同伴都指望你带着他们走向胜利。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1282</ID>
-      <DefaultText>You are a thundercloud in your enemies' minds. Your presence looms in their thoughts, and they fear to cross your path for fear of the outcome.</DefaultText>
+      <DefaultText>在敌人心中，你是令人魂飞魄散的存在。你的样子会在他们的脑中若隐若现，他们害怕遇见你，害怕遇见你所造成的后果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1283</ID>
-      <DefaultText>You like people, and you especially like bringing them around to your point of view. It's refreshing and fulfilling.</DefaultText>
+      <DefaultText>你喜欢各种各样的人，特别喜欢让他们信服你的观点。这既振奋又令人满足。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1284</ID>
-      <DefaultText>You strike from the shadows. You see weakness in your enemies, and you strike *first* and hardest.</DefaultText>
+      <DefaultText>你从阴影中出击。你能看到敌人的弱点，并能*首先*发动最冷酷的攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1285</ID>
-      <DefaultText>The darkness is your ally. You excel at skills suited for the shadows.</DefaultText>
+      <DefaultText>黑夜是你的盟友。你特别擅长施展那些在黑暗中使用的技能。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Your weapons blur between multiple dimensions, doing damage to armor, flesh, and reality itself.</DefaultText>
+      <DefaultText>你的武器在不同维度间闪现，它可以对盔甲、肉体，甚至现实本身造成伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6442,252 +6441,252 @@
     </Entry>
     <Entry>
       <ID>1288</ID>
-      <DefaultText>Reality bends to your will, hiding you and your actions from your enemies.</DefaultText>
+      <DefaultText>现实因你的意志而扭曲，在敌人面前隐藏你和你的行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1289</ID>
-      <DefaultText>In your skilled hands, you can make almost *anything* a shield.</DefaultText>
+      <DefaultText>利用灵巧的双手，你可以将*任何东西*当成一面盾牌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1290</ID>
-      <DefaultText>You are a patient fighter, willing to wait until the moment is right to strike. Your rivals mistake this for fear... and when they test you, you show them why they were wrong.</DefaultText>
+      <DefaultText>你是一位耐心的战士，能够等待正确的时机发动攻击。你的敌人以位你怕了，上前来挑战你的时候，他们会发现西安自己为什么错了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1291</ID>
-      <DefaultText>Your hidden reserves keep you going when others would be spent.</DefaultText>
+      <DefaultText>其他人都筋疲力尽的之后，你依然可以利用自己保存的力量继续前进。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1292</ID>
-      <DefaultText>Your armor fits you like a second skin. If it were up to you, you'd never take it off.</DefaultText>
+      <DefaultText>你身上的盔甲就仿佛另一层皮肤。你永远不会将它脱下来。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>You withdraw to keep a watchful eye over the battlefield, and step in swiftly to take the blows meant for an ally.</DefaultText>
+      <DefaultText>你暂时撤退用敏锐的目光观察战场，迅速切入承受打向同伴的攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1294</ID>
-      <DefaultText>Subconscious telekinetic energies coil about your body, driving back anyone foolish enough to lay hands on you.</DefaultText>
+      <DefaultText>潜意识心灵感应能量环绕着你的身躯，推开所有想要碰你的蠢货。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1295</ID>
-      <DefaultText>When one exists in all realities, moving from *here* to *there* while avoiding an enemy's clumsy blows is simply a matter of willpower.</DefaultText>
+      <DefaultText>对存在于多重现实之中的生物来说，从*这里*移动到*那里*，同时避开敌人笨拙的攻击只不过需要一些意志力而已。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1296</ID>
-      <DefaultText>There is little that confounds Callistege. Not for long, at least. Companions attempting Lore-focused tasks will benefit from her extensive experience.</DefaultText>
+      <DefaultText>很少有事情能够难度卡莱斯蒂，至少不会难住她太久。采取涉及知识的行动时，同伴们可以从她广博的知识中受益。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1297</ID>
-      <DefaultText>Callistege's sisters lend extra power to her attacks while she fluctuates between multiple realities.</DefaultText>
+      <DefaultText>卡莱斯蒂在多重现实中穿梭的时候，她的姐妹们会在攻击时借给她力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1298</ID>
-      <DefaultText>A lesser mind would stagger under the weight of cascading realities. Not Callistege. While she flickers between worlds, her sisters work together to guide her attacks to their targets.</DefaultText>
+      <DefaultText>那些精神不够强大的人会因为多重现实的重量而蹒跚摇晃，但卡莱斯蒂不会。在各个世界间闪现，与她的姐妹们同心协力，她的攻击会更加精准。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1299</ID>
-      <DefaultText>Callistege is stronger with her sisters behind her than she ever was alone. While flickering between realities, her attacks reach further than they normally would and are much more effective.</DefaultText>
+      <DefaultText>有姐妹们站在背后，卡莱斯蒂会变得比平时更加强大。闪现在不同的现实之间，她的攻击范围会变得更大，效果也会变得更明显。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1300</ID>
-      <DefaultText>Mortal wounds are nothing to a castoff. When Matkina falls in combat, the injuries that felled her will knit back together with only a scar to mark where they had once been.</DefaultText>
+      <DefaultText>普通的伤口对弃子无法造成什么影响。麦特琪娜在战斗中倒下之后，让她倒地的伤口会愈合起来，只留下一处疤痕表明那伤口曾在哪里。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1301</ID>
-      <DefaultText>Matkina prefers to stalk the battlefield unseen. So long as she's undetected, her attacks inflict deeper wounds on her enemies and blind them with the Tidal energies swirling about her.</DefaultText>
+      <DefaultText>麦特琪娜更喜欢在战场中潜行。只要没有被发现，她的攻击就可以对敌人造成更深的伤口，此外她还会用环绕在身上的潮之力令敌人失明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1302</ID>
-      <DefaultText>With a muttered phrase, Matkina releases the Tidal energies bound to her, blinding nearby enemies.</DefaultText>
+      <DefaultText>念出一句咒语，麦特琪娜就可以释放身上的潮之力，令周围的敌人失明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1303</ID>
-      <DefaultText>Badly-wounded enemies never watch for the hidden blade. Matkina's stealth-attacks against these targets are always fatal.</DefaultText>
+      <DefaultText>重伤的敌人无力注意阴影中的利刃。麦特琪娜的潜行攻击对他们来说是致命的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1304</ID>
-      <DefaultText>Aligern's tattoos swarm and swirl over his skin, lending themselves to whatever purpose the former priest puts his mind to, each building on the similar strength of the last.</DefaultText>
+      <DefaultText>阿里戈恩身上的纹身在皮肤上盘绕游动着，它们将自己献给了这位教士，让他依自己的心意使用。这些纹身每一条就会加强前一条的力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1305</ID>
-      <DefaultText>Aligern has spent his life knee-deep in drit, studying numenera of every kind. His allies benefit from his vast knowledge.</DefaultText>
+      <DefaultText>阿里戈恩花了大半生的时间待在齐膝深的大粪里研究各种各样的遗器。他的同伴能够从他渊博的学士中受益。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>The whirling dance of tattoos on Aligern's skin makes him more useful in tough situations and quicker on his feet.</DefaultText>
+      <DefaultText>阿里戈恩皮肤上旋转跳跃的纹身可以带来更好的效果，并提高他的行动速度。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Aligern doesn't rely on esoteries alone. He's just as dangerous an opponent at melee distance as he is at range.</DefaultText>
+      <DefaultText>阿里戈恩不仅仅会使用秘法。在进行近战攻击时，他也同样危险。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1308</ID>
-      <DefaultText>The tattoos bend to Aligern's will and choice of target. They can either heal and protect his allies... or deal crippling damage to his enemies.</DefaultText>
+      <DefaultText>纹身屈服于阿里戈恩的意志，向他选择的目标采取行动。它们既可以治疗和保护他的同伴，也可以削弱他的敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1309</ID>
-      <DefaultText>Tybir lunges, forcing his enemies to flinch away from a blow that never lands, and leaving them open to devastating follow-up attacks.</DefaultText>
+      <DefaultText>提比尔猛冲出去，迫使敌人因为那永远不会落下的一击而退缩，让他们门户大开来面对接下来毁灭性的攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1310</ID>
-      <DefaultText>The charming jack's ease with words rubs off on his companions. Everyone in the party finds it much easier to talk their way out of problems.</DefaultText>
+      <DefaultText>这位迷人的多面手能用语言轻松地和同伴打成一片。队伍中的所有人都觉得用交谈解决问题变得更容易了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1311</ID>
-      <DefaultText>Tybir shouts a series of sharp-tongued remarks on the appearance and parentage of nearby enemies, drawing their full and furious attention.</DefaultText>
+      <DefaultText>提比尔大声叫嚷着，恶意评论着身边的敌人的长相或血统，将他们全部的愤怒和注意力都引到自己身上。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1312</ID>
-      <DefaultText>Call it luck or skill, but Tybir is very, *very* good at staying alive long enough to loot the bodies.</DefaultText>
+      <DefaultText>不管是因为幸运还是其他什么，提比尔非常*非常*擅长活下去，然后劫掠尸体。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1313</ID>
-      <DefaultText>Tybir's seen a few things in his life, and he's more than willing to share what he knows. His allies benefit from his experience and eagerness to rehearse his favorite stories.</DefaultText>
+      <DefaultText>在这一生中，提比尔也见过不少事情了，他特别愿意分享自己的知识。他的同伴们总能从他的经历中获益，并很乐意反复讲述他最喜欢的故事。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1314</ID>
-      <DefaultText>The Ninth World is full of the graves of honorable men, and Tybir has no intention of joining them. His attacks do much more damage against unprepared opponents.</DefaultText>
+      <DefaultText>第九世界上满是可敬的人的坟墓，提比尔可不打算加入他们。对为做好准备的对手发起攻击会造成更大的伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>One-on-one duels are not Erritis's style. He's far more effective leaping from enemy to enemy, dealing deadly wounds, and giggling beneath his breath.</DefaultText>
+      <DefaultText>一对一的决斗并不是艾瑞提斯的风格。他更擅长从一名敌人跳到另一名敌人面前，制造致命的伤口，露出一副傻笑。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1316</ID>
-      <DefaultText>Subtlety isn't very heroic. Smashing things is. By following Erritis's heroic example, all party members are much better at breaking things into small, cowardly pieces.</DefaultText>
+      <DefaultText>使用什么精妙的诡计算不上英勇，要直接攻击才行。学习艾瑞提斯的英勇榜样，所有队伍成员都更加擅长把东西打成小小的碎片了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1317</ID>
-      <DefaultText>Erritis is stronger and faster than other heroes. Than *any* heroes, really. After all, he's the greatest hero who ever lived!</DefaultText>
+      <DefaultText>艾瑞提斯比其他英雄，比其他*所有*英雄都更敏捷，更强壮。总之他是世上最伟大的英雄！</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1318</ID>
-      <DefaultText>When Erritis lands a powerful blow, his aura flares, blinding his enemies and giving them a moment to consider how outmatched they really are.</DefaultText>
+      <DefaultText>艾瑞提斯重重一击之后，他身上的光环闪耀了起来，闪得附近得敌人失明。这样他们就有机会好好思考一下自己有没有那么强大了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1319</ID>
-      <DefaultText>With every powerful blow, Erritis's glow intensifies, and his attacks get stronger... and stronger... and *stronger*.</DefaultText>
+      <DefaultText>每一次重重一击，艾瑞提斯的光环都会变得更强，他的攻击也会变得越来越强，越来越强，*越来越强*……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1320</ID>
-      <DefaultText>Rhin claims to have a god who knows everything of hiding. It's hard to argue with the results.</DefaultText>
+      <DefaultText>润自称拥有了解所有藏身知识的神明。就结果来看，大家很难去反驳她。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>Whether Rhin's god of hiding is real or not, even her friends seem to benefit from being near her.</DefaultText>
+      <DefaultText>无论润的隐藏之神是不是真的，她身边的朋友们似乎都更擅长藏身了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>Rhin is always learning and asking questions. Her hunger for knowledge makes her more adept with cyphers than some natives of this strange place.</DefaultText>
+      <DefaultText>润总是在学习，总是在提问。她对知识的渴求让她变成了比这个神奇世界的本地人更加厉害的秘具使用能手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>Bent wire, pieces of string, and a little help from one of her gods - so she says - make some of the cyphers Rhin uses last just a little bit longer.</DefaultText>
+      <DefaultText>一些弯曲的金属丝，几条细绳，再加上她那位神明稍稍协助（反正她自己这么说），她手中的秘具能够使用的久一点儿。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Rhin has brought new gods back with her - terrifying gods who will tear apart anyone who dares harm her friends.</DefaultText>
+      <DefaultText>润又带来了新的神明，一位能够能够撕裂所有敢于伤害她的朋友的可怕神明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1325</ID>
-      <DefaultText>Ahl has grown to know more than just hiding. Rhin can call on his power to surround her allies with a healing light.</DefaultText>
+      <DefaultText>阿尔所了解的知识已经不仅仅只关于如何藏身了。润可以召唤祂的力量在她的同伴身上笼罩一层回复圣光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>Varlin sleeps like a dull shin in Rhin's pocket, providing quiet but effective aid to Rhin and her friends.</DefaultText>
+      <DefaultText>瓦琳仿佛一枚暗淡的闪币躺在润的口袋里，为润和她的朋友们稍稍地提供帮助。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>Hard-Earned Knowledge</DefaultText>
+      <DefaultText>来之不易的知识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>Blood and Bell</DefaultText>
+      <DefaultText>血与钟声</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Deals [Damage] to all enemies in range who fail to resist. Even on a miss, deals [Color: Relativistic]1 [DamageIcon: Relativistic]Relativistic (Ignores Resistance) damage[/Color] per level of Effort applied.\n\n[DamageFromEffort]</DefaultText>
+      <DefaultText>对被命中的敌人造成[Damage]。即便未击中，依然可以造成每努力等级[Color: Relativistic]1点[DamageIcon: Relativistic]时空伤害（无视抗性）[/Color]。\n\n[DamageFromEffort]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Hiding and Healing</DefaultText>
+      <DefaultText>藏身与治疗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>[Healing] on all allies in range of target point.</DefaultText>
+      <DefaultText>目标位置周围所有同伴[Healing]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1332</ID>
-      <DefaultText>Provides [PassiveEffectsBasic] to all party members.</DefaultText>
+      <DefaultText>为所有队伍成员提供[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1333</ID>
-      <DefaultText>Fluke and Fortune</DefaultText>
+      <DefaultText>意外与侥幸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1334</ID>
-      <DefaultText>Brave</DefaultText>
+      <DefaultText>勇敢的</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1335</ID>
-      <DefaultText>Shaper</DefaultText>
+      <DefaultText>塑造者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1336</ID>
-      <DefaultText>Inhale</DefaultText>
+      <DefaultText>吸入</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Bite</DefaultText>
+      <DefaultText>撕咬</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6697,52 +6696,52 @@
     </Entry>
     <Entry>
       <ID>1339</ID>
-      <DefaultText>Rhin is just a child - nothing special about her. Unless you count her damaged head, her odd turns of phrase, and her tendency to talk to a rock that lives in her pocket. </DefaultText>
+      <DefaultText>润只是一个孩子，没有什么特殊的。不过你觉得她的大脑受到了损害，她的遣词造句非常奇怪，还会和口袋里的一块石头说话。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>Rhin has grown into a skilled and dangerous woman. She has learned how to fight and hunt, and her gods can perform wonders equivalent to any Ninth World nano.</DefaultText>
+      <DefaultText>润成长成了一名危险的女子。她学会了如何战斗，如何狩猎，她的神明可以展示出的奇迹可以与第九世界纳米使媲美。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>Rhin has crossed worlds to return to you at your time of need. Her old gods are with her and stronger than ever. She seems to have brought new gods as well.</DefaultText>
+      <DefaultText>在你需要的时候，润穿越世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1342</ID>
-      <DefaultText>Rhin isn't a lost little girl any more. She has been through a lot since you last saw her, and her courage has grown tremendously.</DefaultText>
+      <DefaultText>润不再是那个迷路的孩子了。离开你之后，她经历了很多，变得非常勇敢。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1343</ID>
-      <DefaultText>God of Change</DefaultText>
+      <DefaultText>变化之神</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1344</ID>
-      <DefaultText>Rhin has acquired new skills - some bordering on magic. She claims she made a god and pulls a dull shin out of her pocket to show you.</DefaultText>
+      <DefaultText>润学到了一项新技能，近于魔法的技能。她自称她又创造了一位神明，还从口袋里拿出了一枚暗淡的闪币给你看。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1345</ID>
-      <DefaultText>[FettleDescriptions] [Duration].</DefaultText>
+      <DefaultText>[FettleDescriptions][Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1346</ID>
-      <DefaultText>This is a fragment of the mirror that the Sorrow shattered in the Calm. It holds a reflection of you, frozen in time and surrounded by a corona of multicolored energies.</DefaultText>
+      <DefaultText>苦痛在净地打破的镜子产生的碎片。上面你的映像停滞在时间之中，围绕着一圈多彩的能量晕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1347</ID>
-      <DefaultText>You have purged the Sorrow from the depths of your mind. Your thoughts seem clearer than before. Your inherited body feels faster. Stronger.</DefaultText>
+      <DefaultText>你将头脑深处的苦痛净化一空。你的思绪变得比之前更加清晰。你得到的身体也变得更加敏捷、强壮。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1348</ID>
-      <DefaultText>Banish</DefaultText>
+      <DefaultText>放逐</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6752,87 +6751,88 @@
     </Entry>
     <Entry>
       <ID>1350</ID>
-      <DefaultText>You cast your will across the link between your mind and the Bloom, summoning one of the transdimensional leviathan's countless maws to help you in battle.</DefaultText>
+      <DefaultText>将你的意志与魔葵的大脑相连接，从这一跨维度巨兽的无数食道中召唤一个到你的面前来帮助你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText>Glorp</DefaultText>
+      <DefaultText>咕啦
+</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1352</ID>
-      <DefaultText>Glorp Mastery</DefaultText>
+      <DefaultText>咕啦精通</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText>Haptic Armor Mastery</DefaultText>
+      <DefaultText>触觉盔甲精通</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1354</ID>
-      <DefaultText>Haptic Armor</DefaultText>
+      <DefaultText>触觉盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1355</ID>
-      <DefaultText>Oom Augmentation</DefaultText>
+      <DefaultText>乌姆增强</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1356</ID>
-      <DefaultText>Remove Haptic Armor</DefaultText>
+      <DefaultText>移除触觉盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1357</ID>
-      <DefaultText>Tide-Augmented Glorp</DefaultText>
+      <DefaultText>潮力增强咕啦</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1358</ID>
-      <DefaultText>Oom-Boosted Tidal Insight</DefaultText>
+      <DefaultText>增强潮力洞察</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1359</ID>
-      <DefaultText>Folded Realignment</DefaultText>
+      <DefaultText>折叠重整</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1360</ID>
-      <DefaultText>Tide-Augmented Haptic Armor</DefaultText>
+      <DefaultText>潮力增强触觉盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1361</ID>
-      <DefaultText>Tide-Augmented Sploorch</DefaultText>
+      <DefaultText>潮力增强噗噜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1362</ID>
-      <DefaultText>Trained Haptic Armor</DefaultText>
+      <DefaultText>高等触觉盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1363</ID>
-      <DefaultText>Trained Sploorch</DefaultText>
+      <DefaultText>高等噗噜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1364</ID>
-      <DefaultText>Sploorch Mastery</DefaultText>
+      <DefaultText>噗噜精通</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1365</ID>
-      <DefaultText>Tide-Augmented Sploorch</DefaultText>
+      <DefaultText>潮力增强噗噜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText>Sploorch</DefaultText>
+      <DefaultText>噗噜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6842,277 +6842,277 @@
     </Entry>
     <Entry>
       <ID>1368</ID>
-      <DefaultText>Increase the Last Castoff's training level in a skill based on Oom's Tidal alignment.\n\nCurrent Alignment:\n[CurrentBonus]\n\nPossible Alignments:\n-[Color: TideIdealist]Idealist[/Color]: [SkillIdealist]\n-[Color: TideBlue]Blue[/Color]: [SkillBlue]\n-[Color: TideRed]Red[/Color]: [SkillRed]\n-[Color: TideIndigo]Indigo[/Color]: [SkillIndigo]\n-[Color: TideGold]Gold[/Color]: [SkillGold]\n-[Color: TideSilver]Silver[/Color]: [SkillSilver]</DefaultText>
+      <DefaultText>根据乌姆的潮力调整提升最后的弃子的技能水平。\n\n当前组合：\n[CurrentBonus]\n\n可能组合：\n-[Color: TideIdealist]理想主义者[/Color]：[SkillIdealist]\n-[Color: TideBlue]蓝[/Color]：[SkillBlue]\n-[Color: TideRed]红[/Color]：[SkillRed]\n-[Color: TideIndigo]靛[/Color]：[SkillIndigo]\n-[Color: TideGold]金[/Color]：[SkillGold]\n-[Color: TideSilver]银[/Color]：[SkillSilver]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1369</ID>
-      <DefaultText>{0} - [Color: PositiveModifier]{1} training level +{2}[/Color]</DefaultText>
+      <DefaultText>{0}-[Color: PositiveModifier]{1}技能水平+{2}[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1370</ID>
-      <DefaultText>Reveals the Tidal effects of dialog options and reactivity based on your Dominant Tides in conversation.</DefaultText>
+      <DefaultText>显示对话选项造成的潮力变化效果及主导潮力造成的影响。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1371</ID>
-      <DefaultText>Allows Oom to align with 2 Tides at the same time, gaining all related bonuses from both. If the Last Castoff has only 1 Dominant Tide or only chooses to align Oom with 1, its effects are increased.</DefaultText>
+      <DefaultText>允许乌姆同时调整列两种潮力，获得两种潮力加值。如果最后的弃子只有一种主导潮力或只向乌姆选择了一种潮力，潮力加值增加。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1372</ID>
-      <DefaultText>Realignment</DefaultText>
+      <DefaultText>重整</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1373</ID>
-      <DefaultText>You can choose to align Oom to 1 of the Last Castoff's Dominant Tides. This changes Oom's appearance and affects the bonuses gained from many of Oom's abilities.\n\nOom's alignment can be altered at any time by talking to it.</DefaultText>
+      <DefaultText>你选择让乌姆调整最后的弃子的一种主导潮力。这会导致乌姆的外形发生变化，从乌姆的能力中获取的加值也发生改变。\n\n你可以随时与乌姆对话调整潮力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1374</ID>
-      <DefaultText>Oom wraps a portion of its body around an ally, offering them protection but leaving itself weakened. While in this state, Oom cannot assist on tasks in conversation or use &lt;quad class="action"&gt;Actions in Crisis. Using the Remove Haptic Armor ability returns Oom and the target to normal.\n\nThe target gains [FettleIcon: Buff]Haptic Armor ([FettleInfo]).</DefaultText>
+      <DefaultText>乌姆用自己的一部分身体包裹一名同伴，在保护同伴的同时却削弱了自己。处于该状态中时，乌姆无法在涉及对话的行动中提供帮助，无法在危机中进行&lt;quad class="action"&gt;动作。使用移除触觉盔甲能力可以让乌姆恢复正常。\n\n目标获得[FettleIcon: Buff]触觉盔甲（[FettleInfo]）状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1375</ID>
-      <DefaultText>-[Color: TideIdealist]Idealist[/Color]: +{0}% critical success chance on all tasks</DefaultText>
+      <DefaultText>-[Color: TideIdealist]理想主义者[/Color]：所有行动大成功几率+{0}%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1376</ID>
-      <DefaultText>-[Color: TideBlue]Blue[/Color]: +{0} &lt;quad class="resistance"&gt;Resistance, +{1} damage from cyphers, +{2} healing from cyphers</DefaultText>
+      <DefaultText>-[Color: TideBlue]蓝[/Color]：+{0}&lt;quad class="resistance"&gt;抗性，+{1}秘具伤害，+{2}秘具回复</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1377</ID>
-      <DefaultText>Additional Tidal alignment bonus(es):</DefaultText>
+      <DefaultText>额外潮力调整加值：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1378</ID>
-      <DefaultText>-[Color: TideRed]Red[/Color]: +{0} [Color: Speed]Speed[/Color], +{1}% Movement Rate</DefaultText>
+      <DefaultText>-[Color: TideRed]红[/Color]：+{0}[Color: Speed]速度[/Color]，+{1}%移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1379</ID>
-      <DefaultText>-[Color: TideIndigo]Indigo[/Color]: +{0} [Color: Health]Health[/Color], +{1} Initiative</DefaultText>
+      <DefaultText>-[Color: TideIndigo]靛[/Color]：+{0}[Color: Health]生命[/Color]，+{1}先攻</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1380</ID>
-      <DefaultText>-[Color: TideGold]Gold[/Color]: +{0} Healing training level, +{1} &lt;quad class="armor"&gt;Armor</DefaultText>
+      <DefaultText>-[Color: TideGold]金[/Color]：+{0}治疗技能水平，+{1}&lt;quad class="armor"&gt;护甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1381</ID>
-      <DefaultText>-[Color: TideSilver]Silver[/Color]: +{0} [Color: Might]Might[/Color], +{1}% &lt;quad class="willpower"&gt;[Color: Intellect]Willpower[/Color]</DefaultText>
+      <DefaultText>-[Color: TideSilver]银[/Color]：+{0}[Color: Might]气力[/Color]，+{1}% &lt;quad class="willpower"&gt;[Color: Intellect]意志[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1382</ID>
-      <DefaultText>Oom reforms itself, returning to its normal form. Removes the Haptic Armor fettles from Oom and the target.</DefaultText>
+      <DefaultText>乌姆改变形态，恢复正常。移除乌姆和目标身上的触觉盔甲状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1383</ID>
-      <DefaultText>When Oom gains a [FettleIcon: Buff]positive fettle by targeting itself with an ability or item, the Last Castoff gains the same fettle for the same duration.</DefaultText>
+      <DefaultText>乌姆选择自己为目标使用能力或物品获得[FettleIcon: Buff]正面状态后，最后的弃子也会获得同样的状态，状态持续时间与乌姆相同。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1384</ID>
-      <DefaultText>When this effect is triggered, the Last Castoff also gains additional effects based on Oom's Tidal alignment. Current alignment bonus(es):</DefaultText>
+      <DefaultText>触发该效果后，最后的弃子同样根据乌姆调整的潮力获得额外效果。当前调整加值：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1385</ID>
-      <DefaultText>Improves Sploorch, Oom's basic attack, granting [Color: PositiveModifier]+[Accuracy]% chance to hit, [Color: Damage]+[DmgBonus] damage[/Color][/Color]</DefaultText>
+      <DefaultText>乌姆的普通攻击增强型噗噜，[Color: PositiveModifier]命中+[Accuracy]%[/Color]，[Color: Damage]伤害+[DmgBonus][/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1386</ID>
-      <DefaultText>Sploorch, Oom's basic attack, gains [Color: PositiveModifier]+[Accuracy]% chance to hit[/Color] and [Color: PositiveModifier]+[DmgBonus] damage per level of Effort[/Color].\n\nIt also gains additional effects based on Oom's Tidal alignment:</DefaultText>
+      <DefaultText>乌姆的普通攻击噗噜，[Color: PositiveModifier]命中+[Accuracy]%[/Color]，[Color: Damage]每次提升努力等级+[DmgBonus]伤害[/Color]。\n\n同时根据乌姆潮力调整获得额外效果：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1387</ID>
-      <DefaultText>-[Color: TideIdealist]Idealist[/Color]: [Color: PositiveModifier]+[Idealist]% critical hit chance[/Color]</DefaultText>
+      <DefaultText>-[Color: TideIdealist]理想主义者[/Color]：[Color: PositiveModifier]致命一击几率+[Idealist]% [/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1388</ID>
-      <DefaultText>-[Color: TideBlue]Blue[/Color]: [Color: PositiveModifier]+[Blue]% chance to hit[/Color]</DefaultText>
+      <DefaultText>-[Color: TideBlue]蓝[/Color]：[Color: PositiveModifier]命中+[Blue]%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText>-[Color: TideRed]Red[/Color]: [Color: PositiveModifier]+[Red] damage per level of Effort[/Color]</DefaultText>
+      <DefaultText>-[Color: TideRed]红[/Color]：[Color: PositiveModifier]每次提升努力等级+[Red]伤害[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1390</ID>
-      <DefaultText>-[Color: TideIndigo]Indigo[/Color]: On critical hit, confer [IndigoFettle] ([IndigoFetDesc]). [IndigoDuration].</DefaultText>
+      <DefaultText>-[Color: TideIndigo]靛[/Color]：致命一击赋予[IndigoFettle]状态（[IndigoFetDesc]）[IndigoDuration]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>-[Color: TideGold]Gold[/Color]: On critical hit, [Color: Heal]heal all party members for [Gold] Health[/Color]</DefaultText>
+      <DefaultText>-[Color: TideGold]金[/Color]：致命一击[Color: Heal]回复队伍所有成员[Gold]生命[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>-[Color: TideSilver]Silver[/Color]: On critical hit, confer [SilverFettle] ([SilverFetDesc]). [SilverDuration].</DefaultText>
+      <DefaultText>-[Color: TideSilver]银[/Color]：致命一击赋予[SilverFettle]状态（[SilverFetDesc]）[SilverDuration]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>If Oom also has the Tide-Augmented Sploorch ability, its attack gains these bonuses instead:</DefaultText>
+      <DefaultText>如果乌姆同时拥有潮力增强噗噜能力，攻击加值变为：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1394</ID>
-      <DefaultText>Oom's basic attack gains [Color: PositiveModifier]+[MaxDamage] max damage from Effort[/Color].\n\nIt also gains additional effects based on Oom's Tidal alignment:</DefaultText>
+      <DefaultText>乌姆普通攻击获得[Color: PositiveModifier]努力等级赋予的最大伤害+[MaxDamage][/Color]。\n\n同时根据乌姆潮力调整获得额外效果：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1395</ID>
-      <DefaultText>If Oom also has the [OtherAbility] ability or the Folded Realignment ability but is only aligned to one Tide, these bonuses are increased.</DefaultText>
+      <DefaultText>如果乌姆具有[OtherAbility]能留或折叠重整能力，但只与一种潮力进行调整，则加值获得提高。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1396</ID>
-      <DefaultText>Because Oom has the [OtherAbility] ability or the Folded Realignment ability but is only aligned to one Tide, these bonuses have been increased.</DefaultText>
+      <DefaultText>如果乌姆具有[OtherAbility]能留或折叠重整能力，但只与一种潮力进行调整，则加值获得提高。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1397</ID>
-      <DefaultText>Improves the effects granted by the Haptic Armor ability. It now confers:</DefaultText>
+      <DefaultText>增强触觉盔甲赋予的效果。效果变为：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1398</ID>
-      <DefaultText>Improves the effects conferred by the Haptic Armor ability based on Oom's Tidal alignment:</DefaultText>
+      <DefaultText>根据乌姆的潮力调整增强触觉盔甲赋予的效果：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>Improves the effects gained from the Glorp ability based on Oom's Tidal alignment:</DefaultText>
+      <DefaultText>根据乌姆的潮力调整增强咕啦的效果：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>[Color: Heal]+{0} healing from cyphers[/Color]</DefaultText>
+      <DefaultText>[Color: Heal]秘具回复+{0}[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1401</ID>
-      <DefaultText>Current Tidal alignment bonus(es):</DefaultText>
+      <DefaultText>当前潮力调整加值：</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1402</ID>
-      <DefaultText>Your enemies are Oom's enemies, and it will defend you. It spits a chunk of itself at your foes, regenerating the blob internally when its projectile has found its mark.</DefaultText>
+      <DefaultText>你的敌人就是乌姆的敌人，它会保护你，会将自己身体的一部分吐向敌人，在击中目标之后，它失去的内部分身体还会再生。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1403</ID>
-      <DefaultText>Oom's body is a mass of gently undulating jelly. It uses shaped tendrils to propel itself, shaping itself to its environment.</DefaultText>
+      <DefaultText>乌姆的身体是一大块不断起伏波动的果冻状物体，它使用身体上的卷须推动自己，让自己的形态适应环境。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>You don't know what this is, and nothing in Oom's repertoire of imagery can explain it for you.</DefaultText>
+      <DefaultText>你不知道那是什么东西，乌姆用自己的全部意向也没法向你解释清楚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1405</ID>
-      <DefaultText>You think this might be some sort of receptor or converter, but you just can't be sure.</DefaultText>
+      <DefaultText>你觉得那可能是某种感受器或转换器，但又不敢确定。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1406</ID>
-      <DefaultText>Oom has remarkable control over the permeability of its epidermis.</DefaultText>
+      <DefaultText>乌姆对自己的体表渗透性有着强大的控制能力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1407</ID>
-      <DefaultText>The bond between you and Oom is so strong that when Oom feels something, you can feel it too.</DefaultText>
+      <DefaultText>你与乌姆之间连接那么紧密，若是乌姆感觉到了什么，你也能感觉到。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1408</ID>
-      <DefaultText>You have strengthened the Tidal bond between you and Oom again, and it can share the effects of cyphers and fettles with ease.</DefaultText>
+      <DefaultText>你进一步强化了与乌姆之间的潮力连接，这样你们就可以分享秘具和状态带来的效果了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1409</ID>
-      <DefaultText>Oom's enfolding flesh becomes better with your dominant Tides.</DefaultText>
+      <DefaultText>乌姆折叠的身体因为你的主导潮力变得更强。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>As you grow, so too does Oom - and your study of the Tides has made Oom an excellent long-distance asset.</DefaultText>
+      <DefaultText>你变强的同时乌姆也会变强，而你对潮力的研究让乌姆变成了出色的远程攻击手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1411</ID>
-      <DefaultText>Oom expels a piece of itself to enfold - and improve - its friends.</DefaultText>
+      <DefaultText>乌姆丢出身体的一部分包裹并强化它的朋友。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1412</ID>
-      <DefaultText>Oom's presence sharpens and refines your skills.</DefaultText>
+      <DefaultText>乌姆可以强化和雕琢你的技能。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>When finished protecting its friends, Oom reabsorbs its haptic armor.</DefaultText>
+      <DefaultText>保护朋友的过程结束之后，乌姆将触觉盔甲吸收了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>You can channel one of your dominant Tides to improve Oom's abilities.</DefaultText>
+      <DefaultText>你可以利用你的主导潮力强化乌姆的能力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1415</ID>
-      <DefaultText>You have strengthened the Tidal bond between you and Oom, and it can share the effects of its actions more readily.</DefaultText>
+      <DefaultText>你强化了与乌姆之间的潮力连接，现在它更愿意与你分享自己的行动带来的效果了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>With Oom's aid, you can see when people respond to your dominant Tides - or when your choices will change your Tides.</DefaultText>
+      <DefaultText>在乌姆的帮助下，你可以看到他人对你主导潮力的反应，以及你的选择会如何改变你的潮力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1417</ID>
-      <DefaultText>Your mastery of the Tides enhances Oom, too. It draws from your strength to make itself better. </DefaultText>
+      <DefaultText>你精通潮力，这也强化了乌姆。它会借用你的力量让自己变得更强。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1418</ID>
-      <DefaultText>Oom's armor becomes more effective when enhanced with the power of your Tides.</DefaultText>
+      <DefaultText>利用你的潮力进行强化，乌姆的盔甲变得更强大了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1419</ID>
-      <DefaultText>When you focus your Tides, you can improve Oom's abilities as well.</DefaultText>
+      <DefaultText>你集中精神引导潮力可以提升乌姆的能力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1420</ID>
-      <DefaultText>Oom's ability to protect its companions improves, allowing you to react more quickly.</DefaultText>
+      <DefaultText>乌姆保护同伴的能力提高了，它可以让你移动得更快。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>Through careful refinement, Oom's projectiles have become deadlier and more accurate.</DefaultText>
+      <DefaultText>利用高超的技巧，乌姆射出的抛射体变得更致命也更精确了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>+{0}% critical success chance on all tasks</DefaultText>
+      <DefaultText>所有行动+{0}%大成功几率</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

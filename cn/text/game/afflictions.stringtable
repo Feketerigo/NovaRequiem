@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Impaired</DefaultText>
+      <DefaultText>残障</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Effort costs 1 additional point. Critical hits grant only 1 additional damage.</DefaultText>
+      <DefaultText>提升努力等级需要额外1点属性值。致命一击仅造成1点额外伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Debilitated</DefaultText>
+      <DefaultText>虚弱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Hale</DefaultText>
+      <DefaultText>强壮</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -46,7 +46,7 @@
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Inspired</DefaultText>
+      <DefaultText>鼓舞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Dismayed</DefaultText>
+      <DefaultText>恐慌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>Juiced</DefaultText>
+      <DefaultText>喝醉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Blinded</DefaultText>
+      <DefaultText>失明</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Confident</DefaultText>
+      <DefaultText>自信</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -96,7 +96,7 @@
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Controlled</DefaultText>
+      <DefaultText>被操纵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Dazed</DefaultText>
+      <DefaultText>恍惚</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -116,7 +116,7 @@
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Dismayed</DefaultText>
+      <DefaultText>恐慌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -126,7 +126,7 @@
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>Distracted</DefaultText>
+      <DefaultText>分心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>Enhanced</DefaultText>
+      <DefaultText>增强</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -146,7 +146,7 @@
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Fear</DefaultText>
+      <DefaultText>恐惧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Inspired</DefaultText>
+      <DefaultText>鼓舞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -166,7 +166,7 @@
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>Overwhelmed</DefaultText>
+      <DefaultText>压倒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Distracted</DefaultText>
+      <DefaultText>分心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>Hastened</DefaultText>
+      <DefaultText>加速</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -196,7 +196,7 @@
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Immobilized</DefaultText>
+      <DefaultText>定身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>40</ID>
-      <DefaultText>Hobbled</DefaultText>
+      <DefaultText>跛脚</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -216,7 +216,7 @@
     </Entry>
     <Entry>
       <ID>42</ID>
-      <DefaultText>[Damage] per turn</DefaultText>
+      <DefaultText>每回合[Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -226,12 +226,12 @@
     </Entry>
     <Entry>
       <ID>44</ID>
-      <DefaultText>Attacks -15%. Evasion -15%. Movement per turn -30%.</DefaultText>
+      <DefaultText>攻击-15%，回避-15%。移动每回合-30%。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>[PassiveEffectsBasic] and this character will try to avoid the source of their terror.</DefaultText>
+      <DefaultText>[PassiveEffectsBasic]，该人物会试图远离恐惧之源。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Character cannot move</DefaultText>
+      <DefaultText>人物无法移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,17 +261,17 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Converts all damage to Transdimensional and grants [PassiveEffectsBasic] except Transdimensional damage dealt to this character is [Color: Damage]+100%[/Color]</DefaultText>
+      <DefaultText>将造成的所有伤害转换为跨维度属性，并赋予[PassiveEffectsBasic]，人物受到的跨维度伤害[Color: Damage]+100%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>Movement rate halved. Evasion -15%.</DefaultText>
+      <DefaultText>移动减半，回避-15%。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Burn</DefaultText>
+      <DefaultText>灼烧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -281,22 +281,22 @@
     </Entry>
     <Entry>
       <ID>55</ID>
-      <DefaultText>[Damage] per turn.</DefaultText>
+      <DefaultText>每回合[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>56</ID>
-      <DefaultText>Terrified</DefaultText>
+      <DefaultText>惊吓</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>57</ID>
-      <DefaultText>Enemies are unaware of this party member.</DefaultText>
+      <DefaultText>敌人尚未注意到你的队伍成员。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Flanked</DefaultText>
+      <DefaultText>夹击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -361,12 +361,12 @@
     </Entry>
     <Entry>
       <ID>71</ID>
-      <DefaultText>Static Field</DefaultText>
+      <DefaultText>停滞力场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>72</ID>
-      <DefaultText>1 Intellect damage per round.</DefaultText>
+      <DefaultText>每回合造成1点心智伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,17 +376,17 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Adamant Foam</DefaultText>
+      <DefaultText>金刚泡沫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>75</ID>
-      <DefaultText>Armor +3 versus Physical, Heat, Cold, Electric and Acid damage.</DefaultText>
+      <DefaultText>面对物理、炽热、酷寒、电流和酸性伤害时，护甲+3。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Armorbearer</DefaultText>
+      <DefaultText>扈从</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,7 +396,7 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Might Armor Cost Reduced by 2.</DefaultText>
+      <DefaultText>盔甲气力惩罚-2。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -406,7 +406,7 @@
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Broken Knot Charm</DefaultText>
+      <DefaultText>断结护符</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -416,12 +416,12 @@
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Doubles damage on melee attacks.</DefaultText>
+      <DefaultText>近战攻击造成双倍伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>83</ID>
-      <DefaultText>Bulwark's End</DefaultText>
+      <DefaultText>布瓦克的终结</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -431,22 +431,22 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Armor versus Physical reduced by 4.</DefaultText>
+      <DefaultText>面对物理伤害时，护甲-4。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Bystre</DefaultText>
+      <DefaultText>胸像</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Speed Edge +1.</DefaultText>
+      <DefaultText>速度节省值+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Amplification Parasite</DefaultText>
+      <DefaultText>放大寄生虫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -456,7 +456,7 @@
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Conflict Advisor</DefaultText>
+      <DefaultText>冲突顾问</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,27 +466,27 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Contingent Subroutine</DefaultText>
+      <DefaultText>小队日常</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>The next time this character is reduced to [BonusAmount1]% or less in [Color: Health]Health[/Color] or any Stat Pool, automatically refill [Color: Health]Health[/Color] and all Stat Pools</DefaultText>
+      <DefaultText>下一次人物[Color: Health]生命[/Color]值或其他属性值低于[BonusAmount1]%时，自动将[Color: Health]生命[/Color]值和其他属性值回复至满槽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Cypher Cage</DefaultText>
+      <DefaultText>秘具笼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Cypher Limit +1.</DefaultText>
+      <DefaultText>秘具上限+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Data Siphon</DefaultText>
+      <DefaultText>数据虹吸Data Siphon</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Flickering Cloak</DefaultText>
+      <DefaultText>闪烁披风</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -506,7 +506,7 @@
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Fungal Harvest</DefaultText>
+      <DefaultText>真菌收获</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Hyperkinetic Child</DefaultText>
+      <DefaultText>多动的孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Image Blocker</DefaultText>
+      <DefaultText>视觉屏蔽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -536,22 +536,22 @@
     </Entry>
     <Entry>
       <ID>106</ID>
-      <DefaultText>Instant Guardian</DefaultText>
+      <DefaultText>瞬间守卫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>107</ID>
-      <DefaultText>Blocks incoming ranged attacks.</DefaultText>
+      <DefaultText>阻挡远程攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Knowledge of the Long Dead</DefaultText>
+      <DefaultText>亡者的知识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>109</ID>
-      <DefaultText>All lore skills +1 training level.</DefaultText>
+      <DefaultText>所有知识技能水平+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -576,7 +576,7 @@
     </Entry>
     <Entry>
       <ID>114</ID>
-      <DefaultText>Prestidigitator</DefaultText>
+      <DefaultText>变戏法</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -586,32 +586,32 @@
     </Entry>
     <Entry>
       <ID>116</ID>
-      <DefaultText>Psychic Focus</DefaultText>
+      <DefaultText>灵能聚集</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>117</ID>
-      <DefaultText>Sofuhl</DefaultText>
+      <DefaultText>索夫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>Might Edge +1.</DefaultText>
+      <DefaultText>气力节省值+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>Stone Skin Graft</DefaultText>
+      <DefaultText>石肤移植</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>120</ID>
-      <DefaultText>Armor +3 versus Physical damage.</DefaultText>
+      <DefaultText>面对物理伤害时，护甲+3。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>121</ID>
-      <DefaultText>Tidal Compass</DefaultText>
+      <DefaultText>潮力罗盘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -621,27 +621,27 @@
     </Entry>
     <Entry>
       <ID>123</ID>
-      <DefaultText>Tractile Bug</DefaultText>
+      <DefaultText>延展之虫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>124</ID>
-      <DefaultText>Intellect Edge +1.</DefaultText>
+      <DefaultText>心智节省值+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>125</ID>
-      <DefaultText>Verideye</DefaultText>
+      <DefaultText>威尔第眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>126</ID>
-      <DefaultText>Perception +1.</DefaultText>
+      <DefaultText>观察技能水平+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>127</ID>
-      <DefaultText>Bao Negative Fettle</DefaultText>
+      <DefaultText>宝儿负面状态</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,7 +651,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Crown of Eyes</DefaultText>
+      <DefaultText>魔眼王冠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Ebon Eyes</DefaultText>
+      <DefaultText>乌木眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>The Dark Encroaches</DefaultText>
+      <DefaultText>黑暗蚕食</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,37 +681,37 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Conduit of Cold</DefaultText>
+      <DefaultText>冷导管</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>136</ID>
-      <DefaultText>+2 Cold Damage on Next Attack</DefaultText>
+      <DefaultText>下次攻击+2酷寒伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>137</ID>
-      <DefaultText>Conduit of Fire</DefaultText>
+      <DefaultText>热导管</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>138</ID>
-      <DefaultText>+2 Heat Damage on Next Attack.</DefaultText>
+      <DefaultText>下次攻击+2炽热伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>Transdimensional Conduit</DefaultText>
+      <DefaultText>跨维度导管</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>+2 Transdimensional Damage on Next Attack.</DefaultText>
+      <DefaultText>下次攻击+2跨维度伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Cimaruta</DefaultText>
+      <DefaultText>齐玛鲁达</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,12 +721,12 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Bloom Juiced</DefaultText>
+      <DefaultText>醉魔葵汁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>144</ID>
-      <DefaultText>Eerie whispers fill your mind, hinting at countless secrets to uncover.</DefaultText>
+      <DefaultText>可怕的低语声充斥了你的脑海，透露着无数尚待发现的秘密。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -736,22 +736,22 @@
     </Entry>
     <Entry>
       <ID>146</ID>
-      <DefaultText>Demoralized</DefaultText>
+      <DefaultText>消沉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>10 Mental damage per round.</DefaultText>
+      <DefaultText>每回合10点精神伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>1 Mental damage per round.</DefaultText>
+      <DefaultText>每回合1点精神伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>-20 Armor, -20 Resistance</DefaultText>
+      <DefaultText>-20护甲，-20抗性</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -761,72 +761,72 @@
     </Entry>
     <Entry>
       <ID>151</ID>
-      <DefaultText>Converts all damage to [DamageIcon: Mental][Color: Mental]Mental[/Color] and [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>将造成的所有伤害转换为[DamageIcon: Mental][Color: Mental]精神[/Color]属性，并[PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>152</ID>
-      <DefaultText>The next attack that hits this character deals [Damage]</DefaultText>
+      <DefaultText>下一次受到的攻击[Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>Converts all damage to Transdimensional and grants [PassiveEffectsBasic] except Transdimensional damage dealt to this character is [Color: Damage]+50%[/Color]</DefaultText>
+      <DefaultText>将造成的所有伤害转换为跨维度属性，并赋予[PassiveEffectsBasic]，人物受到的跨维度伤害[Color: Damage]+50%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Qorro has ordered his team to avoid attacking Callistege.</DefaultText>
+      <DefaultText>奎罗命令他的手下不要伤害卡莱斯蒂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>[Damage] per turn</DefaultText>
+      <DefaultText>每回合[Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>156</ID>
-      <DefaultText>Absorbs all damage dealt by The Sorrow or Sorrow Fragments and [Damage] when attacking The Sorrow or Sorrow Fragments. [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>吸收苦痛以及苦痛碎片造成的所有伤害，对苦痛及苦痛碎片发起攻击时[Damage]。[PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>157</ID>
-      <DefaultText>Converts all damage dealt to [DamageIcon: Energy][Color: Energy]Energy[/Color] and [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>将造成的所有伤害转换为[DamageIcon: Energy][Color: Energy]能量[/Color]属性，并[PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[PassiveEffectsBasic] and character wanders aimlessly on their turn</DefaultText>
+      <DefaultText>[PassiveEffectsBasic]，人物本回合进行漫无目的的移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>159</ID>
-      <DefaultText>Rested</DefaultText>
+      <DefaultText>充分休息</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>160</ID>
-      <DefaultText>[Color: PositiveModifier]+5% critical success chance[/Color]</DefaultText>
+      <DefaultText>[Color: PositiveModifier]大成功几率+5%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>161</ID>
-      <DefaultText>Deals [Damage] to all characters within Immediate range</DefaultText>
+      <DefaultText>对近身所有人物造成[Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>Grants immunity to most fettles that deal damage per round, such as [FettleIcon: Debuff][Color: NegativeModifier]Bleeding[/Color] or [FettleIcon: Debuff][Color: NegativeModifier]Burn[/Color].</DefaultText>
+      <DefaultText>对每回合造成上海的大部分状态免疫，如[FettleIcon: Debuff][Color: NegativeModifier]失血[/Color]或[FettleIcon: Debuff][Color: NegativeModifier]灼烧[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>163</ID>
-      <DefaultText>Sorrow Infection</DefaultText>
+      <DefaultText>苦痛感染</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>164</ID>
-      <DefaultText>Cannot assist on [Color: Speed]Speed[/Color] or [Color: Might]Might[/Color] tasks. Cannot use &lt;quad class="action"&gt;Actions in Crisis.</DefaultText>
+      <DefaultText>无法在消耗[Color: Speed]速度[/Color]或[Color: Might]气力[/Color]的行动中进行协助。无法在危机中进行&lt;quad class="action"&gt;动作。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

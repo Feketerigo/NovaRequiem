@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Last Castoff</DefaultText>
+      <DefaultText>最后的弃子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -296,7 +296,7 @@
     </Entry>
     <Entry>
       <ID>58</ID>
-      <DefaultText>Matkina</DefaultText>
+      <DefaultText>麦特琪娜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,12 +311,12 @@
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>Matkina</DefaultText>
+      <DefaultText>麦特琪娜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>Aligern</DefaultText>
+      <DefaultText>阿里戈恩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,27 +326,27 @@
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>Callistege</DefaultText>
+      <DefaultText>卡莱斯蒂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Oom</DefaultText>
+      <DefaultText>乌姆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>66</ID>
-      <DefaultText>Tybir</DefaultText>
+      <DefaultText>提比尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>67</ID>
-      <DefaultText>Rhin</DefaultText>
+      <DefaultText>润</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>Erritis</DefaultText>
+      <DefaultText>艾瑞提斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -401,7 +401,7 @@
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Matkina</DefaultText>
+      <DefaultText>麦特琪娜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Matkina (Young)</DefaultText>
+      <DefaultText>麦特琪娜 (Young)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1496,7 +1496,7 @@
     </Entry>
     <Entry>
       <ID>298</ID>
-      <DefaultText>Matkina</DefaultText>
+      <DefaultText>麦特琪娜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,12 +1506,12 @@
     </Entry>
     <Entry>
       <ID>300</ID>
-      <DefaultText>Aligern</DefaultText>
+      <DefaultText>阿里戈恩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Callistege</DefaultText>
+      <DefaultText>卡莱斯蒂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3636,7 +3636,7 @@
     </Entry>
     <Entry>
       <ID>726</ID>
-      <DefaultText>Callistege Echo</DefaultText>
+      <DefaultText>卡莱斯蒂 Echo</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3646,7 +3646,7 @@
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>Aligern Echo</DefaultText>
+      <DefaultText>阿里戈恩 Echo</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

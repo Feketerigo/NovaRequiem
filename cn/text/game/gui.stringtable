@@ -11,57 +11,57 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>增加任务</DefaultText>
+      <DefaultText>Quest Added</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>任务更新</DefaultText>
+      <DefaultText>Quest Updated</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>任务完成</DefaultText>
+      <DefaultText>Quest Complete</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>任务失败</DefaultText>
+      <DefaultText>Quest Failed</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>889</ID>
-      <DefaultText>获取任务</DefaultText>
+      <DefaultText>Quest Received</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>麦特琪娜</DefaultText>
+      <DefaultText>Matkina</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>997</ID>
-      <DefaultText>阿里戈恩</DefaultText>
+      <DefaultText>Aligern</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText>卡莱斯蒂</DefaultText>
+      <DefaultText>Callistege</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText>艾瑞提斯</DefaultText>
+      <DefaultText>Erritis</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>乌姆</DefaultText>
+      <DefaultText>Oom</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText>润</DefaultText>
+      <DefaultText>Rhin</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -71,7 +71,7 @@
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>提比尔</DefaultText>
+      <DefaultText>Tybir</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

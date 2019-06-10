@@ -71,27 +71,27 @@
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>Aligern's Jacket</DefaultText>
+      <DefaultText>阿里戈恩的夹克</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Aligern's Leather Jacket is old.  The cassock was, once black but now grayish and frayed. It holds a number of pockets, obviously bulging with small pieces of equipment. </DefaultText>
+      <DefaultText>阿里戈恩的皮夹克非常破旧。这件法衣曾经是黑色的，现在已经变成了灰色，而且磨损得很厉害。衣服上面有好多口袋，口袋里似乎装着各种各样的小玩意，都鼓鼓囊囊的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>A small, fine blade of transdimensional energy extends from a hilt of azure steel. With a twist of the hand, it can quickly be switched on and off. This scalpel cuts through dimensions, rapidly shimmering between different realities and ignoring most mundane armors. Inscribed into the hilt is the name 'IOXU.'</DefaultText>
+      <DefaultText>一把精致的小刀，跨维度能量构成的刀身从天青钢刀柄中伸出来，用手一扭就可以方便地开关。这把手术刀可以切开维度，闪烁在各个现实之中，无视普通盔甲的防御。刀柄上刻着一个名字“艾奥克苏”。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>Transdimensional Scalpel</DefaultText>
+      <DefaultText>维度手术刀</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Jar of Iron Wind</DefaultText>
+      <DefaultText>一罐暴虐之风</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Artaglio's Essence</DefaultText>
+      <DefaultText>阿塔里奥的佳酿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -111,7 +111,7 @@
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>Magmatic Annulet</DefaultText>
+      <DefaultText>岩浆圆环</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -156,7 +156,7 @@
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>Hyper-coolant Spray</DefaultText>
+      <DefaultText>超冷却喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -221,7 +221,7 @@
     </Entry>
     <Entry>
       <ID>43</ID>
-      <DefaultText>Shin</DefaultText>
+      <DefaultText>闪币</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -231,7 +231,7 @@
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>Waits-for-prey's Head</DefaultText>
+      <DefaultText>等候猎物的头颅</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>47</ID>
-      <DefaultText>Obervich's Eye</DefaultText>
+      <DefaultText>奥波维奇的眼睛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -251,7 +251,7 @@
     </Entry>
     <Entry>
       <ID>49</ID>
-      <DefaultText>Aneen Meat</DefaultText>
+      <DefaultText>安因的肉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>Essence of Violence</DefaultText>
+      <DefaultText>暴力精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -271,7 +271,7 @@
     </Entry>
     <Entry>
       <ID>53</ID>
-      <DefaultText>Essence of Bravery</DefaultText>
+      <DefaultText>勇气精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -331,7 +331,7 @@
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>Navigational Cortex</DefaultText>
+      <DefaultText>导航皮层</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -351,7 +351,7 @@
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Herja's Prison</DefaultText>
+      <DefaultText>赫娅的监牢</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -376,7 +376,7 @@
     </Entry>
     <Entry>
       <ID>74</ID>
-      <DefaultText>Flask of Bloom 'Water'</DefaultText>
+      <DefaultText>瓶装魔葵汁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -386,7 +386,7 @@
     </Entry>
     <Entry>
       <ID>76</ID>
-      <DefaultText>Warding Worm</DefaultText>
+      <DefaultText>守护之虫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -396,27 +396,27 @@
     </Entry>
     <Entry>
       <ID>78</ID>
-      <DefaultText>Dagger</DefaultText>
+      <DefaultText>匕首</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Maul</DefaultText>
+      <DefaultText>大槌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Greataxe</DefaultText>
+      <DefaultText>重斧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>81</ID>
-      <DefaultText>Greatsword</DefaultText>
+      <DefaultText>巨剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>82</ID>
-      <DefaultText>Mace</DefaultText>
+      <DefaultText>钉头锤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -426,37 +426,37 @@
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Broadsword</DefaultText>
+      <DefaultText>阔剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Verred</DefaultText>
+      <DefaultText>双叉刃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>Buzzer</DefaultText>
+      <DefaultText>蜂鸣器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>Heavy Buzzer</DefaultText>
+      <DefaultText>重型蜂鸣器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>88</ID>
-      <DefaultText>Heavy Crossbow</DefaultText>
+      <DefaultText>重弩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>89</ID>
-      <DefaultText>Bow</DefaultText>
+      <DefaultText>弓</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>90</ID>
-      <DefaultText>Murden Chief's Key</DefaultText>
+      <DefaultText>默登首领的钥匙</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -466,7 +466,7 @@
     </Entry>
     <Entry>
       <ID>92</ID>
-      <DefaultText>Broken Lascar Helm</DefaultText>
+      <DefaultText>坏掉的水手盔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -476,7 +476,7 @@
     </Entry>
     <Entry>
       <ID>94</ID>
-      <DefaultText>Obedient Rope</DefaultText>
+      <DefaultText>顺从之绳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Sealant Spray</DefaultText>
+      <DefaultText>密封喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -496,7 +496,7 @@
     </Entry>
     <Entry>
       <ID>98</ID>
-      <DefaultText>Sealant Bomb</DefaultText>
+      <DefaultText>密封炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -516,7 +516,7 @@
     </Entry>
     <Entry>
       <ID>102</ID>
-      <DefaultText>Synth Egg</DefaultText>
+      <DefaultText>合成蛋</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>104</ID>
-      <DefaultText>Merecaster</DefaultText>
+      <DefaultText>虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -546,7 +546,7 @@
     </Entry>
     <Entry>
       <ID>108</ID>
-      <DefaultText>Crossbow</DefaultText>
+      <DefaultText>弩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -651,7 +651,7 @@
     </Entry>
     <Entry>
       <ID>129</ID>
-      <DefaultText>Rapier</DefaultText>
+      <DefaultText>刺剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -661,7 +661,7 @@
     </Entry>
     <Entry>
       <ID>131</ID>
-      <DefaultText>Battleaxe</DefaultText>
+      <DefaultText>战斧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -671,7 +671,7 @@
     </Entry>
     <Entry>
       <ID>133</ID>
-      <DefaultText>Flail</DefaultText>
+      <DefaultText>连枷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -681,7 +681,7 @@
     </Entry>
     <Entry>
       <ID>135</ID>
-      <DefaultText>Hammer</DefaultText>
+      <DefaultText>战锤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -711,7 +711,7 @@
     </Entry>
     <Entry>
       <ID>141</ID>
-      <DefaultText>Sprayflesh</DefaultText>
+      <DefaultText>血肉喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -721,7 +721,7 @@
     </Entry>
     <Entry>
       <ID>143</ID>
-      <DefaultText>Transdimensional Power Source</DefaultText>
+      <DefaultText>维度能量源</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -776,12 +776,12 @@
     </Entry>
     <Entry>
       <ID>154</ID>
-      <DefaultText>Crystalline Shard</DefaultText>
+      <DefaultText>结晶碎片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>155</ID>
-      <DefaultText>Infused Crystalline Shard</DefaultText>
+      <DefaultText>充能结晶碎片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -831,7 +831,7 @@
     </Entry>
     <Entry>
       <ID>169</ID>
-      <DefaultText>Steel Seed-pod</DefaultText>
+      <DefaultText>铁豆荚</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -851,7 +851,7 @@
     </Entry>
     <Entry>
       <ID>173</ID>
-      <DefaultText>Red Boots</DefaultText>
+      <DefaultText>红靴子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -896,7 +896,7 @@
     </Entry>
     <Entry>
       <ID>190</ID>
-      <DefaultText>Teleport Nodule</DefaultText>
+      <DefaultText>传送结节</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -906,7 +906,7 @@
     </Entry>
     <Entry>
       <ID>192</ID>
-      <DefaultText>Artaglio's Standard</DefaultText>
+      <DefaultText>阿塔里奥的旗帜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -931,7 +931,7 @@
     </Entry>
     <Entry>
       <ID>197</ID>
-      <DefaultText>Antique Hair Clip</DefaultText>
+      <DefaultText>古老的发夹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -946,7 +946,7 @@
     </Entry>
     <Entry>
       <ID>200</ID>
-      <DefaultText>Nychthemeron Brain</DefaultText>
+      <DefaultText>昼夜魔怪的大脑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -966,7 +966,7 @@
     </Entry>
     <Entry>
       <ID>204</ID>
-      <DefaultText>Eight-fingered Mace</DefaultText>
+      <DefaultText>八指锤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1011,7 +1011,7 @@
     </Entry>
     <Entry>
       <ID>213</ID>
-      <DefaultText>Standstill</DefaultText>
+      <DefaultText>停滞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1031,7 +1031,7 @@
     </Entry>
     <Entry>
       <ID>219</ID>
-      <DefaultText>Bounder</DefaultText>
+      <DefaultText>跳跃者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1096,7 +1096,7 @@
     </Entry>
     <Entry>
       <ID>234</ID>
-      <DefaultText>Bao</DefaultText>
+      <DefaultText>宝儿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1106,7 +1106,7 @@
     </Entry>
     <Entry>
       <ID>236</ID>
-      <DefaultText>Interdimensional Puzzle Box</DefaultText>
+      <DefaultText>维度魔盒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1126,7 +1126,7 @@
     </Entry>
     <Entry>
       <ID>240</ID>
-      <DefaultText>Cluster of Sticha Eggs</DefaultText>
+      <DefaultText>啮蜂的卵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1136,7 +1136,7 @@
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>Procreative Surge Turbine</DefaultText>
+      <DefaultText>生殖涌动涡轮</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1146,7 +1146,7 @@
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>Stillborn Construct</DefaultText>
+      <DefaultText>死产构装体</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1156,7 +1156,7 @@
     </Entry>
     <Entry>
       <ID>248</ID>
-      <DefaultText>Stichus Egg</DefaultText>
+      <DefaultText>啮蜂的卵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1166,7 +1166,7 @@
     </Entry>
     <Entry>
       <ID>250</ID>
-      <DefaultText>Chronal Transference Device</DefaultText>
+      <DefaultText>时空转移设备</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1176,7 +1176,7 @@
     </Entry>
     <Entry>
       <ID>253</ID>
-      <DefaultText>Avatrol Leather Jerkin</DefaultText>
+      <DefaultText>阿瓦多皮衣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1186,7 +1186,7 @@
     </Entry>
     <Entry>
       <ID>255</ID>
-      <DefaultText>Cobbled Brigandine</DefaultText>
+      <DefaultText>镶石锁子甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1196,7 +1196,7 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>Plate Armor</DefaultText>
+      <DefaultText>板甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1216,7 +1216,7 @@
     </Entry>
     <Entry>
       <ID>267</ID>
-      <DefaultText>Dance of Sharp Angles</DefaultText>
+      <DefaultText>锐角之舞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1226,7 +1226,7 @@
     </Entry>
     <Entry>
       <ID>269</ID>
-      <DefaultText>Root Spike</DefaultText>
+      <DefaultText>根部尖刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1246,7 +1246,7 @@
     </Entry>
     <Entry>
       <ID>273</ID>
-      <DefaultText>Odd Gloves</DefaultText>
+      <DefaultText>奇怪的手套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1256,7 +1256,7 @@
     </Entry>
     <Entry>
       <ID>275</ID>
-      <DefaultText>Stillness Cage</DefaultText>
+      <DefaultText>静止之笼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1266,7 +1266,7 @@
     </Entry>
     <Entry>
       <ID>277</ID>
-      <DefaultText>Viewshard</DefaultText>
+      <DefaultText>风景碎片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1276,7 +1276,7 @@
     </Entry>
     <Entry>
       <ID>279</ID>
-      <DefaultText>Light Metal</DefaultText>
+      <DefaultText>轻质金属</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1286,7 +1286,7 @@
     </Entry>
     <Entry>
       <ID>281</ID>
-      <DefaultText>Antagonist</DefaultText>
+      <DefaultText>敌手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1296,7 +1296,7 @@
     </Entry>
     <Entry>
       <ID>283</ID>
-      <DefaultText>Ivroniar</DefaultText>
+      <DefaultText>埃弗伦尼酒杯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1306,7 +1306,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>True Colors</DefaultText>
+      <DefaultText>真彩颜料</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1316,7 +1316,7 @@
     </Entry>
     <Entry>
       <ID>287</ID>
-      <DefaultText>Knave's Card</DefaultText>
+      <DefaultText>杰克纸牌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1326,7 +1326,7 @@
     </Entry>
     <Entry>
       <ID>289</ID>
-      <DefaultText>Nychthemeron Doll</DefaultText>
+      <DefaultText>昼夜魔怪玩偶</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1336,7 +1336,7 @@
     </Entry>
     <Entry>
       <ID>291</ID>
-      <DefaultText>Globe of Zhrul</DefaultText>
+      <DefaultText>祖尔仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1356,7 +1356,7 @@
     </Entry>
     <Entry>
       <ID>295</ID>
-      <DefaultText>Gravity Bomb</DefaultText>
+      <DefaultText>重力炸弹</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1376,7 +1376,7 @@
     </Entry>
     <Entry>
       <ID>299</ID>
-      <DefaultText>Biofeedback Glove</DefaultText>
+      <DefaultText>BioFeedback Glove</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1386,7 +1386,7 @@
     </Entry>
     <Entry>
       <ID>301</ID>
-      <DefaultText>Call of the Inevitable</DefaultText>
+      <DefaultText>The Call of the Inevitable</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1466,7 +1466,7 @@
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>Prestidigitator</DefaultText>
+      <DefaultText>戏法艺人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1486,7 +1486,7 @@
     </Entry>
     <Entry>
       <ID>321</ID>
-      <DefaultText>Abtrucense</DefaultText>
+      <DefaultText>奥博图斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1496,7 +1496,7 @@
     </Entry>
     <Entry>
       <ID>323</ID>
-      <DefaultText>Psychic Focus</DefaultText>
+      <DefaultText>灵能聚集</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,7 +1506,7 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>Third Man</DefaultText>
+      <DefaultText>第三人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1526,7 +1526,7 @@
     </Entry>
     <Entry>
       <ID>329</ID>
-      <DefaultText>Datasphere Blast</DefaultText>
+      <DefaultText>数据体爆发</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1566,7 +1566,7 @@
     </Entry>
     <Entry>
       <ID>337</ID>
-      <DefaultText>Beads of Mother Temaz</DefaultText>
+      <DefaultText>提玛兹嬷嬷的念珠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1576,7 +1576,7 @@
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>Fractal Lattice</DefaultText>
+      <DefaultText>分形栅格</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1586,7 +1586,7 @@
     </Entry>
     <Entry>
       <ID>341</ID>
-      <DefaultText>Metallic Eye</DefaultText>
+      <DefaultText>金属眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1596,7 +1596,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>Shadowstep</DefaultText>
+      <DefaultText>暗影步</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1606,7 +1606,7 @@
     </Entry>
     <Entry>
       <ID>345</ID>
-      <DefaultText>Psychic Guard</DefaultText>
+      <DefaultText>灵能守卫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1616,7 +1616,7 @@
     </Entry>
     <Entry>
       <ID>347</ID>
-      <DefaultText>Crown of Eyes</DefaultText>
+      <DefaultText>魔眼王冠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1626,17 +1626,17 @@
     </Entry>
     <Entry>
       <ID>349</ID>
-      <DefaultText>Clawed Gauntlets</DefaultText>
+      <DefaultText>利爪手套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>350</ID>
-      <DefaultText>When held against the lower arms, these complex mechanical rods dig into the user's flesh. With a flick of the wrist, they produce long metal claws that enhance unarmed strikes.</DefaultText>
+      <DefaultText>把这跟金属棒抵在小臂上，它会刺进你的身体。手腕一抖，一副金属长爪就会露出来，提升你的徒手攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>351</ID>
-      <DefaultText>Whispers</DefaultText>
+      <DefaultText>低语者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1646,7 +1646,7 @@
     </Entry>
     <Entry>
       <ID>353</ID>
-      <DefaultText>Gravitational Overseer</DefaultText>
+      <DefaultText>重力监察官</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>355</ID>
-      <DefaultText>Ebon Eyes</DefaultText>
+      <DefaultText>乌木眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1666,7 +1666,7 @@
     </Entry>
     <Entry>
       <ID>357</ID>
-      <DefaultText>Feather Cloak</DefaultText>
+      <DefaultText>羽毛斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1676,7 +1676,7 @@
     </Entry>
     <Entry>
       <ID>359</ID>
-      <DefaultText>Caul Shield</DefaultText>
+      <DefaultText>羊膜盾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1686,7 +1686,7 @@
     </Entry>
     <Entry>
       <ID>361</ID>
-      <DefaultText>Star's Kiss</DefaultText>
+      <DefaultText>星之吻</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1696,7 +1696,7 @@
     </Entry>
     <Entry>
       <ID>363</ID>
-      <DefaultText>Disruption Blade</DefaultText>
+      <DefaultText>爆裂剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1736,7 +1736,7 @@
     </Entry>
     <Entry>
       <ID>371</ID>
-      <DefaultText>Abhumans of the Sagus Protectorate</DefaultText>
+      <DefaultText>萨古斯自治领的亚人种族</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1746,7 +1746,7 @@
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>Anise Fish</DefaultText>
+      <DefaultText>茴芹鱼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1756,7 +1756,7 @@
     </Entry>
     <Entry>
       <ID>379</ID>
-      <DefaultText>Acerbic Carp</DefaultText>
+      <DefaultText>辣鲤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1766,17 +1766,17 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>The Encroaching Darkness</DefaultText>
+      <DefaultText>渐渐渗入的黑暗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>382</ID>
-      <DefaultText>This tiny, ink-black blot is a living creature, made of thick fluid. When applied to skin, it can shape itself into a number of different kinds of black tattoos, shifting easily into complex glyph shapes. When the wearer is asleep, the Dark crawls over the skin, changing into new patterns as it finds a new place on the body to rest. When it has found a suitable spot, its tendrils dig deep into the flesh, providing some form of a restorative boon.\n\nThe exact nature and origin of the Encroaching Darkness is hard to determine. Aeon Priests have debated whether an individual Darkness is in fact one entity or an entire civilization living on another being's skin. The relation of the Darkness to the wearer is meant to be symbiotic, but the symbiosis appears imperfect.</DefaultText>
+      <DefaultText>这块墨色的小小污迹是一种由粘稠的液体构成的小小生物。涂在皮肤上之后，它可以变成多种不同的纹身，在各种不同的字符间变换。使用者睡觉的时候，这片黑暗会爬上他的皮肤，在找到新落脚点之后变成新的样子。发现合适的地方之后，它的触手会深深扎入身体，提供一定的回复能力。\n\n渐渐渗入的黑暗的真实本质和起源至今还未能被发现。亘古司祭们也在争论这一片黑暗是一个单独的生物体还是整体生活在其他生物皮肤上的文明。黑暗和它的携带者应该是一组共生体，但是共生关系并不完美。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>383</ID>
-      <DefaultText>Chronal Transference Device</DefaultText>
+      <DefaultText>时空转移设备</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1786,7 +1786,7 @@
     </Entry>
     <Entry>
       <ID>385</ID>
-      <DefaultText>Note for Aligern</DefaultText>
+      <DefaultText>给阿里戈恩的便条</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1796,7 +1796,7 @@
     </Entry>
     <Entry>
       <ID>387</ID>
-      <DefaultText>Procreative Surge Turbine</DefaultText>
+      <DefaultText>生殖涌动涡轮</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1806,7 +1806,7 @@
     </Entry>
     <Entry>
       <ID>389</ID>
-      <DefaultText>The Empty Child</DefaultText>
+      <DefaultText>呆板的孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1816,7 +1816,7 @@
     </Entry>
     <Entry>
       <ID>391</ID>
-      <DefaultText>Hyperkinetic Child</DefaultText>
+      <DefaultText>多动的孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1826,7 +1826,7 @@
     </Entry>
     <Entry>
       <ID>393</ID>
-      <DefaultText>Encephalic Rush</DefaultText>
+      <DefaultText>颅内涌流</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1836,7 +1836,7 @@
     </Entry>
     <Entry>
       <ID>395</ID>
-      <DefaultText>Slugspitter</DefaultText>
+      <DefaultText>蛞蝓喷吐器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1866,7 +1866,7 @@
     </Entry>
     <Entry>
       <ID>401</ID>
-      <DefaultText>Exalted Vapor</DefaultText>
+      <DefaultText>崇高蒸汽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1896,7 +1896,7 @@
     </Entry>
     <Entry>
       <ID>407</ID>
-      <DefaultText>Conflict Advisor</DefaultText>
+      <DefaultText>冲突顾问</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1936,7 +1936,7 @@
     </Entry>
     <Entry>
       <ID>415</ID>
-      <DefaultText>Image Blocker</DefaultText>
+      <DefaultText>视觉屏蔽器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1946,7 +1946,7 @@
     </Entry>
     <Entry>
       <ID>417</ID>
-      <DefaultText>Thick Air Snare</DefaultText>
+      <DefaultText>浓稠空气陷阱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1956,7 +1956,7 @@
     </Entry>
     <Entry>
       <ID>419</ID>
-      <DefaultText>Elutriated Force</DefaultText>
+      <DefaultText>净化力量</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1966,7 +1966,7 @@
     </Entry>
     <Entry>
       <ID>421</ID>
-      <DefaultText>Fleetfoot Moss</DefaultText>
+      <DefaultText>快腿苔藓</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1986,7 +1986,7 @@
     </Entry>
     <Entry>
       <ID>425</ID>
-      <DefaultText>Fresh Vapors</DefaultText>
+      <DefaultText>新鲜蒸汽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1996,7 +1996,7 @@
     </Entry>
     <Entry>
       <ID>427</ID>
-      <DefaultText>Lord's Cup</DefaultText>
+      <DefaultText>王之杯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2006,7 +2006,7 @@
     </Entry>
     <Entry>
       <ID>429</ID>
-      <DefaultText>Fatherteller</DefaultText>
+      <DefaultText>父现镜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2016,7 +2016,7 @@
     </Entry>
     <Entry>
       <ID>431</ID>
-      <DefaultText>Dullstrike</DefaultText>
+      <DefaultText>麻木打击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2026,7 +2026,7 @@
     </Entry>
     <Entry>
       <ID>433</ID>
-      <DefaultText>Shuisse</DefaultText>
+      <DefaultText>水思</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2036,7 +2036,7 @@
     </Entry>
     <Entry>
       <ID>435</ID>
-      <DefaultText>Brood's Ears</DefaultText>
+      <DefaultText>冥想之耳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2046,7 +2046,7 @@
     </Entry>
     <Entry>
       <ID>437</ID>
-      <DefaultText>Shadowflower</DefaultText>
+      <DefaultText>影之花</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2056,7 +2056,7 @@
     </Entry>
     <Entry>
       <ID>439</ID>
-      <DefaultText>Coruscating City Map</DefaultText>
+      <DefaultText>闪光的城市图</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2086,7 +2086,7 @@
     </Entry>
     <Entry>
       <ID>445</ID>
-      <DefaultText>Contingent Subroutine</DefaultText>
+      <DefaultText>小队日常</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2116,7 +2116,7 @@
     </Entry>
     <Entry>
       <ID>451</ID>
-      <DefaultText>Cyclonic Cube</DefaultText>
+      <DefaultText>漩涡立方</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2136,7 +2136,7 @@
     </Entry>
     <Entry>
       <ID>455</ID>
-      <DefaultText>Sparkle</DefaultText>
+      <DefaultText>火花</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2176,7 +2176,7 @@
     </Entry>
     <Entry>
       <ID>465</ID>
-      <DefaultText>Areph</DefaultText>
+      <DefaultText>阿瑞夫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2186,7 +2186,7 @@
     </Entry>
     <Entry>
       <ID>467</ID>
-      <DefaultText>Vareth</DefaultText>
+      <DefaultText>瓦莱斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2216,7 +2216,7 @@
     </Entry>
     <Entry>
       <ID>473</ID>
-      <DefaultText>Notes on the Nychthemeron</DefaultText>
+      <DefaultText>关于昼夜魔怪的记录</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2246,7 +2246,7 @@
     </Entry>
     <Entry>
       <ID>481</ID>
-      <DefaultText>Jalley</DefaultText>
+      <DefaultText>乱语鱼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2256,7 +2256,7 @@
     </Entry>
     <Entry>
       <ID>483</ID>
-      <DefaultText>Machine Intelligence Prototype</DefaultText>
+      <DefaultText>机械智能原型</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2266,7 +2266,7 @@
     </Entry>
     <Entry>
       <ID>485</ID>
-      <DefaultText>Chronal Thief</DefaultText>
+      <DefaultText>时光窃贼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2296,7 +2296,7 @@
     </Entry>
     <Entry>
       <ID>493</ID>
-      <DefaultText>Thunder Cannon</DefaultText>
+      <DefaultText>雷铳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2306,7 +2306,7 @@
     </Entry>
     <Entry>
       <ID>503</ID>
-      <DefaultText>Temporal Hammer</DefaultText>
+      <DefaultText>现世之锤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2316,7 +2316,7 @@
     </Entry>
     <Entry>
       <ID>505</ID>
-      <DefaultText>Lock of Artaglio's Hair</DefaultText>
+      <DefaultText>阿塔里奥的头发</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2326,7 +2326,7 @@
     </Entry>
     <Entry>
       <ID>507</ID>
-      <DefaultText>Hontri's Essence</DefaultText>
+      <DefaultText>宏特利的佳酿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2336,7 +2336,7 @@
     </Entry>
     <Entry>
       <ID>509</ID>
-      <DefaultText>Ovoid Merecaster</DefaultText>
+      <DefaultText>卵形虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2346,7 +2346,7 @@
     </Entry>
     <Entry>
       <ID>511</ID>
-      <DefaultText>Frictionless Merecaster</DefaultText>
+      <DefaultText>光滑虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2356,7 +2356,7 @@
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>Azure Steel Merecaster</DefaultText>
+      <DefaultText>天青钢虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2366,7 +2366,7 @@
     </Entry>
     <Entry>
       <ID>515</ID>
-      <DefaultText>Badge of Office</DefaultText>
+      <DefaultText>官员徽章</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2376,7 +2376,7 @@
     </Entry>
     <Entry>
       <ID>517</ID>
-      <DefaultText>The Face That Never Remembered</DefaultText>
+      <DefaultText>无法铭记的脸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2386,7 +2386,7 @@
     </Entry>
     <Entry>
       <ID>519</ID>
-      <DefaultText>Ball of Bloom-flesh</DefaultText>
+      <DefaultText>一块魔葵肉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2406,7 +2406,7 @@
     </Entry>
     <Entry>
       <ID>523</ID>
-      <DefaultText>Artaglio's Consolation Mug</DefaultText>
+      <DefaultText>慰藉阿塔里奥的杯子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2416,7 +2416,7 @@
     </Entry>
     <Entry>
       <ID>525</ID>
-      <DefaultText>Shield of Two Skies</DefaultText>
+      <DefaultText>双空盾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2426,7 +2426,7 @@
     </Entry>
     <Entry>
       <ID>529</ID>
-      <DefaultText>Sac of Molecular Acid</DefaultText>
+      <DefaultText>分子酸囊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2436,7 +2436,7 @@
     </Entry>
     <Entry>
       <ID>531</ID>
-      <DefaultText>Musical Log</DefaultText>
+      <DefaultText>音乐记录</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2446,7 +2446,7 @@
     </Entry>
     <Entry>
       <ID>533</ID>
-      <DefaultText>Candy Dispenser</DefaultText>
+      <DefaultText>发糖机</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2456,7 +2456,7 @@
     </Entry>
     <Entry>
       <ID>543</ID>
-      <DefaultText>The Shadow Ring</DefaultText>
+      <DefaultText>阴影之戒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2466,7 +2466,7 @@
     </Entry>
     <Entry>
       <ID>549</ID>
-      <DefaultText>The Tome of Singing Thorns</DefaultText>
+      <DefaultText>歌荆棘卷册</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2476,12 +2476,12 @@
     </Entry>
     <Entry>
       <ID>553</ID>
-      <DefaultText>Completely refills Health.</DefaultText>
+      <DefaultText>将生命回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>554</ID>
-      <DefaultText>Second Skin</DefaultText>
+      <DefaultText>第二层皮</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2491,17 +2491,17 @@
     </Entry>
     <Entry>
       <ID>556</ID>
-      <DefaultText>Jagged Memory</DefaultText>
+      <DefaultText>交错的记忆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>557</ID>
-      <DefaultText>This artifact is a metal mesh, installed beneath your skin, that guides your attacks so they will always seem to find an old scar or wound that never quite healed, causing more serious injury than would otherwise be dealt.\n\nThe noted scholarch Arii-noq postulated that this artifact functions by causing the older wound before the fight ever begins. The injury then troubles the victim, perhaps for years, slowing them such that the current attack lands.</DefaultText>
+      <DefaultText>这件物品是铺在你皮肤底下的一块金属网，它似乎总使能在敌人身上找出一条疤痕或是没好利落的伤口，然后引导你攻击过去，造成更严重的伤害。\n\n著名的大学者埃利诺克认为，这件物品在战斗开始之前就造成了这些旧伤。这些伤口已经让受害者痛苦了很久（可能有数年之久），让他们在现在的攻击落下来之前来不及反应。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>558</ID>
-      <DefaultText>Cacophonous Consciousness</DefaultText>
+      <DefaultText>吵闹的意识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2511,7 +2511,7 @@
     </Entry>
     <Entry>
       <ID>560</ID>
-      <DefaultText>Eyes of the Finite</DefaultText>
+      <DefaultText>有限之眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2521,7 +2521,7 @@
     </Entry>
     <Entry>
       <ID>562</ID>
-      <DefaultText>Beads of Time Neverending</DefaultText>
+      <DefaultText>无尽时间念珠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2531,7 +2531,7 @@
     </Entry>
     <Entry>
       <ID>564</ID>
-      <DefaultText>Amulet of the Eternal Traveler</DefaultText>
+      <DefaultText>永恒旅者护符</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2541,7 +2541,7 @@
     </Entry>
     <Entry>
       <ID>566</ID>
-      <DefaultText>Heretic's Fork</DefaultText>
+      <DefaultText>异教徒的叉子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2551,7 +2551,7 @@
     </Entry>
     <Entry>
       <ID>568</ID>
-      <DefaultText>Conduit Rings</DefaultText>
+      <DefaultText>导管戒指</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2561,7 +2561,7 @@
     </Entry>
     <Entry>
       <ID>570</ID>
-      <DefaultText>Fractured Band</DefaultText>
+      <DefaultText>破碎的腕带</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>572</ID>
-      <DefaultText>Frost Brooch</DefaultText>
+      <DefaultText>冰霜胸针</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2581,7 +2581,7 @@
     </Entry>
     <Entry>
       <ID>574</ID>
-      <DefaultText>Smart Band</DefaultText>
+      <DefaultText>智能腕带</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2591,7 +2591,7 @@
     </Entry>
     <Entry>
       <ID>576</ID>
-      <DefaultText>Pellucid Wrap</DefaultText>
+      <DefaultText>透明披肩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2601,7 +2601,7 @@
     </Entry>
     <Entry>
       <ID>578</ID>
-      <DefaultText>Fibrous Bar</DefaultText>
+      <DefaultText>纤维棒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2611,7 +2611,7 @@
     </Entry>
     <Entry>
       <ID>580</ID>
-      <DefaultText>The Foreman's Children</DefaultText>
+      <DefaultText>工头的孩子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2621,7 +2621,7 @@
     </Entry>
     <Entry>
       <ID>582</ID>
-      <DefaultText>Petronel</DefaultText>
+      <DefaultText>火枪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2631,7 +2631,7 @@
     </Entry>
     <Entry>
       <ID>586</ID>
-      <DefaultText>Warmask</DefaultText>
+      <DefaultText>战争面具</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2646,17 +2646,17 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>Next enemy that makes a melee attack on this character gets [FettleIcon: Debuff][Color: NegativeModifier]Knocked Down[/Color].</DefaultText>
+      <DefaultText>下一个对该人物发动近战攻击的敌人被[FettleIcon: Debuff][Color: NegativeModifier]击倒[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>590</ID>
-      <DefaultText>Next enemy that makes a melee attack on this character gets [FettleIcon: Debuff][Color: NegativeModifier]Knocked Down[/Color].</DefaultText>
+      <DefaultText>下一个对该人物发动近战攻击的敌人被[FettleIcon: Debuff][Color: NegativeModifier]击倒[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>591</ID>
-      <DefaultText>Bronze Sphere</DefaultText>
+      <DefaultText>铜球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2666,7 +2666,7 @@
     </Entry>
     <Entry>
       <ID>593</ID>
-      <DefaultText>Panoramic Capture Ball</DefaultText>
+      <DefaultText>全景记录球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2676,7 +2676,7 @@
     </Entry>
     <Entry>
       <ID>595</ID>
-      <DefaultText>Chronal Thief</DefaultText>
+      <DefaultText>时光窃贼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>597</ID>
-      <DefaultText>Mycometal Vine Fragment</DefaultText>
+      <DefaultText>菌金属藤碎片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2696,7 +2696,7 @@
     </Entry>
     <Entry>
       <ID>599</ID>
-      <DefaultText>Stichus Amniotic Fluid</DefaultText>
+      <DefaultText>啮蜂羊膜液</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2706,7 +2706,7 @@
     </Entry>
     <Entry>
       <ID>601</ID>
-      <DefaultText>Healing Sword</DefaultText>
+      <DefaultText>治愈之剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2736,7 +2736,7 @@
     </Entry>
     <Entry>
       <ID>607</ID>
-      <DefaultText>Aligern's Coat</DefaultText>
+      <DefaultText>阿里戈恩的大衣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2746,7 +2746,7 @@
     </Entry>
     <Entry>
       <ID>609</ID>
-      <DefaultText>Tybir's Mantle</DefaultText>
+      <DefaultText>提比尔的斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2756,7 +2756,7 @@
     </Entry>
     <Entry>
       <ID>611</ID>
-      <DefaultText>Matkina's Cloak</DefaultText>
+      <DefaultText>麦特琪娜的斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2766,7 +2766,7 @@
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>Rhin's Jacket</DefaultText>
+      <DefaultText>润的夹克</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2776,7 +2776,7 @@
     </Entry>
     <Entry>
       <ID>615</ID>
-      <DefaultText>Ahl</DefaultText>
+      <DefaultText>阿尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2786,7 +2786,7 @@
     </Entry>
     <Entry>
       <ID>617</ID>
-      <DefaultText>Varlin</DefaultText>
+      <DefaultText>瓦琳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2796,12 +2796,12 @@
     </Entry>
     <Entry>
       <ID>619</ID>
-      <DefaultText>Callistege's Dress</DefaultText>
+      <DefaultText>卡莱斯蒂的裙子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>620</ID>
-      <DefaultText>Aligern's Vest</DefaultText>
+      <DefaultText>阿里戈恩的背心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2816,7 +2816,7 @@
     </Entry>
     <Entry>
       <ID>623</ID>
-      <DefaultText>Erritis' Doublet</DefaultText>
+      <DefaultText>艾瑞提斯的紧身衣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2826,7 +2826,7 @@
     </Entry>
     <Entry>
       <ID>625</ID>
-      <DefaultText>Matkina's Leather Armor</DefaultText>
+      <DefaultText>麦特琪娜的皮甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2836,7 +2836,7 @@
     </Entry>
     <Entry>
       <ID>627</ID>
-      <DefaultText>Tybir's Sark</DefaultText>
+      <DefaultText>提比尔的衬衣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2856,7 +2856,7 @@
     </Entry>
     <Entry>
       <ID>631</ID>
-      <DefaultText>Synth Breastplate</DefaultText>
+      <DefaultText>合成胸甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2866,7 +2866,7 @@
     </Entry>
     <Entry>
       <ID>633</ID>
-      <DefaultText>Micromesh</DefaultText>
+      <DefaultText>微网战甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2876,7 +2876,7 @@
     </Entry>
     <Entry>
       <ID>635</ID>
-      <DefaultText>Bloom-flesh Armor</DefaultText>
+      <DefaultText>魔葵肉战甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2891,7 +2891,7 @@
     </Entry>
     <Entry>
       <ID>638</ID>
-      <DefaultText>Angule and the Greater Good</DefaultText>
+      <DefaultText>安古尔和上善之道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2901,7 +2901,7 @@
     </Entry>
     <Entry>
       <ID>640</ID>
-      <DefaultText>Two Weeks and a Day</DefaultText>
+      <DefaultText>两周零一天</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2911,7 +2911,7 @@
     </Entry>
     <Entry>
       <ID>642</ID>
-      <DefaultText>Humming and Hiding</DefaultText>
+      <DefaultText>隐蔽与哼哼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2921,7 +2921,7 @@
     </Entry>
     <Entry>
       <ID>644</ID>
-      <DefaultText>Known Powers</DefaultText>
+      <DefaultText>已知强权</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2941,7 +2941,7 @@
     </Entry>
     <Entry>
       <ID>648</ID>
-      <DefaultText>Grants immunity to [FettleIcon: Debuff][Color: NegativeModifier]Dazed[/Color] and [FettleIcon: Debuff][Color: NegativeModifier]Blinded[/Color].</DefaultText>
+      <DefaultText>免疫[FettleIcon: Debuff][Color: NegativeModifier]恍惚[/Color]及[FettleIcon: Debuff][Color: NegativeModifier]失明[/Color]状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2956,17 +2956,17 @@
     </Entry>
     <Entry>
       <ID>651</ID>
-      <DefaultText>Heretic's Fork</DefaultText>
+      <DefaultText>异教徒的叉子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>Immunity to Fear Fettle.</DefaultText>
+      <DefaultText>免疫恐惧状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>653</ID>
-      <DefaultText>Crown of Eyes Negative</DefaultText>
+      <DefaultText>魔眼王冠负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2976,7 +2976,7 @@
     </Entry>
     <Entry>
       <ID>655</ID>
-      <DefaultText>Ebon Eyes Negative</DefaultText>
+      <DefaultText>乌木眼负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2986,22 +2986,22 @@
     </Entry>
     <Entry>
       <ID>657</ID>
-      <DefaultText>Fibrous Bar Negative</DefaultText>
+      <DefaultText>纤维棒负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>658</ID>
-      <DefaultText>Might Edge -1.</DefaultText>
+      <DefaultText>气力节省值-1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>659</ID>
-      <DefaultText>Heretic's Fork Negative</DefaultText>
+      <DefaultText>异教徒的叉子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>660</ID>
-      <DefaultText>Intellect Pool -3.</DefaultText>
+      <DefaultText>心智值-3。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3016,27 +3016,27 @@
     </Entry>
     <Entry>
       <ID>663</ID>
-      <DefaultText>Pellucid Wrap Negative</DefaultText>
+      <DefaultText>透明披肩负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>664</ID>
-      <DefaultText>Intellect Edge -1.</DefaultText>
+      <DefaultText>心智节省值-1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>665</ID>
-      <DefaultText>Second Skin Negative</DefaultText>
+      <DefaultText>第二层皮负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>666</ID>
-      <DefaultText>Speed Pool -2.</DefaultText>
+      <DefaultText>速度值-2。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>667</ID>
-      <DefaultText>Shadowstep Negative</DefaultText>
+      <DefaultText>暗影步负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3051,12 +3051,12 @@
     </Entry>
     <Entry>
       <ID>670</ID>
-      <DefaultText>Might Pool -3.</DefaultText>
+      <DefaultText>气力值-3。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>671</ID>
-      <DefaultText>Bao Negative</DefaultText>
+      <DefaultText>宝儿负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3066,7 +3066,7 @@
     </Entry>
     <Entry>
       <ID>673</ID>
-      <DefaultText>Walur</DefaultText>
+      <DefaultText>瓦鲁尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3076,7 +3076,7 @@
     </Entry>
     <Entry>
       <ID>675</ID>
-      <DefaultText>Armor +3 versus Physical, Cold, Heat and Electricity Damage for 5 Rounds.</DefaultText>
+      <DefaultText>面对物理、炽热、酷寒、电流和酸性伤害时，护甲+3，持续5回合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3091,14 +3091,15 @@
     </Entry>
     <Entry>
       <ID>678</ID>
-      <DefaultText>Doubles damage of next 3 melee weapon attacks.</DefaultText>
+      <DefaultText>接下来的3次近战武器攻击伤害翻倍。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>679</ID>
-      <DefaultText>Speed Edge +1 until next rest.</DefaultText>
+      <DefaultText>下次休息前速度节省值+1。</DefaultText>
       <FemaleText />
     </Entry>
+<!--注意-->
     <Entry>
       <ID>680</ID>
       <DefaultText>On hit: Deals 2 Physical and 1 Heat Damage to all within a medium circle. - On miss: Deals 1 Heat Damage to all within a medium circle.</DefaultText>
@@ -3116,7 +3117,7 @@
     </Entry>
     <Entry>
       <ID>683</ID>
-      <DefaultText>Cypher Limit +1 until next Rest.</DefaultText>
+      <DefaultText>下次休息前秘具上限+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3126,7 +3127,7 @@
     </Entry>
     <Entry>
       <ID>685</ID>
-      <DefaultText>Reduce damage from chosen damage type by half for 3 turns.</DefaultText>
+      <DefaultText>所选属性伤害减半，持续3回合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3141,7 +3142,7 @@
     </Entry>
     <Entry>
       <ID>688</ID>
-      <DefaultText>Immediately gain [FettleIcon: Status][Color: PositiveModifier]Hidden[/Color] with no chance of being spotted.</DefaultText>
+      <DefaultText>立刻获得[FettleIcon: Status][Color: PositiveModifier]躲藏[/Color]状态，不会被发现。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3151,7 +3152,7 @@
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>Lore skill of choice +1 until next rest.</DefaultText>
+      <DefaultText>下次休息前所选的知识技能水平+1。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3161,7 +3162,7 @@
     </Entry>
     <Entry>
       <ID>692</ID>
-      <DefaultText>Quick Fingers +2 until next Rest.</DefaultText>
+      <DefaultText>下次休息前手上功夫+2。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3181,7 +3182,7 @@
     </Entry>
     <Entry>
       <ID>696</ID>
-      <DefaultText>Steel Seed-pod</DefaultText>
+      <DefaultText>铁豆荚</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3196,7 +3197,7 @@
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>Refill [Color: Health]Health[/Color], [Color: Might]Might[/Color], [Color: Speed]Speed[/Color], and [Color: Intellect]Intellect[/Color] for all party members.</DefaultText>
+      <DefaultText>将所有队伍成员[Color: Health]生命[/Color]、[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]及[Color: Intellect]心智[/Color]回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3211,7 +3212,7 @@
     </Entry>
     <Entry>
       <ID>702</ID>
-      <DefaultText>Swap position with target.</DefaultText>
+      <DefaultText>与目标交换位置。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3226,7 +3227,7 @@
     </Entry>
     <Entry>
       <ID>705</ID>
-      <DefaultText>Clears the fog of war in the current area.</DefaultText>
+      <DefaultText>驱除当前区域的迷雾。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3336,7 +3337,7 @@
     </Entry>
     <Entry>
       <ID>738</ID>
-      <DefaultText>Quickice Axe</DefaultText>
+      <DefaultText>速冻斧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3361,7 +3362,7 @@
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>Viscera Sprig</DefaultText>
+      <DefaultText>枝穿内脏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3391,7 +3392,7 @@
     </Entry>
     <Entry>
       <ID>749</ID>
-      <DefaultText>Black Metal Frame</DefaultText>
+      <DefaultText>黑金属框架</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3401,7 +3402,7 @@
     </Entry>
     <Entry>
       <ID>751</ID>
-      <DefaultText>Scorgil's Talisman</DefaultText>
+      <DefaultText>斯克吉尔的护符</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3411,7 +3412,7 @@
     </Entry>
     <Entry>
       <ID>753</ID>
-      <DefaultText>Butterfly</DefaultText>
+      <DefaultText>蝴蝶</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3421,7 +3422,7 @@
     </Entry>
     <Entry>
       <ID>755</ID>
-      <DefaultText>Black Stone Rings</DefaultText>
+      <DefaultText>黑石环</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3431,7 +3432,7 @@
     </Entry>
     <Entry>
       <ID>757</ID>
-      <DefaultText>Traitors' Rings</DefaultText>
+      <DefaultText>背叛者之环</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3446,7 +3447,7 @@
     </Entry>
     <Entry>
       <ID>760</ID>
-      <DefaultText>God of Finding</DefaultText>
+      <DefaultText>发现之神</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3454,6 +3455,7 @@
       <DefaultText>​Rhin gave you this very small knife just before she returned to her world. She called it a god of friends and finding. She admitted it might not be very strong, but she hoped it would help you and her to find each other again someday. The blade is dull and it is too small to be of use as a weapon.</DefaultText>
       <FemaleText />
     </Entry>
+<!--注意-->
     <Entry>
       <ID>762</ID>
       <DefaultText>Permanently increase Speed by 1</DefaultText>
@@ -3471,7 +3473,7 @@
     </Entry>
     <Entry>
       <ID>765</ID>
-      <DefaultText>God of Small Devices</DefaultText>
+      <DefaultText>小装置之神</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3481,7 +3483,7 @@
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>Certificate of Indemnity</DefaultText>
+      <DefaultText>赦免书</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3501,7 +3503,7 @@
     </Entry>
     <Entry>
       <ID>771</ID>
-      <DefaultText>Essence of a Single Sigh</DefaultText>
+      <DefaultText>叹息精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3521,7 +3523,7 @@
     </Entry>
     <Entry>
       <ID>775</ID>
-      <DefaultText>Diffractory Lens</DefaultText>
+      <DefaultText>衍射镜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3531,7 +3533,7 @@
     </Entry>
     <Entry>
       <ID>777</ID>
-      <DefaultText>Scriptures of the Great Devourer</DefaultText>
+      <DefaultText>巨噬者圣经</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3541,7 +3543,7 @@
     </Entry>
     <Entry>
       <ID>779</ID>
-      <DefaultText>Faceted Ethereal Globe</DefaultText>
+      <DefaultText>多面天球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3551,7 +3553,7 @@
     </Entry>
     <Entry>
       <ID>781</ID>
-      <DefaultText>Jar of Alchemical Powder</DefaultText>
+      <DefaultText>一罐炼金粉末</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3561,7 +3563,7 @@
     </Entry>
     <Entry>
       <ID>783</ID>
-      <DefaultText>Butterfly</DefaultText>
+      <DefaultText>蝴蝶</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3571,7 +3573,7 @@
     </Entry>
     <Entry>
       <ID>785</ID>
-      <DefaultText>Collection of Crystals</DefaultText>
+      <DefaultText>一批水晶</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3581,7 +3583,7 @@
     </Entry>
     <Entry>
       <ID>787</ID>
-      <DefaultText>Patience Everlasting</DefaultText>
+      <DefaultText>耐心永恒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3591,7 +3593,7 @@
     </Entry>
     <Entry>
       <ID>789</ID>
-      <DefaultText>Hauden</DefaultText>
+      <DefaultText>豪登</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3601,7 +3603,7 @@
     </Entry>
     <Entry>
       <ID>791</ID>
-      <DefaultText>Elsewindow</DefaultText>
+      <DefaultText>异界之窗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3611,7 +3613,7 @@
     </Entry>
     <Entry>
       <ID>793</ID>
-      <DefaultText>Chaotic Quartz</DefaultText>
+      <DefaultText>混沌石英</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3621,7 +3623,7 @@
     </Entry>
     <Entry>
       <ID>795</ID>
-      <DefaultText>Amil'Thea</DefaultText>
+      <DefaultText>艾米尔希</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3631,7 +3633,7 @@
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>Liquid Death</DefaultText>
+      <DefaultText>液态死亡</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3641,7 +3643,7 @@
     </Entry>
     <Entry>
       <ID>799</ID>
-      <DefaultText>Enigmatic Sphere</DefaultText>
+      <DefaultText>迷球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3651,7 +3653,7 @@
     </Entry>
     <Entry>
       <ID>801</ID>
-      <DefaultText>Smart Traveler's Star</DefaultText>
+      <DefaultText>聪明旅者之星</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3661,7 +3663,7 @@
     </Entry>
     <Entry>
       <ID>803</ID>
-      <DefaultText>Ophidiax Husk</DefaultText>
+      <DefaultText>迷蛇外皮</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3671,7 +3673,7 @@
     </Entry>
     <Entry>
       <ID>805</ID>
-      <DefaultText>Heavenly Submission</DefaultText>
+      <DefaultText>神圣服从</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3681,7 +3683,7 @@
     </Entry>
     <Entry>
       <ID>807</ID>
-      <DefaultText>Canerads</DefaultText>
+      <DefaultText>着向器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3691,7 +3693,7 @@
     </Entry>
     <Entry>
       <ID>809</ID>
-      <DefaultText>Ancient Spirit Cube</DefaultText>
+      <DefaultText>久远灵魂立方</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3701,7 +3703,7 @@
     </Entry>
     <Entry>
       <ID>811</ID>
-      <DefaultText>Gauntlet of Murder</DefaultText>
+      <DefaultText>谋杀手套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3711,7 +3713,7 @@
     </Entry>
     <Entry>
       <ID>813</ID>
-      <DefaultText>Soul of the Forgotten</DefaultText>
+      <DefaultText>遗忘者的灵魂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3721,7 +3723,7 @@
     </Entry>
     <Entry>
       <ID>815</ID>
-      <DefaultText>White Ceturl Paw Locket</DefaultText>
+      <DefaultText>白塞兔爪吊坠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3731,7 +3733,7 @@
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>Fuzzy Rodent Statue</DefaultText>
+      <DefaultText>毛茸茸的鼠类雕塑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3741,7 +3743,7 @@
     </Entry>
     <Entry>
       <ID>819</ID>
-      <DefaultText>Gloves of the Forgotten Gardener</DefaultText>
+      <DefaultText>遗忘园丁的手套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3751,7 +3753,7 @@
     </Entry>
     <Entry>
       <ID>821</ID>
-      <DefaultText>Ossified Trifolium</DefaultText>
+      <DefaultText>硬化三叶草</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3761,7 +3763,7 @@
     </Entry>
     <Entry>
       <ID>823</ID>
-      <DefaultText>M's Sphere</DefaultText>
+      <DefaultText>M的球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3771,7 +3773,7 @@
     </Entry>
     <Entry>
       <ID>825</ID>
-      <DefaultText>Fuzzy Rodent Statue</DefaultText>
+      <DefaultText>毛茸茸的鼠类雕塑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3781,7 +3783,7 @@
     </Entry>
     <Entry>
       <ID>827</ID>
-      <DefaultText>Heatcup</DefaultText>
+      <DefaultText>加热杯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3791,7 +3793,7 @@
     </Entry>
     <Entry>
       <ID>829</ID>
-      <DefaultText>Haspel</DefaultText>
+      <DefaultText>轳辘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3801,7 +3803,7 @@
     </Entry>
     <Entry>
       <ID>831</ID>
-      <DefaultText>Everlit</DefaultText>
+      <DefaultText>未明灯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3811,7 +3813,7 @@
     </Entry>
     <Entry>
       <ID>833</ID>
-      <DefaultText>Starsight</DefaultText>
+      <DefaultText>星观</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3821,7 +3823,7 @@
     </Entry>
     <Entry>
       <ID>835</ID>
-      <DefaultText>Teling</DefaultText>
+      <DefaultText>泰林</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3831,7 +3833,7 @@
     </Entry>
     <Entry>
       <ID>837</ID>
-      <DefaultText>Cìne</DefaultText>
+      <DefaultText>影</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3841,7 +3843,7 @@
     </Entry>
     <Entry>
       <ID>839</ID>
-      <DefaultText>Floating Pendant</DefaultText>
+      <DefaultText>漂浮挂件</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3851,7 +3853,7 @@
     </Entry>
     <Entry>
       <ID>841</ID>
-      <DefaultText>Shifting Whispers</DefaultText>
+      <DefaultText>变换低语</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3861,7 +3863,7 @@
     </Entry>
     <Entry>
       <ID>843</ID>
-      <DefaultText>Tar River Globe</DefaultText>
+      <DefaultText>焦油河球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3871,7 +3873,7 @@
     </Entry>
     <Entry>
       <ID>845</ID>
-      <DefaultText>Pastel Blue Candy</DefaultText>
+      <DefaultText>淡蓝糖果</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3881,7 +3883,7 @@
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>Life Support Nodule</DefaultText>
+      <DefaultText>维生结节</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3891,7 +3893,7 @@
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>Unstable Detonation</DefaultText>
+      <DefaultText>不稳定爆炸物</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3901,7 +3903,7 @@
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText>Scorpion's Desire</DefaultText>
+      <DefaultText>天蝎欲望</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3911,7 +3913,7 @@
     </Entry>
     <Entry>
       <ID>853</ID>
-      <DefaultText>Image Projector</DefaultText>
+      <DefaultText>视觉投射仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3921,7 +3923,7 @@
     </Entry>
     <Entry>
       <ID>855</ID>
-      <DefaultText>Stim</DefaultText>
+      <DefaultText>刺激针剂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3931,7 +3933,7 @@
     </Entry>
     <Entry>
       <ID>857</ID>
-      <DefaultText>Dolk</DefaultText>
+      <DefaultText>毒比首</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3941,7 +3943,7 @@
     </Entry>
     <Entry>
       <ID>859</ID>
-      <DefaultText>Sweeping Glove</DefaultText>
+      <DefaultText>清扫手套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3951,7 +3953,7 @@
     </Entry>
     <Entry>
       <ID>861</ID>
-      <DefaultText>Charmpaste</DefaultText>
+      <DefaultText>魅惑软膏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3961,7 +3963,7 @@
     </Entry>
     <Entry>
       <ID>863</ID>
-      <DefaultText>Changing Tool</DefaultText>
+      <DefaultText>变幻工具</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3971,7 +3973,7 @@
     </Entry>
     <Entry>
       <ID>865</ID>
-      <DefaultText>Savant's Slipknot</DefaultText>
+      <DefaultText>学者的活绳结</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3981,7 +3983,7 @@
     </Entry>
     <Entry>
       <ID>867</ID>
-      <DefaultText>Devouring Shell</DefaultText>
+      <DefaultText>吞噬贝壳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3991,7 +3993,7 @@
     </Entry>
     <Entry>
       <ID>869</ID>
-      <DefaultText>Blood of the Elements</DefaultText>
+      <DefaultText>元素之血</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4001,7 +4003,7 @@
     </Entry>
     <Entry>
       <ID>871</ID>
-      <DefaultText>Ring of El-Aemor</DefaultText>
+      <DefaultText>埃尔阿莫戒指</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4011,7 +4013,7 @@
     </Entry>
     <Entry>
       <ID>873</ID>
-      <DefaultText>The Furtive Eidolon</DefaultText>
+      <DefaultText>鬼魂幻象</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4021,7 +4023,7 @@
     </Entry>
     <Entry>
       <ID>875</ID>
-      <DefaultText>Shatter Striker</DefaultText>
+      <DefaultText>粉碎打击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4031,7 +4033,7 @@
     </Entry>
     <Entry>
       <ID>877</ID>
-      <DefaultText>Heart of Mal'i</DefaultText>
+      <DefaultText>马力之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4041,7 +4043,7 @@
     </Entry>
     <Entry>
       <ID>879</ID>
-      <DefaultText>Still Mirror</DefaultText>
+      <DefaultText>静止镜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4051,7 +4053,7 @@
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Barrel of Indomitability</DefaultText>
+      <DefaultText>桶装不屈</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4061,7 +4063,7 @@
     </Entry>
     <Entry>
       <ID>883</ID>
-      <DefaultText>Soothing Dark</DefaultText>
+      <DefaultText>镇静性黑暗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4071,7 +4073,7 @@
     </Entry>
     <Entry>
       <ID>885</ID>
-      <DefaultText>Conduit of Life</DefaultText>
+      <DefaultText>生命导管</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4081,7 +4083,7 @@
     </Entry>
     <Entry>
       <ID>887</ID>
-      <DefaultText>Impressively-labeled Canister</DefaultText>
+      <DefaultText>带有趣标签的罐子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4091,7 +4093,7 @@
     </Entry>
     <Entry>
       <ID>889</ID>
-      <DefaultText>Orb of Perception</DefaultText>
+      <DefaultText>感知之球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4101,7 +4103,7 @@
     </Entry>
     <Entry>
       <ID>891</ID>
-      <DefaultText>Encephalon of Subjugating Revivification</DefaultText>
+      <DefaultText>征服复活之脑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4111,7 +4113,7 @@
     </Entry>
     <Entry>
       <ID>893</ID>
-      <DefaultText>Burning Mouse</DefaultText>
+      <DefaultText>燃烧的老鼠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4121,7 +4123,7 @@
     </Entry>
     <Entry>
       <ID>895</ID>
-      <DefaultText>Mystic Marble</DefaultText>
+      <DefaultText>神秘大理石</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4131,7 +4133,7 @@
     </Entry>
     <Entry>
       <ID>897</ID>
-      <DefaultText>Hiro's Fury</DefaultText>
+      <DefaultText>宏的怒火</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4141,7 +4143,7 @@
     </Entry>
     <Entry>
       <ID>899</ID>
-      <DefaultText>A Whiff of Happiness</DefaultText>
+      <DefaultText>一口幸福</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4161,7 +4163,7 @@
     </Entry>
     <Entry>
       <ID>903</ID>
-      <DefaultText>Amethyst Heart</DefaultText>
+      <DefaultText>紫水晶之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4171,7 +4173,7 @@
     </Entry>
     <Entry>
       <ID>905</ID>
-      <DefaultText>Praesector</DefaultText>
+      <DefaultText>统陪者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4181,7 +4183,7 @@
     </Entry>
     <Entry>
       <ID>907</ID>
-      <DefaultText>Shade of the Desert Sun</DefaultText>
+      <DefaultText>沙漠太阳之影</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4191,7 +4193,7 @@
     </Entry>
     <Entry>
       <ID>909</ID>
-      <DefaultText>Bloodglobe</DefaultText>
+      <DefaultText>血之球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4201,7 +4203,7 @@
     </Entry>
     <Entry>
       <ID>911</ID>
-      <DefaultText>Gladiator's Will</DefaultText>
+      <DefaultText>角斗士的意志</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4211,7 +4213,7 @@
     </Entry>
     <Entry>
       <ID>913</ID>
-      <DefaultText>Element of Quickness</DefaultText>
+      <DefaultText>速度元素</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4221,7 +4223,7 @@
     </Entry>
     <Entry>
       <ID>915</ID>
-      <DefaultText>Essence of the Elder Unagran</DefaultText>
+      <DefaultText>巫娜格兰长老的精酿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4231,7 +4233,7 @@
     </Entry>
     <Entry>
       <ID>917</ID>
-      <DefaultText>Sarrak's Essence</DefaultText>
+      <DefaultText>萨拉卡的精酿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4241,7 +4243,7 @@
     </Entry>
     <Entry>
       <ID>919</ID>
-      <DefaultText>Essence of the Severed Tongue</DefaultText>
+      <DefaultText>断舌精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4251,7 +4253,7 @@
     </Entry>
     <Entry>
       <ID>921</ID>
-      <DefaultText>Essence of Knowledge</DefaultText>
+      <DefaultText>知识精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4261,7 +4263,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>Thousand Years of Rest</DefaultText>
+      <DefaultText>沉睡千年</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4291,7 +4293,7 @@
     </Entry>
     <Entry>
       <ID>929</ID>
-      <DefaultText>Impure Essence</DefaultText>
+      <DefaultText>肮脏精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4301,7 +4303,7 @@
     </Entry>
     <Entry>
       <ID>931</ID>
-      <DefaultText>Embrace the All</DefaultText>
+      <DefaultText>信奉一切</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4311,7 +4313,7 @@
     </Entry>
     <Entry>
       <ID>933</ID>
-      <DefaultText>Bedazzling Flower</DefaultText>
+      <DefaultText>昏迷花</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4321,7 +4323,7 @@
     </Entry>
     <Entry>
       <ID>935</ID>
-      <DefaultText>Crystal Fortress</DefaultText>
+      <DefaultText>晶体堡垒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4331,7 +4333,7 @@
     </Entry>
     <Entry>
       <ID>937</ID>
-      <DefaultText>Sin Eater</DefaultText>
+      <DefaultText>食罪者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4341,7 +4343,7 @@
     </Entry>
     <Entry>
       <ID>939</ID>
-      <DefaultText>The Cure</DefaultText>
+      <DefaultText>痊愈</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4351,7 +4353,7 @@
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText>Trethon's Mask</DefaultText>
+      <DefaultText>泰松的面具</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4361,7 +4363,7 @@
     </Entry>
     <Entry>
       <ID>943</ID>
-      <DefaultText>All-Burning Aura</DefaultText>
+      <DefaultText>烧尽一切光环</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4371,7 +4373,7 @@
     </Entry>
     <Entry>
       <ID>945</ID>
-      <DefaultText>Staff of Snakes</DefaultText>
+      <DefaultText>蛇杖</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4381,7 +4383,7 @@
     </Entry>
     <Entry>
       <ID>947</ID>
-      <DefaultText>Philiactery</DefaultText>
+      <DefaultText>召唤经匣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4421,7 +4423,7 @@
     </Entry>
     <Entry>
       <ID>955</ID>
-      <DefaultText>Azure Steel Merecaster</DefaultText>
+      <DefaultText>天青钢虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4431,7 +4433,7 @@
     </Entry>
     <Entry>
       <ID>957</ID>
-      <DefaultText>Twisted Metal Merecaster</DefaultText>
+      <DefaultText>扭曲金属虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4481,7 +4483,7 @@
     </Entry>
     <Entry>
       <ID>967</ID>
-      <DefaultText>Cacophony Blade</DefaultText>
+      <DefaultText>不和谐之刃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4491,7 +4493,7 @@
     </Entry>
     <Entry>
       <ID>969</ID>
-      <DefaultText>Galvanic Hammer</DefaultText>
+      <DefaultText>电击锤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4501,7 +4503,7 @@
     </Entry>
     <Entry>
       <ID>971</ID>
-      <DefaultText>Bloom Bone Shard</DefaultText>
+      <DefaultText>魔葵骨片</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4521,7 +4523,7 @@
     </Entry>
     <Entry>
       <ID>975</ID>
-      <DefaultText>Brace of Mighty Kalas'Tor</DefaultText>
+      <DefaultText>卡拉斯托大帝护腕</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4531,7 +4533,7 @@
     </Entry>
     <Entry>
       <ID>977</ID>
-      <DefaultText>Thinker's Cap</DefaultText>
+      <DefaultText>思想者的帽子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4551,7 +4553,7 @@
     </Entry>
     <Entry>
       <ID>981</ID>
-      <DefaultText>Chiurgeon Sphere</DefaultText>
+      <DefaultText>外壳医师球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4561,7 +4563,7 @@
     </Entry>
     <Entry>
       <ID>983</ID>
-      <DefaultText>Metabolism Fleshbud</DefaultText>
+      <DefaultText>新陈代谢肉芽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4571,7 +4573,7 @@
     </Entry>
     <Entry>
       <ID>985</ID>
-      <DefaultText>Zero Sum Engine #713</DefaultText>
+      <DefaultText>零和引擎713号</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4621,7 +4623,7 @@
     </Entry>
     <Entry>
       <ID>995</ID>
-      <DefaultText>Grounding Cloak</DefaultText>
+      <DefaultText>接地斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4631,7 +4633,7 @@
     </Entry>
     <Entry>
       <ID>997</ID>
-      <DefaultText>Spirit Shroud</DefaultText>
+      <DefaultText>灵魂裹尸布</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4641,7 +4643,7 @@
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText>Chuckling Shroud</DefaultText>
+      <DefaultText>微笑裹尸布</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4661,7 +4663,7 @@
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Cloak of Faces</DefaultText>
+      <DefaultText>脸之斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4681,7 +4683,7 @@
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Outworn Buckler</DefaultText>
+      <DefaultText>旧圆盾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4691,7 +4693,7 @@
     </Entry>
     <Entry>
       <ID>1009</ID>
-      <DefaultText>Shield of the Ceturl Prince</DefaultText>
+      <DefaultText>塞兔王子之盾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4731,7 +4733,7 @@
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>Phoenix's Note</DefaultText>
+      <DefaultText>凤凰的笔记</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4741,7 +4743,7 @@
     </Entry>
     <Entry>
       <ID>1019</ID>
-      <DefaultText>Ring of Entanglement</DefaultText>
+      <DefaultText>纠缠戒指</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4751,7 +4753,7 @@
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>Urlimnion</DefaultText>
+      <DefaultText>乌里弥翁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4761,7 +4763,7 @@
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Recalescent Stone</DefaultText>
+      <DefaultText>再辉之石</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4771,7 +4773,7 @@
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>Sonic Blade</DefaultText>
+      <DefaultText>音刃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4781,7 +4783,7 @@
     </Entry>
     <Entry>
       <ID>1027</ID>
-      <DefaultText>Impossible Blade</DefaultText>
+      <DefaultText>不真实之剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4791,7 +4793,7 @@
     </Entry>
     <Entry>
       <ID>1029</ID>
-      <DefaultText>Runic Blade of Tol Danor</DefaultText>
+      <DefaultText>托尔达诺的符文剑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4801,7 +4803,7 @@
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>Ecstasy Paralyzer</DefaultText>
+      <DefaultText>快感麻痹仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4811,7 +4813,7 @@
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Needler</DefaultText>
+      <DefaultText>吹针</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4821,7 +4823,7 @@
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Entropic Engine</DefaultText>
+      <DefaultText>熵力引擎</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4831,7 +4833,7 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>Liquid Armor</DefaultText>
+      <DefaultText>液体盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4841,7 +4843,7 @@
     </Entry>
     <Entry>
       <ID>1039</ID>
-      <DefaultText>Reactive Plate</DefaultText>
+      <DefaultText>反应板甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4851,7 +4853,7 @@
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>Exuvia</DefaultText>
+      <DefaultText>蜕</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4861,7 +4863,7 @@
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText>Living Exuvia</DefaultText>
+      <DefaultText>活体蜕</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4871,7 +4873,7 @@
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText>Spine Armor</DefaultText>
+      <DefaultText>刺甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4886,7 +4888,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Rhin's Shirt</DefaultText>
+      <DefaultText>润的衬衫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5166,7 +5168,7 @@
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>Compass of the Navigator</DefaultText>
+      <DefaultText>导航员的指南针</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5191,7 +5193,7 @@
     </Entry>
     <Entry>
       <ID>1110</ID>
-      <DefaultText>Mesmeric Handle</DefaultText>
+      <DefaultText>催眠把手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5201,7 +5203,7 @@
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>Stingcharge</DefaultText>
+      <DefaultText>针刺电击枪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5211,12 +5213,12 @@
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>Material Disruption</DefaultText>
+      <DefaultText>物质爆裂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Poisoned Needle</DefaultText>
+      <DefaultText>毒针</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5226,22 +5228,22 @@
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Sonic Disruption</DefaultText>
+      <DefaultText>音波破坏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>Petronel's Fire</DefaultText>
+      <DefaultText>枪之火</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1119</ID>
-      <DefaultText>Eternal Entropy</DefaultText>
+      <DefaultText>永恒之熵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Swap position with any target in range.</DefaultText>
+      <DefaultText>与范围内的目标交换位置。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5251,22 +5253,22 @@
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>Thinker's Cap Negative</DefaultText>
+      <DefaultText>思想者的帽子负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>Mighty Brace of Kalas'Tor Negative</DefaultText>
+      <DefaultText>卡拉斯托大帝护腕负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1124</ID>
-      <DefaultText>Zero Sum Engine #713 Negative</DefaultText>
+      <DefaultText>零和引擎713号负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>Chiurgeon Sphere Negative</DefaultText>
+      <DefaultText>外壳医师球负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5276,22 +5278,22 @@
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>Shell Armor</DefaultText>
+      <DefaultText>贝壳盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>Permanently increase [Color: Intellect]Intellect[/Color] by 1 and gain [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>永久获得1点[Color: Intellect]心智[/Color]值并获得[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Praesector Mental Perturbation</DefaultText>
+      <DefaultText>统陪者金属扰动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>Praesector's Eye</DefaultText>
+      <DefaultText>统陪者之眼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5306,7 +5308,7 @@
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>Staff of Snakes</DefaultText>
+      <DefaultText>蛇杖</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5331,7 +5333,7 @@
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>Sunspot Icon</DefaultText>
+      <DefaultText>黑子符号</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5341,7 +5343,7 @@
     </Entry>
     <Entry>
       <ID>1140</ID>
-      <DefaultText>Mesmeric Handle</DefaultText>
+      <DefaultText>催眠把手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5381,7 +5383,7 @@
     </Entry>
     <Entry>
       <ID>1148</ID>
-      <DefaultText>A Study in Datasphere Analysis</DefaultText>
+      <DefaultText>数据体分析研究</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5416,7 +5418,7 @@
     </Entry>
     <Entry>
       <ID>1155</ID>
-      <DefaultText>Refills all stat pools ([Color: Might]Might[/Color], [Color: Speed]Speed[/Color], and [Color: Intellect]Intellect[/Color]).</DefaultText>
+      <DefaultText>将所有属性值（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]）回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5431,17 +5433,17 @@
     </Entry>
     <Entry>
       <ID>1158</ID>
-      <DefaultText>Choose a combat skill. Permanent [Color: PositiveModifier]+1 training level[/Color] for that skill.</DefaultText>
+      <DefaultText>选择一项战斗技能，永久[Color: PositiveModifier]+1技能水平[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1159</ID>
-      <DefaultText>Permanently increase your training level in Concentration.</DefaultText>
+      <DefaultText>永久提升专注技能水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1160</ID>
-      <DefaultText>Permanently increase your training level in Quick Fingers.</DefaultText>
+      <DefaultText>永久提升手上功夫技能水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5451,27 +5453,27 @@
     </Entry>
     <Entry>
       <ID>1162</ID>
-      <DefaultText>[Healing] and removes all [FettleIcon: Debuff]negative fettles from all allies in range (excludes [FettleIcon: Debuff][Color: NegativeModifier]Flanked[/Color] and [FettleIcon: Debuff][Color: NegativeModifier]Lasting Damage[/Color]).</DefaultText>
+      <DefaultText>[Healing]并移除范围内所有同伴的所有[FettleIcon: Debuff]负面状态（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1163</ID>
-      <DefaultText>Permanent [Color: Positive Modifier]+1 &lt;quad class="resistance"&gt;Resistance[/Color].</DefaultText>
+      <DefaultText>永久[Color: Positive Modifier]+1&lt;quad class="resistance"&gt;抗性[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1164</ID>
-      <DefaultText>[Healing] and gain a small amount of XP.</DefaultText>
+      <DefaultText>[Healing]并获得少量XP。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1165</ID>
-      <DefaultText>Immediately remove all [FettleIcon: Buff]positive and [FettleIcon: Status]status fettles from all enemies. In addition, gain [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>立即移除所有敌人的所有[FettleIcon: Buff]正面状态和[FettleIcon: Status]其他状态。此外获得[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1166</ID>
-      <DefaultText>The Cure</DefaultText>
+      <DefaultText>痊愈</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5481,17 +5483,17 @@
     </Entry>
     <Entry>
       <ID>1168</ID>
-      <DefaultText>Slick of acid that deals [Damage] to any characters who enter or start their turn in the area</DefaultText>
+      <DefaultText>制造一滩酸液，对所有进入该区域与在该区域开始回合的敌人造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1169</ID>
-      <DefaultText>Conjured illusory horror that deals [Damage] to any enemy within its Immediate size area</DefaultText>
+      <DefaultText>召唤恐怖幻觉对所有其近身区域的敌人造成[Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>Nano-spirits reanimate the muscles of a humanoid corpse to fight by your side.</DefaultText>
+      <DefaultText>纳米幽魂操纵人型生物的尸体为你而战。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5501,17 +5503,17 @@
     </Entry>
     <Entry>
       <ID>1172</ID>
-      <DefaultText>Philiactery</DefaultText>
+      <DefaultText>召唤经匣</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1173</ID>
-      <DefaultText>Summons a fragment of the Bloom to fight with you.</DefaultText>
+      <DefaultText>召唤魔葵碎片为你而战。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1174</ID>
-      <DefaultText>Summoned wisp that attacks the enemy nearest to it for [Damage] on its turn</DefaultText>
+      <DefaultText>召唤精灵攻击最近的敌人，它会在自己的回合造成[Damage]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5531,12 +5533,12 @@
     </Entry>
     <Entry>
       <ID>1178</ID>
-      <DefaultText>Regenerates Stat pools at the beginning of each turn.</DefaultText>
+      <DefaultText>每回合开始回复属性值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1179</ID>
-      <DefaultText>[Healing] per turn and [PassiveEffectsBasic]</DefaultText>
+      <DefaultText>每回合[Healing]并[PassiveEffectsBasic]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5556,37 +5558,37 @@
     </Entry>
     <Entry>
       <ID>1183</ID>
-      <DefaultText>Counters [FettleIcon: Debuff][Color: NegativeModifier]negative fettles[/Color] (excludes [FettleIcon: Debuff][Color: NegativeModifier]Flanked[/Color] and [FettleIcon: Debuff][Color: NegativeModifier]Lasting Damage[/Color]) applied to this character and [Healing] per turn</DefaultText>
+      <DefaultText>抵消该人物身上的[FettleIcon: Debuff][Color: NegativeModifier]负面状态[/Color]（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）并每回合[Healing]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1184</ID>
-      <DefaultText>Cancels the next [FettleIcon: Debuff]negative fettle applied to this character (excludes [FettleIcon: Debuff][Color: NegativeModifier]Flanked[/Color] and [FettleIcon: Debuff][Color: NegativeModifier]Lasting Damage[/Color]) and deals [Damage] to the attacker.</DefaultText>
+      <DefaultText>消除接下来施加在该人物身上的[FettleIcon: Debuff]负面状态（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）并对攻击者造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1185</ID>
-      <DefaultText>Armor -4</DefaultText>
+      <DefaultText>护甲-4</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1186</ID>
-      <DefaultText>Zero Sum Engine #713 Armor Inactive</DefaultText>
+      <DefaultText>零和引擎713号装甲失效</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>After using the engine's power to strike an enemy, its protective capacity is temporarily deactivated.</DefaultText>
+      <DefaultText>使用引擎能量攻击敌人之后，它的防卫系统会暂时关闭。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1188</ID>
-      <DefaultText>When hit by an attack, confers [Fettles] to all allies in Medium range ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>被击中后，对中等距离内所有同伴赋予[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>When hit by an attack, confers [Fettles] to the attacker ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>被击中后，对攻击者赋予[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5596,27 +5598,27 @@
     </Entry>
     <Entry>
       <ID>1191</ID>
-      <DefaultText>At the start of each turn, a tentacle latches onto a nearby enemy. Does [Damage] to the target. [Healing] on the wearer.</DefaultText>
+      <DefaultText>每回合开始会有一条触手抓住附近的敌人。对目标造成[Damage]。装备者[Healing] 。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1192</ID>
-      <DefaultText>When hit by a melee attack, spines spring out of the armor and impale the attacker. Deals [Damage] and inflicts [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>被近战攻击命中后，盔甲内的尖刺弹出，刺穿攻击者，造成[Damage]并赋予[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1193</ID>
-      <DefaultText>When damaged by [DamageIcon: Energy][Color: Energy]Energy[/Color], [DamageIcon: Chemical][Color: Chemical]Chemical[/Color], [DamageIcon: Mental][Color: Mental]Mental[/Color], or [DamageIcon: Transdimensional][Color: Transdimensional]Transdimensional[/Color] damage, confers [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>受到[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]或[DamageIcon: Transdimensional][Color: Transdimensional]维度[/Color]伤害后，获得[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1194</ID>
-      <DefaultText>When damaged by [DamageIcon: Energy][Color: Energy]Energy[/Color], [DamageIcon: Chemical][Color: Chemical]Chemical[/Color], [DamageIcon: Mental][Color: Mental]Mental[/Color], or [DamageIcon: Transdimensional][Color: Transdimensional]Transdimensional[/Color] damage, confers [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>受到[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]或[DamageIcon: Transdimensional][Color: Transdimensional]维度[/Color]伤害后，获得[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1195</ID>
-      <DefaultText>Deals [Damage] to enemies entering or starting their turn in Immediate range.</DefaultText>
+      <DefaultText>对接近之近身或在近身位置开始回合的敌人造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5626,7 +5628,7 @@
     </Entry>
     <Entry>
       <ID>1197</ID>
-      <DefaultText>When hit with a melee attack, deals [Damage] and confers [Fettles] to attacker ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>被近战攻击命中后，对攻击者造成[Damage]赋予[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5641,12 +5643,12 @@
     </Entry>
     <Entry>
       <ID>1200</ID>
-      <DefaultText>Metabolism Fleshbud Negative</DefaultText>
+      <DefaultText>新陈代谢肉芽负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1201</ID>
-      <DefaultText>Bloom-flesh Belt</DefaultText>
+      <DefaultText>魔葵肉腰带</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5656,12 +5658,12 @@
     </Entry>
     <Entry>
       <ID>1203</ID>
-      <DefaultText>Power Source</DefaultText>
+      <DefaultText>能量源</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1204</ID>
-      <DefaultText>Chromavulum</DefaultText>
+      <DefaultText>多色七肢星</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5671,7 +5673,7 @@
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>Cut Through Dimensions</DefaultText>
+      <DefaultText>维度切断</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5681,7 +5683,7 @@
     </Entry>
     <Entry>
       <ID>1208</ID>
-      <DefaultText>Shield</DefaultText>
+      <DefaultText>盾牌</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5691,7 +5693,7 @@
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Scrawled Note</DefaultText>
+      <DefaultText>潦草的记录</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5706,12 +5708,12 @@
     </Entry>
     <Entry>
       <ID>1213</ID>
-      <DefaultText>Opens a channel to the nearest celestial body. Fires a blast that deals [Damage] and confers [Fettles] ([Duration]) to the nearest enemy on each turn it is active ([FettleDescriptions]). </DefaultText>
+      <DefaultText>与最近的天体之间建立一条通道。火焰造成[Damage]，并在物品处于激活状态时每回合赋予最近的敌人[Fettles]状态（[Duration]）（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1214</ID>
-      <DefaultText>The two characters wearing these matching rings share all fettles and [BonusAmount1]% of stats healed.</DefaultText>
+      <DefaultText>佩戴这对戒指的两个人获得同样的状态，并恢复[BonusAmount1]%属性值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5761,7 +5763,7 @@
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>Erritis' Undershirt</DefaultText>
+      <DefaultText>艾瑞提斯的汗衫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5776,7 +5778,7 @@
     </Entry>
     <Entry>
       <ID>1227</ID>
-      <DefaultText>Dimensional Mantle</DefaultText>
+      <DefaultText>维度斗篷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5786,7 +5788,7 @@
     </Entry>
     <Entry>
       <ID>1229</ID>
-      <DefaultText>Increases the Stat Pool ([Color: Might]Might[/Color], [Color: Speed]Speed[/Color], or [Color: Intellect]Intellect[/Color]) with the highest max value by 1.</DefaultText>
+      <DefaultText>提升属性值（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]或[Color: Intellect]心智[/Color]）最大值1点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5796,7 +5798,7 @@
     </Entry>
     <Entry>
       <ID>1231</ID>
-      <DefaultText>Tybir's Ring</DefaultText>
+      <DefaultText>提比尔的戒指</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5806,7 +5808,7 @@
     </Entry>
     <Entry>
       <ID>1233</ID>
-      <DefaultText>Tybir's Linked Rings</DefaultText>
+      <DefaultText>提比尔的对戒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5816,12 +5818,12 @@
     </Entry>
     <Entry>
       <ID>1235</ID>
-      <DefaultText>Letter of Pardon</DefaultText>
+      <DefaultText>赦免信</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1236</ID>
-      <DefaultText>Forged Letter of Pardon</DefaultText>
+      <DefaultText>伪造的赦免信</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5836,7 +5838,7 @@
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>[Color: PositiveModifier]+10% critical success chance[/Color] on all tasks.</DefaultText>
+      <DefaultText>所有行动[Color: PositiveModifier]+10%大成功几率[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5846,7 +5848,7 @@
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>Astronomical Merecaster</DefaultText>
+      <DefaultText>天文虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5861,12 +5863,12 @@
     </Entry>
     <Entry>
       <ID>1244</ID>
-      <DefaultText>Kaleidoscopic Merecaster</DefaultText>
+      <DefaultText>万花筒虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>Circulating Merecaster</DefaultText>
+      <DefaultText>循环虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5876,7 +5878,7 @@
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>Electrostatic Merecaster</DefaultText>
+      <DefaultText>静电虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5886,7 +5888,7 @@
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>Floral Merecaster</DefaultText>
+      <DefaultText>花状虚梦投影仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5936,7 +5938,7 @@
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>Confers [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5946,7 +5948,7 @@
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>Confers [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5956,37 +5958,37 @@
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>造成[Damage]并赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1264</ID>
-      <DefaultText>Deals [Damage] to all characters in range.</DefaultText>
+      <DefaultText>对范围内所有人物造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1265</ID>
-      <DefaultText>[Healing] and grants [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>[Healing]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>All characters in range take [Damage] and [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>范围内所有任务受到[Damage]并获得[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>Confers [Fettles] on target ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对目标赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1268</ID>
-      <DefaultText>Permanent [Color: PositiveModifier]+1 training level in Quick Fingers[/Color].</DefaultText>
+      <DefaultText>永久[Color: PositiveModifier]+1手上功夫技能水平[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1269</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5996,22 +5998,22 @@
     </Entry>
     <Entry>
       <ID>1271</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1272</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] to all enemies in range ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对范围内所有敌人造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>Deals [Damage] to target and [Healing] on user, but confers [Fettles] to the user, as well ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对目标造成[Damage]，使用者[Healing]但获得[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1274</ID>
-      <DefaultText>Confers [Fettles] ([FettleEffectsBasic] and [Color: Heal]heals 3 Health[/Color] per round).</DefaultText>
+      <DefaultText>赋予[Fettles]状态（[FettleEffectsBasic]并每回合[Color: Heal]回复3点生命[/Color]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6021,17 +6023,17 @@
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>Slices an enemy for [Damage] and confers [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对敌人造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>[Healing] and grants [Fettles] to all characters (including enemies) in range ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>[Healing]并对范围内所有人物（包括敌人）赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1278</ID>
-      <DefaultText>Inflicts [Damage] on target enemy.</DefaultText>
+      <DefaultText>对目标敌人造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6041,57 +6043,57 @@
     </Entry>
     <Entry>
       <ID>1280</ID>
-      <DefaultText>[Damage]. Push all enemies in range back a Medium distance, with a chance to deal damage if they are pushed into an obstacle.</DefaultText>
+      <DefaultText>[Damage]。将范围内所有敌人推出中等距离，如果敌人撞到了障碍物上有几率造成伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>Automatically succeed at the next Persuasion, Deception, or Intimidation task.</DefaultText>
+      <DefaultText>下次涉及说服、欺骗或威胁的行动自动获得成功。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1282</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] to all characters in range of the target point ([FettleDescriptions]).</DefaultText>
+      <DefaultText>对目标地点周围范围内所有人物造成[Damage]并赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1283</ID>
-      <DefaultText>Increases the Stat Pool ([Color: Might]Might[/Color], [Color: Speed]Speed[/Color], or [Color: Intellect]Intellect[/Color]) with the highest max value by 2. Decreases the other Pools by 1.</DefaultText>
+      <DefaultText>在属性值最高的属性上获得2点属性点（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]或[Color: Intellect]心智[/Color]）.减少其他属性点1点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1284</ID>
-      <DefaultText>[Healing] and permanently increases [Color: Intellect]Intellect[/Color] by 1.</DefaultText>
+      <DefaultText>[Healing]永久获得1点[Color: Intellect]心智[/Color]值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1285</ID>
-      <DefaultText>Summons a humanoid husk to fight by your side.</DefaultText>
+      <DefaultText>召唤人形外壳为你而战。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>Removes all [FettleIcon: Debuff]negative fettles (excludes [FettleIcon: Debuff][Color: NegativeModifier]Flanked[/Color] and [FettleIcon: Debuff][Color: NegativeModifier]Lasting Damage[/Color]) and refills [Color: Might]Might[/Color], [Color: Speed]Speed[/Color], [Color: Intellect]Intellect[/Color], and [Color: Health]Health[/Color].</DefaultText>
+      <DefaultText>移除所有[FettleIcon: Debuff]负面状态（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）将[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]、[Color: Intellect]心智[/Color]和[Color: Health]生命[/Color]回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1287</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] to all enemies in range ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>对范围内所有敌人造成[Damage]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1288</ID>
-      <DefaultText>Target enemy drops some of their possessions then wanders aimlessly, never attacking, while [FettleIcon: Debuff][Color: NegativeModifier]The Cure[/Color] is active.</DefaultText>
+      <DefaultText>目标敌人掉落身上的部分物品并开始无目的乱转，无法攻击，同时[FettleIcon: Debuff][Color: NegativeModifier]痊愈[/Color]状态激活。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1289</ID>
-      <DefaultText>Instantly swap positions with target ally. [Healing] on both parties.</DefaultText>
+      <DefaultText>立即与目标同伴交换位置。双方同时[Healing]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1290</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>造成[Damage]并赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6106,117 +6108,117 @@
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>Confers [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>赋予[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1294</ID>
-      <DefaultText>[Healing] per turn</DefaultText>
+      <DefaultText>每回合[Healing]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1295</ID>
-      <DefaultText>[Healing] and confers [Fettles] ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>[Healing]并赋予[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1296</ID>
-      <DefaultText>Deals [Damage] and confers [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>造成[Damage]并赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1297</ID>
-      <DefaultText>Choose a Lore skill. Permanent [Color: PositiveModifiers]+1 training level[/Color] to that skill.</DefaultText>
+      <DefaultText>选择一种知识技能。永久[Color: PositiveModifiers]+1技能水平[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1298</ID>
-      <DefaultText>Deals [Damage] but confers [Fettles] to wearer ([FettleEffectsBasic]).</DefaultText>
+      <DefaultText>造成[Damage]并对使用者造成[Fettles]状态（[FettleEffectsBasic]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1299</ID>
-      <DefaultText>[Healing] but inflicts [Damage], as well.</DefaultText>
+      <DefaultText>[Healing]但同时造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1300</ID>
-      <DefaultText>{0} {1} Pool drain</DefaultText>
+      <DefaultText>耗尽{0}{1}值</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1301</ID>
-      <DefaultText>On critical hits, confer [CritFettles] ([CritFettleDescriptions]).</DefaultText>
+      <DefaultText>致命一击赋予[CritFettles]（[CritFettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1302</ID>
-      <DefaultText>On hit, confer [Fettles] ([FettleEffectsBasic]). [Duration].</DefaultText>
+      <DefaultText>命中赋予[Fettles]状态（[FettleEffectsBasic]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1303</ID>
-      <DefaultText>On critical hits, [HealingCrit] on wielder.</DefaultText>
+      <DefaultText>致命一击，使用者[HealingCrit]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1304</ID>
-      <DefaultText>On hit, confer [Fettles] ([FettleEffectsBasic]). On critical hits, confer [CritFettles] ([CritFettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>命中赋予[Fettles]状态（[FettleEffectsBasic]）。致命一击赋予[CritFettles]（[CritFettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1305</ID>
-      <DefaultText>On hit, confer [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>命中赋予[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>On critical hits, confer [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>致命一击赋予[CritFettles]状态（[CritFettleDescriptions]）。[CritDuration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>On critical hits, wielder gains [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>致命一击赋予使用者[CritFettles]状态（[CritFettleDescriptions]）。[CritDuration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1308</ID>
-      <DefaultText>On hit, confers [Fettles] on target ([FettleDescriptions]). On critical hits, wielder also gains [CritFettles] ([CritFettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>命中赋予目标[Fettles]状态（[FettleDescriptions]）。致命一击赋予使用者[CritFettles]状态（[CritFettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1309</ID>
-      <DefaultText>Swap positions with target ally. Completely refills the [Color: Health]Health[/Color] of both target and caster.</DefaultText>
+      <DefaultText>与目标同伴交换位置。将施法者与目标的[Color: Health]生命[/Color]回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1310</ID>
-      <DefaultText>Club</DefaultText>
+      <DefaultText>棍棒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1311</ID>
-      <DefaultText>Willwoven Garment</DefaultText>
+      <DefaultText>意识编织的衣服</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1312</ID>
-      <DefaultText>Hyperelutriated Force</DefaultText>
+      <DefaultText>超净化力量</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1313</ID>
-      <DefaultText>Amplified Encephalic Rush</DefaultText>
+      <DefaultText>增强颅内涌流</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1314</ID>
-      <DefaultText>Refined Fleetfoot Moss</DefaultText>
+      <DefaultText>提纯快腿苔藓</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>Concentrated Sprayflesh</DefaultText>
+      <DefaultText>浓缩血肉喷雾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6246,22 +6248,22 @@
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>Rhin's Hauberk</DefaultText>
+      <DefaultText>润的锁子甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>Rhin's Surcoat</DefaultText>
+      <DefaultText>润的罩袍</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>Crossbow</DefaultText>
+      <DefaultText>弩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>Rhin's Arbalest</DefaultText>
+      <DefaultText>润的劲弩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6281,27 +6283,27 @@
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>Summons a phased humanoid husk to fight alongside you and confers [Fettles] on the user ([FettleDescriptions]).</DefaultText>
+      <DefaultText>召唤相位人形生物为你而战并赋予使用者[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1329</ID>
-      <DefaultText>Conjures swirl of horrifying illusions in an Immediate size area. Enemies that enter or start their turn in the area take [Damage].</DefaultText>
+      <DefaultText>在近身区域召唤恐怖幻觉。进入该区域与在该区域开始回合的敌人受到[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1330</ID>
-      <DefaultText>Confers [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1331</ID>
-      <DefaultText>User is surrounded by a wreath of fire that deals [Damage] to any characters in Immediate range.</DefaultText>
+      <DefaultText>使用者被火环绕，对所有近身人物造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1332</ID>
-      <DefaultText>When hit by an attack, grants the wearer [Fettles] ([FettleDescriptions]). [Duration].</DefaultText>
+      <DefaultText>被攻击命中后，装备者获得[Fettles]状态（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6316,22 +6318,22 @@
     </Entry>
     <Entry>
       <ID>1335</ID>
-      <DefaultText>On critical hits, confers [CritFettles] to all enemies in Immediate range ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>致命一击对所有近身敌人赋予[CritFettles]状态（[CritFettleDescriptions]）。[CritDuration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1336</ID>
-      <DefaultText>On critical hits, deals [CritDamage] to all enemies in Immediate range.</DefaultText>
+      <DefaultText>致命一击对所有近身敌人造成[CritDamage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1337</ID>
-      <DefaultText>Confers [Fettles] ([FettleDescriptions]).</DefaultText>
+      <DefaultText>赋予[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1338</ID>
-      <DefaultText>Polished Rock</DefaultText>
+      <DefaultText>光滑的石头</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6341,7 +6343,7 @@
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>Dull Shin</DefaultText>
+      <DefaultText>暗淡的闪币</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6351,7 +6353,7 @@
     </Entry>
     <Entry>
       <ID>1342</ID>
-      <DefaultText>Mindforged Armor</DefaultText>
+      <DefaultText>脑力铸造的盔甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6361,7 +6363,7 @@
     </Entry>
     <Entry>
       <ID>1344</ID>
-      <DefaultText>Witcrafted Suit</DefaultText>
+      <DefaultText>智慧制成的套装</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6376,7 +6378,7 @@
     </Entry>
     <Entry>
       <ID>1347</ID>
-      <DefaultText>Mindforged Plating</DefaultText>
+      <DefaultText>脑力铸造的板甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6386,7 +6388,7 @@
     </Entry>
     <Entry>
       <ID>1349</ID>
-      <DefaultText>Witcrafted Shapestone Harness</DefaultText>
+      <DefaultText>智慧制成的陶石铠</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6396,7 +6398,7 @@
     </Entry>
     <Entry>
       <ID>1351</ID>
-      <DefaultText>Willwoven Adamant Regalia</DefaultText>
+      <DefaultText>智慧制成的金刚礼装</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6406,17 +6408,17 @@
     </Entry>
     <Entry>
       <ID>1353</ID>
-      <DefaultText>Upgrades your unarmed attacks with retractable blades that deal [Damage].</DefaultText>
+      <DefaultText>使用可伸缩剑刃升级徒手攻击，造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1354</ID>
-      <DefaultText>Improved Transdimensional Scalpel</DefaultText>
+      <DefaultText>改进型维度手术刀</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1355</ID>
-      <DefaultText>Letter of Pardon</DefaultText>
+      <DefaultText>赦免信</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6427,17 +6429,17 @@
     </Entry>
     <Entry>
       <ID>1357</ID>
-      <DefaultText>Shimmering Glass</DefaultText>
+      <DefaultText>闪光玻璃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1358</ID>
-      <DefaultText>Deals [Damage] and refills all user's Stat Pools ([Color: Might]Might[/Color], [Color: Speed]Speed[/Color], and [Color: Intellect]Intellect[/Color]).</DefaultText>
+      <DefaultText>造成[Damage]并将属性池（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]）回复至满槽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1359</ID>
-      <DefaultText>Psychic Detonation</DefaultText>
+      <DefaultText>灵能引爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6447,7 +6449,7 @@
     </Entry>
     <Entry>
       <ID>1361</ID>
-      <DefaultText>Reconstitutor</DefaultText>
+      <DefaultText>重组者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6457,7 +6459,7 @@
     </Entry>
     <Entry>
       <ID>1363</ID>
-      <DefaultText>Phased Detonation</DefaultText>
+      <DefaultText>相位引爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6467,7 +6469,7 @@
     </Entry>
     <Entry>
       <ID>1365</ID>
-      <DefaultText>Leukotic Bladder</DefaultText>
+      <DefaultText>白细胞增生囊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6477,7 +6479,7 @@
     </Entry>
     <Entry>
       <ID>1367</ID>
-      <DefaultText>Cryophorous Dart</DefaultText>
+      <DefaultText>冷凝镖</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6487,7 +6489,7 @@
     </Entry>
     <Entry>
       <ID>1369</ID>
-      <DefaultText>Thermodynamic Detonation</DefaultText>
+      <DefaultText>热力引爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6497,7 +6499,7 @@
     </Entry>
     <Entry>
       <ID>1371</ID>
-      <DefaultText>Imprisoned Pulsar</DefaultText>
+      <DefaultText>监禁脉冲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6507,7 +6509,7 @@
     </Entry>
     <Entry>
       <ID>1373</ID>
-      <DefaultText>Bogeo</DefaultText>
+      <DefaultText>伯吉欧</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6517,7 +6519,7 @@
     </Entry>
     <Entry>
       <ID>1375</ID>
-      <DefaultText>Limnic Rejuvenator</DefaultText>
+      <DefaultText>湖沼回春剂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6527,7 +6529,7 @@
     </Entry>
     <Entry>
       <ID>1377</ID>
-      <DefaultText>Neuropraxic Detonation</DefaultText>
+      <DefaultText>神经引爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6537,7 +6539,7 @@
     </Entry>
     <Entry>
       <ID>1379</ID>
-      <DefaultText>Panacea</DefaultText>
+      <DefaultText>万灵药</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6547,7 +6549,7 @@
     </Entry>
     <Entry>
       <ID>1381</ID>
-      <DefaultText>Quantum Detonation</DefaultText>
+      <DefaultText>量子引爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6557,7 +6559,7 @@
     </Entry>
     <Entry>
       <ID>1383</ID>
-      <DefaultText>Sylph Cord</DefaultText>
+      <DefaultText>空气绳</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6567,7 +6569,7 @@
     </Entry>
     <Entry>
       <ID>1385</ID>
-      <DefaultText>Cortical Shunt</DefaultText>
+      <DefaultText>皮质分离</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6577,7 +6579,7 @@
     </Entry>
     <Entry>
       <ID>1387</ID>
-      <DefaultText>Berserker's Yoke</DefaultText>
+      <DefaultText>狂战士的束缚</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6587,7 +6589,7 @@
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText>Scholarch's Archive</DefaultText>
+      <DefaultText>大学者档案</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6597,7 +6599,7 @@
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>Candiru</DefaultText>
+      <DefaultText>坎迪鲁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6607,7 +6609,7 @@
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>Child's Grace</DefaultText>
+      <DefaultText>孩子的谢意</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6617,7 +6619,7 @@
     </Entry>
     <Entry>
       <ID>1395</ID>
-      <DefaultText>Fluid Armature</DefaultText>
+      <DefaultText>流动转子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6632,7 +6634,7 @@
     </Entry>
     <Entry>
       <ID>1398</ID>
-      <DefaultText>Clockwork Strut</DefaultText>
+      <DefaultText>发条支撑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6642,7 +6644,7 @@
     </Entry>
     <Entry>
       <ID>1400</ID>
-      <DefaultText>Talisman of the Gentle Hierophant</DefaultText>
+      <DefaultText>和蔼祭司的护符</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6652,7 +6654,7 @@
     </Entry>
     <Entry>
       <ID>1402</ID>
-      <DefaultText>Sapient Blade</DefaultText>
+      <DefaultText>智慧刃</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6662,7 +6664,7 @@
     </Entry>
     <Entry>
       <ID>1404</ID>
-      <DefaultText>Concussive Truncheon</DefaultText>
+      <DefaultText>震荡棒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6672,7 +6674,7 @@
     </Entry>
     <Entry>
       <ID>1406</ID>
-      <DefaultText>Piton Driver</DefaultText>
+      <DefaultText>钢钉起子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6687,87 +6689,87 @@
     </Entry>
     <Entry>
       <ID>1409</ID>
-      <DefaultText>[CritRangeBonus]. On critical hits, wielder gains [CritFettles] ([CritFettleDescriptions]). [CritDuration].</DefaultText>
+      <DefaultText>[CritRangeBonus]。致命一击使用者获得[CritFettles]（[CritFettleDescriptions]）。[CritDuration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>Sylph Cord Negative</DefaultText>
+      <DefaultText>空气绳负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1411</ID>
-      <DefaultText>Cortical Shunt Negative</DefaultText>
+      <DefaultText>皮质分离负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1412</ID>
-      <DefaultText>Berserker's Yoke Negative</DefaultText>
+      <DefaultText>狂战士的束缚负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1413</ID>
-      <DefaultText>Scholarch's Archive Negative</DefaultText>
+      <DefaultText>大学者档案负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1414</ID>
-      <DefaultText>Candiru Negative</DefaultText>
+      <DefaultText>坎迪鲁负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1415</ID>
-      <DefaultText>Child's Grace Negative</DefaultText>
+      <DefaultText>孩子的谢意负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1416</ID>
-      <DefaultText>Fluid Armature Negative</DefaultText>
+      <DefaultText>流动转子负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1417</ID>
-      <DefaultText>Psychic Focus Negative</DefaultText>
+      <DefaultText>灵能聚集负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1418</ID>
-      <DefaultText>Clockwork Strut Negative</DefaultText>
+      <DefaultText>发条支撑负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1419</ID>
-      <DefaultText>Talisman of the Gentle Hierophant Negative</DefaultText>
+      <DefaultText>和蔼祭司的护符负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1420</ID>
-      <DefaultText>[Color: NegativeModifier]Max Effort -1[/Color] on attacks.</DefaultText>
+      <DefaultText>攻击时[Color: NegativeModifier]努力值上限-1[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1421</ID>
-      <DefaultText>[PassiveEffectsBasic] on unarmed attacks</DefaultText>
+      <DefaultText>[PassiveEffectsBasic]，仅用于徒手攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1422</ID>
-      <DefaultText>Oom's Blbblbt</DefaultText>
+      <DefaultText>乌姆的啵啵啵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>Oom's Sploot</DefaultText>
+      <DefaultText>乌姆的噗噗噗</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1424</ID>
-      <DefaultText>Epidermal Casing</DefaultText>
+      <DefaultText>皮套</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1425</ID>
-      <DefaultText>Oom's Mass</DefaultText>
+      <DefaultText>乌姆的身体</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

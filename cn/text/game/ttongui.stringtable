@@ -751,7 +751,7 @@
     </Entry>
     <Entry>
       <ID>149</ID>
-      <DefaultText>1920x1080 (or similar) resolution is recommended for optimum aesthetics.</DefaultText>
+      <DefaultText>为了获得最佳的视觉享受，请选择1920x1080分辨率</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,7 +771,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>弃身</DefaultText>
+      <DefaultText>弃子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -836,12 +836,12 @@
     </Entry>
     <Entry>
       <ID>166</ID>
-      <DefaultText>阴影</DefaultText>
+      <DefaultText>暗影</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>[Color: Transdimensional]跨维度[/Color]</DefaultText>
+      <DefaultText>[Color: Transdimensional]维度[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -861,7 +861,7 @@
     </Entry>
     <Entry>
       <ID>171</ID>
-      <DefaultText>Begin</DefaultText>
+      <DefaultText>开始</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -911,7 +911,7 @@
     </Entry>
     <Entry>
       <ID>181</ID>
-      <DefaultText>获得物品：{0}.</DefaultText>
+      <DefaultText>获得物品：{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1331,7 +1331,7 @@
     </Entry>
     <Entry>
       <ID>265</ID>
-      <DefaultText>最大{1}值为{2}</DefaultText>
+      <DefaultText> 最大{1}值为{2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1419,7 +1419,6 @@
       <DefaultText>{0}武器</DefaultText>
       <FemaleText />
     </Entry>
-<!--注意-->	
     <Entry>
       <ID>283</ID>
       <DefaultText>{0}攻击：{1}</DefaultText>
@@ -1660,7 +1659,6 @@
       <DefaultText>润可能确实是迷路了，但是她并不无助。她只是……孤身一人而已。</DefaultText>
       <FemaleText />
     </Entry>
-<!--Focus专精-->
     <Entry>
       <ID>331</ID>
       <DefaultText>伶牙俐齿</DefaultText>
@@ -1786,7 +1784,6 @@
       <DefaultText>TTONGui.FOCUS_RIASTRADWRESTSPOWERFROMPAIN,</DefaultText>
       <FemaleText />
     </Entry>
-<!--专精的描述?-->
     <Entry>
       <ID>356</ID>
       <DefaultText>见人说人话，见鬼说鬼话，没有什么困难是不能用对话解决的。</DefaultText>
@@ -2034,12 +2031,12 @@
     </Entry>
     <Entry>
       <ID>405</ID>
-      <DefaultText>Party scattered</DefaultText>
+      <DefaultText>队伍分散</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>406</ID>
-      <DefaultText>You cannot abandon your party.</DefaultText>
+      <DefaultText>你不能抛下你的队伍</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2139,7 +2136,7 @@
     </Entry>
     <Entry>
       <ID>426</ID>
-      <DefaultText>[消耗在努力等级上的[Color: TooltipFormatting]属性点数[/Color]已回复！]</DefaultText>
+      <DefaultText>[消耗在努力等级上的[Color: TooltipFormatting]属性点数[/Color]已回复！] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2394,22 +2391,22 @@
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>{0}回合有效</DefaultText>
+      <DefaultText>{0}回合</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>{0}回合有效</DefaultText>
+      <DefaultText>{0}回合</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>479</ID>
-      <DefaultText>整次危机有效</DefaultText>
+      <DefaultText>整次危机</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>480</ID>
-      <DefaultText>下次休息前有效</DefaultText>
+      <DefaultText>下次休息前</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2479,7 +2476,7 @@
     </Entry>
     <Entry>
       <ID>494</ID>
-      <DefaultText>很小</DefaultText>
+      <DefaultText>近身</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2489,12 +2486,12 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>中等</DefaultText>
+      <DefaultText>中型</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>497</ID>
-      <DefaultText>长程</DefaultText>
+      <DefaultText>远程</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2614,7 +2611,7 @@
     </Entry>
     <Entry>
       <ID>522</ID>
-      <DefaultText> - </DefaultText>
+      <DefaultText>-</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2869,7 +2866,7 @@
     </Entry>
     <Entry>
       <ID>573</ID>
-      <DefaultText>提示显示时间</DefaultText>
+      <DefaultText>提示显示延迟</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3124,10 +3121,9 @@
     </Entry>
     <Entry>
       <ID>624</ID>
-      <DefaultText>：{0}</DefaultText>
+      <DefaultText>：\n{0}</DefaultText><!--状态-->
       <FemaleText />
     </Entry>
-<!--最左边一栏-->
     <Entry>
       <ID>625</ID>
       <DefaultText>[Color: Might]气力[/Color]</DefaultText>
@@ -3150,7 +3146,7 @@
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>经验值 {0} </DefaultText>
+      <DefaultText>经验值 {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3455,7 +3451,7 @@
     </Entry>
     <Entry>
       <ID>690</ID>
-      <DefaultText>丢弃物品</DefaultText>
+      <DefaultText>丢弃子品</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3540,7 +3536,7 @@
     </Entry>
     <Entry>
       <ID>707</ID>
-      <DefaultText>最后的弃身</DefaultText>
+      <DefaultText>最后的弃子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3605,7 +3601,7 @@
     </Entry>
     <Entry>
       <ID>720</ID>
-      <DefaultText>移动速度</DefaultText>
+      <DefaultText>移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3720,12 +3716,12 @@
     </Entry>
     <Entry>
       <ID>743</ID>
-      <DefaultText>{0}{1}伤害</DefaultText>
+      <DefaultText>{0}点{1}伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>[Tidal Surge: Requires {0} Tidal Affinity Skill] </DefaultText>
+      <DefaultText>[潮力汹涌：需要潮力汹涌技能水平为{0}] </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3885,7 +3881,7 @@
     </Entry>
     <Entry>
       <ID>776</ID>
-      <DefaultText>{0}利用{1}</DefaultText>
+      <DefaultText>{0}消耗{1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3955,7 +3951,7 @@
     </Entry>
     <Entry>
       <ID>790</ID>
-      <DefaultText>[Color: TooltipFormatting]涉及本技能的行动每次提升水平获得+15%加值；无能受到-15%减值。[/Color]\n\n最后的弃身可以获取之前使用过这具身体的意识所拥有的记忆。本技能表示你在回忆过程中的的集中力和敏锐性。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]涉及本技能的行动每次提升水平获得+15%加值；无能受到-15%减值。[/Color]\n\n最后的弃子可以获取之前使用过这具身体的意识所拥有的记忆。本技能表示你在回忆过程中的的集中力和敏锐性。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3965,17 +3961,17 @@
     </Entry>
     <Entry>
       <ID>792</ID>
-      <DefaultText>[Color: TooltipFormatting]每次提升水平为人物增加2秘具上限；无能为人物减少1秘具上限。[/Color]\n\n每个秘具都会发射或渗透出奇怪的能量。如果不多加当心，仔细鉴别，在人物身上携带过多的秘具会造成严重的反应。接受相关训练之后，你可以学会安全携带更多秘具的方式，长出额外的胳膊或是发生其他变异的几率则会大大降低。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]每次提升水平为人物增加2秘具上限；无能为人物减少1秘具上限。[/Color]\n\n每个秘具都会发射或渗透出奇怪的能量。如果不多加当心，仔细鉴别，在人物身上携带过多的秘具会造成严重的反应。接受相关训练之后，你可以学会安全携带更多秘具的方式，多长出几条胳膊腿或是发生其他变异的几率则会大大降低。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>793</ID>
-      <DefaultText>[Color: TooltipFormatting]解锁更多潮力汹涌选项。[/Color]\n\n允许最后的弃身进一步控制和应对潮力，利用潮力汹涌获得操纵人心和物品更加复杂的方式。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]解锁更多潮力汹涌选项。[/Color]\n\n允许最后的弃子进一步控制和应对潮力，利用潮力汹涌获得操纵人心和物品更加复杂的方式。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>794</ID>
-      <DefaultText>[Color: TooltipFormatting]每次提升水平+5生命值；无能-2点生命值。[/Color]\n\n表示人物应对伤害的能力。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]每次提升水平+5生命；无能-2点生命。[/Color]\n\n表示人物应对伤害的能力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4075,7 +4071,7 @@
     </Entry>
     <Entry>
       <ID>814</ID>
-      <DefaultText>[Color: TooltipFormatting]每技能等级增加+15%意志；无能受到-15%减值。[/Color]\n\n抵抗心理攻击和人格魅力的力量。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]每技能等级增加+15%意志；无能受到-15%减值。[/Color]\n\n抵抗灵能攻击和人格魅力的力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4095,7 +4091,7 @@
     </Entry>
     <Entry>
       <ID>818</ID>
-      <DefaultText>{0}水平</DefaultText>
+      <DefaultText>{0}技能水平</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4145,12 +4141,12 @@
     </Entry>
     <Entry>
       <ID>828</ID>
-      <DefaultText>{0}{1}</DefaultText>
+      <DefaultText>{0}{1}</DefaultText><!--攻击加值-->
       <FemaleText />
     </Entry>
     <Entry>
       <ID>829</ID>
-      <DefaultText>weapon attacks</DefaultText>
+      <DefaultText>武器攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4235,22 +4231,22 @@
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>ranged weapon attacks</DefaultText>
+      <DefaultText>远程武器攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>ranged non-weapon attacks</DefaultText>
+      <DefaultText>远程非武器攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>848</ID>
-      <DefaultText>melee weapon attacks</DefaultText>
+      <DefaultText>近战武器攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>melee non-weapon attacks</DefaultText>
+      <DefaultText>近战非武器攻击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4260,7 +4256,7 @@
     </Entry>
     <Entry>
       <ID>851</ID>
-      <DefaultText> on </DefaultText>
+      <DefaultText>，仅用于 </DefaultText><!--bug-->
       <FemaleText />
     </Entry>
     <Entry>
@@ -4315,7 +4311,7 @@
     </Entry>
     <Entry>
       <ID>862</ID>
-      <DefaultText>斗士是第九世界中的菁英战士，使用武器与盔甲与敌人作战。 侦查兵、侍卫、军阀与士兵都可能是斗士。 大部分斗士要么拥有很高的气力值，着重型盔甲，挥舞重\n型武器； 要么拥有很高的速度值，着中型或轻型盔甲，使用轻型或远程武器。</DefaultText>
+      <DefaultText>斗士是第九世界中的菁英战士，使用武器与盔甲与敌人作战。 侦查兵、侍卫、军阀与士兵都可能是斗士。 大部分斗士要么拥有很高的气力值，着重型盔甲，挥舞重型武器； 要么拥有很高的速度值，着中型或轻型盔甲，使用轻型或远程武器。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4345,7 +4341,7 @@
     </Entry>
     <Entry>
       <ID>868</ID>
-      <DefaultText>您确定要继续吗？这是您最后一次为最后的弃身选择类型及描述的机会</DefaultText>
+      <DefaultText>您确定要继续吗？这是您最后一次为最后的弃子选择类型及描述的机会</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4495,7 +4491,7 @@
     </Entry>
     <Entry>
       <ID>898</ID>
-      <DefaultText> Sleep to refresh.</DefaultText>
+      <DefaultText>Sleep to refresh.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4515,7 +4511,7 @@
     </Entry>
     <Entry>
       <ID>902</ID>
-      <DefaultText>使用XP使人物获得进阶。进阶可以提升人物的属性、技能和能力\n\n人物获得四次进阶后便可以提升等级，解锁新能力，提高技能水平。</DefaultText>
+      <DefaultText>使用XP使人物获得进阶。进阶可以提升人物的属性、技能和能力\n\n人物获得四次进阶后便可以提升等级，解锁新能力，提升技能水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4620,7 +4616,7 @@
     </Entry>
     <Entry>
       <ID>923</ID>
-      <DefaultText>[Color: Might]气力[/Color]决定角色的强壮和坚韧程度。每增加1点[Color: Might]气力[/Color]值都会增加角色的[Color: Health]生命[/Color]值{0}点。</DefaultText>
+      <DefaultText>[Color: Might]气力[/Color]决定角色的强壮和坚韧程度。每增加1点[Color: Might]气力[/Color]值都会增加角色的[Color: Health]生命[/Color]{0}点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4665,7 +4661,7 @@
     </Entry>
     <Entry>
       <ID>932</ID>
-      <DefaultText>Select Quantity</DefaultText>
+      <DefaultText>选择数量</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4705,12 +4701,12 @@
     </Entry>
     <Entry>
       <ID>940</ID>
-      <DefaultText> Bonus</DefaultText>
+      <DefaultText>Bonus</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>941</ID>
-      <DefaultText> Penalty</DefaultText>
+      <DefaultText>Penalty</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4760,7 +4756,7 @@
     </Entry>
     <Entry>
       <ID>951</ID>
-      <DefaultText>[Color: TooltipFormatting]努力等级({0}):[/Color]{1}{2}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]努力等级（{0}）:[/Color]{1}{2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4955,12 +4951,12 @@
     </Entry>
     <Entry>
       <ID>990</ID>
-      <DefaultText>Party Member Added: {0}</DefaultText>
+      <DefaultText>同伴加入队伍：{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>991</ID>
-      <DefaultText>Party Member Removed: {0}</DefaultText>
+      <DefaultText>同伴离开队伍：{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5030,7 +5026,7 @@
     </Entry>
     <Entry>
       <ID>1005</ID>
-      <DefaultText>人物处于屏幕外显示位置指示符</DefaultText>
+      <DefaultText>人物处于屏幕外时显示位置指示符</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5090,12 +5086,12 @@
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>Select Advancement Option</DefaultText>
+      <DefaultText>选择进阶选项</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>You can choose between either improving or picking a new Skill, or improving one of your Abilities. You can only do this once per Tier.</DefaultText>
+      <DefaultText>你可以选择提升技能，学习一项新技能，或提升能力。你可以在每一等级做出一次选择。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5120,7 +5116,7 @@
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>选择一种能力以升级。每为一种能力提升一次水平可以提高能力作用成功率15%。</DefaultText>
+      <DefaultText>选择一种能力进行升级。每次为能力升级可以提高能力使用成功率15%。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5395,7 +5391,7 @@
     </Entry>
     <Entry>
       <ID>1078</ID>
-      <DefaultText>Immovable Target</DefaultText>
+      <DefaultText>目标无法移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5445,7 +5441,7 @@
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>探索技能可以让你在行动或挑战中获得优势，提高成功率。 部分探索技能还有用额外加值，如提升生命值，提升可安全携带的秘具数量。</DefaultText>
+      <DefaultText>探索技能可以让你在行动或挑战中获得优势，提高成功率。 部分探索技能还有用额外加值，如增加生命，提升可安全携带的秘具数量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5560,7 +5556,7 @@
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>{0}:{1}</DefaultText>
+      <DefaultText>{0}：{1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6035,7 +6031,7 @@
     </Entry>
     <Entry>
       <ID>1206</ID>
-      <DefaultText>{0}{1}{2}伤害</DefaultText>
+      <DefaultText>{0}点{1}{2}伤害</DefaultText><!--能力说明-->
       <FemaleText />
     </Entry>
     <Entry>
@@ -6230,7 +6226,7 @@
     </Entry>
     <Entry>
       <ID>1245</ID>
-      <DefaultText>当你踏入危险环境，就会触发危机。 危机是一种回合制遭遇战，你可以战斗、潜行、操纵环境或对话解决问题。</DefaultText>
+      <DefaultText>当你踏入危险环境，就会触发危机。 危机是一种回合制遭遇战，你可以战斗、躲藏、操纵环境或对话解决问题。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6320,7 +6316,7 @@
     </Entry>
     <Entry>
       <ID>1263</ID>
-      <DefaultText>●Current Chain：{0}{1}</DefaultText>
+      <DefaultText>●当前连锁：{0}{1}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6340,7 +6336,7 @@
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>●[Color: PositiveModifier]+{0}%攻击[/Color]并[Color: Damage]+{1} 伤害[/Color]</DefaultText>
+      <DefaultText>●[Color: PositiveModifier]+{0}%攻击[/Color]并[Color: Damage]+{1}伤害[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6370,7 +6366,7 @@
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>●该人物[Color: PositiveModifier]+{0}护甲[/Color]，所有同伴[Color: PositiveModifier]+{1} Armor[/Color]，持续1回合</DefaultText>
+      <DefaultText>●该人物[Color: PositiveModifier]+{0}护甲[/Color]，所有同伴[Color: PositiveModifier]+{1}护甲[/Color]，持续1回合</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6510,22 +6506,22 @@
     </Entry>
     <Entry>
       <ID>1301</ID>
-      <DefaultText>[Color: Health]生命[/Color]值决定了人物能够承受多少伤害。\n\n最后的弃身生命值减小到0之后一般会在净地中苏醒过来。\n\n同伴生命值减小到0之后会失去意识。进行治疗、危机结束或前往其他区域之后，他们就会苏醒过来。如果未能回复，则他们处于[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]状态中。</DefaultText>
+      <DefaultText>[Color: Health]生命[/Color]决定了人物能够承受多少伤害。\n\n最后的弃子生命降低至0后一般会在净地中苏醒过来。\n\n同伴生命降低至0后会失去意识。进行治疗、危机结束或前往其他区域之后，他们就会苏醒过来。如果未能回复，则他们处于[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1302</ID>
-      <DefaultText>Walks Between</DefaultText>
+      <DefaultText>穿越世界之间</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1303</ID>
-      <DefaultText>在你需要的时候，润穿过世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
+      <DefaultText>在你需要的时候，润穿越世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1304</ID>
-      <DefaultText>润不再是那个迷路的孩子了。离开你之后，她经历了很多，现在他已经变得非常勇敢了。</DefaultText>
+      <DefaultText>润不再是那个迷路的孩子了。离开你之后，她经历了很多，变得非常勇敢。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6540,7 +6536,7 @@
     </Entry>
     <Entry>
       <ID>1307</ID>
-      <DefaultText>Shaper</DefaultText>
+      <DefaultText>塑造者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6558,7 +6554,6 @@
       <DefaultText>{0}获得新能力：{1}</DefaultText>
       <FemaleText />
     </Entry>
-<!--Tides-->
     <Entry>
       <ID>1311</ID>
       <DefaultText>蓝潮代表智慧、理性和启蒙。与蓝潮同调的人追寻和保存各种各样的知识，无论这些知识属于科学领域还是精神领域。学者、教师、向导和神秘主义者通常与该潮同调。</DefaultText>
@@ -6756,7 +6751,7 @@
     </Entry>
     <Entry>
       <ID>1350</ID>
-      <DefaultText>{0}{1}</DefaultText>
+      <DefaultText>{0}{1}</DefaultText><!--状态-->
       <FemaleText />
     </Entry>
     <Entry>
@@ -6816,7 +6811,7 @@
     </Entry>
     <Entry>
       <ID>1362</ID>
-      <DefaultText>({0})</DefaultText>
+      <DefaultText>（{0}）</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6826,7 +6821,7 @@
     </Entry>
     <Entry>
       <ID>1364</ID>
-      <DefaultText>造成[Damage]并造成[Fettles]（[FettleDescriptions]）。 [Duration]。</DefaultText>
+      <DefaultText>造成[Damage]并造成[Fettles]（[FettleDescriptions]）。[Duration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6836,7 +6831,7 @@
     </Entry>
     <Entry>
       <ID>1366</ID>
-      <DefaultText>Load Last Save</DefaultText>
+      <DefaultText>读取最近存档</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6971,7 +6966,7 @@
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>&lt;quad class="resistance"&gt;抗性的作用原理与&lt;quad class="armor"&gt;护甲类似，不过它可以削减人物受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及 [DamageIcon: Transdimensional][Color: Transdimensional]跨次元[/Color]伤害。</DefaultText>
+      <DefaultText>&lt;quad class="resistance"&gt;抗性的作用原理与&lt;quad class="armor"&gt;护甲类似， 不过它可以削减人物受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及 [DamageIcon: Transdimensional][Color: Transdimensional]跨次元[/Color]伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7041,7 +7036,7 @@
     </Entry>
     <Entry>
       <ID>1407</ID>
-      <DefaultText>你获得了第一名同伴。他们会跟随最后的弃身，并在危机中成为可操纵人物。 你可以与他们交谈了解他们的过去，使用他们的能力和技能。\n\n同伴有着自己的行事动机和性格，根据你的选择，他们可能会一直跟随着你。 在第九世界旅行的过程中，你会发现更多可以加入的同伴。</DefaultText>
+      <DefaultText>你获得了第一名同伴。他们会跟随最后的弃子，并在危机中成为可操纵人物。 你可以与他们交谈了解他们的过去，使用他们的能力和技能。\n\n同伴有着自己的行事动机和性格，根据你的选择，他们可能会一直跟随着你。 在第九世界旅行的过程中，你会发现更多可以加入的同伴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7056,7 +7051,7 @@
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>在努力等级窗口选择同伴的头像可以令他们协助最后的弃身采取相应的行动。 此时你所消耗的是同伴的属性点，他们可能拥有某些技能、能力或状态，可以更容易地成功采取行动。\n\n同伴无法在危机中进行协助，只能在他们自己的回合中使用属性点。</DefaultText>
+      <DefaultText>在努力等级窗口选择同伴的头像可以令他们协助最后的弃子采取相应的行动。 此时你所消耗的是同伴的属性点，他们可能拥有某些技能、能力或状态，可以更容易地成功采取行动。\n\n同伴无法在危机中进行协助，只能在他们自己的回合中使用属性点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7196,7 +7191,7 @@
     </Entry>
     <Entry>
       <ID>1438</ID>
-      <DefaultText>阿里戈恩的身体上覆盖着不断移动的奇怪纹身。 他可以使用生命纹身能力从身体上摘出一条墨迹，获得[FettleIcon: Status]生命纹身状态。 处于该状态下，若连续进行相同动作（如攻击、回复、赋予状态），则可获得额外加值。 进行其他动作之后，该状态消失。\n\n该能力不会消耗&lt;quad class="move"&gt;移动点数或&lt;quad class="action"&gt;动作点数，所以他可以在使用能力之后继续采取其他行动。</DefaultText>
+      <DefaultText>阿里戈恩的身体上覆盖着不断移动的奇怪纹身。 他可以使用活体纹身能力从身体上摘出一条墨迹，获得[FettleIcon: Status]活体纹身状态。 处于该状态下，若连续进行相同动作（如攻击、回复、赋予状态），则可获得额外加值。 进行其他动作之后，该状态消失。\n\n该能力不会消耗&lt;quad class="move"&gt;移动点数或&lt;quad class="action"&gt;动作点数，所以他可以在使用能力之后继续采取其他行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7291,7 +7286,7 @@
     </Entry>
     <Entry>
       <ID>1457</ID>
-      <DefaultText>武器攻击致命一击几率{0}%</DefaultText>
+      <DefaultText>{0}%武器攻击致命一击几率</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7448,47 +7443,47 @@
     </Entry>
     <Entry>
       <ID>1489</ID>
-      <DefaultText>{0}潮力上升</DefaultText>
+      <DefaultText>{0}潮之力提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1490</ID>
-      <DefaultText>{0}潮力上升</DefaultText>
+      <DefaultText>{0}潮之力提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText>{0}潮力下降</DefaultText>
+      <DefaultText>{0}潮之力下降</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText>{0}潮力下降</DefaultText>
+      <DefaultText>{0}潮之力下降</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1493</ID>
-      <DefaultText>{0}鄙视最后的弃身。</DefaultText>
+      <DefaultText>{0}鄙视最后的弃子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1494</ID>
-      <DefaultText>{0}厌恶最后的弃身。</DefaultText>
+      <DefaultText>{0}厌恶最后的弃子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1495</ID>
-      <DefaultText>{0}对最后的弃身持中立态度。</DefaultText>
+      <DefaultText>{0}对最后的弃子持中立态度。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1496</ID>
-      <DefaultText>{0}喜欢最后的弃身。</DefaultText>
+      <DefaultText>{0}喜欢最后的弃子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1497</ID>
-      <DefaultText>{0}崇敬最后的弃身。</DefaultText>
+      <DefaultText>{0}崇敬最后的弃子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7648,7 +7643,7 @@
     </Entry>
     <Entry>
       <ID>1529</ID>
-      <DefaultText>裁定者</DefaultText>
+      <DefaultText>裁决人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
