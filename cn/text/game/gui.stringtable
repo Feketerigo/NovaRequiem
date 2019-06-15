@@ -11,97 +11,97 @@
     </Entry>
     <Entry>
       <ID>95</ID>
-      <DefaultText>Quest Added</DefaultText>
+      <DefaultText>添加任务</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>Quest Updated</DefaultText>
+      <DefaultText>任务更新</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>97</ID>
-      <DefaultText>Quest Complete</DefaultText>
+      <DefaultText>任务完成</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>261</ID>
-      <DefaultText>Quest Failed</DefaultText>
+      <DefaultText>任务失败</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>889</ID>
-      <DefaultText>Quest Received</DefaultText>
+      <DefaultText>收到任务</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>996</ID>
-      <DefaultText>Matkina</DefaultText>
+      <DefaultText>麦特琪娜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>997</ID>
-      <DefaultText>Aligern</DefaultText>
+      <DefaultText>阿里戈恩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText>Callistege</DefaultText>
+      <DefaultText>卡莱斯蒂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>999</ID>
-      <DefaultText>Erritis</DefaultText>
+      <DefaultText>艾瑞提斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1000</ID>
-      <DefaultText>Oom</DefaultText>
+      <DefaultText>乌姆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText>Rhin</DefaultText>
+      <DefaultText>润</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1002</ID>
-      <DefaultText>Riastrad</DefaultText>
+      <DefaultText>瑞斯特拉德</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1003</ID>
-      <DefaultText>Tybir</DefaultText>
+      <DefaultText>提比尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>To Vast Interior</DefaultText>
+      <DefaultText>通往巨体之内</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1005</ID>
-      <DefaultText>Memovira's Fortress</DefaultText>
+      <DefaultText>麦莫韦拉的堡垒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1006</ID>
-      <DefaultText>To Memovira's Fortress</DefaultText>
+      <DefaultText>通往麦莫韦拉的堡垒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1007</ID>
-      <DefaultText>Crashed Catena</DefaultText>
+      <DefaultText>坠毁的连续体</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1008</ID>
-      <DefaultText>Slave Auction</DefaultText>
+      <DefaultText>奴隶拍卖</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1009</ID>
-      <DefaultText>Dracogen</DefaultText>
+      <DefaultText>德拉科根</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,117 +121,117 @@
     </Entry>
     <Entry>
       <ID>1013</ID>
-      <DefaultText>To Memovira's Courtyard</DefaultText>
+      <DefaultText>通往麦莫韦拉的庭院</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1014</ID>
-      <DefaultText>To Little Nihliesh</DefaultText>
+      <DefaultText>通往小尼利耶什</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1015</ID>
-      <DefaultText>To Shrine of Chila</DefaultText>
+      <DefaultText>通往大芝拉祭坛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>To Chiurgeon Slump</DefaultText>
+      <DefaultText>通往外壳陷坑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1017</ID>
-      <DefaultText>To Old Slave Block</DefaultText>
+      <DefaultText>通往旧奴隶区</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1018</ID>
-      <DefaultText>To Ioxu's Shanty</DefaultText>
+      <DefaultText>通往艾奥克苏的棚屋</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1019</ID>
-      <DefaultText>To Trade Post</DefaultText>
+      <DefaultText>通往贸易站</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>To Ascension</DefaultText>
+      <DefaultText>通往升天之地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1021</ID>
-      <DefaultText>Sheen</DefaultText>
+      <DefaultText>什恩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1022</ID>
-      <DefaultText>Demeray and Obervich</DefaultText>
+      <DefaultText>戴莫雷和奥波维奇</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1023</ID>
-      <DefaultText>Artaglio</DefaultText>
+      <DefaultText>阿塔里奥</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1024</ID>
-      <DefaultText>To Treasure Trove</DefaultText>
+      <DefaultText>通往藏宝库</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>The Observant Speck</DefaultText>
+      <DefaultText>敏锐污点</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1026</ID>
-      <DefaultText>To Circus Minor</DefaultText>
+      <DefaultText>通往小广场区</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1027</ID>
-      <DefaultText>To Broken Dome</DefaultText>
+      <DefaultText>通往破碎的穹顶</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1028</ID>
-      <DefaultText>Addendum Added</DefaultText>
+      <DefaultText>附录已添加</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1029</ID>
-      <DefaultText>To Government Square</DefaultText>
+      <DefaultText>通往政府区</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1030</ID>
-      <DefaultText>To Underbelly</DefaultText>
+      <DefaultText>通往城市之底</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1031</ID>
-      <DefaultText>To Cliff's Edge</DefaultText>
+      <DefaultText>通往峭壁边缘</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1032</ID>
-      <DefaultText>Object Highlighting</DefaultText>
+      <DefaultText>物体高亮</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1033</ID>
-      <DefaultText>Combat Log</DefaultText>
+      <DefaultText>战斗记录</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1034</ID>
-      <DefaultText>Tutorials</DefaultText>
+      <DefaultText>教程</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1035</ID>
-      <DefaultText>Autosave</DefaultText>
+      <DefaultText>自动存档</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -241,102 +241,102 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>The Clock</DefaultText>
+      <DefaultText>巨钟</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1038</ID>
-      <DefaultText>Execution Ground</DefaultText>
+      <DefaultText>刑场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1039</ID>
-      <DefaultText>Cultist Encampment</DefaultText>
+      <DefaultText>教徒营地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1040</ID>
-      <DefaultText>Chiurgical Parlor</DefaultText>
+      <DefaultText>外壳手术室</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>Crashed Airship</DefaultText>
+      <DefaultText>坠毁的飞船</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1042</ID>
-      <DefaultText>Manufactory</DefaultText>
+      <DefaultText>车间</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1043</ID>
-      <DefaultText>Collapsed Tunnel</DefaultText>
+      <DefaultText>坍塌的隧道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1044</ID>
-      <DefaultText>To Dendra O'Hur Chapel</DefaultText>
+      <DefaultText>通往丹德拉·欧胡教堂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1045</ID>
-      <DefaultText>Ladder to Government Square</DefaultText>
+      <DefaultText>通往政府区的梯子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1046</ID>
-      <DefaultText>Sticha Incursion</DefaultText>
+      <DefaultText>啮蜂入侵</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1047</ID>
-      <DefaultText>Aligern's Lab</DefaultText>
+      <DefaultText>阿里戈恩的实验室</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>Tranquility's Rest</DefaultText>
+      <DefaultText>宁静之家</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1049</ID>
-      <DefaultText>To Government Square</DefaultText>
+      <DefaultText>通往政府区</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1050</ID>
-      <DefaultText>Cave Entrance</DefaultText>
+      <DefaultText>洞穴入口</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText>To Reef of Fallen Worlds</DefaultText>
+      <DefaultText>通往失落世界礁石</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1052</ID>
-      <DefaultText>Crystal Sarcophagus</DefaultText>
+      <DefaultText>水晶石棺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1053</ID>
-      <DefaultText>Ladder to Caravanserai</DefaultText>
+      <DefaultText>通往驿站的梯子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>Tunnel to Underbelly</DefaultText>
+      <DefaultText>通往城市之底的隧道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1055</ID>
-      <DefaultText>Cave opening to Caravanserai</DefaultText>
+      <DefaultText>通往驿站的洞窟</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1056</ID>
-      <DefaultText>Council Tower</DefaultText>
+      <DefaultText>议会塔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -346,17 +346,17 @@
     </Entry>
     <Entry>
       <ID>1058</ID>
-      <DefaultText>The Order of Truth</DefaultText>
+      <DefaultText>真理修会</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1059</ID>
-      <DefaultText>Red Thicket</DefaultText>
+      <DefaultText>红树丛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1060</ID>
-      <DefaultText>To Caravanserai</DefaultText>
+      <DefaultText>通往驿站</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,72 +366,72 @@
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>Ladder to Underbelly</DefaultText>
+      <DefaultText>通往城市之底的梯子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1063</ID>
-      <DefaultText>To Circus Minor</DefaultText>
+      <DefaultText>通往小广场区</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1064</ID>
-      <DefaultText>To Anechoic Lazaret</DefaultText>
+      <DefaultText>通往无回声船艏室</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1065</ID>
-      <DefaultText>{0} Resistance</DefaultText>
+      <DefaultText>{0}抗性</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1066</ID>
-      <DefaultText>To Little Nihliesh</DefaultText>
+      <DefaultText>通往小尼利耶什</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1067</ID>
-      <DefaultText>To Lost Anchorage</DefaultText>
+      <DefaultText>通往失落的锚地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1068</ID>
-      <DefaultText>Newborn Maw</DefaultText>
+      <DefaultText>新生食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1069</ID>
-      <DefaultText>To Catena Interior</DefaultText>
+      <DefaultText>通往连续体内部</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>The Fifth Eye</DefaultText>
+      <DefaultText>五眼酒馆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1071</ID>
-      <DefaultText>Murden Lair</DefaultText>
+      <DefaultText>默登巢穴</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1072</ID>
-      <DefaultText>Murdens' Larder</DefaultText>
+      <DefaultText>默登食品室</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1073</ID>
-      <DefaultText>Skoura's Abode</DefaultText>
+      <DefaultText>斯库拉的寓所</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1074</ID>
-      <DefaultText>Merchant Inventory</DefaultText>
+      <DefaultText>商人物品</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1075</ID>
-      <DefaultText>Spherical Tank</DefaultText>
+      <DefaultText>球形罐</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -441,97 +441,97 @@
     </Entry>
     <Entry>
       <ID>1077</ID>
-      <DefaultText>Backpack</DefaultText>
+      <DefaultText>背包</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1078</ID>
-      <DefaultText>Whirlpool</DefaultText>
+      <DefaultText>漩涡</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1079</ID>
-      <DefaultText>To Nethermost Cavity</DefaultText>
+      <DefaultText>通往底层空洞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1080</ID>
-      <DefaultText>To Chamber of Bones</DefaultText>
+      <DefaultText>通往骸骨大厅</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1081</ID>
-      <DefaultText>Scabrous Maw</DefaultText>
+      <DefaultText>肮脏的食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1082</ID>
-      <DefaultText>Fleshy Crevice</DefaultText>
+      <DefaultText>肉质裂缝</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>To Clock Fathom</DefaultText>
+      <DefaultText>通往巨钟之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>To Daughter's Fathom</DefaultText>
+      <DefaultText>通往女儿之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1085</ID>
-      <DefaultText>Path to the Resonance</DefaultText>
+      <DefaultText>通往升天之地的路</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1086</ID>
-      <DefaultText>To Sorrow's Fathom</DefaultText>
+      <DefaultText>通往苦痛之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>To Crefton Fathom</DefaultText>
+      <DefaultText>通往克利夫顿之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>To Village Fathom</DefaultText>
+      <DefaultText>通往村庄之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>To Oasis Fathom</DefaultText>
+      <DefaultText>通往绿洲之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1090</ID>
-      <DefaultText>To Ninth World</DefaultText>
+      <DefaultText>通往第九世界</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1091</ID>
-      <DefaultText>To Forgotten Niche</DefaultText>
+      <DefaultText>通往被遗忘的裂缝</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1092</ID>
-      <DefaultText>To the Gullet</DefaultText>
+      <DefaultText>通往咽喉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1093</ID>
-      <DefaultText>Skeletal Corpse</DefaultText>
+      <DefaultText>骨骼尸体</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1094</ID>
-      <DefaultText>To Calm</DefaultText>
+      <DefaultText>通往净地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1095</ID>
-      <DefaultText>Airship Quay</DefaultText>
+      <DefaultText>飞空艇码头</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,127 +556,127 @@
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>Blocked Pass to Kholn Village</DefaultText>
+      <DefaultText>通往科恩村被堵塞的通道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>To Necropolis</DefaultText>
+      <DefaultText>通往大墓园</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>Prismatic Monument</DefaultText>
+      <DefaultText>棱柱纪念碑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1103</ID>
-      <DefaultText>Glowing Alcove</DefaultText>
+      <DefaultText>闪烁的壁龛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1104</ID>
-      <DefaultText>Animal Statue</DefaultText>
+      <DefaultText>动物雕塑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1105</ID>
-      <DefaultText>To Valley of Dead Heroes</DefaultText>
+      <DefaultText>通往英灵谷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1106</ID>
-      <DefaultText>Teleport Terminal</DefaultText>
+      <DefaultText>传送终端</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>Threshold to the Gate</DefaultText>
+      <DefaultText>通往万众之门的门槛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1108</ID>
-      <DefaultText>Inifere</DefaultText>
+      <DefaultText>因尼费尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1109</ID>
-      <DefaultText>To Necropolis</DefaultText>
+      <DefaultText>通往大墓园</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1110</ID>
-      <DefaultText>Feretory</DefaultText>
+      <DefaultText>圣物箱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>Aadiriis</DefaultText>
+      <DefaultText>阿迪里斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>To Calm</DefaultText>
+      <DefaultText>通往净地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>Efimpi's Refuge</DefaultText>
+      <DefaultText>因尼费尔的庇护所</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>Door to Next Fathom</DefaultText>
+      <DefaultText>通往下一颗心的门</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>Changing God's Machine</DefaultText>
+      <DefaultText>化身神的机器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>To Deepest Fathom</DefaultText>
+      <DefaultText>通往最深之心</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1117</ID>
-      <DefaultText>Stasis Chamber</DefaultText>
+      <DefaultText>静止室</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>Door to the Resonance</DefaultText>
+      <DefaultText>通往升天之地的门</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1119</ID>
-      <DefaultText>Marred Door</DefaultText>
+      <DefaultText>损毁的门</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1120</ID>
-      <DefaultText>Illuminated Door</DefaultText>
+      <DefaultText>幻影门</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1121</ID>
-      <DefaultText>Secret Maw</DefaultText>
+      <DefaultText>秘密食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>Chiurgeon Maw</DefaultText>
+      <DefaultText>外壳食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1123</ID>
-      <DefaultText>Maw</DefaultText>
+      <DefaultText>食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1124</ID>
-      <DefaultText>To Buried Crossroads</DefaultText>
+      <DefaultText>通往被掩埋的十字路</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -691,72 +691,72 @@
     </Entry>
     <Entry>
       <ID>1127</ID>
-      <DefaultText>To Fifth Eye Tavern</DefaultText>
+      <DefaultText>通往五眼酒馆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1128</ID>
-      <DefaultText>To Crystalline Cavern</DefaultText>
+      <DefaultText>通往水晶洞窟</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>Encampment</DefaultText>
+      <DefaultText>营地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1130</ID>
-      <DefaultText>The Speaker</DefaultText>
+      <DefaultText>发言人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1131</ID>
-      <DefaultText>The Builder</DefaultText>
+      <DefaultText>建筑者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1132</ID>
-      <DefaultText>To Upper Antechamber</DefaultText>
+      <DefaultText>通往上层大厅</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1133</ID>
-      <DefaultText>Control Column</DefaultText>
+      <DefaultText>操纵杆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1134</ID>
-      <DefaultText>Casmeen and Mimeon</DefaultText>
+      <DefaultText>卡斯敏和米蒙恩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1135</ID>
-      <DefaultText>Qianne</DefaultText>
+      <DefaultText>奎亚尼</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1136</ID>
-      <DefaultText>Thalana MarQuereth</DefaultText>
+      <DefaultText>萨拉娜·马奎斯</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>Lady Anshe</DefaultText>
+      <DefaultText>安诗女士</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1138</ID>
-      <DefaultText>To Lower Level</DefaultText>
+      <DefaultText>通往下层</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1139</ID>
-      <DefaultText>To Miel Avest</DefaultText>
+      <DefaultText>通往梅尔·安维斯特</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1140</ID>
-      <DefaultText>To Bloom Heart</DefaultText>
+      <DefaultText>通往魔葵心脏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,57 +766,57 @@
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>To Cave of Last Words</DefaultText>
+      <DefaultText>通往遗言之洞</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1143</ID>
-      <DefaultText>Arms Merchant</DefaultText>
+      <DefaultText>武器商人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1144</ID>
-      <DefaultText>Prata</DefaultText>
+      <DefaultText>普拉塔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1145</ID>
-      <DefaultText>Madelia Glittering</DefaultText>
+      <DefaultText>玛德莉·闪光</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1146</ID>
-      <DefaultText>Mechela</DefaultText>
+      <DefaultText>梅切拉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1147</ID>
-      <DefaultText>Sangolin</DefaultText>
+      <DefaultText>萨贡林</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1148</ID>
-      <DefaultText>Tantalum</DefaultText>
+      <DefaultText>坦塔鲁姆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1149</ID>
-      <DefaultText>Skaydi</DefaultText>
+      <DefaultText>斯凯迪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1150</ID>
-      <DefaultText>Sundermun &amp; Sundermun</DefaultText>
+      <DefaultText>桑德门-桑德门商店</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>Ioxu</DefaultText>
+      <DefaultText>艾奥克苏</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1152</ID>
-      <DefaultText>To Sticha Lair</DefaultText>
+      <DefaultText>通往啮蜂巢穴</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

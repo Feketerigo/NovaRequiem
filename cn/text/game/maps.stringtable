@@ -4,315 +4,249 @@
   <NextEntryID>1</NextEntryID>
   <EntryCount>62</EntryCount>
   <Entries>
-    <Entry>
-      <ID>0</ID>
-      <DefaultText>The Calm</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>Fathom 1</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>Sorrow's Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>First Castoff's Tomb</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>Endless Gate Entrance</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>The Endless Gate</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>Miel Avest</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>8</ID>
-      <DefaultText>Specter's Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>9</ID>
-      <DefaultText>First's Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>10</ID>
-      <DefaultText>Broken Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>11</ID>
-      <DefaultText>The Resonance</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>12</ID>
-      <DefaultText>Crefton Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>13</ID>
-      <DefaultText>Oasis Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>14</ID>
-      <DefaultText>Village Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>15</ID>
-      <DefaultText>Clock Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>16</ID>
-      <DefaultText>Daughter's Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>17</ID>
-      <DefaultText>Necropolis Tomb</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>18</ID>
-      <DefaultText>Valley of Dead Heroes</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>Necropolis Entrance</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>Dark Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>Shrine of Great Chila</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>22</ID>
-      <DefaultText>The Vast Interior</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>23</ID>
-      <DefaultText>Ioxu's Shanty</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>24</ID>
-      <DefaultText>Memovira's Courtyard</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>25</ID>
-      <DefaultText>Chiurgeon Slump</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>26</ID>
-      <DefaultText>Little Nihliesh</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>27</ID>
-      <DefaultText>Trade Post</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>28</ID>
-      <DefaultText>The Ascension</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>29</ID>
-      <DefaultText>Memovira's Fortress</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>30</ID>
-      <DefaultText>Nethermost Cavity</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>31</ID>
-      <DefaultText>Heart Interior</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>32</ID>
-      <DefaultText>Lost Anchorage</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>33</ID>
-      <DefaultText>Old Slave Block</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>Catena Interior</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>Transdimensional Arena</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>36</ID>
-      <DefaultText>Murdens' Treasure Vault</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>37</ID>
-      <DefaultText>Forgotten Niche</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>38</ID>
-      <DefaultText>The Gullet</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>39</ID>
-      <DefaultText>Chamber of Bones</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>40</ID>
-      <DefaultText>Trade Post</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>41</ID>
-      <DefaultText>Broken Dome</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>42</ID>
-      <DefaultText>Reef of Fallen Worlds</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>43</ID>
-      <DefaultText>Circus Minor</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>44</ID>
-      <DefaultText>Cliff's Edge</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>45</ID>
-      <DefaultText>The Fifth Eye</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>46</ID>
-      <DefaultText>Underbelly</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>47</ID>
-      <DefaultText>Dendra O'Hur Chapel</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>48</ID>
-      <DefaultText>Cave of Last Words</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>49</ID>
-      <DefaultText>Buried Crossroads</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>50</ID>
-      <DefaultText>Caravanserai</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>51</ID>
-      <DefaultText>Government Square</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>52</ID>
-      <DefaultText>Sticha Lair</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>53</ID>
-      <DefaultText>Psychic Battlefield</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>54</ID>
-      <DefaultText>Order of Truth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>55</ID>
-      <DefaultText>Upper Antechamber</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>56</ID>
-      <DefaultText>Anechoic Lazaret</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>57</ID>
-      <DefaultText>Crystalline Cavern</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>58</ID>
-      <DefaultText>Endless Battle Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>59</ID>
-      <DefaultText>Lab in Sorrow's Fathom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>60</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>61</ID>
-      <DefaultText />
-      <FemaleText />
-    </Entry>
-  </Entries>
+	<Entry>
+		<ID>0</ID>
+		<DefaultText>净地</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>1</ID>
+	</Entry>
+	<Entry>
+		<ID>2</ID>
+	</Entry>
+	<Entry>
+		<ID>3</ID>
+		<DefaultText>苦痛之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>4</ID>
+		<DefaultText>最初的弃子之墓</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>5</ID>
+		<DefaultText>无尽之门入口</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>6</ID>
+		<DefaultText>无尽之门</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>7</ID>
+		<DefaultText>梅尔·安维斯特</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>8</ID>
+		<DefaultText>幽魂之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>9</ID>
+		<DefaultText>最初的弃子之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>10</ID>
+		<DefaultText>破碎之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>11</ID>
+		<DefaultText>共振区</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>12</ID>
+		<DefaultText>克利夫顿之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>13</ID>
+		<DefaultText>绿洲之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>14</ID>
+		<DefaultText>村庄之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>15</ID>
+		<DefaultText>巨钟之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>16</ID>
+		<DefaultText>女儿之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>17</ID>
+		<DefaultText>大墓园</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>18</ID>
+		<DefaultText>英灵谷</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>19</ID>
+		<DefaultText>大墓园入口</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>20</ID>
+		<DefaultText>黑暗之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>21</ID>
+		<DefaultText>大芝拉祭坛</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>22</ID>
+		<DefaultText>巨体之内</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>23</ID>
+		<DefaultText>艾奥克苏的棚屋</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>24</ID>
+		<DefaultText>麦莫韦拉庭院</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>25</ID>
+		<DefaultText>外壳陷坑</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>26</ID>
+		<DefaultText>小尼利耶什</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>27</ID>
+		<DefaultText>贸易站</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>28</ID>
+		<DefaultText>升天之地</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>29</ID>
+		<DefaultText>麦莫韦拉堡垒</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>30</ID>
+		<DefaultText>底层空洞</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>31</ID>
+		<DefaultText>心脏之内</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>32</ID>
+		<DefaultText>失落的锚地</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>33</ID>
+		<DefaultText>旧奴隶区</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>34</ID>
+		<DefaultText>连续体内部</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>35</ID>
+		<DefaultText>跨维度竞技场</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>36</ID>
+		<DefaultText>默登的藏宝库</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>37</ID>
+		<DefaultText>被遗忘的狭缝</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>38</ID>
+		<DefaultText>咽喉</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>39</ID>
+		<DefaultText>骸骨大厅</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>40</ID>
+		<DefaultText>贸易站</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>41</ID>
+		<DefaultText>破碎的穹顶</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>42</ID>
+		<DefaultText>失落世界礁石</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>43</ID>
+		<DefaultText>小广场区</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>44</ID>
+		<DefaultText>峭壁边缘</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>45</ID>
+		<DefaultText>五眼酒馆</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>46</ID>
+		<DefaultText>城市之底</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>47</ID>
+		<DefaultText>丹德拉·欧胡教堂</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>48</ID>
+		<DefaultText>遗言之洞</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>49</ID>
+		<DefaultText>被掩埋的十字路</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>50</ID>
+		<DefaultText>驿站</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>51</ID>
+		<DefaultText>政府区</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>52</ID>
+		<DefaultText>啮蜂巢穴</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>53</ID>
+		<DefaultText>灵能战场</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>54</ID>
+		<DefaultText>真理修会</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>55</ID>
+		<DefaultText>上层大厅</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>56</ID>
+		<DefaultText>无回声船艏室</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>57</ID>
+		<DefaultText>水晶洞窟</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>58</ID>
+		<DefaultText>无尽战争之心</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>59</ID>
+		<DefaultText>苦痛之心实验室</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>60</ID>
+	</Entry>
+	<Entry>
+		<ID>61</ID>
+	</Entry>
+</Entries>
 </StringTableFile>
