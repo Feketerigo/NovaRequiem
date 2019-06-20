@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>[Color: Transdimensional]维度[/Color]</DefaultText>
+      <DefaultText>[Color: Transdimensional]跨维度[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1656,7 +1656,7 @@
     </Entry>
     <Entry>
       <ID>330</ID>
-      <DefaultText>润可能确实是迷路了，但是她并不无助。她只是……孤身一人而已。</DefaultText>
+      <DefaultText>瑞恩可能确实是迷路了，但是她并不无助。她只是……孤身一人而已。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1891,7 +1891,7 @@
     </Entry>
     <Entry>
       <ID>377</ID>
-      <DefaultText>润坚称她随身携带的石头是神明，她表示神明在帮助她，不过很难说这是不是真的。</DefaultText>
+      <DefaultText>瑞恩坚称她随身携带的石头是神明，她表示神明在帮助她，不过很难说这是不是真的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6516,22 +6516,22 @@
     </Entry>
     <Entry>
       <ID>1303</ID>
-      <DefaultText>在你需要的时候，润穿越世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
+      <DefaultText>在你需要的时候，瑞恩穿越世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1304</ID>
-      <DefaultText>润不再是那个迷路的孩子了。离开你之后，她经历了很多，变得非常勇敢。</DefaultText>
+      <DefaultText>瑞恩不再是那个迷路的孩子了。离开你之后，她经历了很多，变得非常勇敢。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1305</ID>
-      <DefaultText>润成长成了一名危险的女子。她学会了如何战斗，如何狩猎，她的神明可以展示出的奇迹可以与第九世界纳米使媲美。</DefaultText>
+      <DefaultText>瑞恩成长成了一名危险的女子。她学会了如何战斗，如何狩猎，她的神明可以展示出的奇迹可以与第九世界纳米使媲美。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1306</ID>
-      <DefaultText>润只是一个孩子，没有什么特殊的。不过你觉得她的大脑受到了损害，她的遣词造句非常奇怪，还会和口袋里的一块石头说话。</DefaultText>
+      <DefaultText>瑞恩只是一个孩子，没有什么特殊的。不过你觉得她的大脑受到了损害，她的遣词造句非常奇怪，还会和口袋里的一块石头说话。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6541,7 +6541,7 @@
     </Entry>
     <Entry>
       <ID>1308</ID>
-      <DefaultText>润坚称她随身携带的石头是神明，她表示神明在帮助她，不过很难说这是不是真的。</DefaultText>
+      <DefaultText>瑞恩坚称她随身携带的石头是神明，她表示神明在帮助她，不过很难说这是不是真的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
