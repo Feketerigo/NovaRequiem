@@ -1571,7 +1571,7 @@
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>幽魂面具</DefaultText>
+      <DefaultText>幽魂印记</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1591,7 +1591,7 @@
     </Entry>
     <Entry>
       <ID>317</ID>
-      <DefaultText>命中后，造成[Fettles]状态（[FettleEffectsBasic]）。每等级[BonusAmount1]盔甲，每等级[BonusAmount2]抗性。</DefaultText>
+      <DefaultText>命中后，造成[Fettles]状态（[FettleEffectsBasic]）。每等级护甲减值[BonusAmount1]，抗性减值[BonusAmount2]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1881,7 +1881,7 @@
     </Entry>
     <Entry>
       <ID>375</ID>
-      <DefaultText>攻击面前一条线上地所有目标，对被命中的目标造成[Damage]。</DefaultText>
+      <DefaultText>攻击面前一条线上的所有目标，对被命中的目标造成[Damage]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1911,7 +1911,7 @@
     </Entry>
     <Entry>
       <ID>381</ID>
-      <DefaultText>相变</DefaultText>
+      <DefaultText>相变器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2251,7 +2251,7 @@
     </Entry>
     <Entry>
       <ID>449</ID>
-      <DefaultText>你与之对话的人物或生物的表层想法都会出现在对话中。</DefaultText>
+      <DefaultText>与你对话的人物或生物的表层想法都会出现在对话中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2571,7 +2571,7 @@
     </Entry>
     <Entry>
       <ID>513</ID>
-      <DefaultText>尝试进入[Fettles]状态（[FettleDescriptions]）。\n\n敌人的视线和与敌人的距离会影响行动难度。</DefaultText>
+      <DefaultText>尝试进入[Fettles]状态（[FettleDescriptions]）。\n\n敌人的视线和与距离会影响行动难度。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2686,7 +2686,7 @@
     </Entry>
     <Entry>
       <ID>537</ID>
-      <DefaultText>Lasting Damage - Brand of The Gate</DefaultText>
+      <DefaultText>长期伤害 - 门之烙印</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2696,12 +2696,12 @@
     </Entry>
     <Entry>
       <ID>539</ID>
-      <DefaultText>大门出现</DefaultText>
+      <DefaultText>门之降临</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>540</ID>
-      <DefaultText>大门打开</DefaultText>
+      <DefaultText>门之裂缝</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2711,7 +2711,7 @@
     </Entry>
     <Entry>
       <ID>542</ID>
-      <DefaultText>挖空</DefaultText>
+      <DefaultText>掏空</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2761,12 +2761,12 @@
     </Entry>
     <Entry>
       <ID>552</ID>
-      <DefaultText>无法移动或展开行动，也无法作为任何能力的目标。</DefaultText>
+      <DefaultText>无法移动或展开行动，也无法成为任何能力的目标。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>553</ID>
-      <DefaultText>阻止目标展开行动或被其他人作为目标1回合。</DefaultText>
+      <DefaultText>1回合内阻止目标展开行动或成为目标。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2821,7 +2821,7 @@
     </Entry>
     <Entry>
       <ID>564</ID>
-      <DefaultText>大脑混乱</DefaultText>
+      <DefaultText>心灵扰乱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3236,7 +3236,7 @@
     </Entry>
     <Entry>
       <ID>647</ID>
-      <DefaultText>Call Of The Inevitable</DefaultText>
+      <DefaultText>必然的召唤</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3431,7 +3431,7 @@
     </Entry>
     <Entry>
       <ID>686</ID>
-      <DefaultText>崇高蒸汽</DefaultText>
+      <DefaultText>兴奋蒸汽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3476,7 +3476,7 @@
     </Entry>
     <Entry>
       <ID>695</ID>
-      <DefaultText>新鲜蒸汽</DefaultText>
+      <DefaultText>清新蒸汽</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3581,7 +3581,7 @@
     </Entry>
     <Entry>
       <ID>716</ID>
-      <DefaultText>Light Shield</DefaultText>
+      <DefaultText>轻盾</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3641,7 +3641,7 @@
     </Entry>
     <Entry>
       <ID>728</ID>
-      <DefaultText>相变</DefaultText>
+      <DefaultText>相变器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3701,7 +3701,7 @@
     </Entry>
     <Entry>
       <ID>740</ID>
-      <DefaultText>Sentient Spike</DefaultText>
+      <DefaultText>智慧尖刺</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3731,7 +3731,7 @@
     </Entry>
     <Entry>
       <ID>746</ID>
-      <DefaultText>索夫</DefaultText>
+      <DefaultText>索夫尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3836,7 +3836,7 @@
     </Entry>
     <Entry>
       <ID>767</ID>
-      <DefaultText>第三人</DefaultText>
+      <DefaultText>第三个人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4086,7 +4086,7 @@
     </Entry>
     <Entry>
       <ID>817</ID>
-      <DefaultText>冲突分析</DefaultText>
+      <DefaultText>冲突分析仪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4231,7 +4231,7 @@
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>血内纳米机器</DefaultText>
+      <DefaultText>血液纳米机器</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4246,7 +4246,7 @@
     </Entry>
     <Entry>
       <ID>849</ID>
-      <DefaultText>合成材料制造，利用最尖端的感应技术，该装置可以提升你的视觉敏锐度。但它可能会随时进行自我调整，引来路人古怪的目光。</DefaultText>
+      <DefaultText>合成材料制造，应用最尖端的感应技术，该装置可以提升你的视觉敏锐度。但它可能会随时进行自我调整，引来路人古怪的目光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4676,7 +4676,7 @@
     </Entry>
     <Entry>
       <ID>935</ID>
-      <DefaultText>这名弃子那沉默却精心的气质可以鼓舞她的同伴们提高欺骗和潜行技能水平。</DefaultText>
+      <DefaultText>弃子那平静而体面的姿态可以鼓舞她的同伴们提高欺骗和潜行技能水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4991,7 +4991,7 @@
     </Entry>
     <Entry>
       <ID>998</ID>
-      <DefaultText>将一名同伴传送到能力范围内指定地点。</DefaultText>
+      <DefaultText>将一名同伴传送到能力范围内的指定地点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5026,7 +5026,7 @@
     </Entry>
     <Entry>
       <ID>1005</ID>
-      <DefaultText>熵力伤害你的敌人，让对方的负面状态每回合增加</DefaultText>
+      <DefaultText>熵力伤害你的敌人，每回合增加对方的负面状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5046,7 +5046,7 @@
     </Entry>
     <Entry>
       <ID>1009</ID>
-      <DefaultText>召唤一个构装体为你而战，将附近敌人的攻击吸引到它身上。人物一次只能使用一个活体野火。[SummonDuration]。</DefaultText>
+      <DefaultText>召唤一个构装体为你而战，将附近敌人的攻击吸引到它身上。人物一次只能召唤一个活体野火。[SummonDuration]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5511,7 +5511,7 @@
     </Entry>
     <Entry>
       <ID>1102</ID>
-      <DefaultText>处理秘具的实践经验让你能够额外携带一件秘具而不用担心造成危险。</DefaultText>
+      <DefaultText>处理秘具的实践经验让你能够额外携带一件秘具而不用担心危险。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5751,12 +5751,12 @@
     </Entry>
     <Entry>
       <ID>1150</ID>
-      <DefaultText>用抓勾抓住目标，将他们拉往你所在的方向。</DefaultText>
+      <DefaultText>用抓勾抓住目标，拉向你所在的方向。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1151</ID>
-      <DefaultText>升起地面</DefaultText>
+      <DefaultText>抬升地面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5771,7 +5771,7 @@
     </Entry>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>降下地面</DefaultText>
+      <DefaultText>压低地面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5936,7 +5936,7 @@
     </Entry>
     <Entry>
       <ID>1187</ID>
-      <DefaultText>驱除苦痛在脑中带来的影响，获得[PassiveEffectsBasic]。</DefaultText>
+      <DefaultText>驱除苦痛给大脑带来的影响，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6111,17 +6111,17 @@
     </Entry>
     <Entry>
       <ID>1222</ID>
-      <DefaultText>你敏锐的目光和准确的攻击令你的敌人跪地求饶。</DefaultText>
+      <DefaultText>你敏锐的目光和精确的攻击令敌人跪地求饶。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1223</ID>
-      <DefaultText>你清楚身体要站成什么姿势，盾牌要摆成什么角度，清楚如何防御敌人的攻击。你在战场中舞蹈，没有人能碰你哪怕一根手指。</DefaultText>
+      <DefaultText>你很清楚身体要站成什么姿势，盾牌要摆成什么角度，很清楚如何防御敌人的攻击。你在战场中起舞，没有人能碰你哪怕一根手指。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>关于继承权、出身、外貌、体味和编造出的关于交配习惯的笑话，让你的朋友开怀大笑，让你的敌人怒不可遏。因为你高超的嘲讽技巧，他们会因为你的藐视而想要立刻杀死你，无视身边的其他人。</DefaultText>
+      <DefaultText>关于继承权、出身、外貌、体味和编出的关于交配习惯的笑话让你的朋友开怀大笑，让你的敌人怒不可遏。因为你高超的嘲讽技巧，他们会因为你的藐视而想要立刻杀死你，无视身边的其他人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6131,17 +6131,17 @@
     </Entry>
     <Entry>
       <ID>1226</ID>
-      <DefaultText>他们可能比你高大，他们可能比你强壮，但他们没有你那么狡猾，一旦有人想要占据有利地位，你都将向他们证明这一点。</DefaultText>
+      <DefaultText>他们可能比你高大，可能比你强壮，但没有你那么狡猾，一旦有人企图占据有利位置，你都将向他们证明这一点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1227</ID>
-      <DefaultText>障碍物？小意思。特别是血肉构成的障碍物。你很有使用远程武器的天赋，知道瞄准哪里能够家中那些藏在他们的同伴身后的敌人。</DefaultText>
+      <DefaultText>障碍物？小意思。特别是血肉构成的障碍物。你很有使用远程武器的天赋，知道瞄准哪里能够击中那些藏在他们同伴身后的敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>有时候，你会发现自己被包围了，对某个目标进行准确的攻击并非最好的手段。有时候只有纯粹的力量能够制敌。告诉他们，他们选错了战斗方式。</DefaultText>
+      <DefaultText>有时候，你会发现自己被包围了，这时候对某个目标进行精确攻击并非最好的手段。有时候只有纯粹的力量能够制敌。告诉他们，你们选错了战斗方式。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6161,7 +6161,7 @@
     </Entry>
     <Entry>
       <ID>1232</ID>
-      <DefaultText>你攻击地面，发出一道动力冲击波，将你的敌人推到一边掀翻在地。</DefaultText>
+      <DefaultText>你攻击地面，激发出一道动能冲击波，将你的敌人推到一边掀翻在地。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6196,17 +6196,17 @@
     </Entry>
     <Entry>
       <ID>1239</ID>
-      <DefaultText>你打个响指，绳结解开，房门大敞，宝箱解锁。如果你知道要怎么做，这种事情很简单的。</DefaultText>
+      <DefaultText>你打个响指，绳结断开，房门大敞，宝箱解锁。如果你知道要怎么做，这种事情很简单的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1240</ID>
-      <DefaultText>为什么战斗要讲究公平呢？要随时随地利用优势，因为你知道，你的对手同样会这么做的。</DefaultText>
+      <DefaultText>为什么战斗要讲究公平呢？要随时随地利用优势，因为你知道，你的对手同样会这么做。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1241</ID>
-      <DefaultText>你将能量注入到武器中，让武器充满秘法能量。这是个解决重甲敌人的好办法。</DefaultText>
+      <DefaultText>你将能量注入到武器中，让武器充满秘法能量。这是一个解决重甲敌人的好办法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6216,12 +6216,12 @@
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>让面前阻挡你的人称为同伴。将你的秘密能量送入他们的大脑，改变他们的想法。</DefaultText>
+      <DefaultText>让面前阻挡你的人成为同伴。将你的秘密能量送入他们的大脑，改变他们的想法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1244</ID>
-      <DefaultText>将注意力集中在战场上的某一点，召唤一个发光的精妙个体不断在你的对手耳边低语，分散他的注意力。</DefaultText>
+      <DefaultText>将注意力集中在战场上的某一点，召唤一个发光的精妙个体不断在对手耳边低语，分散他的注意力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6241,12 +6241,12 @@
     </Entry>
     <Entry>
       <ID>1248</ID>
-      <DefaultText>在你的武器上涂满你自己制造的毒液。击中敌人之后，虫子会钻进他的血液。它们会尽情吞噬直到抵达皮肤表然，然后回到你的身边，带回生命的馈赠。</DefaultText>
+      <DefaultText>在你的武器上涂满你自己制造的毒液。击中敌人之后，虫子会钻进他的血液。它们会尽情吞噬直到抵达皮肤表层，然后回到你的身边，带回生命的馈赠。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1249</ID>
-      <DefaultText>你不像一般人那么容易疲劳，你能够在其他人已经累得摇摇晃晃了之后依然努力完成任务。</DefaultText>
+      <DefaultText>你不像一般人那么容易疲劳，能够在其他人已经累得摇摇晃晃了之后依然努力完成任务。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6296,22 +6296,22 @@
     </Entry>
     <Entry>
       <ID>1259</ID>
-      <DefaultText>The knowledge of the ancients is at your fingertips. With a little concentration, you can summon esoteric lore and random trivia.</DefaultText>
+      <DefaultText>古人的知识就掌握在你的手中。 稍微集中精神，你就可以召唤出深奥的知识和随机的轶事。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1260</ID>
-      <DefaultText>A mechanical enhancement to your biological eye helps you focus your more esoteric attacks.</DefaultText>
+      <DefaultText>对你的眼睛进行机械增强，让你更好地使用秘法攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1261</ID>
-      <DefaultText>将世界上的神秘力量为自己所用。让你的朋友内心充满能量，让你的敌人内心充满悔恨。</DefaultText>
+      <DefaultText>将世界上的神秘力量为你所用。让你的朋友内心充满能量，让你的敌人内心充满悔恨。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1262</ID>
-      <DefaultText>你可以使用精神力量制造一场能量爆炸，能量漩涡可以伤害到敌人。</DefaultText>
+      <DefaultText>你可以使用精神力量制造一场能量爆炸，让能量漩涡伤害敌人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6326,17 +6326,17 @@
     </Entry>
     <Entry>
       <ID>1265</ID>
-      <DefaultText>你可以在你的角膜上暂时构建一个矩阵，高亮并锐化平常注意不到的细节。</DefaultText>
+      <DefaultText>你可以在角膜上暂时构建出一个矩阵，高亮并锐化平常注意不到的细节。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>将注意力集中在同伴身上，用你可怕的精神力量磨砺他们的反射神经，提升他们的反应时间。</DefaultText>
+      <DefaultText>将注意力集中在同伴身上，用你可怕的精神力量磨砺他们的反射神经，提升他们的反应能力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1267</ID>
-      <DefaultText>你将宇宙中的一项基本相互作用作为你的工具。你可以使用精神力量将敌人拉到你的身边扔到一边。</DefaultText>
+      <DefaultText>让宇宙的一项基本相互作用成为你的工具。你可以使用精神力量将敌人拉到你的身旁或是扔到一边。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6356,7 +6356,7 @@
     </Entry>
     <Entry>
       <ID>1271</ID>
-      <DefaultText>向面前的敌人释放多种属性的攻击，使用你武器库中的所有秘密。</DefaultText>
+      <DefaultText>使用你所有的秘密武器，向面前的敌人释放多种属性的攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6366,7 +6366,7 @@
     </Entry>
     <Entry>
       <ID>1273</ID>
-      <DefaultText>如果脑袋里囚禁着一个机械智慧协助你大脑的运作，进行模式匹配与和记忆相关的行动就会变得简单许多。</DefaultText>
+      <DefaultText>如果将一个机械智能囚禁在你的大脑中，进行模式匹配与和处理记忆之类的行为就会简单许多。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6381,12 +6381,12 @@
     </Entry>
     <Entry>
       <ID>1276</ID>
-      <DefaultText>兄长的痛苦和力量留存在了你的体内，伤害着你，也强化着你。</DefaultText>
+      <DefaultText>兄弟的痛苦和力量留存在了你的体内，伤害着你，也强化着你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1277</ID>
-      <DefaultText>这个生物的奇特想法充斥了你的大脑，抽打着那些敢来攻击你的蠢货。</DefaultText>
+      <DefaultText>这个生物那奇特想法充斥着你的大脑，抽打着那些敢来攻击你的愚蠢的杂念。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6406,7 +6406,7 @@
     </Entry>
     <Entry>
       <ID>1281</ID>
-      <DefaultText>你沉着的领导力和危险中保持冷静的能力仿佛有一种传染性。你的朋友和同伴都指望你带着他们走向胜利。</DefaultText>
+      <DefaultText>你沉着的领导力和危险中保持冷静的能力仿佛有一种传染性。你的朋友和同伴都指望你带领他们走向胜利。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6441,7 +6441,7 @@
     </Entry>
     <Entry>
       <ID>1288</ID>
-      <DefaultText>现实因你的意志而扭曲，在敌人面前隐藏你和你的行动。</DefaultText>
+      <DefaultText>现实因你的意志而扭曲，可以在敌人面前隐藏你和你的行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6456,7 +6456,7 @@
     </Entry>
     <Entry>
       <ID>1291</ID>
-      <DefaultText>其他人都筋疲力尽的之后，你依然可以利用自己保存的力量继续前进。</DefaultText>
+      <DefaultText>其他人都筋疲力尽之后，你依然可以利用自己保存的力量继续前进。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6466,12 +6466,12 @@
     </Entry>
     <Entry>
       <ID>1293</ID>
-      <DefaultText>你暂时撤退用敏锐的目光观察战场，迅速切入承受打向同伴的攻击。</DefaultText>
+      <DefaultText>你暂时撤退，利用敏锐的目光观察战场，迅速切入承受打向同伴的攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1294</ID>
-      <DefaultText>潜意识心灵感应能量环绕着你的身躯，推开所有想要碰你的蠢货。</DefaultText>
+      <DefaultText>潜意识的心灵感应能量环绕着你的身躯，推开所有想要碰你的蠢货。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6481,17 +6481,17 @@
     </Entry>
     <Entry>
       <ID>1296</ID>
-      <DefaultText>很少有事情能够难度卡莱斯蒂，至少不会难住她太久。采取涉及知识的行动时，同伴们可以从她广博的知识中受益。</DefaultText>
+      <DefaultText>很少有事情能够难住卡莱斯蒂，至少不会难住她太久。采取涉及知识的行动时，同伴们可以从她广博的知识中受益。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1297</ID>
-      <DefaultText>卡莱斯蒂在多重现实中穿梭的时候，她的姐妹们会在攻击时借给她力量。</DefaultText>
+      <DefaultText>在多重现实中穿梭时，卡莱斯蒂的姐妹们会在攻击过程中借给她力量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1298</ID>
-      <DefaultText>那些精神不够强大的人会因为多重现实的重量而蹒跚摇晃，但卡莱斯蒂不会。在各个世界间闪现，与她的姐妹们同心协力，她的攻击会更加精准。</DefaultText>
+      <DefaultText>那些精神不够强大的人会因为多重现实的重量而蹒跚摇晃，但卡莱斯蒂不会。在各个世界间闪现，与她的姐妹们同心协力让她的攻击更加精准。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6501,7 +6501,7 @@
     </Entry>
     <Entry>
       <ID>1300</ID>
-      <DefaultText>普通的伤口对弃子无法造成什么影响。麦特琪娜在战斗中倒下之后，让她倒地的伤口会愈合起来，只留下一处疤痕表明那伤口曾在哪里。</DefaultText>
+      <DefaultText>普通的伤口对弃子无法造成什么影响。麦特琪娜在战斗中倒下之后，让她倒地的伤口会愈合起来，只留下一处疤痕表明那伤口曾经的位置。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6526,7 +6526,7 @@
     </Entry>
     <Entry>
       <ID>1305</ID>
-      <DefaultText>阿里戈恩花了大半生的时间待在齐膝深的大粪里研究各种各样的遗器。他的同伴能够从他渊博的学士中受益。</DefaultText>
+      <DefaultText>阿里戈恩花了大半生的时间待在齐膝深的大粪里研究各种各样的遗器。他的同伴能够从他渊博的学识中受益。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6571,7 +6571,7 @@
     </Entry>
     <Entry>
       <ID>1314</ID>
-      <DefaultText>第九世界上满是可敬的人的坟墓，提比尔可不打算加入他们。对为做好准备的对手发起攻击会造成更大的伤害。</DefaultText>
+      <DefaultText>第九世界上满是可敬的人的坟墓，提比尔可不打算加入他们。对未做好准备的对手发起攻击会造成更大的伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6601,37 +6601,37 @@
     </Entry>
     <Entry>
       <ID>1320</ID>
-      <DefaultText>润自称拥有了解所有藏身知识的神明。就结果来看，大家很难去反驳她。</DefaultText>
+      <DefaultText>瑞恩自称拥有了解所有藏身知识的神明。就结果来看，大家很难去反驳她。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>无论润的隐藏之神是不是真的，她身边的朋友们似乎都更擅长藏身了。</DefaultText>
+      <DefaultText>无论瑞恩的隐藏之神是不是真的，她身边的朋友们似乎都更擅长藏身了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>润总是在学习，总是在提问。她对知识的渴求让她变成了比这个神奇世界的本地人更加厉害的秘具使用能手。</DefaultText>
+      <DefaultText>瑞恩总是在学习，总是在提问。她对知识的渴求让她变成了比这个神奇世界的本地人更加厉害的秘具使用能手。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1323</ID>
-      <DefaultText>一些弯曲的金属丝，几条细绳，再加上她那位神明稍稍协助（反正她自己这么说），她手中的秘具能够使用的久一点儿。</DefaultText>
+      <DefaultText>一些弯曲的金属丝，几条细绳，再加上她那位神明稍稍的协助（反正她自己这么说），她手中的秘具能够使用的久一点儿。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>润又带来了新的神明，一位能够能够撕裂所有敢于伤害她的朋友的可怕神明。</DefaultText>
+      <DefaultText>瑞恩又带来了新的神明，一位能够能够撕裂所有敢于伤害她的朋友的可怕神明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1325</ID>
-      <DefaultText>阿尔所了解的知识已经不仅仅只关于如何藏身了。润可以召唤祂的力量在她的同伴身上笼罩一层回复圣光。</DefaultText>
+      <DefaultText>阿尔所了解的知识已经不仅仅只关于如何藏身了。瑞恩可以召唤祂的力量在同伴身上笼罩一层回复圣光。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1326</ID>
-      <DefaultText>瓦琳仿佛一枚暗淡的闪币躺在润的口袋里，为润和她的朋友们稍稍地提供帮助。</DefaultText>
+      <DefaultText>瓦琳仿佛一枚暗淡的闪币躺在瑞恩的口袋里，为瑞恩和她的朋友们稍稍地提供帮助。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6696,22 +6696,22 @@
     </Entry>
     <Entry>
       <ID>1339</ID>
-      <DefaultText>润只是一个孩子，没有什么特殊的。不过你觉得她的大脑受到了损害，她的遣词造句非常奇怪，还会和口袋里的一块石头说话。</DefaultText>
+      <DefaultText>瑞恩只是一个孩子，没有什么特殊的。不过你觉得她的大脑受到了损害，她的遣词造句非常奇怪，还会和口袋里的一块石头说话。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1340</ID>
-      <DefaultText>润成长成了一名危险的女子。她学会了如何战斗，如何狩猎，她的神明可以展示出的奇迹可以与第九世界纳米使媲美。</DefaultText>
+      <DefaultText>瑞恩成长成了一名危险的女子。她学会了如何战斗，如何狩猎，她的神明展示出的奇迹可以与第九世界纳米使的能力媲美。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1341</ID>
-      <DefaultText>在你需要的时候，润穿越世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
+      <DefaultText>在你需要的时候，瑞恩穿越世界来到了你的身边。她那古老的神明变得更为强大了。似乎她还带来了新的神明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1342</ID>
-      <DefaultText>润不再是那个迷路的孩子了。离开你之后，她经历了很多，变得非常勇敢。</DefaultText>
+      <DefaultText>瑞恩不再是那个迷路的孩子了。离开你之后，她经历了很多，变得非常勇敢。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6721,7 +6721,7 @@
     </Entry>
     <Entry>
       <ID>1344</ID>
-      <DefaultText>润学到了一项新技能，近于魔法的技能。她自称她又创造了一位神明，还从口袋里拿出了一枚暗淡的闪币给你看。</DefaultText>
+      <DefaultText>瑞恩学到了一项新技能，近于魔法的技能。她自称她又创造了一位神明，还从口袋里拿出了一枚暗淡的闪币给你看。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6731,7 +6731,7 @@
     </Entry>
     <Entry>
       <ID>1346</ID>
-      <DefaultText>苦痛在净地打破的镜子产生的碎片。上面你的映像停滞在时间之中，围绕着一圈多彩的能量晕。</DefaultText>
+      <DefaultText>苦痛在静地打破的镜子留下的碎片。上面你的映像停滞在时间之中，围绕着一圈多彩的能量晕。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
