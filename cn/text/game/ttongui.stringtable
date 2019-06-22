@@ -6606,7 +6606,7 @@
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>抗性减少受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及[DamageIcon: Transdimensional][Color: Transdimensional]跨次元[/Color]伤害。这些伤害一般是由秘具和秘法造成的。</DefaultText>
+      <DefaultText>抗性减少受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及[DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]伤害。这些伤害一般是由秘具和秘法造成的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6966,7 +6966,7 @@
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>&lt;quad class="resistance"&gt;抗性的作用原理与&lt;quad class="armor"&gt;护甲类似， 不过它可以削减人物受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及 [DamageIcon: Transdimensional][Color: Transdimensional]跨次元[/Color]伤害。</DefaultText>
+      <DefaultText>&lt;quad class="resistance"&gt;抗性的作用原理与&lt;quad class="armor"&gt;护甲类似， 不过它可以削减人物受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及 [DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
