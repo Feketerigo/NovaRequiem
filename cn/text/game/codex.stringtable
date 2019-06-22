@@ -4,590 +4,474 @@
   <NextEntryID>1</NextEntryID>
   <EntryCount>111</EntryCount>
   <Entries>
-    <Entry>
-      <ID>0</ID>
-      <DefaultText>...</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>1</ID>
-      <DefaultText>The castoffs of Miel Avest are led by a woman named Aadiriis, a visionary who keeps the peace, forcing the castoffs to focus on finding ways to fight the Sorrow. Aadiriis possesses an uncanny beauty. She is a mother and guide to the castoffs, with a kind and caring demeanor, but a mortal threat to anyone who threatens the castoff sanctuary. </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>2</ID>
-      <DefaultText>These transdimensional entities look like shadowy reflections of an angular, toothy humanoid, and the common folk believe them to be ghosts. They can phase in and out of reality at will, and they seek sources of transdimensional energy to feed upon. Beyond that, their motives are uncertain. </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>3</ID>
-      <DefaultText>A dour explorer and former Aeon Priest, with living, intricately designed tattoos that writhe across his forearms, Aligern thinks you might be the Changing God. He is watching you closely. He can pull the tattoos from his arm as if they were wires under his skin, using them in battle to defend himself and his companions.
+	<Entry>
+		<ID>0</ID>
+		<DefaultText>…</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>1</ID>
+		<DefaultText>艾迪莉丝领导着生活在梅尔·阿维斯特的弃子们。她是一名致力维护和平的空想家，一直在说服弃子们寻找对抗苦痛的方法。艾迪莉丝美得不可思议。她就像一位母亲，众多弃子之中的一位向导，举止和蔼而体贴，但同时，对所有敢于威胁弃子避难所的人都是致命的威胁。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>2</ID>
+		<DefaultText>这些跨维度的实体就像是棱角分明、龇牙咧嘴的类人生物反射出的映像，普通人认为它们是鬼魂。它们可以随心所欲地进出现实，寻找可供食用的跨维度能量源。除此之外，很难确定它们的动机。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>3</ID>
+		<DefaultText>阿里戈恩是一名阴沉的探险家，一位曾经的亘古祭司。他的前臂上缠着活生生的复杂纹身。阿里戈恩认为你可能是化身神，所以正密切关注着你。他可以把纹身从胳膊上玻下来，就好像它们是皮肤下的金属丝一样，用它们在战斗中保护自己和同伴。
 
-He wears a faded grey duster that buttons from the neck down to the waist. It has a number of pockets, bulging with small pieces of equipment.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>4</ID>
-      <DefaultText>These bipedal herd animals are common pack and riding animals. Their small forelimbs and tiny claws keep them from being much of a threat to their handlers, and their generally docile natures make them ideal for long journeys – even across worlds and through the Maws of the Bloom.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>5</ID>
-      <DefaultText>Artaglio is a deserter in one of the armies of the Endless Battle. A former captain, he and his mercenary company – Artaglio's Irregulars – make their camp in Chiurgeon Slump, a fetid slum in a fleshy pocket of the Bloom. Artaglio wears blue and silver finery and keeps his breastplate and weaponry shiny and well-polished. He is always accompanied by his men, including his former sergeant, Ranard.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>6</ID>
-      <DefaultText>Bericael Brunna is a warrior of iron will and exceptional self-control. Bericael is of indeterminate gender, and is muscular, slim, and tall. An unyielding foe, faithful ally, and deadly in battle, Bericael has been a squad leader and commando in the First's Militia for years and has been integral in many successful operations.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>7</ID>
-      <DefaultText>Only the most wretched and unfortunate people become permanent residents of the Bloom. Some are exiles, criminals, or madmen who were forced to flee the city of Sagus Cliffs. Others are vagrants with nowhere else to go. A few came here from far away – stumbling into a portal, perhaps – and found themselves trapped in the Bloom, with no hope of making their way back home. Eventually, the Bloom will devour them all.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>8</ID>
-      <DefaultText>Some people claim to know the ways of the Bloom. They've learned its tubes and byways, explored its stinking slums, and discovered what its Maws like to eat. Some even say that the Bloom favors them, opening passageways to take them where they want to go. Such people often hire themselves out as Bloom-guides, earning money by providing advice and direction to merchants and explorers. Their careers rarely last long, of course – the Bloom's favor is almost always short-lived.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>9</ID>
-      <DefaultText>Bloom-slaves are former criminals and convicts from the city of Sagus Cliffs. To pay their debt to society, some choose Bloom-slavery instead of prison or execution. They are auctioned off to merchants and explorers who use them to open the Bloom's Maws. Once a Bloom-slave has been fed to a Maw, they are free... that is, assuming they are still alive and mostly intact.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>10</ID>
-      <DefaultText>Bloom-tongues are wriggling tendrils that sprout from the flesh of the Bloom. Usually they surround Maws, but sometimes clusters of tongues exist on their own, especially in the deeper chambers of the Bloom. If you draw too near to a mass of Bloom-tongues, their voices will intrude upon your mind.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>11</ID>
-      <DefaultText>Beneath the crag of Sagus Cliffs, far below the level of human habitation, is a void in the rock. In the remote past, this place was a crossroads in some predecessor city, built by alien hands. More recently, the Changing God seems to have discovered this place and turned it into a secret refuge or laboratory. Inexplicably, the chamber is filled with breathable air, probably supplied by one of the Changing God's devices.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>12</ID>
-      <DefaultText>Callistege is a woman whose consciousness has fractured itself through the dimensions. Her echoes shimmer through multiple realities. She refers to these alternative shadows as her ""sisters"". She is a brilliant nano, and she seems to want something from you.
+他穿着一件褪色的灰色风衣，纽扣一直从脖子扣到腰部。衣服上有许多口袋，里面鼓鼓囊囊地塞满了各种小玩意。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>4</ID>
+		<DefaultText>这种双足动物一般用于载货或骑乘。它们纤细的前肢和瘦弱的爪子不会对驯养者构成太大的威胁。通常，它们性格温顺，非常适合进行长途旅行，甚至可以在众多世界间穿梭或是进入魔葵的食道。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>5</ID>
+		<DefaultText>阿塔里奥是一名来自无尽战争的逃兵。作为一名曾经的军官，他和他的雇佣兵团——阿塔利奥的非正规军，在位于魔葵囊袋内的一处臭烘烘的贫民窟，外科陷坑，安营扎寨。阿塔利奥穿着蓝色和银色相间的华丽服饰，胸甲和武器都闪闪发亮。总有手下陪在他的身边，其中就包括他从前的队长拉纳德。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>6</ID>
+		<DefaultText>贝里凯尔·布鲁纳是一位意志如钢自制力非凡的勇士。贝里凯尔性别不明，肌肉发达，身材苗条，个子很高。作为一个不屈的敌人，一位忠诚的盟友，一名战场中的死神，多年来，贝里凯尔一直是最初的弃子义勇军中的的小队长和突击队员，并且在众多次成功的行动扮演了不可或缺的角色。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>7</ID>
+		<DefaultText>只有最为悲惨和不幸的人才会成为魔葵的永久居民。其中一些人是流亡者，是罪犯，或是被迫逃离萨古斯峭壁的疯子；另一些人则是无处可去的流浪者。有些人从很远的地方来到了这里——也许是跌跌撞撞地走进了一处传送门，却发现自己被困在魔葵之中，失去了回家的一切希望。最终，魔葵会将他们全部吞噬。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>8</ID>
+		<DefaultText>有些人自称了解魔葵。他们清楚这里的管道和小路，探索了臭气熏天的贫民窟，还发现了这里的食道们都喜欢吃什么。有些人甚至说，魔葵喜欢他们，会为他们打开通道，带他们去他们想去的地方。这些人经常受雇成为魔葵向导，通过给商人和探险家提供建议和指导来赚钱。当然，他们的职业生涯很少能持续很久——魔葵的青睐几乎总是昙花一现。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>9</ID>
+		<DefaultText>魔葵奴隶是萨古斯峭壁曾经的罪人和囚犯。为了偿还它们欠社会的债务，一些人选择了成为魔葵奴隶，而非蹲进入监狱或等候处决。他们会被拍卖给想用他们打开魔葵食道的商人和探险家。一旦一名魔葵奴隶被喂给食道，他就自由了……假如他还活着并且还完整的话。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>10</ID>
+		<DefaultText>魔葵之舌是从魔葵身体上伸出的蠕动的触手。通常它们会围绕在食道周围，但有时候，也会有一簇舌头独自存在，特别是在魔葵深处的腔室里。如果过于接近一大蔟魔葵之舌，它们的声音将侵入你的内心。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>11</ID>
+		<DefaultText>萨古斯峭壁内，人类生活的区域下方，岩石内存在一个空洞。在遥远的过去，这个地方是异邦人建造的城市内的一处十字路。最近，化身神似乎发现了这个地方，并把这里变成了一处秘密的避难所或实验室。令人费解的是，房间里充满了可供呼吸的空气，它们很可能是由化身神留下的某个装置产生的。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>12</ID>
+		<DefaultText>卡莱斯蒂将自己破碎的意识分布在各个维度之中。她的幻影在多重现实中闪烁。她把这些另类的影子称为她的“姐妹”。她是一名出色的纳米使，似乎想从你身上得到什么东西。
 
-Callistege wears a bright wardrobe of oranges and reds, as if she were on fire. Her long, metallic hair shimmers. She wears earrings, necklaces, bracelets, anklets, and belts of varying materials and workmanship. </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>13</ID>
-      <DefaultText>The highest peak of Sagus Cliffs serves as a mooring point for airships of all varieties, serving those who wish to avoid the dangerous overland journey to the Oasis of M'ra Jolios, the Valley of Dead Heroes, the city of Haref, or more distant destinations. A woman named Tranquility operates a hostel here for those who need a place to rest their heads.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>14</ID>
-      <DefaultText>Those who have been birthed by the Changing God's abandonment are known as castoffs. Though it's speculated that a few hundred or more are scattered throughout Sagus Cliffs and the wider Protectorate, no one knows how many there are.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>15</ID>
-      <DefaultText>For hundreds of years, the Cave of Last Words was a thieves' bolt-hole, a place for the criminal element to hide from the law. It was also the site of countless suicides, where desperate people spent their last moments before throwing themselves into the sea. A great many of them chose to leave their final thoughts on the walls – words of despair, introspection, and rage. The Cave has, of late, been your sister Matkina's home as she sank deeper and deeper into paranoia and dementia.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>16</ID>
-      <DefaultText>Legends say that Chila was a teenage girl from Sagus Cliffs, forced into slavery in the Bloom. She formed a unique bond with the Bloom, and used that bond to start a slave rebellion that ultimately spilled into Sagus Cliffs. The slaves brought down the city's government and toppled its empire, installing Chila as their autarch. Ever since, Sagus Cliffs has been governed by those who trace their lineage to Chila's slave companions. Statues of Chila depict her with silver skin and a massive war hammer.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>17</ID>
-      <DefaultText>Worshippers of your castoff brother Inifere, the Children of the Endless Gate are a splinter sect of the Dendra O'hur. They seek to "free" the spirits of the living from the prisons of their bodies. The Children use the blood of their victims to draw the symbol of the Endless Gate. If the Gate opens, the cultists hurl their screaming victims into the nightmare beyond. The Children pray to the entity within the Endless Gate in the hope that it will calm the turmoil in their own lives – or that it will grant them its power.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>18</ID>
-      <DefaultText>This little pocket of Bloom-flesh has attracted a small collection of quacksalvers and chiurgeons, most of whom are here because of various ethical violations or ugly obsessions. The place is now under the command of a band of deserters from the Endless Battle, Artaglio's Irregulars.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>19</ID>
-      <DefaultText>The Church of the Changing God – at least its Sagus Cliffs chapter – venerate the Changing God as a literal deity, a man who has transcended mortality. They view castoffs as facets of his godhood. Its followers study the Changing God's exploits and seek to gain a deeper understanding of his actions so that they can apply his lessons to their lives. He is a symbol of enlightenment and knowledge to them, and they believe that by emulating him, they can heal the Ninth World of its ills.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>20</ID>
-      <DefaultText>One of the prime markets in Sagus Cliffs, Circus Minor plays host to all manner of itinerant merchants and city spectacles. At its heart stands the Clock, the machine once said to have unmoored the city in time during an invasion. All manner of public events happen here – traveling religious revivals, executions, performances, and more. It sits near the bottom of the city, very near the Reef of Fallen Worlds.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>21</ID>
-      <DefaultText>This tough neighborhood sits along one of the more exposed faces of Sagus Cliffs. Sagging houses line the steep road – some along the cliff itself, where the ground is slowly crumbling away beneath them. This area is home to lower-class citizens, as well as merchants, beggars, and grifters. It also features a chiurgical parlor and the Fifth Eye tavern.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>22</ID>
-      <DefaultText>Sometimes the Bloom's Maws break free of its body and fragment into smaller, autonomous creatures. These ravenous horrors are known as corpuscular maws. They consist of a small central core, containing a tiny portal to another time or place, surrounded by knots of Bloom-flesh that form into arms and tendrils. The "arms" serve as a means of locomotion as well as attack.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>23</ID>
-      <DefaultText>Crystalvores are insectoid beings of unknown origin. They generate a chemical process that dissolves crystal, using it to hollow out crystalline chunks to serve as shells. They use their sharp mandibles, talons, and claws to make short work of those who intrude on their nests. They frequently withdraw within their shells, falling into a dormant state until they are disturbed.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>24</ID>
-      <DefaultText>A decanted is a tall, white automaton with a frosted glass dome implanted in its chest. Inside the dome is a frozen human head. The construct speaks through a buzzing grill, its voice stripped of emotion. Decanted sometimes appear in groups, sometimes alone, usually seeking healthy and beautiful humans to bring back to their city of Glass.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>25</ID>
-      <DefaultText>The Dendra O'hur are worshippers of the Lady of Maggots, the Great Queen Sar'lavun. They are a cult of cannibals, devouring flesh to draw the memories of the dead into their own minds. They wear distinctive robes, draped with hoses and filters, that they use to reduce their meals into an easily digestible slurry.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>26</ID>
-      <DefaultText>Dracogen is a gray-skinned, sharp-toothed artifact dealer, obsessed with the wonders of the prior worlds. Though he's widely traveled, he calls the Bloom home for now. He has cultivated a reputation for fair dealing and complete ruthlessness toward those who cross him – and he always finds out when he’s been cheated.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>27</ID>
-      <DefaultText>Centuries ago, the Changing God and his castoffs worked together against the Sorrow. He and the First Castoff were especially close... until the day when a disagreement poisoned their relationship. The disagreement became an argument, which became a struggle, which became a battle and then a war. The castoffs chose sides, devoting their tremendous powers and talents to bloodshed. Some sided with the Changing God, believing that he had a plan to stop the Sorrow's genocide, or from a loyalty to the man responsible for their creation. Others sided with the First, believing that she had their best interests at heart against a fundamentally selfish creator. 
+卡莱斯蒂穿着橘色和红色的鲜艳衣服，整个人都仿佛着了火一样。她那金属一般的长发闪闪发光。她戴着各种由不同材料和工艺做成的耳环、项链、手镯、脚镯和腰带等饰物。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>13</ID>
+		<DefaultText>萨古斯峭壁的最高峰为各种各样的飞艇提供了一个系泊点。那些希望避开危险，不想通过陆路前往慕拉·乔利奥斯绿洲、英烈谷、哈尔夫城，或是更远的地方的人可以在这里得到交通服务。一位名叫宁静的女士在这里经营着一家旅馆，专门为那些需要地方休息的人提供住宿。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>14</ID>
+		<DefaultText>那些因被化身神遗弃而出生的人被称为弃子。据推测，萨古斯峭壁和更广阔的保护领内散布着数百个，甚至更多的弃子，没有人知道他们到底有多少人。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>15</ID>
+		<DefaultText>数百年来，遗言洞窟一直是小偷们的避难所，是犯罪分子逃避法律制裁的地方。这里也是无数人的自杀之地，绝望的人们在这里度过了自杀前最后的时光。其中很多人选择把他们最后的想法——绝望、反省和愤怒的话语，留在墙上。这处洞窟最近成了你越来越陷入偏执和疯狂的姐妹麦特琪娜的家。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>16</ID>
+		<DefaultText>传说奇拉是一名来自萨古斯峭壁，而后被迫在魔葵成为奴隶的少女。她与魔葵形成了一种独特的联系，并利用这种联系发动了奴隶起义。最终，起义蔓延到了萨古斯峭壁。奴隶们推翻了那座城市的政府，颠覆了它的帝国，并让奇拉成为他们的王。从那时起，萨古斯峭壁一直由那些血统可以追溯到奇拉的奴隶伙伴的人们统治着。奇拉雕像将她塑造成了拥有银色皮肤，手握巨大战锤的形象。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>17</ID>
+		<DefaultText>作为你的弃子兄弟伊尼费尔的崇拜者，无尽之门的孩子是丹德拉·欧胡的一个分支。他们试图将生者的灵魂从肉体的监狱中“解放”出来。他们会用受害者的鲜血画出无尽之门的标志。如果大门敞开，信徒们就会把尖叫着的受害者扔进来自另一个世界的噩梦中。他们向无尽之门内的存在祈祷，希望它能平息他们生活中的混乱，或是赋予他们力量。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>18</ID>
+		<DefaultText>魔葵的这处囊袋吸引了一小群庸医和骗子，大多数人来到这里的人都违反了某种道德准则或是心怀着某种丑陋的执念。这个地方现在归一群来自无尽战争的逃兵，阿塔利奥的非正规军管理。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>19</ID>
+		<DefaultText>化身神教会——至少在萨古斯峭壁的分支，将化身神当作一位真正的神，一名超越死亡的人来崇拜。他们认为弃子是他神性的一面。教会的追随者们投身研究化身神的事迹，希望能够更深刻地理解他的行为活动，以便将他的教训应用到他们的生活中。对他们来说，他是启蒙和知识的象征，他们相信通过模仿他，他们可以治愈第九世界的罪恶。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>20</ID>
+		<DefaultText>作为萨古斯峭壁内的一座重要市场，小广场内拥有着各种各样的流动商人和城市景观。巨钟位于其中心区域，据说这台机器曾在一次入侵中及时解除了这座城市的危机。各种各样的公共活动都发生在这里——宗教复兴团、死刑、表演等等。它坐落在城市的底部，非常靠近堕落世界暗礁。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>21</ID>
+		<DefaultText>这个艰苦的社区坐落在萨古斯峭壁的外露面上。陡峭的道路两边是塌陷的房子。有些房子沿悬崖建造，下面的泥土正在慢慢地剥落。这个地区是底层市民、商人、乞丐和骗子的家园。一家外科手术店和五眼酒馆坐落在这片区域内。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>22</ID>
+		<DefaultText>有时候，魔葵的食道会挣脱的身体，分裂成更小的自主性生物。这些饥肠辘辘的恐怖生物叫做微食道。它们由一个小小的中央核心和周围一圈魔葵肉瘤构成。核心内包含了一个通往其他时间或地点的传送门，而肉瘤则形成了它的手臂和触手。“手臂”既是它们的移动工具，也是它们的武器。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>23</ID>
+		<DefaultText>食晶虫是一种来源不明的类昆虫生物。它们体内能够产生一种可以溶解水晶的化学反应。它们会挖空水晶当作外壳，用它们锋利的下颚和爪子来对付那些敢于闯入它们巢穴的人。若没有收到干扰，它们通常会缩回壳内，进入休眠状态。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>24</ID>
+		<DefaultText>移入者一个高大的白色自动机，它的胸部植入了一个磨砂玻璃圆顶。圆顶内是一颗冰冻的人头。这个构装体通过嗡嗡作响的格栅进行交流，它的声音中完全不包含任何情感。移入者有时成群出现，有时单独出现，一般都在寻找健康美丽的人类带回他们的玻璃之城。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>25</ID>
+		<DefaultText>丹德拉·欧胡是蛆虫女神伟大的萨拉文女王的崇拜者。他们是食人的邪教徒，通过吞食肉体将死者的记忆吸入他们自己的大脑中。他们都穿着奇特的长袍，上面满是软管和过滤器，以将食物变成易于消化的肉泥。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>26</ID>
+		<DefaultText>德拉科根是一个灰皮肤、尖牙齿的艺术品经销商，他痴迷于先前世界的奇迹。虽然到过很多地方，但他现在将魔葵当成了自己的家。他为自己建立了公平交易和冷酷无情的声誉。那些敢于与他作对的人总会发现自己被欺骗了。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>27</ID>
+		<DefaultText>数个世纪以前，化身神和他的弃子们并肩作战对抗苦痛。他和最初弃子关系特别亲密……但有一天，意见的分歧破坏了他们的关系。分歧变成了争吵，变成了争斗，变成了战斗，最后变成了一场战争。弃子们选择了自己的立场，将他们的力量和才能奉献给了冲突。一些人站在化身神一边，他们或是相信他有一个计划来阻止苦痛的种族灭绝，或是单纯忠于那个创造了他们的人。其他人站在最初的弃子一边，认为她，而不是那个本质自私的创造者，最能够代表他们的利益。
 
-The two sides fought with all the weapons at their disposal, always to a draw, until the Changing God's armies suddenly began to suffer defeat after defeat. He discovered that his weapons were worthless, for the First had found the Reconciler of Truth, a device that could collapse multiple realities. He sought – and found – a counter in Heaven's Rejoinder, and the overlapping realities of their effects have torn time in the battlefield, parallel truths rolling and twining around each other. 
+双方使出浑身解数，却只能打成平局。但接下来，化身神的军队突然开始遭遇一次又一次的失败。他发现他们的武器完全失去了作用，因为最初的弃子发现了真理调解器，一个可以让多重现实发生坍缩的装置。他寻找着对抗措施——诸神的反驳，并最终取得了成功。两台装置产生的重叠的现实撕裂了战场上的时间，平行的现实相互滚转缠绕在一起。
 
-A century ago, the First sought to end the battle and strike a decisive blow against one of the Changing God's mercenary companies, the Sand Knights. Her lieutenant, Paj Rekken, was charged with leading an assault on one of the Sand Knights' fortresses, and she gained entry just as the First was torn apart in a coruscation of energies. Rekken did not know the First had been destroyed and used the Reconciler to snap the realities together, maintaining victory over the Sand Knights. By the time Rekken learned of the First's death, the First was irrevocably lost. The battle continues to divide the castoff community, and mercenaries still flock to the battlefield, but the Changing God has moved on.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>28</ID>
-      <DefaultText>A brash glaive, his intellect dimmed by the brilliant glow that surrounds him, Erritis is always ready for adventure – the more dangerous, the better! – and he's overjoyed to have you along to support him.
+一个世纪前，最初的弃子想要结束这场战争，并对化身神的一支雇佣军之一，沙漠骑士，进行一次决定性的打击。她的的副官，帕贾·拉金，领导了一次对沙漠骑士要塞的袭击，就在她攻入要塞的那一刻，最初的弃子被一团闪烁的能量撕碎了。拉金不知道最初的弃子已死，将调解器与现实连接在一起，保住了对沙漠骑士的胜利。当拉金得知最初的弃子的死讯的时候，那个人已经无可挽回地消失了。战争继续分裂着弃子们，雇佣兵仍然聚集在战场上，但化身神已然离开了。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>28</ID>
+		<DefaultText>他是一位傲慢的斗士，他的智慧总是被环绕在身体周围的光辉所掩盖，艾瑞提斯总是为毛线做好了准备，——越危险越好！有你在身边支持他，他欣喜若狂。
 
-Erritis is an unusually attractive young man, and his guiding star is to have as much excitement in his life as possible. Erritis doesn't plan, he doesn't do "tactics," and he doesn't like thinking things through because, really, what has that ever done for anyone, anyway? Point him toward a catastrophe, and let him go! And if no catastrophe exists? Time to create one!</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>29</ID>
-      <DefaultText>Those who worship the Bloom as a god are known as the Extremities of the Great Devourer. 
+艾瑞提斯是一个魅力非凡的年轻人，他的指路明灯就是要在生活中尽可能地加入刺激。艾瑞提斯不做计划，也不用战术，他也不喜欢把事情想透，因为，说实话，这对人们来说到底有什么用呢？指引他走向毁灭，然后放他走！如果没有毁灭呢？是时候创造一个了！</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>29</ID>
+		<DefaultText>那些将魔葵当作神来崇拜的人叫做巨噬者的肢体。
 
-Their greatest desire is to achieve union with the Bloom. They want only to serve the Bloom, to be brought to its innermost heart. They wear the Bloom's flesh as clothing and wear no shoes, so that they can touch their god at all times. They believe that being devoured by the Bloom is a mark of their deity’s favor, and they actively seek to be eaten.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>30</ID>
-      <DefaultText>The powerful, amoral woman who called herself the First Castoff of the Changing God was once one of the primary allies of the Changing God... but she betrayed him, or claimed that he betrayed her, and she led a great castoff revolt against him – a revolt that has spanned centuries and still continues today. According to legend, she fell in battle against the Changing God, and once he had vanquished her, he quit the field.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>31</ID>
-      <DefaultText>Residing in the Underbelly's Manufactory are three large constructs. Millennia ago, these Foremen built and maintained massive starships. Though they can no longer move, they are still able to direct the efforts of human laborers. The Foremen are constantly devising better ways to fabricate materials and rework the numenera to benefit Sagus Cliffs.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>32</ID>
-      <DefaultText>Gar-koto is a prince among the mutants of Little Nihliesh, who revere those with the most severe mutations as nobility. He dwells inside a spherical tank, filled with murky fluid, making it impossible to catch more than a brief glimpse of his hideous form. The mutant prince speaks through a staticky grille at the front of his tank. He and his people have been stuck in the Bloom ever since the unexpected death of the Maw that led to their home city.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>33</ID>
-      <DefaultText>The Ghibra Ny'kul – the children of Ny'kul – are the native inhabitants of the Oasis of M'ra Jolios. They are a race of aquatic humanoids, varying widely in appearance. They believe that this physical diversity is a gift from their god. They may have scales, hide, or shells; flippers or legs; claws or fingers. 
+他们最大的愿望就是与魔葵结合。他们只想为魔葵服务，被带到它的内心深处。他们将魔葵的血肉做成衣服，不穿鞋子，这样就可以随时触摸他们的神了。他们认为被布魔葵吞噬是他们的神的恩宠，积极地想办法让自己被吃掉。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>30</ID>
+		<DefaultText>这名超越道德的强大女子称自己为化身神最初的弃子。她曾经是化身神的一位重要盟友……但是她背叛了，或者说她被背叛了。她领导着了一场伟大的起义来反抗化身神，这场起义持续了几个世纪，至今仍在继续。根据传说，她在与化身神的战斗中倒下了，化身神在打败了她之后，也离开了战场。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>31</ID>
+		<DefaultText>三个巨大的构装体居住在城市底层的工厂中。几千年前，这些工程师负责建造和维护巨大的星际飞船。它们虽然无法再进行移动，但仍然能够指导劳动者工作。工头们不断地设计出更好的方案制造材料和加工遗器，为萨古斯峭壁做贡献。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>32</ID>
+		<DefaultText>小尼利耶什的居民会将突变最严重的人当作他们中的贵族。加尔-寇托就是那里的一位变种人王子。他住在一个充满浑浊液体的球体容器内，根本无法完整地看到自己丑陋的外表。这位变种王子通过容器前部的静电格栅说话。自从返回家乡的食道意外死亡后，他和他的族人们就一直被困在魔葵之中。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>33</ID>
+		<DefaultText>吉布拉·乃库尔人（乃库尔的孩子们）是慕拉·乔利奥斯绿洲的土著居民。它们是一种水生类人生物，外表区别很大。他们相信这种生理上的多样性是上帝赐予的礼物。它们可能有鳞片、皮或外壳；鳍状肢或腿；爪子或手指。
 
-The Ghibra communicate telepathically in a language they call Colosh Ny'kul – the word of Ny'kul. They frequently speak the Truth as well, for they believe in maintaining relationships with the world outside their watery bubble."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>34</ID>
-      <DefaultText>The Council of Sagus Cliffs meets on the sun-swept square at the top of the crag, overlooking the broad waters of Garravia Sound. Enormous synth slabs pave the square, and the tips of ancient space-faring vessels protrude from the ground, now repurposed as public buildings. The Order of Truth maintains its small, independent headquarters inside one of the starships, and emissaries from strange places meet in the Red Thicket, where their words cannot be overheard.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>35</ID>
-      <DefaultText>Imbitu is the elderly leader of the Dendra O'hur chapter in Sagus Cliffs. Friendly and cunning, Imbitu  is devoted to keeping human knowledge from the grasp of the Great Queen Sar'lavun, the Lady of Maggots, who waits on the other side of death to devour the minds of those who pass on. Imbitu has consumed the corpses of countless leaders and scholarchs, so he possesses the experience of many lifetimes.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>36</ID>
-      <DefaultText>Inifere is one of your castoff siblings, born in a dimension of horror. He is almost skeletal in appearance, and utterly mad. He would be harmless if it were not for the cultists who venerate him as the living portal to the Endless Gate.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>37</ID>
-      <DefaultText>Soldier-sailors in service to some long-vanished interstellar empire, the lascars appear to be human underneath their bulky, highly-polished armor. Their exotic weapons suggest that it would be unwise to antagonize them. Most of the lascars speak an unfamiliar language and carry themselves with a practiced, military bearing. A Maw opened in the Bloom, connecting the Ninth World to their "anchorage."</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>38</ID>
-      <DefaultText>The constables of Sagus Cliffs are called levies – an army of nearly identical, manufactured humanoids who wear the silver-indigo colors of the city. It’s clear from the briefest of glances that levies are not quite human. Their features are plain, forgettable, and generic, their eyes too large, their smiles too firmly fixed on their faces. Though their manner is typically friendly, most people find them unsettling and try to avoid interacting with them.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>39</ID>
-      <DefaultText>Little Nihliesh is the trash heap of the Bloom, as if the Bloom used this cavity as some sort of filtering organ. It's the home to a collection of mutants led by Gar-koto, whose people live among the squalor and debris. The back end of the catena can be seen here, its opposite end protruding into the Memovira's Courtyard.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>40</ID>
-      <DefaultText>In the distant past, the anchorage was a lavish port for trade and tourism between worlds. Constructed in grand style, sparing no expense, it orbits a world that is far from your own. The civilization that built the anchorage is long gone, and the place is inhabited only by lascars, descended from those who once crewed the ships that came and went from the anchorage. Now they are trapped in the anchorage, maintaining its systems as best they can, awaiting a ship that will take them home.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>41</ID>
-      <DefaultText>Your castoff sister is an albino assassin feared across the Sagus Protectorate. They call her the White Death. She is a calculating jack of all trades, with a huge intellect and enormous potential.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>42</ID>
-      <DefaultText>The Maws of the Bloom appear as mouth-like orificies, surrounded by foul, questing tentacles called “tongues.” Each Maw harbors a singular desire – for instance, an emotion like hatred, human blood, or memories of happiness. Sating that desire will open a portal to some other place or time... whether within the Bloom, an alien world, or a new dimension.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>43</ID>
-      <DefaultText>Wires and tubes run through your brother Mazzof's body. He has a special affinity – an almost-spiritual connection – for machines. He was captured by the Ghibra during a raid on one of M'ra Jolios's treasure troves and was abandoned by his ally, the Changing God.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>44</ID>
-      <DefaultText>Melmoth Leviarm is the leader of the cannibalistic Dendra O'Hur, and is devoted to the idea of retaining knowledge in all its forms. He wears tattered leather robes draped with a profusion of wires and tubes. He has piercing eyes set amidst a hideously scarred face, and he wears tattered robes, with countless wires and tubes snaking from every corner of his body.
+吉布拉人用一种他们称为克洛什·乃库尔（乃库尔语）的语言通过心灵感应进行交流。他们经常会口吐真理，因为他们认为应该和水泡之外的世界保持友好关系。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>34</ID>
+		<DefaultText>萨古斯峭壁顶端有一座阳光普照，能够俯瞰加拉维亚海峡广阔水域的广场。萨古斯峭壁议会就常在这里举行会议。巨大的合成石板铺就了广场，一艘尖端突出地面的古代航天器如今被改造成了一座公共建筑。真理修会在其中一艘星际飞船上维持着它的不大的独立总部，来自陌生地方的使者们会在红树丛中碰面，在那里别人无法听到他们说出的话。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>35</ID>
+		<DefaultText>英比图是丹德拉·欧胡教会萨古斯峭壁地区的长老。他为人友好而狡猾，致力于从在另一个世界等待死亡，吞噬死者的大脑的蛆虫女神伟大的萨拉文女王手中保护人类的知识。英比图吞噬了无数领袖与学者的尸体，因而拥有许多人数辈子的经验。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>36</ID>
+		<DefaultText>伊尼菲尔是你的一位弃子兄弟。他出生在一个恐怖的维度中，看上去全身瘦骨嶙峋，而且彻底疯了。如果不是那些崇拜他的教徒把他当作前往无尽之门的活体传送门，他不会造成什么危害。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>37</ID>
+		<DefaultText>在早已消逝的星际帝国服役的海军士兵，在笨重光亮的盔甲下，他们的长相和人类非常相似。从他们手中奇特的武器可以看出，与他们对抗是一种极不明智的行为。大多数水手都会说一种陌生的语言，他们的举止行为都带着一种训练有素的军人风度。魔葵中有一根食道连接着第九世界和他们的锚地。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>38</ID>
+		<DefaultText>萨古斯峭壁的治安官被称为征召兵。这是一支由几乎一模一样的人造类人生物组成的军队，他们身着代表城市的银靛蓝色军装。简单一瞥就可以清楚地看出，这些生物并不完全是人类。他们相貌平平，毫无特征，很容易被人遗忘。他的有一双显得过大的眼睛，笑容稳稳地一直固定在脸上。虽然态度一般都非常友好，大多数人都认为他们令人不安，会尽量避免与他们进行交流。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>39</ID>
+		<DefaultText>小尼利耶什是魔葵的垃圾堆，似乎魔葵将这处腔室当作了某种过滤器官。这里是由加尔-寇托领导的一群变种人的家园，这些人生活在肮脏的废墟之中。连续体的后半部分位于这里，前端则插进了麦莫韦拉庭院。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>40</ID>
+		<DefaultText>在遥远的过去，锚地是一座用于在世界之间进行贸易和旅行的奢华港口。它建筑风格宏伟，不惜一切代价，围绕着一个遥远的世界旋转。建造锚地的文明早已不复存在，这片区域的居民只有水手们，他们是曾在锚地来来往往的船只内船员的后裔。现在他们被困在了锚地里，正尽最大努力对这里进行维护，等待一艘能把他们带回家的船。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>41</ID>
+		<DefaultText>你的弃子姐妹是萨古斯保护领内一名令人恐惧的白化刺客。人们称她为白色死神。她是名精于算计的多面手，有着丰富的智慧和巨大的潜力。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>42</ID>
+		<DefaultText>魔葵的食道是仿佛嘴巴一样的洞穴，被称为“舌”的恶心触手环绕在它的周围四处探索着。每根食道都怀有一种的欲望——例如仇恨、人类鲜血或者快乐记忆等等。如果满足这种欲望，它就会打开一扇传送门通往其他地点或时间……可能在魔葵内，可能在一个陌生的世界中，也可能在一个新的维度里。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>43</ID>
+		<DefaultText>各种电线和管子穿过你的兄弟马佐夫的身体。他对机械有一种特殊的亲和力——就仿佛某种灵魂上的联系。在一次前往慕拉·乔利奥斯劫掠宝藏的行动中，他被吉布拉抓获，并被他的盟友化身神遗弃。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>44</ID>
+		<DefaultText>梅莫斯·列维是丹德拉·欧胡教会的首领，一直致力于保存各种形式的知识。他那伤痕累累的脸上长着一双锐利的眼睛。他穿着一件破烂的长袍，身上到处都挂着无数的电线和管子。
 
-Melmoth is a master of the Tides, having spent his life trying to understand their function. He does not suffer fools lightly.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>45</ID>
-      <DefaultText>The Memorialists inhabit the Valley of Dead Heroes, tending the monuments and tombs. They teach that the Ninth World is the afterlife, and that the Valley contains the graves of every person on earth. They claim that if the "living" of the Ninth World find the graves of who they were in life, the Ninth World will become a true paradise. Conversely, if more of them forget their true selves, the world will slide into utter chaos. Thus the Memorialists maintain the graves, hoping the world will at last come to its senses.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>46</ID>
-      <DefaultText>The Memovira's Courtyard is an antechamber to the Bloom, and one of its main centers for human activity– it remains relatively stable, so people have built shanties and slave pits, the better to launch expeditions deeper in the Bloom. A catena crashed into the Bloom recently, and its leading car is here, slowly being absorbed into the Bloom's flesh. The Courtyard is adjoined to the Memovira's Fortress by a great gate, which is guarded at all times.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>47</ID>
-      <DefaultText>Miel Avest is a refuge from the Sorrow, a hidden sanctuary for castoffs alone, created by the Changing God and the First Castoff. Shields cast by generators from a long-dead world hide it from prying eyes. The only law in Miel Avest is peace, and in its verdant air castoffs can focus on ways to stop the Sorrow forever.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>48</ID>
-      <DefaultText>These birdlike abhumans are covered in greasy black feathers, their faces surmounted by sharp yellow beaks and beady eyes. They wear tattered leather cloaks and carry bulging leather bags to hoard the treasures they compulsively collect.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>49</ID>
-      <DefaultText>Mutants are humans whose bodies or minds are radically different from the norm. Sometimes these differences are due to the natural forces of evolution, and sometimes they are the result of an unnatural manipulation. In the Ninth World, mutants often band together, as those with hideous deformities may face violence and derision. While many mutants are outcasts, others are revered for the powers that their mutations confer upon them.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>50</ID>
-      <DefaultText>A nychthemeron is a hovering, biomechanical monstrosity, its squid-like body mounted atop a hovering orb, lasers and scalpels at its tentacles' tips. During the day, it is a creature of rage and hate. At night, it is calm and rational. Two explorers captured a nychthemeron, displaying it in a cage of energy in Circus Minor.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>51</ID>
-      <DefaultText>Oom is an amorphous blob that you found hiding in the mirrors of the Buried Crossroads. Once contacted, Oom made a home in your mind. It's clearly psychically reactive, and it seems to have bonded to you.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>52</ID>
-      <DefaultText>The Order of Truth stretches far across the Ninth World, though its philosophies and activities differ from place to place. Its primary goal is to use the tools of the vanished worlds to help restore humanity to greatness. Those who join the Order are called "Aeon Priests", though they are not a religion. Instead, they prize intellect, understanding, and a deep comprehension of the wonders of the ancient world. Across the world, people trust Aeon Priests to handle, identify, and use the numenera.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>53</ID>
-      <DefaultText>As commander of the First's Militia, your sibling Paj is devoted to the struggle against the Changing God. She now carries the First's mantle and has devoted centuries of her life to overthrowing your sire. Paj is utterly committed to the survival of the castoffs, and she has little patience for those who support the Changing God, who she says seeks to kill all of your kind.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>54</ID>
-      <DefaultText>The machine intelligence known as Peerless is more like a virus, installing copies of itself in other machines. These machines become Peerless drones, bloodthirsty and insane, and every one is convinced that it is the original Peerless. No one knows where the true source of the Peerless drones can be found.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>55</ID>
-      <DefaultText>Nowhere is the evidence of ancient civilizations more apparent than in the Reef of Fallen Worlds. In one section of the harbor, forgotten structures and abandoned war automatons break the surface of the water. This is prime pick for brave scavengers, but the place hides significant dangers for the unwary and the unlucky.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>56</ID>
-      <DefaultText>When a person you meet in the world has made a strong enough impression, a reflection of that person is born within the Calm of your mind. These are often distorted echoes of their true selves, but they might still hold secrets... or untapped power.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>57</ID>
-      <DefaultText>You found Rhin hiding from slavers in a pile of rubbish in Cliff's Edge. 
+梅尔莫斯是潮力大师，一生都在试图理解潮力的作用。他很难容忍愚昧的人。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>45</ID>
+		<DefaultText>记忆者们居住在英灵谷，照料纪念碑和坟墓。他们说，第九世界是来世，山谷里埋葬着地球上的每一个人。他们声称，如果第九世界的“活人”们找到了他们生前的坟墓，第九世界将成为一个真正的天堂。相反，如果更多人忘记了他们真实的自我，世界将滑向彻底的混乱。因此，记忆者们维护着这些坟墓，希望这个世界最终能够恢复理智。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>46</ID>
+		<DefaultText>麦莫韦拉庭院是魔葵的前厅，也是这里人类活动的重要中心之一——它相对稳定，所以人们在此建造了棚屋和奴隶坑，以便更好地在魔葵更深处进行探险。最近，一艘连续体撞上了魔葵，它的前部留在了这里，正慢慢地被魔葵的身体吸收。庭院与麦莫韦拉要塞相连，要塞有一扇大门，随时都有人把守。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>47</ID>
+		<DefaultText>米尔·阿维斯特由化身神和最初的弃子创造，是一个供弃子们躲避苦痛的避难所，一个隐藏的圣地。一个早已死亡的世界留下的发生器为这里制造出了防护罩，遮蔽了窥探的眼睛。在米尔·阿维斯特，唯一的法律就是和平，在这片青翠的空气中，弃子们可以专注寻找彻底阻止苦痛的办法。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>48</ID>
+		<DefaultText>这些像鸟一样的亚人浑身长满了油腻的黑色羽毛，他们的脸上有一只黄色的尖喙和一双圆圆的眼睛。它们穿着破烂的皮斗篷，提着鼓鼓囊囊的皮包，里面囤积他们强迫症一般收集的宝物。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>49</ID>
+		<DefaultText>变种人指身体或大脑与常人完全不同的人类。这些差别有时来自进化的自然力量，有时则是非自然力量操纵的结果。在第九世界，变种人经常聚集在一起，因为这些丑陋畸形的家伙可能会遭遇暴力和嘲笑。虽然许多变种人是被放逐者，也有一些变种人由于突变而得到的力量广受尊敬。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>50</ID>
+		<DefaultText>昼夜魔怪是一个悬浮的生物力学怪物，它像鱿鱼一样的身体长在一个悬浮的圆球上，触手尖端长着激光器和手术刀。白天，它是一个充满愤怒和仇恨的生物。夜晚，它平静而理性的。两名探险者捕获了一只昼夜魔怪，并在小广场的能量笼中进行展示。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>51</ID>
+		<DefaultText>乌姆是一个不定形的泡泡，你在一面位于被掩埋的十字路中的镜子里发现了它。进行接触之后，乌姆在你的脑海里建立了一个家。这显然是一种精神反应，它似乎已经和你联系在一起了。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>52</ID>
+		<DefaultText>真理修会分布在整个第九世界上，尽管其成员的观点和活动因地而异。修会的主要目标是利用已经消失的世界留下的工具来帮助人类重新伟大起来。那些加入修会的人被称为“亘古祭司”，不过他们并不是什么神职人员。相反，他们重视智力、理解力和对古代世界奇迹的深刻理解。在世界各地，人们都相信亘古祭司能够处理、识别和使用遗器。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>53</ID>
+		<DefaultText>作为最初的弃子义勇军的指挥官，你的姐妹帕正贾努力与化身神对抗。如今，她披着最初的弃子的斗篷，为推翻你的父亲奉献了数个世纪的生命。帕贾一直在努力帮助弃子们生存下去，却对其中对那些支持化身神的人缺乏耐心。她认为化身神想要杀死你们所有人。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>54</ID>
+		<DefaultText>这些被称为无双的机械智能更像是一种病毒，它们会在其他机械上安装自身的副本。而那些受感染的机械也变成了无双无人机，疯狂而嗜血。所有的无双都相信它才是最初的那个，丹没有人知道无双无人机的真正来源在在哪里。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>55</ID>
+		<DefaultText>最能体现古代文明曾经存在过的地方莫过于堕落世界暗礁了。在港口的这片区域，被遗忘的建筑和被遗弃的战争机器突出了水面。这里勇敢的拾荒者的首选之地，但是对粗心和不幸的人来说，这里暗藏着巨大的危险。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>56</ID>
+		<DefaultText>如果这个世界上得某个人给你留下了足够深刻的印象，他就会在你内心的静地中诞生一个映像。这些映像往往是他们真实的自我那扭曲的影子，但他们可能仍然保有秘密……或未开发的力量。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>57</ID>
+		<DefaultText>你发现莱恩躲在峭壁边缘的一堆垃圾里，正在躲避奴隶贩子。
 
-The poor child has a clearly visible head wound, and she says she came from another world. She claims to talk to gods and carries their totems in her pouch. Is she insane, or does she truly hold some latent power? Whatever her truth, she looks to you for her survival.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>58</ID>
-      <DefaultText>Sagus Cliffs is one of the oldest human cities in Greater Garravia, built upon the ruins of more ancient metropolises. It occupies the headland overlooking Garravia Sound, with switchbacks and cutouts in the bluffs creating broad avenues that wind down to the harbors. Humanity has filled the old streets with their own ramshackle constructions, building wherever they can find a place to stake their claim. Strange towers and remnants of lost worlds pock the city here and there, and old machines still hum in the artificial caverns beneath the city. It is in these caverns that you see the city's true geological strata – the detritus of forgotten times.  Some neighborhoods close to the cliffs' edges are in danger of falling into the bay below. Every year, the city loses a little ground and a few more lives.
+这个可怜的孩子头部有一道明显的伤口，她说她来自另一个世界。她还声称能与诸神交流，并且在口袋里装着神的图腾。她是疯了还是真的有某种未知的力量？无论事实如何，她希望你能救她。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>58</ID>
+		<DefaultText>萨古斯峭壁是大加拉维亚最古老的人类城市之一。它建立在更古老的都市的墟之上，占据了俯瞰加拉维亚海峡的岬角，蜿蜒曲折的悬崖上，一条宽阔的林荫道一直延伸到港口。人类已经用他们摇摇欲坠的建筑填满了古老的街道，他们会在所有能够立足的地方进行建设。奇怪的塔楼和失落世界的遗迹遍布城市的各个角落，古旧的机械设备仍在城市地下的人工洞窟里嗡嗡作响。正是在这些洞窟中，你可以看到这座城市真正的地层——那些来自被遗忘时代的碎石。一些靠近悬崖边缘的社区正面临着掉入下方海湾的危险。每年，这座城市都会失去一些土地和几条生命。
 
-Once the heart of the Sagus Protectorate, the city's fortunes have slipped, its territory shrinking to a small pocket of land surrounding the city.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>59</ID>
-      <DefaultText>The people of Sagus Cliffs are laborers, merchants, artisans, entertainers, bureaucrats, vagrants, and criminals. Many are descended from the first people who settled here almost a thousand years ago. They're quite accustomed to the weird artifacts that are scattered about their city, but they're wise enough to avoid them. At least, most of them are.
+这座城市曾经是萨古斯保护领的中心，但如今，它已繁华不再，仅仅能支配城市周围的一小块土地上。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>59</ID>
+		<DefaultText>萨古斯峭壁的居民包括劳工、商人、工匠、艺人、官僚、流浪汉和罪犯。许多人是大约一千年前在这里定居的第一批人的后裔。他们对散落在城市里的各种奇怪的人工制品已经习以为常了，但都会明智地避开它们。至少，其中大多数人是这样的。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>60</ID>
+		<DefaultText>你在峭壁边缘一座倒塌房屋残骸下面发现了这名年轻女子的尸体。刚一看见她，她就把你拖进了你的精神迷宫，在那里，她就像一个女人的模糊轮廓。你发现了一个对她来说非常珍贵的迷箱，让她曾经的自己以鬼魂的形式出现，但是她仍然只是一段记忆……一个属于另一名弃子的映像。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>61</ID>
+		<DefaultText>除了名字，银色遗孤和那些无助的流浪儿没有什么共同之处。它们大概有一个成年人那么高，有着闪闪发光的银合金皮肤。他们徘徊在第九世界，为了一些莫名其妙的理由寻找关于机械智能的新闻。银色遗孤无法说话，所以他们通常通过手势和图画进行交流。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>62</ID>
+		<DefaultText>阿索尔·托林爵士是一位旅行家，也是一位著名的遗器专家……起码，他自己是这么说的。他在永固邦联安家，并在那里拥有已知世界内遗器资料最为丰富的图书馆。他总是在前进，努力在他现有的知识的基础上继续探索。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>63</ID>
+		<DefaultText>几个世纪以来，奴隶家族一直统治着萨古斯峭壁。他们声称，自己是追随大奇拉推翻这座城市曾经的统治者的那些奴隶的后裔。各个家族的领导人组成了城市的管理委员会，这个委员会似乎既能干又对普通人的事务不感兴趣。委员会大多数成员满足于行使权力而不引起别人的注意，但任何规则都有例外。这里的例外就是亚尔斯·凡特根，一个肥胖的黄皮肤贵族，他很开心自己能够出面蛊惑人心。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>64</ID>
+		<DefaultText>啮蜂是一种类似昆虫的大型生物，是有机和金属的结合体。，它们会用它们强大的挖掘爪挖出岩石隧道。这种活动产生的压电能量是他们饲料。啮蜂由蛋孵化，在准备死亡时会挖掘出一条“死亡隧道”。它们通过手势、敲击声、口哨声以及复杂的信息素语言进行交流。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>65</ID>
+		<DefaultText>大约一千年前，人类还没有出现在地球上，塔巴部族统治着大加拉维亚地区。他们认为冲突可以净化他们，认为自己是完美的战斗力。他们被禁锢的神，一台被奴役的机械智能，地下脊椎，引导着他们，预言着他们的未来。他们声称自己是新地球上被选中的人，并且会消灭所有敢于反抗他们的人。
 
-</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>60</ID>
-      <DefaultText>You found this young woman's corpse beneath the wreckage of a collapsed house in Cliff's Edge. When you first saw her, she dragged you into the Labyrinth of your mind, where she appeared as the shadowy outline of a woman. You found a puzzle box that was precious to her in life, allowing her to manifest as a ghost of her former self, but she is still just a memory... a reflection that belonged to another castoff.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>61</ID>
-      <DefaultText>Despite their name, silver orphans have little in common with helpless waifs. They are roughly the size of a full-grown human with shimmering, silver-alloy skin. They wander the Ninth World, seeking news of machine intelligences for some inexplicable reasons of their own. Silver orphans cannot speak, so they typically communicate through gestures and drawings.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>62</ID>
-      <DefaultText>Sir Arthour Torein is a traveler and one of the foremost experts on the numenera... at least, that's what he says. He makes his home in the Steadfast, and has one of the most extensive libraries about the numenera in the known world. He is always on the move, seeking to build upon his existing knowledge.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>63</ID>
-      <DefaultText>For centuries, the Slave Families have ruled Sagus Cliffs. They claim to be descended from the slaves who followed Chila the Great to victory over the old bosses of the city. The leaders of each family form the governing Council of the city, which seems simultaneously competent and disinterested in the affairs of the common people. Most members of the Council are content to wield power without drawing attention to themselves, but every rule has its exceptions. One such exception is Yars Vuntgen, a fat, yellow-skinned aristocrat who fancies himself a rabble-rouser.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>64</ID>
-      <DefaultText>Sticha are large, insectoid creatures. They are both organic and metallic, using their powerful digging claws to tunnel through rock. This activity generates piezoelectric energy that they feed upon. Sticha hatch from eggs and dig "death tunnels" when they are ready to die. They communicate via gestures, clicks and whistles, and a complex pheromonal language.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>65</ID>
-      <DefaultText>Before humanity emerged on earth about a thousand years ago, the Tabaht ruled Greater Garravia. They believed that conflict clarified them, and they thought of themselves as the perfect fighting force. Their chained god, an enslaved machine intelligence called the Underspine, guided them and prophesied their future. They claimed to be the chosen people of New Earth and destroyed any who dared stand against them. 
+直到他们在萨古斯峭壁遇到人类。这次失败导致了他们的毁灭，一次大规模爆炸摧毁了地下脊椎，塔巴部族完蛋了。只有种族灭绝活了下来，它是一个被遗忘的民族最后的一员。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>66</ID>
+		<DefaultText>塔什是最初的弃子义勇军成员，负责和麦特琪娜一起从科恩村夺回亚可，但是你进入了他的意识投影，改写了他的历史，并在这个过程中恢复了麦特琪娜的记忆。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>67</ID>
+		<DefaultText>凯科斯·连尼什的升天之地是一个远离第九世界的荒凉而美丽的结晶世界，只有穿过魔葵的食道才能够抵达。水晶从内部闪烁着光芒，其中有些水晶的形状十分奇特而复杂。升天之地的恒星又小又远，这让它处于一个寒冷、永恒的黄昏之中。探险家和商人偶尔会到这里冒险，但他们很少做长时间逗留。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>68</ID>
+		<DefaultText>永固邦联的居民将他们的王国之外称为“外域”——但这个词指的其实是卡拉之钟以西，南境长城以北，凯西里丛林以南的那片区域。这片区域的居民有着他们自己的法律，不受琥珀教皇的节制。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>69</ID>
+		<DefaultText>魔葵是一个经常变形的城市大小的利维坦，正拖着身体一寸一寸地穿过萨古斯峭壁附近的一座峡谷，努力抵达海边。它用触手将自己固定在山谷的岩壁上。但是这些触手也可以穿越空间和时间向远方延伸。它的触手停留在哪里，哪里就会出现一座传送门。住在这位巨噬者内的探险家们利用它们前往不同的世界和维度。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>70</ID>
+		<DefaultText>在无尽战争中，加尔西顿是化身神部队的指挥官。他甘愿为自己的创造者献身，相信化身神有一个可以彻底阻止苦痛的计划。他是一个危险的敌人，也是一位杰出的战术家。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>71</ID>
+		<DefaultText>萨古斯峭壁的景观、文化和历史都是由化身神以无数种方式塑造的。在遥远的过去，尽管自私而且性格存在缺陷，他曾是一位受人尊敬的研究者和科学家。但与大多数人类不同的是，化身神的生命并不局限于一个人的一生。
 
-That is, until they met the humans at Sagus Cliffs. This defeat led to their ruin, and when a massive detonation destroyed the Underspine, the Tabaht were finished. Only the Genocide remains, the last remnant of a forgotten people.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>66</ID>
-      <DefaultText>Tash was a member of the First's Militia, tasked with retrieving the jahk from Kholn Village with Matkina, but you rewrote his history when you entered his Merecaster, restoring Matkina's memory in the process.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>67</ID>
-      <DefaultText>The Ascension of Kex-Lianish is a world of stark, crystalline beauty, located far from the Ninth World and accessible only through one of the Bloom's Maws. Lights flicker within the crystals, some of which have strange, intricate shapes. The Ascension's sun is small and distant, leaving it in a cold, perpetual twilight. Explorers and merchants occasionally venture here, but they are few, and rarely stay for long.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>68</ID>
-      <DefaultText>The people of the Steadfast call the lands outside their kingdoms "the Beyond" – but what they really mean are the lands west of the Clock of Kala, north of the Southern Wall, and south of the Caecilian Jungle. The communities of these places have their own laws, living independently of the Amber Pope.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>69</ID>
-      <DefaultText>The Bloom is an amoeboid leviathan the size of a city, hauling itself through a gorge near Sagus Cliffs, inch by inch, trying to reach the sea. Its tendrils anchor it to the valley's walls – but they also reach through time and dimensions. Where it anchors its tendrils, portals open to far-off places, and explorers who dwell within the Great Devourer rush to take advantage of the  distant worlds and dimensions it unlocks.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>70</ID>
-      <DefaultText>The Chalcedon is commander of the Changing God's forces in the Endless Battle. He is devoted to your creator, believing that the Changing God has a plan that will stop the Sorrow for good. He is a dangerous foe and a brilliant tactician.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>71</ID>
-      <DefaultText>The landscape, culture, and history of Sagus Cliffs have been shaped in innumerable ways by the Changing God. At one point in the distant past, he was a respected researcher and scientist, albeit flawed and selfish. But unlike most mere humans, the Changing God is not confined to a single lifetime.
+几个世纪以来，化身神通过将他的意识转移到他自己创造的身体中来存续他的存在，他曾抛弃许多保存着他精神的容器。无论是为了避免痛苦、伤害、死亡，还是为了寻求全新的感觉和体验，他让自己从一生走向下一生。
 
-For centuries, the Changing God has continued his existence by transferring his consciousness into bodies of his own creation, casting off the many vessels that have held his mind. He has moved from life to life, whether to avoid pain, injury, or death, or to seek new sensations and experiences. 
+起初，他没有意识到，他留下的躯体虽然经常遭到严重破坏，但并不是空的。每当他从这些躯壳上带走他的精神，一个新的意识，一个拥有自己思想和梦想的新人就会诞生。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>72</ID>
+		<DefaultText>第九世界拥有众多奇妙和美丽的地区，也拥有一些可以彻底摧毁大脑的恐怖之地。无尽之门就是这样一个地方，一扇通向无限饥饿的门。那些具有巨大灵能潜力的人吸引了它的注意力。弃子伊尼菲尔就是其中之一，他被遗弃在无尽之门，而他的辛勤劳动使他得到了众多崇拜者。这些人崇拜门的力量。无尽之门的孩子寻求解放他们可怕般的主人，以换取些许叵测的力量。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>73</ID>
+		<DefaultText>五眼酒馆是先前世界里一座废弃的泵站，现在则变成了萨古斯峭壁的一家酒馆。众多管道通向地下深处，将各种各样的液体泵入酒馆。没有人知道这些液体是什么，但是在经过一些实验之后，人们已经知道其中的哪些相对无害，能够使人兴奋的。经历过无数次灵能战争的退伍军人共同拥有着五眼酒馆，他们一直呆在这里。五眼酒馆建筑结构中的某些特点是可以掩盖城市中持续不断的精神噪音。他们共同的精神力量吸引了来自宇宙各处的奇异生物。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>74</ID>
+		<DefaultText>你是最后的弃子。痴迷欺骗死亡的化身神曾经用你承载他的意识，而后又将你的躯壳抛弃。你在自己精神的黑暗深渊中醒来，从轨道上垂直坠向萨古斯峭壁。你能活下来真是个奇迹……苦痛离你越来越近了，你可能活不了多久了。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>75</ID>
+		<DefaultText>魔葵的统治者是一个被称为麦莫韦拉的犯罪头目。麦莫韦拉并非一个名字，而是一个头衔，在漫长的历史中，很多人都曾经拥有过这个头衔。因此，并不是每一名麦莫韦拉都以同样的方式统治魔葵，但是他们都与魔葵紧密联系，并且只受它的支配。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>76</ID>
+		<DefaultText>无数世界中无数的死者在墓地的蜂窝状单元中找到了永恒的安息之地。每一个文明都通过某种奇怪的冲动找到这里，利用谷底下方巨大的洞穴来保存他们逝去的同胞的记忆。毫无疑问，人们可以花费数年时间探索这些墓室。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>77</ID>
+		<DefaultText>第九世界就是地球，自从有知觉的生命首次出现以来，这个世界已经在20亿年的时间里经历了诸多文明的兴起和衰落——有些文明可以重新点燃垂死的太阳，有些文明可以在大气层中播种纳米机械，有些文明可以把众多大陆本身塑造成一个巨大的超级大陆，有些文明可以建立一个庞大的星际帝国的，还有些文明可以把物理学的基本作用变成他们的玩物。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>78</ID>
+		<DefaultText>大奇拉神殿的管理员是一名矮小的老妇人，她自称敏锐的斯佩克。她说话的时候，话语会被魔葵的低声回应，她声称自己能听懂魔葵在说什么。她还声称她见过你的父亲，化身神，虽然那是很多年前的事了。她可能比任何活人都更了解魔葵和它的秘密</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>79</ID>
+		<DefaultText>苦痛是一种古老的恐惧，它猎杀化身神和他所有的创造物——也就是弃子们。你在精神迷宫深处醒来，正在重构记忆的时候，你感受到了苦痛无情的压力。你进入静地，与幽魂对话的时候，苦痛就在你的脑海中撕开了一条道路，将它的碎片播撒在你的内心里。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>80</ID>
+		<DefaultText>幽魂只是你想象力的一部分。他从静地中现身，如果不是一个纤细、忧郁的出窍鬼魂的话，他很可能是一名英俊、和蔼的男子。他从你脑中的其他记忆汲取力量，将你的意识召唤回来，并在你从天上掉下来的时候激活你的自愈能力。他是一个有价值的朋友，起码在某种程度上可以这么说，也是一个重要的信息源。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>81</ID>
+		<DefaultText>巨腹之内是魔葵中心的一处巨大的空洞。骨质的平台贴在墙上，或者落在有肉和软骨的柱子之上。人行道将这些平台连接起来，这些平台是由人类使用所有近在咫尺的不愉快的材料制作的，悬挂在魔葵洞穴般的深处。一些平台上有神龛、商店或住宅，包括大奇拉神社。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>82</ID>
+		<DefaultText>一个迷人的盗贼，一名曾经的雇佣兵，一位公认的自信男人——但不一定最勇敢。他刀法敏捷，巧舌如簧，喜欢在幕后操盘。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>83</ID>
+		<DefaultText>政府广场矗立的那艘飞船下方，是从千年来的废墟中挖掘出来的一系列洞穴。正像这里的名字和声誉展示的那样，社会的渣滓聚集在这黑暗中——其中包括变种人、穷人、食人的丹德拉·欧胡，还有其他被遗弃的人。啮蜂也经常出现在这里，在地下洞穴中挖掘地道。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>84</ID>
+		<DefaultText>在萨古斯峭壁的东北部，两条山脉环绕着英烈谷。这座山谷中完全没有生命，但到处都是神龛、雕像和纪念碑。许多纪念碑都是数千年前人工修建的。奇怪的是，没有尸体被埋葬在山谷中——他们被埋葬在大墓园，而墓园正好位于谷底之下。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>85</ID>
+		<DefaultText>这些类人生物身材高大，面容憔悴，皮肤呈紫红色。他们的眼睛向两侧突出的，头顶上有一个高高的嵴。人们通常认为它们冷酷无情。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>86</ID>
+		<DefaultText>等候猎物是为战斗而制造出的古老构装体。它是一名类人生物，但整个身体都布满尖刺和长钉，手臂是长长的刀片。它最初是由先前世界已经消失的文明制造的，现在是同类中最后的一个。几十年来，等候猎物一直站在麦莫韦拉庭院里，接受强大的人和生物的挑战，它从未被击败过。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>87</ID>
+		<DefaultText>你的大脑是个奇怪的地方。化身神为他创造了某种精神家园，一个包含他记忆和意识的结构。你曾认识的人的映像站在你内心的静地里，而下方的深渊中隐藏着你的身体曾经能够驾驭的秘密和力量。进行进一步的探索似乎很有必要……特别是苦痛已经用它的碎片感染了你。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>88</ID>
+		<DefaultText>远在萨古斯峭壁以西，穿过无人荒野和卡拉巨钟，永固邦联的九个国家建立了以真理修会领导人琥珀教皇为中心的文明。永固联邦的九大王国分别是纳瓦伦、米拉夫、甘、塞默尔、德劳里斯、马列维奇、安川、伊斯科波尔和皮瑟伦帝国。
 
-What he didn't realize – at first – was that the bodies he left behind, though often left severely damaged, were not empty. Each time he tore his mind from one of these husks, a new consciousness was born inside – a new person with their own thoughts and dreams.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>72</ID>
-      <DefaultText>The Ninth World contains realms of wonder and beauty – and places of utter, mind-destroying horror. The Endless Gate is one such place, a doorway that leads to a being of infinite hunger. Those with great psychic potential draw its attention. One such is the castoff Inifere, abandoned in the Endless Gate – and his travails have brought him worshippers who venerate the Gate's power. The Children of the Endless Gate seek to liberate their hellish master in exchange for a sliver of its unfathomable power.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>73</ID>
-      <DefaultText>The Fifth Eye is an abandoned pumping station from a prior world, now used as a tavern by the people of Sagus Cliffs. Pipes lead deep underground, pumping a variety of fluids into the tavern. No one knows what the fluids are, but after some experimentation, they've learned which ones are relatively harmless and capable of intoxicating people. Veterans of countless psychic wars share ownership of the Fifth Eye, and they remain here at all hours. Something about the Fifth Eye's architecture serves to drown out the constant mental noise of the city. Their shared mental strength attracts strange beings from across the universe.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>74</ID>
-      <DefaultText>You are the Last Castoff, a discarded shell built to hold the consciousness of the Changing God, a man obsessed with cheating death. You awoke within the dark fathom of your own mind after plummeting from orbit toward Sagus Cliffs. It is a miracle that you managed to survive... and as the Sorrow draws closer to you, you may not survive much longer.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>75</ID>
-      <DefaultText>The ruler of the Bloom is a crime lord known as the Memovira. The Memovira is not a name, but a title, and it has passed to many individuals throughout history. As such, not every Memovira rules the Bloom in the same manner, but they are all bonded to the Bloom, and lead only by its favor.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>76</ID>
-      <DefaultText>The countless dead of innumerable worlds find their eternal repose in the honeycombed cells of the Necropolis. Each civilization comes here through some strange compulsion, using the vast storage of the enormous cavern beneath the Valley to preserve the memories of their absent compatriots. No doubt one could spend years exploring the vaults.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>77</ID>
-      <DefaultText>The Ninth World is Earth, a world that has seen massive civilizations rise and fall over the course of two billion years since sentient life first arose – civilizations that could rekindle a dying sun, seed the atmosphere with nano-machines, shape the continents themselves into a massive mega-continent, become the seat of a vast interstellar empire, or make the fundamental forces of physics their playthings.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>78</ID>
-      <DefaultText>The caretaker at the Shrine of Great Chila is a small, elderly woman who calls herself the Observant Speck. Whenever she speaks, her words are softly echoed by the chittering voices of the Bloom, and she claims to understand what they are saying. She also claims to have met your sire, the Changing God, though that was many years ago. It's likely that she knows more about the Bloom and its secrets than anyone else alive.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>79</ID>
-      <DefaultText>The Sorrow is an ancient horror that hunts the Changing God and all his creations – namely, the castoffs. When you woke deep in the Labyrinth of your mind, you felt the Sorrow's inexorable pressure as you rebuilt your memories. When you emerged into the Calm and spoke to the Specter, the Sorrow ripped its way into your mind and spilled its fragments into your psyche.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>80</ID>
-      <DefaultText>A fragment of your imagination, the Specter manifests himself in the Calm. He is a handsome, affable man – or at least would be, if he weren't also a wispy, blue, psionic ghost. He drew power from the other memories that were in your mind to summon you back to consciousness, activating your body's healing abilities when you fell from the sky. He's a valuable friend - of sorts – and a font of information.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>81</ID>
-      <DefaultText>The Vast Interior is a cavernous void in the midst of the Bloom. Bony platforms cling to the walls or sit atop columns of flesh and gristle. Walkways connect these platforms, crafted by humans using whatever unpleasant materials are close at hand, suspended above the Bloom's cavernous depths. Some platforms hold shrines, shops, or homes, including the Shrine of Great Chila.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>82</ID>
-      <DefaultText>A charming rogue, a former mercenary, and an admitted confidence man – but not necessarily the bravest. He's quick with a blade, faster with his tongue, and prefers to lead from behind.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>83</ID>
-      <DefaultText>Far below the great ships that dominate Government Square lies the Underbelly, a series of caverns cut from the compressed detritus of millennia. Per its name and reputation, the dregs of society congregate in the gloom – mutants, the desperately poor, the cannibalistic Dendra O'hur, and other outcasts. The sticha can also be found here, digging and tunneling through the Underbelly's stone caverns.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>84</ID>
-      <DefaultText>Northeast of Sagus Cliffs, a pair of mountain ranges surrounds the Valley of Dead Heroes. The Valley is utterly lifeless, but it is filled with shrines, statues, and cenotaphs.  Many of these monuments were constructed by hands dead for millennia. Oddly, no corpses are buried in the valley – they are entombed in the Necropolis, which lies directly beneath the valley floor.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>85</ID>
-      <DefaultText>These humanoid creatures are tall and gaunt, with a violet-red tint to their flesh. Their eyes are contralateral and bulging, and a tall crest surmounts their head. They are often described by humans as cold and unemotional.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>86</ID>
-      <DefaultText>Waits-for-prey is an ancient construct created for battle. It is humanoid, but its entire body is lined with thorns and spikes, and its arms are long killing blades. Originally built by some vanished civilization from a prior world, it is now one of the last of its kind. Waits-for-prey has been standing in the Memovira's Courtyard for decades, accepting challenges from powerful people and creatures, and it has never been defeated.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>87</ID>
-      <DefaultText>Your mind is a strange place. The Changing God created some sort of psychic home for himself, a structure to contain his memories and consciousness. Reflections of people you once knew stand in the Calm at the center of your mind, and Fathoms below hide secrets and powers that your body once knew how to harness. Further exploration seems warranted... especially because the Sorrow has infected you with its fragments.</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>88</ID>
-      <DefaultText>Far to the west of Sagus Cliffs, past the trackless wastes and the Clock of Kala, the nine nations of the Steadfast form a nucleus of civilization centered around the Amber Papacy – the core of the Order of Truth. The nine kingdoms of the Steadfast are Navarene, Milave, Ghan, Thaemor, Draolis, Malevich, Ancuan, Iscobal, and the Pytharon Empire.
-
-While the Steadfast is settled and civilized, it is still a dangerous place. Isolated communities are still threatened, and travel is risky. </DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>89</ID>
-      <DefaultText>The Labyrinth</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>90</ID>
-      <DefaultText>The Steadfast</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>91</ID>
-      <DefaultText>Extremities of the Great Devourer</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>92</ID>
-      <DefaultText>ENTRY_Valley of Dead Heroes</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>93</ID>
-      <DefaultText>ENTRY_Varjellen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>94</ID>
-      <DefaultText>ENTRY_Waits-for-prey</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>95</ID>
-      <DefaultText>Bloom-guides</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>96</ID>
-      <DefaultText>Bloom-slaves</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>97</ID>
-      <DefaultText>Bloom-tongues</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>98</ID>
-      <DefaultText>Chila the Great</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>99</ID>
-      <DefaultText>Children of the Endless Gate</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>100</ID>
-      <DefaultText>Church of the Changing God</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>101</ID>
-      <DefaultText>Dendra O'hur</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>102</ID>
-      <DefaultText>Endless Battle</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>103</ID>
-      <DefaultText>Foremen</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>104</ID>
-      <DefaultText>Memorialists</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>105</ID>
-      <DefaultText>Sagus Cliffs</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>106</ID>
-      <DefaultText>Slave Families</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>107</ID>
-      <DefaultText>The Beyond</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>108</ID>
-      <DefaultText>The Bloom</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>109</ID>
-      <DefaultText>The Necropolis</DefaultText>
-      <FemaleText />
-    </Entry>
-    <Entry>
-      <ID>110</ID>
-      <DefaultText>The Ninth World</DefaultText>
-      <FemaleText />
-    </Entry>
+永固邦联虽然已经实现了安定和文明，但仍然是个危险的地方。与世隔绝的社区仍然受到威胁，旅行也有很大的风险。</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>89</ID>
+		<DefaultText>迷宫</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>90</ID>
+		<DefaultText>永固邦联</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>91</ID>
+		<DefaultText>巨噬者的肢体</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>92</ID>
+	</Entry>
+	<Entry>
+		<ID>93</ID>
+	</Entry>
+	<Entry>
+		<ID>94</ID>
+	</Entry>
+	<Entry>
+		<ID>95</ID>
+		<DefaultText>魔葵向导</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>96</ID>
+		<DefaultText>魔葵奴隶</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>97</ID>
+		<DefaultText>魔葵之舌</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>98</ID>
+		<DefaultText>大奇拉</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>99</ID>
+		<DefaultText>无尽之门的孩子</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>100</ID>
+		<DefaultText>化身神教会</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>101</ID>
+		<DefaultText>丹德拉·欧胡</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>102</ID>
+		<DefaultText>无尽战争</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>103</ID>
+		<DefaultText>工头</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>104</ID>
+		<DefaultText>回忆者</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>105</ID>
+		<DefaultText>萨古斯峭壁</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>106</ID>
+		<DefaultText>奴隶家族</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>107</ID>
+		<DefaultText>外域</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>108</ID>
+		<DefaultText>魔葵</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>109</ID>
+		<DefaultText>大墓园</DefaultText>
+	</Entry>
+	<Entry>
+		<ID>110</ID>
+		<DefaultText>第九世界</DefaultText>
+	</Entry>
   </Entries>
 </StringTableFile>

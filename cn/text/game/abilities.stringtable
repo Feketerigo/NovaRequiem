@@ -2821,7 +2821,7 @@
     </Entry>
     <Entry>
       <ID>564</ID>
-      <DefaultText>心灵扰乱</DefaultText>
+      <DefaultText>精神扰乱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2946,7 +2946,7 @@
     </Entry>
     <Entry>
       <ID>589</ID>
-      <DefaultText>心灵屏障</DefaultText>
+      <DefaultText>精神屏障</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4231,12 +4231,12 @@
     </Entry>
     <Entry>
       <ID>846</ID>
-      <DefaultText>血液纳米机器</DefaultText>
+      <DefaultText>血液纳米机械</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>847</ID>
-      <DefaultText>无数不可思议的小机器不断在你的血液中游动，提升免疫系统的能力，并瞬间治疗伤口。</DefaultText>
+      <DefaultText>无数不可思议的小型机械不断在你的血液中游动，提升免疫系统的能力，并瞬间治疗伤口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5186,7 +5186,7 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>召唤一个精神构装体夹击你的敌人。人物一次只能召唤1个幻象勇士。</DefaultText>
+      <DefaultText>召唤一个灵能构装体夹击你的敌人。人物一次只能召唤1个幻象勇士。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5496,7 +5496,7 @@
     </Entry>
     <Entry>
       <ID>1099</ID>
-      <DefaultText>心灵控制</DefaultText>
+      <DefaultText>精神控制</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6331,7 +6331,7 @@
     </Entry>
     <Entry>
       <ID>1266</ID>
-      <DefaultText>将注意力集中在同伴身上，用你可怕的精神力量磨砺他们的反射神经，提升他们的反应能力。</DefaultText>
+      <DefaultText>将注意力集中在同伴身上，用你可怕的灵能力量磨砺他们的反射神经，提升他们的反应能力。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

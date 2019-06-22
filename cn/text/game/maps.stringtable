@@ -6,7 +6,7 @@
   <Entries>
 	<Entry>
 		<ID>0</ID>
-		<DefaultText>净地</DefaultText>
+		<DefaultText>静地</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>1</ID>
@@ -16,7 +16,7 @@
 	</Entry>
 	<Entry>
 		<ID>3</ID>
-		<DefaultText>苦痛之心</DefaultText>
+		<DefaultText>苦痛深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>4</ID>
@@ -32,19 +32,19 @@
 	</Entry>
 	<Entry>
 		<ID>7</ID>
-		<DefaultText>梅尔·安维斯特</DefaultText>
+		<DefaultText>梅尔·阿维斯特</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>8</ID>
-		<DefaultText>幽魂之心</DefaultText>
+		<DefaultText>幽魂深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>9</ID>
-		<DefaultText>最初的弃子之心</DefaultText>
+		<DefaultText>最初的弃子深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>10</ID>
-		<DefaultText>破碎之心</DefaultText>
+		<DefaultText>破碎的深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>11</ID>
@@ -52,23 +52,23 @@
 	</Entry>
 	<Entry>
 		<ID>12</ID>
-		<DefaultText>克利夫顿之心</DefaultText>
+		<DefaultText>克利夫顿深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>13</ID>
-		<DefaultText>绿洲之心</DefaultText>
+		<DefaultText>绿洲深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>14</ID>
-		<DefaultText>村庄之心</DefaultText>
+		<DefaultText>村庄深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>15</ID>
-		<DefaultText>巨钟之心</DefaultText>
+		<DefaultText>巨钟深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>16</ID>
-		<DefaultText>女儿之心</DefaultText>
+		<DefaultText>女儿的深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>17</ID>
@@ -84,15 +84,15 @@
 	</Entry>
 	<Entry>
 		<ID>20</ID>
-		<DefaultText>黑暗之心</DefaultText>
+		<DefaultText>黑暗深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>21</ID>
-		<DefaultText>大芝拉祭坛</DefaultText>
+		<DefaultText>大奇拉祭坛</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>22</ID>
-		<DefaultText>巨体之内</DefaultText>
+		<DefaultText>巨腹之内</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>23</ID>
@@ -104,7 +104,7 @@
 	</Entry>
 	<Entry>
 		<ID>25</ID>
-		<DefaultText>外壳陷坑</DefaultText>
+		<DefaultText>外科陷坑</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>26</ID>
@@ -148,7 +148,7 @@
 	</Entry>
 	<Entry>
 		<ID>36</ID>
-		<DefaultText>默登的藏宝库</DefaultText>
+		<DefaultText>默登的宝库</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>37</ID>
@@ -172,11 +172,11 @@
 	</Entry>
 	<Entry>
 		<ID>42</ID>
-		<DefaultText>失落世界礁石</DefaultText>
+		<DefaultText>堕落世界暗礁</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>43</ID>
-		<DefaultText>小广场区</DefaultText>
+		<DefaultText>小广场</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>44</ID>
@@ -188,7 +188,7 @@
 	</Entry>
 	<Entry>
 		<ID>46</ID>
-		<DefaultText>城市之底</DefaultText>
+		<DefaultText>城市底层</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>47</ID>
@@ -196,7 +196,7 @@
 	</Entry>
 	<Entry>
 		<ID>48</ID>
-		<DefaultText>遗言之洞</DefaultText>
+		<DefaultText>遗言洞窟</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>49</ID>
@@ -236,11 +236,11 @@
 	</Entry>
 	<Entry>
 		<ID>58</ID>
-		<DefaultText>无尽战争之心</DefaultText>
+		<DefaultText>无尽战争深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>59</ID>
-		<DefaultText>苦痛之心实验室</DefaultText>
+		<DefaultText>苦痛深渊实验室</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>60</ID>

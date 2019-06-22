@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>1001</ID>
-      <DefaultText>润</DefaultText>
+      <DefaultText>瑞恩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -76,7 +76,7 @@
     </Entry>
     <Entry>
       <ID>1004</ID>
-      <DefaultText>通往巨体之内</DefaultText>
+      <DefaultText>通往巨腹之内</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>1006</ID>
-      <DefaultText>通往麦莫韦拉的堡垒</DefaultText>
+      <DefaultText>通往麦莫韦拉堡垒</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>1013</ID>
-      <DefaultText>通往麦莫韦拉的庭院</DefaultText>
+      <DefaultText>通往麦莫韦拉庭院</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -131,12 +131,12 @@
     </Entry>
     <Entry>
       <ID>1015</ID>
-      <DefaultText>通往大芝拉祭坛</DefaultText>
+      <DefaultText>通往大奇拉祭坛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1016</ID>
-      <DefaultText>通往外壳陷坑</DefaultText>
+      <DefaultText>通往外科陷坑</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,17 +176,17 @@
     </Entry>
     <Entry>
       <ID>1024</ID>
-      <DefaultText>通往藏宝库</DefaultText>
+      <DefaultText>通往宝库</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1025</ID>
-      <DefaultText>敏锐污点</DefaultText>
+      <DefaultText>敏锐的斯佩克</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1026</ID>
-      <DefaultText>通往小广场区</DefaultText>
+      <DefaultText>通往小广场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -206,7 +206,7 @@
     </Entry>
     <Entry>
       <ID>1030</ID>
-      <DefaultText>通往城市之底</DefaultText>
+      <DefaultText>通往腹底区</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -256,12 +256,12 @@
     </Entry>
     <Entry>
       <ID>1040</ID>
-      <DefaultText>外壳手术室</DefaultText>
+      <DefaultText>外科手术店</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1041</ID>
-      <DefaultText>坠毁的飞船</DefaultText>
+      <DefaultText>坠毁的飞艇</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -311,7 +311,7 @@
     </Entry>
     <Entry>
       <ID>1051</ID>
-      <DefaultText>通往失落世界礁石</DefaultText>
+      <DefaultText>通往堕落世界暗礁</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -326,7 +326,7 @@
     </Entry>
     <Entry>
       <ID>1054</ID>
-      <DefaultText>通往城市之底的隧道</DefaultText>
+      <DefaultText>通往腹底区的隧道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -366,12 +366,12 @@
     </Entry>
     <Entry>
       <ID>1062</ID>
-      <DefaultText>通往城市之底的梯子</DefaultText>
+      <DefaultText>通往腹底区的梯子</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1063</ID>
-      <DefaultText>通往小广场区</DefaultText>
+      <DefaultText>通往小广场</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,37 +471,37 @@
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>通往巨钟之心</DefaultText>
+      <DefaultText>通往巨钟深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>通往女儿之心</DefaultText>
+      <DefaultText>通往女儿的深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1085</ID>
-      <DefaultText>通往升天之地的路</DefaultText>
+      <DefaultText>通往共振区的小路</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1086</ID>
-      <DefaultText>通往苦痛之心</DefaultText>
+      <DefaultText>通往苦痛深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>通往克利夫顿之心</DefaultText>
+      <DefaultText>通往克利夫顿深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>通往村庄之心</DefaultText>
+      <DefaultText>通往村庄深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>通往绿洲之心</DefaultText>
+      <DefaultText>通往绿洲深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -526,7 +526,7 @@
     </Entry>
     <Entry>
       <ID>1094</ID>
-      <DefaultText>通往净地</DefaultText>
+      <DefaultText>通往静地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -556,7 +556,7 @@
     </Entry>
     <Entry>
       <ID>1100</ID>
-      <DefaultText>通往科恩村被堵塞的通道</DefaultText>
+      <DefaultText>通往科恩村被堵塞的小路</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -591,12 +591,12 @@
     </Entry>
     <Entry>
       <ID>1107</ID>
-      <DefaultText>通往万众之门的门槛</DefaultText>
+      <DefaultText>通往无尽之门的门槛</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1108</ID>
-      <DefaultText>因尼费尔</DefaultText>
+      <DefaultText>伊尼费尔</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -611,22 +611,22 @@
     </Entry>
     <Entry>
       <ID>1111</ID>
-      <DefaultText>阿迪里斯</DefaultText>
+      <DefaultText>艾迪莉丝</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1112</ID>
-      <DefaultText>通往净地</DefaultText>
+      <DefaultText>通往静地</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1113</ID>
-      <DefaultText>因尼费尔的庇护所</DefaultText>
+      <DefaultText>伊尼费尔的庇护所</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>通往下一颗心的门</DefaultText>
+      <DefaultText>通往下一处深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>通往最深之心</DefaultText>
+      <DefaultText>通往最深的深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -666,7 +666,7 @@
     </Entry>
     <Entry>
       <ID>1122</ID>
-      <DefaultText>外壳食道</DefaultText>
+      <DefaultText>外科食道</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -751,7 +751,7 @@
     </Entry>
     <Entry>
       <ID>1139</ID>
-      <DefaultText>通往梅尔·安维斯特</DefaultText>
+      <DefaultText>通往梅尔·阿维斯特</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -766,7 +766,7 @@
     </Entry>
     <Entry>
       <ID>1142</ID>
-      <DefaultText>通往遗言之洞</DefaultText>
+      <DefaultText>通往遗言洞窟</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

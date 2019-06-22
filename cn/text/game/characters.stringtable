@@ -94,7 +94,7 @@
 	</Entry>
 	<Entry>
 		<ID>22</ID>
-		<DefaultText>敏锐污点</DefaultText>
+		<DefaultText>敏锐的斯佩克</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>23</ID>
@@ -274,7 +274,7 @@
 	</Entry>
 	<Entry>
 		<ID>67</ID>
-		<DefaultText>润</DefaultText>
+		<DefaultText>瑞恩</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>68</ID>
@@ -462,7 +462,7 @@
 	</Entry>
 	<Entry>
 		<ID>114</ID>
-		<DefaultText>麦莫韦拉成员{Brusca Patrol}</DefaultText>
+		<DefaultText>麦莫韦拉恶棍{Brusca Patrol}</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>115</ID>
@@ -570,7 +570,7 @@
 	</Entry>
 	<Entry>
 		<ID>141</ID>
-		<DefaultText>敏锐污点</DefaultText>
+		<DefaultText>敏锐的斯佩克</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>142</ID>
@@ -1396,7 +1396,7 @@
 	</Entry>
 	<Entry>
 		<ID>348</ID>
-		<DefaultText>士兵</DefaultText>
+		<DefaultText>征召兵</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>349</ID>
@@ -1771,7 +1771,7 @@
 	</Entry>
 	<Entry>
 		<ID>442</ID>
-		<DefaultText>冯根勋爵</DefaultText>
+		<DefaultText>凡特根大人</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>443</ID>
@@ -1803,7 +1803,7 @@
 	</Entry>
 	<Entry>
 		<ID>450</ID>
-		<DefaultText>饱受折磨的士兵</DefaultText>
+		<DefaultText>饱受折磨的征召兵</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>451</ID>
@@ -1839,7 +1839,7 @@
 	</Entry>
 	<Entry>
 		<ID>459</ID>
-		<DefaultText>无与伦比</DefaultText>
+		<DefaultText>无双</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>460</ID>
@@ -2039,11 +2039,11 @@
 	</Entry>
 	<Entry>
 		<ID>509</ID>
-		<DefaultText>软肋恶棍{male}</DefaultText>
+		<DefaultText>腹底恶棍{male}</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>510</ID>
-		<DefaultText>软肋恶棍{female}</DefaultText>
+		<DefaultText>腹底恶棍{female}</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>511</ID>
@@ -2407,7 +2407,7 @@
 	</Entry>
 	<Entry>
 		<ID>601</ID>
-		<DefaultText>Fire Wright</DefaultText>
+		<DefaultText>火匠</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>602</ID>
@@ -2423,11 +2423,11 @@
 	</Entry>
 	<Entry>
 		<ID>605</ID>
-		<DefaultText>阿索爵士</DefaultText>
+		<DefaultText>阿索尔爵士</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>606</ID>
-		<DefaultText>外壳无人机</DefaultText>
+		<DefaultText>外科无人机</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>607</ID>
@@ -2447,7 +2447,7 @@
 	</Entry>
 	<Entry>
 		<ID>611</ID>
-		<DefaultText>贝里卡埃尔·布伦纳</DefaultText>
+		<DefaultText>贝里凯尔 · 布鲁纳</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>612</ID>
@@ -2471,7 +2471,7 @@
 	</Entry>
 	<Entry>
 		<ID>617</ID>
-		<DefaultText>三个斑点</DefaultText>
+		<DefaultText>三个泡泡</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>618</ID>
@@ -2558,7 +2558,7 @@
 	</Entry>
 	<Entry>
 		<ID>639</ID>
-		<DefaultText>最初的弃子军</DefaultText>
+		<DefaultText>弃子义勇军</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>640</ID>
@@ -2614,7 +2614,7 @@
 	</Entry>
 	<Entry>
 		<ID>653</ID>
-		<DefaultText>贝里卡埃尔·布伦纳</DefaultText>
+		<DefaultText>贝里凯尔 · 布鲁纳</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>654</ID>
@@ -2630,7 +2630,7 @@
 	</Entry>
 	<Entry>
 		<ID>657</ID>
-		<DefaultText>迈尔莫斯·列维姆</DefaultText>
+		<DefaultText>梅莫斯·列维姆</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>658</ID>
@@ -2638,7 +2638,7 @@
 	</Entry>
 	<Entry>
 		<ID>659</ID>
-		<DefaultText>阿迪里斯</DefaultText>
+		<DefaultText>艾迪莉丝</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>660</ID>
@@ -2654,7 +2654,7 @@
 	</Entry>
 	<Entry>
 		<ID>663</ID>
-		<DefaultText>因尼费尔</DefaultText>
+		<DefaultText>伊尼费尔</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>664</ID>
@@ -2800,7 +2800,7 @@
 	</Entry>
 	<Entry>
 		<ID>700</ID>
-		<DefaultText>受伤的无与伦比</DefaultText>
+		<DefaultText>受伤的无双</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>701</ID>
@@ -2851,7 +2851,7 @@
 	</Entry>
 	<Entry>
 		<ID>713</ID>
-		<DefaultText>外壳医生</DefaultText>
+		<DefaultText>外科医生</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>714</ID>

@@ -56,7 +56,7 @@
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Jahk</DefaultText>
+      <DefaultText>亚可</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -176,7 +176,7 @@
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>Jahk</DefaultText>
+      <DefaultText>亚可</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1506,7 +1506,7 @@
     </Entry>
     <Entry>
       <ID>325</ID>
-      <DefaultText>第三人</DefaultText>
+      <DefaultText>第三个人</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2766,7 +2766,7 @@
     </Entry>
     <Entry>
       <ID>613</ID>
-      <DefaultText>润的夹克</DefaultText>
+      <DefaultText>瑞恩的夹克</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4553,7 +4553,7 @@
     </Entry>
     <Entry>
       <ID>981</ID>
-      <DefaultText>外壳医师球</DefaultText>
+      <DefaultText>外科医师球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4888,7 +4888,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>润的衬衫</DefaultText>
+      <DefaultText>瑞恩的衬衫</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5268,7 +5268,7 @@
     </Entry>
     <Entry>
       <ID>1125</ID>
-      <DefaultText>外壳医师球负面</DefaultText>
+      <DefaultText>外科医师球负面</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5493,7 +5493,7 @@
     </Entry>
     <Entry>
       <ID>1170</ID>
-      <DefaultText>纳米幽魂操纵人型生物的尸体为你而战。</DefaultText>
+      <DefaultText>纳米精魂操纵人型生物的尸体为你而战。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6248,12 +6248,12 @@
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>润的锁子甲</DefaultText>
+      <DefaultText>瑞恩的锁子甲</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1322</ID>
-      <DefaultText>润的罩袍</DefaultText>
+      <DefaultText>瑞恩的罩袍</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6263,7 +6263,7 @@
     </Entry>
     <Entry>
       <ID>1324</ID>
-      <DefaultText>润的劲弩</DefaultText>
+      <DefaultText>瑞恩的劲弩</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

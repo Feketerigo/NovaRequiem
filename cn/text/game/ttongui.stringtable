@@ -1831,7 +1831,7 @@
     </Entry>
     <Entry>
       <ID>365</ID>
-      <DefaultText>一名专心致志的创造者，你早已学会将改造之前世界的遗迹，让它们为己所用。</DefaultText>
+      <DefaultText>一名专心致志的创造者，你早已学会将改造先前世界的遗迹，让它们为己所用。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6506,7 +6506,7 @@
     </Entry>
     <Entry>
       <ID>1301</ID>
-      <DefaultText>[Color: Health]生命[/Color]决定了人物能够承受多少伤害。\n\n最后的弃子生命降低至0后一般会在净地中苏醒过来。\n\n同伴生命降低至0后会失去意识。进行治疗、危机结束或前往其他区域之后，他们就会苏醒过来。如果未能回复，则他们处于[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]中。</DefaultText>
+      <DefaultText>[Color: Health]生命[/Color]决定了人物能够承受多少伤害。\n\n最后的弃子生命降低至0后一般会在静地中苏醒过来。\n\n同伴生命降低至0后会失去意识。进行治疗、危机结束或前往其他区域之后，他们就会苏醒过来。如果未能回复，则他们处于[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
