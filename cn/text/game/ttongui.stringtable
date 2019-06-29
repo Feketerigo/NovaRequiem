@@ -306,12 +306,12 @@
     </Entry>
     <Entry>
       <ID>60</ID>
-      <DefaultText>[{0}] </DefaultText>
+      <DefaultText>【{0}】</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>61</ID>
-      <DefaultText>[{0}] </DefaultText>
+      <DefaultText>【{0}】</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2391,12 +2391,12 @@
     </Entry>
     <Entry>
       <ID>477</ID>
-      <DefaultText>{0}回合</DefaultText>
+      <DefaultText>持续{0}回合</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>478</ID>
-      <DefaultText>{0}回合</DefaultText>
+      <DefaultText>持续{0}回合</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3421,7 +3421,7 @@
     </Entry>
     <Entry>
       <ID>684</ID>
-      <DefaultText>[潮力汹涌]</DefaultText>
+      <DefaultText>【潮力汹涌】</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3721,7 +3721,7 @@
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>[潮力汹涌：需要潮力汹涌技能水平为{0}] </DefaultText>
+      <DefaultText>【潮力汹涌：需要潮力汹涌技能水平为{0}】</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4401,7 +4401,7 @@
     </Entry>
     <Entry>
       <ID>880</ID>
-      <DefaultText>[读心] </DefaultText>
+      <DefaultText>【读心】</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4816,12 +4816,12 @@
     </Entry>
     <Entry>
       <ID>963</ID>
-      <DefaultText>{0}水平提升了{1}。当前水平为{2}</DefaultText>
+      <DefaultText>{0}水平提升了{1}，当前水平为{2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>964</ID>
-      <DefaultText>{0}水平降低了{1}。当前水平为{2}</DefaultText>
+      <DefaultText>{0}水平降低了{1}，当前水平为{2}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6141,7 +6141,7 @@
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>[...]</DefaultText>
+      <DefaultText>……</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
