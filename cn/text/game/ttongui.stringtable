@@ -6566,7 +6566,7 @@
     </Entry>
     <Entry>
       <ID>1313</ID>
-      <DefaultText>靛潮代表公正、折中，将社会看作一个整体。与靛潮同调的人通常会改变整个环境寻求更大的利益，虽然这样的行为可能会让个人付出代价。执法者、政治家、法官和治安维持会成员通常与该潮同调。</DefaultText>
+      <DefaultText>靛潮代表公正、折衷，将社会看作一个整体。与靛潮同调的人通常会改变整个环境寻求更大的利益，虽然这样的行为可能会让个人付出代价。执法者、政治家、法官和治安维持会成员通常与该潮同调。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6576,7 +6576,7 @@
     </Entry>
     <Entry>
       <ID>1315</ID>
-      <DefaultText>银潮代表声望、名誉和权力。与银潮同调的人希望得到他人的赞美与钦佩，因为这可以让他获得更大的影响力。领导者、名人、英雄阿独裁者通常与该潮同调。</DefaultText>
+      <DefaultText>银潮代表声望、名誉和权力。与银潮同调的人希望得到他人的赞美与钦佩，因为这可以让他获得更大的影响力。领导者、名人、英雄和独裁者通常与该潮同调。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6601,12 +6601,12 @@
     </Entry>
     <Entry>
       <ID>1320</ID>
-      <DefaultText>护甲减少受到的[DamageIcon: Physical][Color: Physical]物理[/Color]伤害。大多数武器都会造成[DamageIcon: Physical][Color: Physical]物理[/Color]伤害</DefaultText>
+      <DefaultText>护甲削减受到的[DamageIcon: Physical][Color: Physical]物理[/Color]伤害。大多数武器都会造成[DamageIcon: Physical][Color: Physical]物理[/Color]伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>抗性减少受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及[DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]伤害。这些伤害一般是由秘具和秘法造成的。</DefaultText>
+      <DefaultText>抗性削减受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及[DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]伤害。这些伤害一般是由秘具和秘法造成的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6941,12 +6941,12 @@
     </Entry>
     <Entry>
       <ID>1388</ID>
-      <DefaultText>将努力等级用于攻击上可以增加你的命中率。 和进行其他行动一样，每次提升努力等级消耗1点属性点，提高命中率20%。 徒手攻击消耗速度值，但其他武器和能力可能会消耗气力值或心智值。</DefaultText>
+      <DefaultText>将努力等级用于攻击上可以提高你的命中率。 和进行其他行动一样，每次提升努力等级消耗1点属性点，提高命中率20%。 徒手攻击消耗速度值，但其他武器和能力可能会消耗气力值或心智值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1389</ID>
-      <DefaultText>在攻击时提高努力等级也会增加你造成的伤害。 不同武器和能力可以从努力等级中获得不同的伤害加值。</DefaultText>
+      <DefaultText>在攻击时提升努力等级也会增加你造成的伤害。 不同武器和能力可以从努力等级中获得不同的伤害加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6996,7 +6996,7 @@
     </Entry>
     <Entry>
       <ID>1399</ID>
-      <DefaultText>移动面前的大碗，点击[Control: lmb]消耗气力点数提高努力等级。不必担心失败。 在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
+      <DefaultText>移动面前的大碗，点击[Control: lmb]消耗气力点数提升努力等级。不必担心失败。 在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7116,7 +7116,7 @@
     </Entry>
     <Entry>
       <ID>1423</ID>
-      <DefaultText>移动面前的大碗，使用[Control: leftstick]消耗气力点数提高努力等级。不必担心失败。 在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
+      <DefaultText>移动面前的大碗，使用[Control: leftstick]消耗气力点数提升努力等级。不必担心失败。 在《新镇魂曲》中，失败经常会产生有趣的后果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7171,7 +7171,7 @@
     </Entry>
     <Entry>
       <ID>1434</ID>
-      <DefaultText>武器技能可以增加人物使用特定武器攻击的命中率。 和其他技能一样，武器技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平。</DefaultText>
+      <DefaultText>武器技能可以提高人物使用特定武器攻击的命中率。 和其他技能一样，武器技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

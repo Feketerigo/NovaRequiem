@@ -18,7 +18,7 @@
 	</Entry>
 	<Entry>
 		<ID>3</ID>
-		<DefaultText>这件作品名为：“遗器DLC宣传插画集”。</DefaultText>
+		<DefaultText>这件作品名为：「遗器DLC宣传插画集」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>4</ID>
@@ -38,7 +38,7 @@
 	</Entry>
 	<Entry>
 		<ID>8</ID>
-		<DefaultText>这些“树木”似乎是一些从地下生出来的石化有机物质。难怪村子里所有的树都没有叶子。</DefaultText>
+		<DefaultText>这些「树木」似乎是一些从地下生出来的石化有机物质。难怪村子里所有的树都没有叶子。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>9</ID>
@@ -102,7 +102,7 @@
 	</Entry>
 	<Entry>
 		<ID>24</ID>
-		<DefaultText>显示屏上显示着抵达和出发的时间表，所有项目旁边都标着“延迟”字样。</DefaultText>
+		<DefaultText>显示屏上显示着抵达和出发的时间表，所有项目旁边都标着「延迟」字样。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>25</ID>
@@ -138,7 +138,7 @@
 	</Entry>
 	<Entry>
 		<ID>33</ID>
-		<DefaultText>有人在路标上用难以理解的潦草字迹写下了“通往小尼利耶什”。</DefaultText>
+		<DefaultText>有人在路标上用难以理解的潦草字迹写下了「通往小尼利耶什」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>34</ID>
@@ -150,11 +150,11 @@
 	</Entry>
 	<Entry>
 		<ID>36</ID>
-		<DefaultText>货车上挂着一个粗制滥造的巨大安因标本，还有一个写着“沃格瓦废品处理”的花哨标志。你要是也得这样拖着别人的垃圾到处乱跑，肯定会很生气的。</DefaultText>
+		<DefaultText>货车上挂着一个粗制滥造的巨大安因标本，还有一个写着「沃格瓦废品处理」的花哨标志。你要是也得这样拖着别人的垃圾到处乱跑，肯定会很生气的。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>37</ID>
-		<DefaultText>这里的路标上面似乎曾经写着“贸易站”，但是最近，有人涂掉了“P”并在那个位置写了一个“L”。</DefaultText>
+		<DefaultText>这里的路标上面似乎曾经写着「贸易站」，但是最近，有人涂掉了「P」并在那个位置写了一个「L」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>38</ID>
@@ -436,11 +436,11 @@
 	</Entry>
 	<Entry>
 		<ID>108</ID>
-		<DefaultText>“这是我最后一次允许你离开我的视线。快点儿回去工作。”</DefaultText>
+		<DefaultText>「这是我最后一次允许你离开我的视线。快点儿回去工作。」</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>109</ID>
-		<DefaultText>“愚蠢的士兵。愚蠢的井。”</DefaultText>
+		<DefaultText>「愚蠢的士兵。愚蠢的井。」</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>110</ID>
@@ -540,7 +540,7 @@
 	</Entry>
 	<Entry>
 		<ID>134</ID>
-		<DefaultText>你不愿意多想你来到这里的时候穿过的那扇“传送门”。</DefaultText>
+		<DefaultText>你不愿意多想你来到这里的时候穿过的那扇「传送门」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>135</ID>
@@ -628,7 +628,7 @@
 	</Entry>
 	<Entry>
 		<ID>156</ID>
-		<DefaultText>一个年轻人的头躺在这里，断断续续地不停低语着“饥饿”这个词。</DefaultText>
+		<DefaultText>一个年轻人的头躺在这里，断断续续地不停低语着「饥饿」这个词。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>157</ID>
@@ -723,7 +723,7 @@
 	</Entry>
 	<Entry>
 		<ID>180</ID>
-		<DefaultText>墙上挂着一个肉质喷口，向下面的水池喷出淡黄色的“水”。</DefaultText>
+		<DefaultText>墙上挂着一个肉质喷口，向下面的水池喷出淡黄色的「水」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>181</ID>
@@ -848,7 +848,7 @@
 	</Entry>
 	<Entry>
 		<ID>212</ID>
-		<DefaultText>“桑德门-桑德门商店，出售魔葵肉和杂货”</DefaultText>
+		<DefaultText>「桑德门-桑德门商店，出售魔葵肉和杂货」</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>213</ID>
@@ -944,7 +944,7 @@
 	</Entry>
 	<Entry>
 		<ID>236</ID>
-		<DefaultText>这个令人毛骨悚然的插图绘制了遭受多种不同类型的身体创伤的人体。每处伤口旁边都有注释，例如“美妙的反应！”和“结果令人失望地过早失去了意识”。</DefaultText>
+		<DefaultText>这个令人毛骨悚然的插图绘制了遭受多种不同类型的身体创伤的人体。每处伤口旁边都有注释，例如「美妙的反应！」和「结果令人失望地过早失去了意识」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>237</ID>
@@ -1012,7 +1012,7 @@
 	</Entry>
 	<Entry>
 		<ID>253</ID>
-		<DefaultText>皱巴巴的毯子和破布躺在地板上，发出酸臭的汗味。这可能是一些邪教徒睡觉的地方。</DefaultText>
+		<DefaultText>皱巴巴的毯子和破布躺在地板上，发出酸臭的汗味。这可能是一些教徒睡觉的地方。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>254</ID>
@@ -1384,7 +1384,7 @@
 	</Entry>
 	<Entry>
 		<ID>346</ID>
-		<DefaultText>这锯齿状的伤口似乎是“杀死”这个构装体的致命伤。</DefaultText>
+		<DefaultText>这锯齿状的伤口似乎是「杀死」这个构装体的致命伤。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>347</ID>
@@ -1556,7 +1556,7 @@
 	</Entry>
 	<Entry>
 		<ID>389</ID>
-		<DefaultText>一层积累了数月的尘土盖住了这块牌子，牌子上写着“铁风学者，智者斯库拉”。</DefaultText>
+		<DefaultText>一层积累了数月的尘土盖住了这块牌子，牌子上写着「铁风学者，智者斯库拉」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>390</ID>
@@ -1792,7 +1792,7 @@
 	</Entry>
 	<Entry>
 		<ID>448</ID>
-		<DefaultText>这张桌子干净又整洁。一本名为《生物力学杂交生物的生态学》摊在桌子上，掀开的一页标题是“神秘的昼夜魔怪”。</DefaultText>
+		<DefaultText>这张桌子干净又整洁。一本名为《生物力学杂交生物的生态学》摊在桌子上，掀开的一页标题是「神秘的昼夜魔怪」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>449</ID>
@@ -1800,7 +1800,7 @@
 	</Entry>
 	<Entry>
 		<ID>450</ID>
-		<DefaultText>岩壁上凿出了小小的住宅，里面的“家具”都是臭烘烘的铺盖和满是虫子的破布。</DefaultText>
+		<DefaultText>岩壁上凿出了小小的住宅，里面的「家具」都是臭烘烘的铺盖和满是虫子的破布。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>451</ID>
@@ -1912,11 +1912,11 @@
 	</Entry>
 	<Entry>
 		<ID>478</ID>
-		<DefaultText>雕像底部写着“大奇拉，她击碎了我们的锁链。”</DefaultText>
+		<DefaultText>雕像底部写着「大奇拉，她击碎了我们的锁链。」</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>479</ID>
-		<DefaultText>雕像刻着“真理修会”。</DefaultText>
+		<DefaultText>雕像上刻着「真理修会」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>480</ID>
@@ -1952,7 +1952,7 @@
 	</Entry>
 	<Entry>
 		<ID>488</ID>
-		<DefaultText>这个“窝棚”曾是一只装有某种液体的金属罐。</DefaultText>
+		<DefaultText>这个「窝棚」曾是一只装有某种液体的金属罐。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>489</ID>
@@ -2134,7 +2134,7 @@
 	</Entry>
 	<Entry>
 		<ID>534</ID>
-		<DefaultText>这个是一堆闪亮的小玩意、装饰物和遗器碎片。大多数“宝物”都没有任何实际价值。</DefaultText>
+		<DefaultText>这个是一堆闪亮的小玩意、装饰物和遗器碎片。大多数「宝物」都没有任何实际价值。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>535</ID>
@@ -2318,7 +2318,7 @@
 	</Entry>
 	<Entry>
 		<ID>580</ID>
-		<DefaultText>这些偏斜和折射到自己身上的光肯定是为了纪念某位要人才被带到这里来的。然而时间已经磨灭了这些名字。</DefaultText>
+		<DefaultText>这些不断自身偏斜和折射的灯肯定是为了纪念某位要人才被带到这里来的。然而时间已经磨灭了这些名字。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>581</ID>
@@ -2554,7 +2554,7 @@
 	</Entry>
 	<Entry>
 		<ID>639</ID>
-		<DefaultText>这些家伙居无定所，似乎随时准备离开似的。它们身上有草药和臭氧的微弱气味。</DefaultText>
+		<DefaultText>这些家伙居无定所，似乎随时准备离开似的。他们身上有草药和臭氧的微弱气味。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>640</ID>
@@ -2590,11 +2590,11 @@
 	</Entry>
 	<Entry>
 		<ID>648</ID>
-		<DefaultText>“通往小尼利耶什”</DefaultText>
+		<DefaultText>「通往小尼利耶什」</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>649</ID>
-		<DefaultText>“通往贸易站”</DefaultText>
+		<DefaultText>「通往贸易站」</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>650</ID>

@@ -11,7 +11,7 @@
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Mouse scroll wheel controls camera zoom. Right mouse button closes menus and pop-ups.</DefaultText>
+      <DefaultText>滚动鼠标滚轮控制镜头缩放。 鼠标右键可以关闭菜单和弹出窗口。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -21,182 +21,182 @@
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>When you expend Effort, in either conversation or crises, you spend points from your &lt;quad class="mightpool"&gt;[Color: Might]Might[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Speed[/Color], or &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellect[/Color] Pool.</DefaultText>
+      <DefaultText>在对话或危机中提升努力等级会消耗属性池中的&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]、&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]或&lt;quad class="intellectpool"&gt;[Color: Intellect]心智[/Color]点数。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>A cypher is a one-shot numenera device. If you carry too many, you'll suffer side effects.</DefaultText>
+      <DefaultText>秘具是一种一次性使用的遗器。 如果携带过多秘具，你可能会受到副作用的影响。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Spend XP to advance your characters. XP is gained mostly from solving quests but can also be gained by making discoveries.</DefaultText>
+      <DefaultText>你可以消耗经验值获得进阶。 除了完成任务获得经验值以外，你也可以通过探索获得经验值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>During a crisis, move party members to opposite sides of an enemy to inflict the Flanked fettle on them.</DefaultText>
+      <DefaultText>危机过程中，将你的同伴移动到敌人的另一侧 可以对其赋予夹击状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Applying Effort on attacks is critical to success in crises - but be careful not to drain your pools too quickly.</DefaultText>
+      <DefaultText>危机过程中，在攻击时提升努力等级至关重要， 但要小心不要太快耗尽你的属性点数。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Attacking is rarely the only solution to a crisis. Try interacting with objects in the environment or talking to your foes.</DefaultText>
+      <DefaultText>攻击并非是解决危机的唯一方案。 你也可以尝试与环境互动或是与你的敌人进行交涉。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>If an enemy is armored, change up the damage type of your attacks with abilities or cyphers to overcome it.</DefaultText>
+      <DefaultText>如果敌人身着盔甲， 你可以使用能力或秘具改变攻击属性以获得优势。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10</ID>
-      <DefaultText>Spending Effort on an attack not only increases your chance to hit, but also increases the damage you deal.</DefaultText>
+      <DefaultText>攻击时提升努力等级不仅可以提高命中率， 还可以增加造成的伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>Don't underestimate the value of a good defense. &lt;quad class="evasion"&gt;[Color: Speed]Evasion[/Color] helps you to dodge attacks, while &lt;quad class="willpower"&gt;[Color: Intellect]Willpower[/Color] can let you avoid esoteries.</DefaultText>
+      <DefaultText>不要低估防御的价值。&lt;quad class="evasion"&gt;[Color: Speed]回避[/Color]可以让你躲避攻击，&lt;quad class="willpower"&gt;[Color: Intellect]意志[/Color]可以让你躲避秘法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>If you have a 100% chance to hit an enemy, you automatically gain the maximum amount of bonus damage that you could get, regardless of how many levels of Effort you apply.</DefaultText>
+      <DefaultText>如果攻击命中率是100%， 你可以自动获得你能造成的最大伤害加值， 无视努力等级的影响。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>13</ID>
-      <DefaultText>&lt;quad class="armor"&gt;Armor reduces damage from [DamageIcon: Physical]Physical sources like weapons. &lt;quad class="resistance"&gt;Resistance reduces damage from [DamageIcon: Energy][Color: Energy]Energy[/Color], [DamageIcon: Chemical][Color: Chemical]Chemical[/Color], [DamageIcon: Transdimensional][Color: Transdimensional]Transdimensional[/Color], and [DamageIcon: Mental][Color: Mental]Mental[/Color] sources like esoteries or cyphers.</DefaultText>
+      <DefaultText>&lt;quad class="armor"&gt;护甲可以削减武器造成的[DamageIcon: Physical]物理伤害。 &lt;quad class="resistance"&gt;抗性可以削减秘法和秘具造成的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]和[DamageIcon: Mental][Color: Mental]精神[/Color]伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>14</ID>
-      <DefaultText>Heavy and Medium armor inflicts a penalty on your &lt;quad class="mightpool"&gt;[Color: Might]Might[/Color] and &lt;quad class="speedpool"&gt;[Color: Speed]Speed[/Color] Stat Pools while equipped. Glaives shrug off some of those penalties and other effects may reduce them further.</DefaultText>
+      <DefaultText>装备重型和中型盔甲会对&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]和&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]值造成惩罚。 斗士可以无视部分惩罚，其他效果可以进一步降低惩罚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>Effects that push or pull characters into walls or the edge of a platform deal additional damage and knock them down.</DefaultText>
+      <DefaultText>将人物推动或拉拽到墙边或平台边缘 可以造成额外伤害并造成击倒效果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>The more Effort you put into hiding, the harder it will be for enemies to find you when they search.</DefaultText>
+      <DefaultText>躲藏时的努力等级越高， 敌人就越难发现你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>17</ID>
-      <DefaultText>Edge in each Stat Pool acts like a discount when using points from that pool. It grants free levels of Effort or reduces the cost to activate abilities.</DefaultText>
+      <DefaultText>每种属性的节省值就像是在消耗属性点数时获得的折扣。 它可以提供免费的努力等级或降低使用能力所消耗的属性点数。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>18</ID>
-      <DefaultText>Sometimes failing a task can lead to more interesting results than if you had succeeded.</DefaultText>
+      <DefaultText>有时行动失败可能会带来更有趣的结果。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>19</ID>
-      <DefaultText>Be sure to use your companions to assist when completing tasks. Their skills might give you the advantage you need.</DefaultText>
+      <DefaultText>采取行动时一定要善用同伴的帮助。 他们的技能可能会为你带来优势。 </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>Bonded Items are a special type of equipment that inflict penalties alongside powerful bonuses. Training in the Concentration skill allows you to shrug off those penalties.</DefaultText>
+      <DefaultText>融合物品是一种特殊装备， 它们可以提供强大的正面效果的同时给予一定的惩罚。 专注技能可以令你无视这种惩罚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21</ID>
-      <DefaultText>You can use certain items and abilities even during conversations or when interacting with objects. Keep this in mind when you need a little extra boost to succeed at a task.</DefaultText>
+      <DefaultText>你可以在对话过程中或与物品进行互动时使用某些物品或能力。 请牢记这一点，以备采取行动时需要额外价值的情况出现。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>22</ID>
-      <DefaultText>Your Dominant Tides will not stop you from taking any paths or picking any options in conversations, but they can influence how others respond to you in subtle ways.</DefaultText>
+      <DefaultText>你的主导潮力不会影响你做出选择或是在对话中挑选回应， 但它们会微妙地改变他人对你的反应。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>Skills have the following levels: &lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;Novice, &lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;Trained, and &lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;Specialized, each conferring greater benefits. Skills can also be reduced to &lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;Inability level, which inflicts penalties when using them.</DefaultText>
+      <DefaultText>技能有以下几个水平：&lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;初学、&lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;受训和&lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;精通，提升技能水平可以让你获得更多的好处。 技能还可以降低到&lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;无能水平，此时使用技能会造成减值惩罚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>A glowing green icon next to the name of a skill indicates that you have boosted it beyond the Specialized training level. This can only be done by equipping items or gaining abilities.</DefaultText>
+      <DefaultText>技能旁边发光的绿色图标表明你的技能已经超越了精通水平。 这一效果只能通过装备物品或是学习能力达成。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>25</ID>
-      <DefaultText>Fettles are status effects or conditions. They may be [FettleIcon: Buff]positive, [FettleIcon: Debuff]negative, or [FettleIcon: Status]status changes and are indicated by small colored arrows on characters.</DefaultText>
+      <DefaultText>状态是对人物造成暂时性影响的情形，分为[FettleIcon: Buff]正面状态、[FettleIcon: Debuff]负面状态和[FettleIcon: Status]其他状态， 你可以通过人物旁的彩色箭头了解其状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>When you sleep, your &lt;quad class="mightpool"&gt;[Color: Might]Might[/Color], &lt;quad class="speedpool"&gt;[Color: Speed]Speed[/Color], and &lt;quad class="intellectpool"&gt;[Color: Intellect]Intellect[/Color] Pools are fully refilled. However, events can progress while you sleep, changing the status of quests.</DefaultText>
+      <DefaultText>休息过后，你的&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]、&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]和&lt;quad class="intellectpool"&gt;[Color: Intellect]心智[/Color]点属都会得到完全回复。 然而休息过程中可能会发生事件，改变任务状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>27</ID>
-      <DefaultText>New reflections can appear in the Labyrinth based on your actions in the real world. Some of them can give you special bonuses.</DefaultText>
+      <DefaultText>根据你在现实世界中的行动，新的映像可能会出现在迷宫中。 有些映像可以为你带来特殊加值。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>28</ID>
-      <DefaultText>Talk to your companions frequently. They can yield interesting ideas or a new perspective on an objective, and you can learn more about them and their backstories.</DefaultText>
+      <DefaultText>经常和你的同伴对话。 他们可能会产生一些有趣的想法或是针对某样事物新的观点， 你可以从中更深入地了解他们的背景。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>29</ID>
-      <DefaultText>Tidal Surge conversation options allow you to channel psychic forces to influence the world around you, though sometimes at a cost. These are only unlocked after you find someone to train you in the Tidal Affinity skill.</DefaultText>
+      <DefaultText>对话中的潮力汹涌选项可以让你使用灵能影响你身边的世界， 不过有时你需要为此付出代价。 只有在你找到人学会吸引潮力技能之后，你才能够解锁这一选项。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>30</ID>
-      <DefaultText>The Red Tide represents passion, emotion, action, and zeal. It is the Tide of people whose goal is to live in the moment, to experience life to its fullest, or to follow their heart wherever it leads them.</DefaultText>
+      <DefaultText>红潮代表情感、激情、行动和狂热。 与红潮同调的人活在当下，充分享受生活，或是喜欢跟着感觉走。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>31</ID>
-      <DefaultText>The Blue Tide represents wisdom, enlightenment, and mysticism. It is the Tide of people whose goal is to expand the mind and the spirit.</DefaultText>
+      <DefaultText>蓝潮代表智慧、启蒙和神秘学。 与蓝潮同调的人的主要目标就是努力拓展知识领域，提高精神境界。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>32</ID>
-      <DefaultText>The Indigo Tide represents justice, compromise, and the greater good. It is the Tide of people who view life's difficulties from a broad, global perspective rather than an individual one.</DefaultText>
+      <DefaultText>靛潮代表公正、折衷，追求至善。 与靛潮同调的人会从更广阔的视角，而不是个人角度来看待生活中的困难。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>The Gold Tide represents charity, sacrifice, and empathy. It is the Tide of people whose primary goal is to help others, especially at a cost to themselves.</DefaultText>
+      <DefaultText>金潮代表仁爱、怜悯和牺牲。 与金潮同调的人的主要目标就是帮助他人，甘愿奉献自己。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>34</ID>
-      <DefaultText>The Silver Tide represents admiration of power and seekers of fame. It is the Tide of people who seek to influence the lives of others or who actively seek to be remembered.</DefaultText>
+      <DefaultText>银潮代表崇尚权力，建立声望。 与银潮同调的人会去试图影响他人的生活或希望自己能够被铭记。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>35</ID>
-      <DefaultText>When someone tells you to take care of unfinished business before leaving a location, take heed. Usually you won't get a chance to return later.</DefaultText>
+      <DefaultText>如果有人告诉你在离开某个地方之前要处理好未完成的事情， 请务必留心。 通常你之后都没有机会再回来了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>According to records kept by Casmeen and Mimeon, the Changing God rarely remains in a body for more than a decade or two before moving on.</DefaultText>
+      <DefaultText>根据卡斯敏和米蒙恩的记录， 化身神很少在同一具躯体中生活一二十年。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>37</ID>
-      <DefaultText>If you find yourself wondering where to go or what to do, check the Journal screen to refresh your memory. It is updated automatically any time you make progress in the story.</DefaultText>
+      <DefaultText>如果发现不知道该去哪里或做什么，请查看日志唤起记忆。 日志会随你在故事中取得的进展而进行更新。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>Missing something? You can press [Control: tab] to view all interactive characters and objects in the area.</DefaultText>
+      <DefaultText>有什么东西找不到了？ 你可以轻按[Control: tab]观察区域中所有可互动角色和物品。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
