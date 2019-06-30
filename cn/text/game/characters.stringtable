@@ -1097,7 +1097,7 @@
 	</Entry>
 	<Entry>
 		<ID>273</ID>
-		<DefaultText>Child {Male}</DefaultText>
+		<DefaultText>孩子 {Male}</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>274</ID>
@@ -1696,7 +1696,7 @@
 	</Entry>
 	<Entry>
 		<ID>423</ID>
-		<DefaultText>雷尼大师</DefaultText>
+		<DefaultText>雷尼奥大师</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>424</ID>

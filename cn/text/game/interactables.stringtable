@@ -1636,11 +1636,11 @@
 	</Entry>
 	<Entry>
 		<ID>409</ID>
-		<DefaultText>凝视这个符号的时候，你会感到大脑的角落里有什么东西在轻轻扯动着。</DefaultText>
+		<DefaultText>凝视这个符号的时候，你会感到大脑的角落里有什么东西在轻轻扯动。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>410</ID>
-		<DefaultText>些微能量正在沿着电缆传播，但你无法分辨这是用来处理这些鱼以供食用的，还是用来防止盗窃的。</DefaultText>
+		<DefaultText>些微能量正在沿着绳子传播，但你无法分辨这是用来处理这些鱼以供食用的，还是用来防止盗窃的。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>411</ID>
@@ -1804,7 +1804,7 @@
 	</Entry>
 	<Entry>
 		<ID>451</ID>
-		<DefaultText>一段石阶伸入到水中。远处的洞穴正在渐渐变宽，与大海相连。</DefaultText>
+		<DefaultText>一段石阶伸入到水中，洞穴深处越来越宽，与大海相连。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>452</ID>
