@@ -841,7 +841,7 @@
     </Entry>
     <Entry>
       <ID>167</ID>
-      <DefaultText>[Color: Transdimensional]跨维度[/Color]</DefaultText>
+      <DefaultText>[Color: Transdimensional]跨维[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3941,7 +3941,7 @@
     </Entry>
     <Entry>
       <ID>788</ID>
-      <DefaultText>[Color: TooltipFormatting]涉及本技能的行动每次提升水平获得+15%加值；无能受到-15%减值。 [/Color]\n\n不属于物理等自然科学的相关知识，包括非物质或跨维度生物。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]涉及本技能的行动每次提升水平获得+15%加值；无能受到-15%减值。 [/Color]\n\n不属于物理等自然科学的相关知识，包括非物质或跨维生物。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6606,7 +6606,7 @@
     </Entry>
     <Entry>
       <ID>1321</ID>
-      <DefaultText>抗性削减受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及[DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]伤害。这些伤害一般是由秘具和秘法造成的。</DefaultText>
+      <DefaultText>抗性削减受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及[DamageIcon: Transdimensional][Color: Transdimensional]跨维[/Color]伤害。这些伤害一般是由秘具和秘法造成的。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6966,7 +6966,7 @@
     </Entry>
     <Entry>
       <ID>1393</ID>
-      <DefaultText>&lt;quad class="resistance"&gt;抗性的作用原理与&lt;quad class="armor"&gt;护甲类似， 不过它可以削减人物受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及 [DamageIcon: Transdimensional][Color: Transdimensional]跨维度[/Color]伤害。</DefaultText>
+      <DefaultText>&lt;quad class="resistance"&gt;抗性的作用原理与&lt;quad class="armor"&gt;护甲类似， 不过它可以削减人物受到的[DamageIcon: Energy][Color: Energy]能量[/Color]、[DamageIcon: Chemical][Color: Chemical]化学[/Color]、[DamageIcon: Mental][Color: Mental]精神[/Color]及 [DamageIcon: Transdimensional][Color: Transdimensional]跨维[/Color]伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7186,7 +7186,7 @@
     </Entry>
     <Entry>
       <ID>1437</ID>
-      <DefaultText>卡莱斯蒂是一个同时存在于多重现实中的维度外壳。 她可以使用她的维度叠合能力进行传送。\n\n传送消耗她的&lt;quad class="move"&gt;行动点数，而非&lt;quad class="action"&gt;动作点数，所以她可以在使用该能力之后采取其他行动。</DefaultText>
+      <DefaultText>卡莱斯蒂是一个同时存在于多重现实中的维度躯壳。 她可以使用她的维度叠合能力进行传送。\n\n传送消耗她的&lt;quad class="move"&gt;行动点数，而非&lt;quad class="action"&gt;动作点数，所以她可以在使用该能力之后采取其他行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

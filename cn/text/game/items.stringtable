@@ -81,7 +81,7 @@
     </Entry>
     <Entry>
       <ID>15</ID>
-      <DefaultText>一把精致的小刀，跨维度能量构成的刀身从天青钢刀柄中伸出来，用手一扭就可以方便地开关。这把手术刀可以切开维度，闪烁在各个现实之中，无视普通盔甲的防御。刀柄上刻着一个名字「艾奥克苏」。</DefaultText>
+      <DefaultText>一把精致的小刀，跨维能量构成的刀身从天青钢刀柄中伸出来，用手一扭就可以方便地开关。这把手术刀可以切开维度，闪烁在各个现实之中，无视普通盔甲的防御。刀柄上刻着一个名字「艾奥克苏」。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6283,7 +6283,7 @@
     </Entry>
     <Entry>
       <ID>1328</ID>
-      <DefaultText>召唤相位人形生物为你而战并赋予使用者[Fettles]状态（[FettleDescriptions]）。</DefaultText>
+      <DefaultText>召唤相移人形生物为你而战并赋予使用者[Fettles]状态（[FettleDescriptions]）。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6459,7 +6459,7 @@
     </Entry>
     <Entry>
       <ID>1363</ID>
-      <DefaultText>相位引爆</DefaultText>
+      <DefaultText>相移引爆</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

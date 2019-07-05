@@ -261,7 +261,7 @@
     </Entry>
     <Entry>
       <ID>51</ID>
-      <DefaultText>将造成的所有伤害转换为跨维度属性，并赋予[PassiveEffectsBasic]，人物受到的跨维度伤害[Color: Damage]+100%[/Color]</DefaultText>
+      <DefaultText>将造成的所有伤害转换为跨维属性，并赋予[PassiveEffectsBasic]，人物受到的跨维伤害[Color: Damage]+100%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -701,12 +701,12 @@
     </Entry>
     <Entry>
       <ID>139</ID>
-      <DefaultText>跨维度导管</DefaultText>
+      <DefaultText>跨维导管</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>140</ID>
-      <DefaultText>下次攻击+2跨维度伤害。</DefaultText>
+      <DefaultText>下次攻击+2跨维伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -771,7 +771,7 @@
     </Entry>
     <Entry>
       <ID>153</ID>
-      <DefaultText>将造成的所有伤害转换为跨维度属性，并赋予[PassiveEffectsBasic]，人物受到的跨维度伤害[Color: Damage]+50%[/Color]</DefaultText>
+      <DefaultText>将造成的所有伤害转换为跨维属性，并赋予[PassiveEffectsBasic]，人物受到的跨维伤害[Color: Damage]+50%[/Color]</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

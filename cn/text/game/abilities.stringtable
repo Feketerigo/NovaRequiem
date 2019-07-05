@@ -1081,7 +1081,7 @@
     </Entry>
     <Entry>
       <ID>215</ID>
-      <DefaultText>相位</DefaultText>
+      <DefaultText>相移</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1171,7 +1171,7 @@
     </Entry>
     <Entry>
       <ID>233</ID>
-      <DefaultText>相位</DefaultText>
+      <DefaultText>相移</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1431,7 +1431,7 @@
     </Entry>
     <Entry>
       <ID>285</ID>
-      <DefaultText>跨维度步枪</DefaultText>
+      <DefaultText>跨维步枪</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2156,7 +2156,7 @@
     </Entry>
     <Entry>
       <ID>430</ID>
-      <DefaultText>失明创伤</DefaultText>
+      <DefaultText>失明伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3111,7 +3111,7 @@
     </Entry>
     <Entry>
       <ID>622</ID>
-      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相位[/Color]状态中，卡莱斯蒂的秘法使用范围会比平常更大，秘法所施加的状态也会延长[Color: PositiveModifier]+2回合[/Color]。</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相移[/Color]状态中，卡莱斯蒂的秘法使用范围会比平常更大，秘法所施加的状态也会延长[Color: PositiveModifier]+2回合[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3931,7 +3931,7 @@
     </Entry>
     <Entry>
       <ID>786</ID>
-      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相位[/Color]状态时，获得[PassiveEffectsBasic]。</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相移[/Color]状态时，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5101,7 +5101,7 @@
     </Entry>
     <Entry>
       <ID>1020</ID>
-      <DefaultText>阻塞反应</DefaultText>
+      <DefaultText>反击制止</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5351,7 +5351,7 @@
     </Entry>
     <Entry>
       <ID>1070</ID>
-      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相位[/Color]状态时，获得[PassiveEffectsBasic]。</DefaultText>
+      <DefaultText>处于[FettleIcon: Status][Color: PositiveModifier]相移[/Color]状态时，获得[PassiveEffectsBasic]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5741,7 +5741,7 @@
     </Entry>
     <Entry>
       <ID>1148</ID>
-      <DefaultText>虽然卡莱斯蒂很久之前就学会了突击能力，但她与多重宇宙的连接对能力造成了限制。攻击过程中她只能使用跨维度能量。</DefaultText>
+      <DefaultText>虽然卡莱斯蒂很久之前就学会了突击能力，但她与多重宇宙的连接对能力造成了限制。攻击过程中她只能使用跨维能量。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5946,7 +5946,7 @@
     </Entry>
     <Entry>
       <ID>1189</ID>
-      <DefaultText>跨维度突击</DefaultText>
+      <DefaultText>跨维突击</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6086,7 +6086,7 @@
     </Entry>
     <Entry>
       <ID>1217</ID>
-      <DefaultText>暴力精华</DefaultText>
+      <DefaultText>暴力精酿</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6121,12 +6121,12 @@
     </Entry>
     <Entry>
       <ID>1224</ID>
-      <DefaultText>关于继承权、出身、外貌、体味和编出的关于交配习惯的笑话让你的朋友开怀大笑，让你的敌人怒不可遏。因为你高超的嘲讽技巧，他们会因为你的藐视而想要立刻杀死你，无视身边的其他人。</DefaultText>
+      <DefaultText>那些关于继承权、出身、外貌、体味和编出来的交配习惯的笑话让你的朋友开怀大笑，让你的敌人怒不可遏。因为你高超的嘲讽技巧，他们会因为你的藐视而想要立刻杀死你，无视你身边的其他人。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1225</ID>
-      <DefaultText>一条铁链，一只钩子，还有一名没站稳的敌人——这是毁掉某个人的幸福生活最棒的方式了。你冲着目标扔出铁链，将你的敌人跌跌撞撞地拉近你的攻击范围。</DefaultText>
+      <DefaultText>一条铁链，一只钩子，还有一名没站稳的敌人——这是毁掉某个人的幸福生活最棒的方式了。你冲着目标扔出铁链，将你的敌人跌跌撞撞地拉进你的攻击范围。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6141,7 +6141,7 @@
     </Entry>
     <Entry>
       <ID>1228</ID>
-      <DefaultText>有时候，你会发现自己被包围了，这时候对某个目标进行精确攻击并非最好的手段。有时候只有纯粹的力量能够制敌。告诉他们，你们选错了战斗方式。</DefaultText>
+      <DefaultText>有时候，你会发现自己被包围了，这时候对某个目标进行精确攻击并非最好的手段。有时候只有纯粹的力量能够制敌。告诉敌人，你们选错了战斗方式。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6636,7 +6636,7 @@
     </Entry>
     <Entry>
       <ID>1327</ID>
-      <DefaultText>来之不易的知识</DefaultText>
+      <DefaultText>博闻强识</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6751,7 +6751,7 @@
     </Entry>
     <Entry>
       <ID>1350</ID>
-      <DefaultText>将你的意志与魔葵的大脑相连接，从这一跨维度巨兽的无数食道中召唤一个到你的面前来帮助你。</DefaultText>
+      <DefaultText>将你的意志与魔葵的大脑相连接，从这一跨维巨兽的无数食道中召唤一个到你的面前来帮助你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
