@@ -64,11 +64,11 @@
 	</Entry>
 	<Entry>
 		<ID>15</ID>
-		<DefaultText>巨钟深渊</DefaultText>
+		<DefaultText>大钟深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>16</ID>
-		<DefaultText>女儿的深渊</DefaultText>
+		<DefaultText>女儿深渊</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>17</ID>
@@ -144,7 +144,7 @@
 	</Entry>
 	<Entry>
 		<ID>35</ID>
-		<DefaultText>跨维度竞技场</DefaultText>
+		<DefaultText>跨维竞技场</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>36</ID>

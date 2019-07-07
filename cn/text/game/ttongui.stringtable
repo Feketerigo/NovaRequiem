@@ -61,7 +61,7 @@
     </Entry>
     <Entry>
       <ID>11</ID>
-      <DefaultText>吸引潮力</DefaultText>
+      <DefaultText>潮力亲和</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -976,7 +976,7 @@
     </Entry>
     <Entry>
       <ID>194</ID>
-      <DefaultText>任务{0}加入日志</DefaultText>
+      <DefaultText>任务加入日志：{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1226,7 +1226,7 @@
     </Entry>
     <Entry>
       <ID>244</ID>
-      <DefaultText>属性点：气力</DefaultText>
+      <DefaultText>属性：气力</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1291,12 +1291,12 @@
     </Entry>
     <Entry>
       <ID>257</ID>
-      <DefaultText>属性点：速度</DefaultText>
+      <DefaultText>属性：速度</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>258</ID>
-      <DefaultText>属性点：心智</DefaultText>
+      <DefaultText>属性：心智</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1471,7 +1471,7 @@
     </Entry>
     <Entry>
       <ID>293</ID>
-      <DefaultText>巧匠</DefaultText>
+      <DefaultText>巧手的</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1566,12 +1566,12 @@
     </Entry>
     <Entry>
       <ID>312</ID>
-      <DefaultText>你敏捷、灵巧，腰身柔软，动作优雅而美丽。</DefaultText>
+      <DefaultText>你敏捷灵巧，腰身柔软，动作优雅而美丽。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>313</ID>
-      <DefaultText>你博闻强记，聪明过人，能够轻易理解别人难以掌握地概念。不过与此同时，你可能很容易分心。</DefaultText>
+      <DefaultText>你博闻强记，聪明过人，能够轻易理解别人难以掌握的概念。不过与此同时，你可能很容易分心。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1596,7 +1596,7 @@
     </Entry>
     <Entry>
       <ID>318</ID>
-      <DefaultText>你热爱自然，能用自己的聪明才智对抗恶劣的环境。你坚韧粗犷，适合在荒野中生存。人和机械对你来说可能是某种谜团。</DefaultText>
+      <DefaultText>你热爱自然，能用自己的聪明才智对抗恶劣的环境。你坚韧粗犷，适合在荒野中生存。人和机械对你来说可能却成了一个谜。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1626,7 +1626,7 @@
     </Entry>
     <Entry>
       <ID>324</ID>
-      <DefaultText>你能够忍受许多惩罚，无视能够击倒大多数人的攻击。</DefaultText>
+      <DefaultText>你能够忍受许多伤害，无视能够击倒大多数人的攻击。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1686,7 +1686,7 @@
     </Entry>
     <Entry>
       <ID>336</ID>
-      <DefaultText>技巧高超的猎人</DefaultText>
+      <DefaultText>狩猎技巧高超</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1696,12 +1696,12 @@
     </Entry>
     <Entry>
       <ID>338</ID>
-      <DefaultText>射击弩无虚发</DefaultText>
+      <DefaultText>弩无虚发</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>339</ID>
-      <DefaultText>可以召唤奇妙的力量</DefaultText>
+      <DefaultText>可以召唤帮手</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1721,7 +1721,7 @@
     </Entry>
     <Entry>
       <ID>343</ID>
-      <DefaultText>擅长安放陷阱猎凶兽</DefaultText>
+      <DefaultText>擅长安放陷阱</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1846,7 +1846,7 @@
     </Entry>
     <Entry>
       <ID>368</ID>
-      <DefaultText>不管是机械陷阱还是神秘陷阱，没有人比你更了解它们，没有人比你更危险。</DefaultText>
+      <DefaultText>不管是机械陷阱还是秘法陷阱，没有人比你更了解它们，没有人比你更危险。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2466,7 +2466,7 @@
     </Entry>
     <Entry>
       <ID>492</ID>
-      <DefaultText>[Color: TooltipFormatting]攻击范围：[/Color] {0}</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]范围：[/Color] {0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2486,7 +2486,7 @@
     </Entry>
     <Entry>
       <ID>496</ID>
-      <DefaultText>中型</DefaultText>
+      <DefaultText>中程</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3721,7 +3721,7 @@
     </Entry>
     <Entry>
       <ID>744</ID>
-      <DefaultText>【潮力汹涌：需要潮力汹涌技能水平为{0}】</DefaultText>
+      <DefaultText>【潮力汹涌：需要潮力亲和技能水平为{0}】</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4321,7 +4321,7 @@
     </Entry>
     <Entry>
       <ID>864</ID>
-      <DefaultText>纳米使有时被第九世界的人们称作魔法师、巫师或术士。 纳米使掌握着古老的秘密，这让他们能够使用秘术，展现奇迹般的能力。 秘术如同魔法一般，可以利用包括姿势、语言和心理状态的祈祷使用出来。 他们能够与无处不在的神秘粒子纳米精魂进行交流，改变现实或学习其他方式接触不到的知识。</DefaultText>
+      <DefaultText>纳米使有时被第九世界的人们称作魔法师、巫师或术士。 纳米使掌握着古老的秘密，这让他们能够使用秘术，展现奇迹般的能力。 秘术如同魔法一般，可以利用包括姿势、语言和心理状态的祈祷使用出来。 他们能够与无处不在的神秘粒子纳米精魂进行交流，改变现实或学习其他途径接触不到的知识。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -4406,7 +4406,7 @@
     </Entry>
     <Entry>
       <ID>881</ID>
-      <DefaultText>Empty Slot</DefaultText>
+      <DefaultText>空白栏位</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5136,7 +5136,7 @@
     </Entry>
     <Entry>
       <ID>1027</ID>
-      <DefaultText>下一个</DefaultText>
+      <DefaultText>下一步</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5506,7 +5506,7 @@
     </Entry>
     <Entry>
       <ID>1101</ID>
-      <DefaultText>[Color: TooltipFormatting]使用重型武器发起攻击每技能水平获得+15%加值；无能获得-15%减值。[/Color]\n\n使用双手近战武器或火炮类的远程武器需要极大的平衡性和协调性。</DefaultText>
+      <DefaultText>[Color: TooltipFormatting]使用重型武器发起攻击每技能水平获得+15%加值；无能获得-15%减值。[/Color]\n\n使用双手近战武器或火炮类的远程武器需要极强的平衡性和协调性。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5576,7 +5576,7 @@
     </Entry>
     <Entry>
       <ID>1115</ID>
-      <DefaultText>按键以重新设定{0}.</DefaultText>
+      <DefaultText>按键以重新设定{0}</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5721,7 +5721,7 @@
     </Entry>
     <Entry>
       <ID>1144</ID>
-      <DefaultText>Pan</DefaultText>
+      <DefaultText>移动镜头</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6216,7 +6216,7 @@
     </Entry>
     <Entry>
       <ID>1243</ID>
-      <DefaultText>你开始了你的第一次行动。 你的属性池中有三种属性点，&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]、&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]和&lt;quad class="intellectpool"&gt;[Color: Intellect]心智[/Color]，你可以消耗这些属性点数提高行动的成功率。</DefaultText>
+      <DefaultText>你开始了你的第一次行动。 你的属性池中有三种属性点，&lt;quad class="mightpool"&gt;[Color: Might]气力[/Color]、&lt;quad class="speedpool"&gt;[Color: Speed]速度[/Color]和&lt;quad class="intellectpool"&gt;[Color: Intellect]心智[/Color]， 你可以消耗这些属性点数提高行动的成功率。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6961,7 +6961,7 @@
     </Entry>
     <Entry>
       <ID>1392</ID>
-      <DefaultText>&lt;quad class="armor"&gt;护甲可以削减受到的[DamageIcon: Physical]物理伤害。 苦痛为该人物赋予的状态提升了其&lt;quad class="armor"&gt;护甲10点，这表示它可以在每次攻击中吸收10点伤害。\n\n该映像的&lt;quad class="armor"&gt;护甲远远高出你徒手攻击可以造成的伤害。</DefaultText>
+      <DefaultText>&lt;quad class="armor"&gt;护甲可以削减受到的[DamageIcon: Physical]物理伤害。 苦痛为该人物赋予的状态提升了其&lt;quad class="armor"&gt;护甲10点， 这表示它可以在每次攻击中吸收10点伤害。\n\n该映像的&lt;quad class="armor"&gt;护甲远远高出你徒手攻击可以造成的伤害。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7036,7 +7036,7 @@
     </Entry>
     <Entry>
       <ID>1407</ID>
-      <DefaultText>你获得了第一名同伴。他们会跟随最后的弃子，并在危机中成为可操纵人物。 你可以与他们交谈了解他们的过去，使用他们的能力和技能。\n\n同伴有着自己的行事动机和性格，根据你的选择，他们可能会一直跟随着你。 在第九世界旅行的过程中，你会发现更多可以加入的同伴。</DefaultText>
+      <DefaultText>你获得了第一名同伴。他们会跟随最后的弃子，并在危机中成为可操纵人物。 你可以与他们交谈了解他们的过去，使用他们的能力和技能。\n\n同伴有着自己的行事动机和性格，根据你的选择，他们可能并不会一直跟随你。 在第九世界旅行的过程中，你会发现更多可以加入的同伴。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7051,7 +7051,7 @@
     </Entry>
     <Entry>
       <ID>1410</ID>
-      <DefaultText>在努力等级窗口选择同伴的头像可以令他们协助最后的弃子采取相应的行动。 此时你所消耗的是同伴的属性点，他们可能拥有某些技能、能力或状态，可以更容易地成功采取行动。\n\n同伴无法在危机中进行协助，只能在他们自己的回合中使用属性点。</DefaultText>
+      <DefaultText>在努力等级窗口选择同伴的头像可以令他们协助最后的弃子采取相应的行动。 此时你所消耗的是同伴的属性点， 他们可能拥有某些技能、能力或状态，可以更容易地成功采取行动。\n\n同伴无法在危机中进行协助，只能在他们自己的回合中使用属性点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7146,7 +7146,7 @@
     </Entry>
     <Entry>
       <ID>1429</ID>
-      <DefaultText>你在记忆和镜子中做出的选择构建了你的人物，但是你依然能有机会决定人物的细节。 首先，你可以决定人物的类型。类型决定了你之后可以获得的能力和技能。</DefaultText>
+      <DefaultText>你在记忆和镜子中做出的选择构建了你的人物，但是你依然有机会决定人物的细节。 首先，你可以决定人物的类型。类型决定了你之后可以获得的能力和技能。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7166,7 +7166,7 @@
     </Entry>
     <Entry>
       <ID>1433</ID>
-      <DefaultText>技能可以提升你采取特定行动或动作的成功率，或被动提供加值。 技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平，以获得相应的加值。\n\n描述一般会让你的某些技能处于[Skill: Inability]无能水平，表明该技能会带来减值惩罚。 进行提升可以让这些技能达到初学水平.</DefaultText>
+      <DefaultText>技能可以提升你采取特定行动或动作的成功率，或被动提供加值。 技能初始处于[Skill: Untrained]初学水平，可提升为[Skill: Trained]受训和[Skill: Specialized]精通水平，以获得相应的加值。\n\n人物描述一般会让你的某些技能处于[Skill: Inability]无能水平，表明该技能会带来减值惩罚。 进行提升可以让这些技能达到初学水平.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7553,7 +7553,7 @@
     </Entry>
     <Entry>
       <ID>1511</ID>
-      <DefaultText>侍卫</DefaultText>
+      <DefaultText>守护者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7573,7 +7573,7 @@
     </Entry>
     <Entry>
       <ID>1515</ID>
-      <DefaultText>侍卫</DefaultText>
+      <DefaultText>守护者</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

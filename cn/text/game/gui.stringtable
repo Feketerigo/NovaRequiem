@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>1037</ID>
-      <DefaultText>巨钟</DefaultText>
+      <DefaultText>大钟</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>通往巨钟深渊</DefaultText>
+      <DefaultText>通往大钟深渊</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -2476,7 +2476,7 @@
     </Entry>
     <Entry>
       <ID>553</ID>
-      <DefaultText>将生命回复至满槽。</DefaultText>
+      <DefaultText>将生命值完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -3197,7 +3197,7 @@
     </Entry>
     <Entry>
       <ID>699</ID>
-      <DefaultText>将所有队伍成员[Color: Health]生命[/Color]、[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]及[Color: Intellect]心智[/Color]回复至满槽。</DefaultText>
+      <DefaultText>将所有队伍成员[Color: Health]生命[/Color]、[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]及[Color: Intellect]心智[/Color]值完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5418,7 +5418,7 @@
     </Entry>
     <Entry>
       <ID>1155</ID>
-      <DefaultText>将所有属性值（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]）回复至满槽。</DefaultText>
+      <DefaultText>将所有属性值（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]）完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6073,7 +6073,7 @@
     </Entry>
     <Entry>
       <ID>1286</ID>
-      <DefaultText>移除所有[FettleIcon: Debuff]负面状态（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）将[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]、[Color: Intellect]心智[/Color]和[Color: Health]生命[/Color]回复至满槽。</DefaultText>
+      <DefaultText>移除所有[FettleIcon: Debuff]负面状态（[FettleIcon: Debuff][Color: NegativeModifier]夹击[/Color]和[FettleIcon: Debuff][Color: NegativeModifier]长期伤害[/Color]除外）将[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]、[Color: Intellect]心智[/Color]和[Color: Health]生命[/Color]值完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6188,7 +6188,7 @@
     </Entry>
     <Entry>
       <ID>1309</ID>
-      <DefaultText>与目标同伴交换位置。将施法者与目标的[Color: Health]生命[/Color]回复至满槽。</DefaultText>
+      <DefaultText>与目标同伴交换位置。将施法者与目标的[Color: Health]生命[/Color]值完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6434,7 +6434,7 @@
     </Entry>
     <Entry>
       <ID>1358</ID>
-      <DefaultText>造成[Damage]并将属性池（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]）回复至满槽。</DefaultText>
+      <DefaultText>造成[Damage]并将属性池（[Color: Might]气力[/Color]、[Color: Speed]速度[/Color]和[Color: Intellect]心智[/Color]）完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

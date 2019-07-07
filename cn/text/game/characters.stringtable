@@ -166,11 +166,11 @@
 	</Entry>
 	<Entry>
 		<ID>40</ID>
-		<DefaultText>船长胡努</DefaultText>
+		<DefaultText>胡努船长</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>41</ID>
-		<DefaultText>导航员坚亚斯</DefaultText>
+		<DefaultText>坚亚斯导航员</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>42</ID>
@@ -202,7 +202,7 @@
 	</Entry>
 	<Entry>
 		<ID>49</ID>
-		<DefaultText>帕希姆·弗林特</DefaultText>
+		<DefaultText>帕希姆·燧石</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>50</ID>
@@ -334,7 +334,7 @@
 	</Entry>
 	<Entry>
 		<ID>82</ID>
-		<DefaultText>默登首领</DefaultText>
+		<DefaultText>默登酋长</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>83</ID>
@@ -346,7 +346,7 @@
 	</Entry>
 	<Entry>
 		<ID>85</ID>
-		<DefaultText>奴隶买主</DefaultText>
+		<DefaultText>奴隶买家</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>86</ID>
@@ -362,7 +362,7 @@
 	</Entry>
 	<Entry>
 		<ID>89</ID>
-		<DefaultText>戈洛格罗勃商店</DefaultText>
+		<DefaultText>光球商店</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>90</ID>
@@ -370,7 +370,7 @@
 	</Entry>
 	<Entry>
 		<ID>91</ID>
-		<DefaultText>戈洛格罗勃商人</DefaultText>
+		<DefaultText>光球商人</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>92</ID>
@@ -382,7 +382,7 @@
 	</Entry>
 	<Entry>
 		<ID>94</ID>
-		<DefaultText>民兵</DefaultText>
+		<DefaultText>义勇军士兵</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>95</ID>
@@ -390,7 +390,7 @@
 	</Entry>
 	<Entry>
 		<ID>96</ID>
-		<DefaultText>麦特琪娜 (年幼)</DefaultText>
+		<DefaultText>麦特琪娜（幼年）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>97</ID>
@@ -574,15 +574,15 @@
 	</Entry>
 	<Entry>
 		<ID>142</ID>
-		<DefaultText>魔葵平民</DefaultText>
+		<DefaultText>魔葵居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>143</ID>
-		<DefaultText>魔葵平民</DefaultText>
+		<DefaultText>魔葵居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>144</ID>
-		<DefaultText>魔葵平民</DefaultText>
+		<DefaultText>魔葵居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>145</ID>
@@ -733,7 +733,7 @@
 	</Entry>
 	<Entry>
 		<ID>182</ID>
-		<DefaultText>滗析者</DefaultText>
+		<DefaultText>移入者</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>183</ID>
@@ -745,7 +745,7 @@
 	</Entry>
 	<Entry>
 		<ID>185</ID>
-		<DefaultText>菲勒希思 (捷波镇)</DefaultText>
+		<DefaultText>菲勒希思（捷波镇）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>186</ID>
@@ -773,7 +773,7 @@
 	</Entry>
 	<Entry>
 		<ID>192</ID>
-		<DefaultText>菲勒希思 (变体洞窟)</DefaultText>
+		<DefaultText>菲勒希思（变体洞窟）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>193</ID>
@@ -785,7 +785,7 @@
 	</Entry>
 	<Entry>
 		<ID>195</ID>
-		<DefaultText>乃库尔之泪 (市场)</DefaultText>
+		<DefaultText>乃库尔之泪（市场）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>196</ID>
@@ -813,11 +813,11 @@
 	</Entry>
 	<Entry>
 		<ID>202</ID>
-		<DefaultText>塔什 (绿洲)</DefaultText>
+		<DefaultText>塔什（绿洲）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>203</ID>
-		<DefaultText>奇利亚日行者</DefaultText>
+		<DefaultText>奇利亚·日行者</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>204</ID>
@@ -849,7 +849,7 @@
 	</Entry>
 	<Entry>
 		<ID>211</ID>
-		<DefaultText>伊拉什</DefaultText>
+		<DefaultText>伊鲁什</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>212</ID>
@@ -857,7 +857,7 @@
 	</Entry>
 	<Entry>
 		<ID>213</ID>
-		<DefaultText>苦痛 (绿洲)</DefaultText>
+		<DefaultText>苦痛（绿洲）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>214</ID>
@@ -977,7 +977,7 @@
 	</Entry>
 	<Entry>
 		<ID>243</ID>
-		<DefaultText>瓦杰伦</DefaultText>
+		<DefaultText>瓦杰伦人</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>244</ID>
@@ -997,27 +997,27 @@
 	</Entry>
 	<Entry>
 		<ID>248</ID>
-		<DefaultText>吉布拉</DefaultText>
+		<DefaultText>吉布拉人</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>249</ID>
-		<DefaultText>吉布拉</DefaultText>
+		<DefaultText>吉布拉人</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>250</ID>
-		<DefaultText>吉布拉</DefaultText>
+		<DefaultText>吉布拉人</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>251</ID>
-		<DefaultText>魔葵平民</DefaultText>
+		<DefaultText>魔葵居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>252</ID>
-		<DefaultText>魔葵平民</DefaultText>
+		<DefaultText>魔葵居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>253</ID>
-		<DefaultText>魔葵平民</DefaultText>
+		<DefaultText>魔葵居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>254</ID>
@@ -1604,19 +1604,19 @@
 	</Entry>
 	<Entry>
 		<ID>400</ID>
-		<DefaultText>Robe with Hood Down (Male)</DefaultText>
+		<DefaultText>Robe with Hood Down（Male）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>401</ID>
-		<DefaultText>Robe with Hood Down (female)</DefaultText>
+		<DefaultText>Robe with Hood Down（female）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>402</ID>
-		<DefaultText>Robe with Hood Up (Male)</DefaultText>
+		<DefaultText>Robe with Hood Up（Male）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>403</ID>
-		<DefaultText>Robe with Hood Up (Female)</DefaultText>
+		<DefaultText>Robe with Hood Up（Female）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>404</ID>
@@ -1628,11 +1628,11 @@
 	</Entry>
 	<Entry>
 		<ID>406</ID>
-		<DefaultText>萨古斯平民</DefaultText>
+		<DefaultText>萨古斯居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>407</ID>
-		<DefaultText>萨古斯平民</DefaultText>
+		<DefaultText>萨古斯居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>408</ID>
@@ -1727,11 +1727,11 @@
 	</Entry>
 	<Entry>
 		<ID>431</ID>
-		<DefaultText>捷波平民</DefaultText>
+		<DefaultText>捷波居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>432</ID>
-		<DefaultText>捷波平民</DefaultText>
+		<DefaultText>捷波居民</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>433</ID>
@@ -1743,7 +1743,7 @@
 	</Entry>
 	<Entry>
 		<ID>435</ID>
-		<DefaultText>虚伪宁静</DefaultText>
+		<DefaultText>虚假宁静</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>436</ID>
@@ -1923,11 +1923,11 @@
 	</Entry>
 	<Entry>
 		<ID>480</ID>
-		<DefaultText>工匠大师</DefaultText>
+		<DefaultText>大工匠</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>481</ID>
-		<DefaultText>工头大师</DefaultText>
+		<DefaultText>总工头</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>482</ID>
@@ -2319,7 +2319,7 @@
 	</Entry>
 	<Entry>
 		<ID>579</ID>
-		<DefaultText>Delete (test)</DefaultText>
+		<DefaultText>Delete（test）</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>580</ID>
@@ -2866,11 +2866,11 @@
 	</Entry>
 	<Entry>
 		<ID>717</ID>
-		<DefaultText>可疑的斑点</DefaultText>
+		<DefaultText>可疑的斯佩克</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>718</ID>
-		<DefaultText>顺从的斑点</DefaultText>
+		<DefaultText>顺从的斯佩克</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>719</ID>
@@ -2890,7 +2890,7 @@
 	</Entry>
 	<Entry>
 		<ID>723</ID>
-		<DefaultText>掠夺幻影</DefaultText>
+		<DefaultText>掠食性幻影</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>724</ID>

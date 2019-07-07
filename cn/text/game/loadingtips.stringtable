@@ -36,7 +36,7 @@
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>危机过程中，将你的同伴移动到敌人的另一侧 可以对其赋予夹击状态。</DefaultText>
+      <DefaultText>危机过程中，将你的同伴移动到敌人的另一侧可以对其赋予夹击状态。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>如果攻击命中率是100%， 你可以自动获得你能造成的最大伤害加值， 无视努力等级的影响。</DefaultText>
+      <DefaultText>如果攻击命中率是100%， 你可以自动获得你能造成的最大伤害加值，无视努力等级的影响。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -86,7 +86,7 @@
     </Entry>
     <Entry>
       <ID>16</ID>
-      <DefaultText>躲藏时的努力等级越高， 敌人就越难发现你。</DefaultText>
+      <DefaultText>躲藏时的努力等级越高，敌人就越难发现你。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>融合物品是一种特殊装备， 它们可以提供强大的正面效果，同时给予一定的惩罚。 专注技能可以令你无视这种惩罚。</DefaultText>
+      <DefaultText>融合物品是一种特殊装备，它们可以提供强大的正面效果， 同时给予一定的惩罚。专注技能可以令你无视这种惩罚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -121,7 +121,7 @@
     </Entry>
     <Entry>
       <ID>23</ID>
-      <DefaultText>技能有以下几个水平：&lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;初学、&lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;受训和&lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;精通，提升技能水平可以让你获得更多的好处。 技能还可以降低到&lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;无能水平，此时使用技能会造成减值惩罚。</DefaultText>
+      <DefaultText>技能有以下几个水平：&lt;quad class="skillempty"&gt;&lt;quad class="skillempty"&gt;初学、&lt;quad class="skillfull"&gt;&lt;quad class="skillempty"&gt;受训和&lt;quad class="skillfull"&gt;&lt;quad class="skillfull"&gt;精通， 提升技能水平可以让你获得更多的好处。 技能还可以降低到&lt;quad class="skillinability"&gt;&lt;quad class="skillinability"&gt;无能水平，此时使用技能会造成减值惩罚。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -186,7 +186,7 @@
     </Entry>
     <Entry>
       <ID>36</ID>
-      <DefaultText>根据卡斯敏和米蒙恩的记录， 化身神很少在同一具躯体中生活一二十年。</DefaultText>
+      <DefaultText>根据卡斯敏和米蒙恩的记录， 化身神很少在同一具躯体中生活超过二十年。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

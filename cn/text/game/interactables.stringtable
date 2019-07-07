@@ -1352,7 +1352,7 @@
 	</Entry>
 	<Entry>
 		<ID>338</ID>
-		<DefaultText>这个镜子看起来很奇怪，好像你在里面看到的才是真实的，而*你*才是映像。</DefaultText>
+		<DefaultText>这面镜子看起来很奇怪，好像你在里面看到的才是真实的，而*你*才是映像。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>339</ID>
@@ -1368,7 +1368,7 @@
 	</Entry>
 	<Entry>
 		<ID>342</ID>
-		<DefaultText>金属波浪在地板下面滚动，通过靴底将振动传导到你的身上。</DefaultText>
+		<DefaultText>金属波浪在地板上滚动，通过靴底将振动传导到你的身上。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>343</ID>
@@ -1376,11 +1376,11 @@
 	</Entry>
 	<Entry>
 		<ID>344</ID>
-		<DefaultText>一个敞开的摄入口标志着一个死亡已久的构造体的前部。里面，古老的黑色金属上满是凹痕。</DefaultText>
+		<DefaultText>一个敞开的摄入口标志着一个死亡已久的构装体的前部。里面，古老的黑色金属上满是凹痕。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>345</ID>
-		<DefaultText>一个敞开的摄入口标志着一个死亡已久的构造体的前部。里面，古老的黑色金属上满是凹痕。</DefaultText>
+		<DefaultText>「死亡」的时候，这个巨大的构装体正要爬过这处暗礁。它的表面上满是细小的伤痕和焦迹。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>346</ID>
@@ -1392,7 +1392,7 @@
 	</Entry>
 	<Entry>
 		<ID>348</ID>
-		<DefaultText>微小的发光微粒漂浮在这座塔内。每个人都被更小的微粒包围着，就仿佛成千上万个世界在他们的太阳周围盘旋。</DefaultText>
+		<DefaultText>微小的发光微粒漂浮在这座塔内。每颗微粒都被更小的微粒包围着，就仿佛成千上万个世界在他们的太阳周围旋转。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>349</ID>
@@ -2390,7 +2390,7 @@
 	</Entry>
 	<Entry>
 		<ID>598</ID>
-		<DefaultText>它那样子就像小广场里的巨钟，但不知何故，感觉有些……*不对劲*。</DefaultText>
+		<DefaultText>它那样子就像小广场里的大钟，但不知何故，感觉有些……*不对劲*。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>599</ID>
@@ -2753,7 +2753,7 @@
 	</Entry>
 	<Entry>
 		<ID>691</ID>
-		<DefaultText>苦痛打破了镜子，返回了黑暗的深渊之中。触摸这些玻璃随便，它们会嘶嘶作响。</DefaultText>
+		<DefaultText>苦痛打破了这面通往黑暗深渊的镜子。触摸这些玻璃随便，它们便会嘶嘶作响。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>692</ID>

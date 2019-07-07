@@ -3986,7 +3986,7 @@
     </Entry>
     <Entry>
       <ID>797</ID>
-      <DefaultText>一块魔葵肉</DefaultText>
+      <DefaultText>魔葵肉团</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5241,7 +5241,7 @@
     </Entry>
     <Entry>
       <ID>1048</ID>
-      <DefaultText>涉及说服、欺骗和威胁的行动取得大成功之后心智属性值回复至满槽。</DefaultText>
+      <DefaultText>涉及说服、欺骗和威胁的行动取得大成功之后心智属性值得到完全回复。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5646,7 +5646,7 @@
     </Entry>
     <Entry>
       <ID>1129</ID>
-      <DefaultText>因费尔的疯狂</DefaultText>
+      <DefaultText>伊尼费尔的疯狂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -5686,7 +5686,7 @@
     </Entry>
     <Entry>
       <ID>1137</ID>
-      <DefaultText>因费尔的疯狂</DefaultText>
+      <DefaultText>伊尼费尔的疯狂</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6086,7 +6086,7 @@
     </Entry>
     <Entry>
       <ID>1217</ID>
-      <DefaultText>暴力精酿</DefaultText>
+      <DefaultText>暴力精华</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6957,7 +6957,7 @@
     </Entry>
     <Entry>
       <ID>1391</ID>
-      <DefaultText>-[Color: TideGold]金[/Color]：致命一击[Color: Heal]回复队伍所有成员[Gold]生命[/Color]</DefaultText>
+      <DefaultText>-[Color: TideGold]金[/Color]：致命一击[Color: Heal]回复队伍所有成员[Gold]生命[/Color]值</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

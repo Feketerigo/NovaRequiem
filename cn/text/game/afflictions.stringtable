@@ -66,7 +66,7 @@
     </Entry>
     <Entry>
       <ID>12</ID>
-      <DefaultText>喝醉</DefaultText>
+      <DefaultText>烂醉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -136,7 +136,7 @@
     </Entry>
     <Entry>
       <ID>26</ID>
-      <DefaultText>增强</DefaultText>
+      <DefaultText>强化</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -266,7 +266,7 @@
     </Entry>
     <Entry>
       <ID>52</ID>
-      <DefaultText>移动减半，回避-15%。</DefaultText>
+      <DefaultText>移动速度减半，回避-15%。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -436,7 +436,7 @@
     </Entry>
     <Entry>
       <ID>86</ID>
-      <DefaultText>胸像</DefaultText>
+      <DefaultText>比斯特雷</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -471,7 +471,7 @@
     </Entry>
     <Entry>
       <ID>93</ID>
-      <DefaultText>下一次人物[Color: Health]生命[/Color]值或其他属性值低于[BonusAmount1]%时，自动将[Color: Health]生命[/Color]值和其他属性值回复至满槽</DefaultText>
+      <DefaultText>下一次人物[Color: Health]生命[/Color]值或其他属性值低于[BonusAmount1]%时，[Color: Health]生命[/Color]值和其他属性值自动得到完全回复</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,7 +486,7 @@
     </Entry>
     <Entry>
       <ID>96</ID>
-      <DefaultText>数据虹吸Data Siphon</DefaultText>
+      <DefaultText>数据虹吸</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -616,7 +616,7 @@
     </Entry>
     <Entry>
       <ID>122</ID>
-      <DefaultText>Tidal Affinity +1.</DefaultText>
+      <DefaultText>潮力亲和技能水平+1.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -741,12 +741,12 @@
     </Entry>
     <Entry>
       <ID>147</ID>
-      <DefaultText>每回合10点精神伤害</DefaultText>
+      <DefaultText>每回合受到10点精神伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>每回合1点精神伤害</DefaultText>
+      <DefaultText>每回合受到1点精神伤害</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -796,7 +796,7 @@
     </Entry>
     <Entry>
       <ID>158</ID>
-      <DefaultText>[PassiveEffectsBasic]，人物本回合进行漫无目的的移动</DefaultText>
+      <DefaultText>[PassiveEffectsBasic]，人物本回合漫无目的地进行移动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -816,7 +816,7 @@
     </Entry>
     <Entry>
       <ID>162</ID>
-      <DefaultText>对每回合造成上海的大部分状态免疫，如[FettleIcon: Debuff][Color: NegativeModifier]失血[/Color]或[FettleIcon: Debuff][Color: NegativeModifier]灼烧[/Color]。</DefaultText>
+      <DefaultText>对大部分每回合造成伤害的状态免疫，如[FettleIcon: Debuff][Color: NegativeModifier]失血[/Color]或[FettleIcon: Debuff][Color: NegativeModifier]灼烧[/Color]。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
