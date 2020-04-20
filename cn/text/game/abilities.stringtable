@@ -6236,7 +6236,7 @@
     </Entry>
     <Entry>
       <ID>1247</ID>
-      <DefaultText>向敌人脸上抛出一把干燥的纳米精魂。这种小生物会爬进敌人的脑子，造成小小的能量爆炸。</DefaultText>
+      <DefaultText>向敌人脸上抛出一把干燥的纳米精魂。这种小生物会爬进敌人的脑中，造成小小的能量爆炸。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6471,7 +6471,7 @@
     </Entry>
     <Entry>
       <ID>1294</ID>
-      <DefaultText>潜意识的心灵感应能量环绕着你的身躯，推开所有想要碰你的蠢货。</DefaultText>
+      <DefaultText>潜意识中的心灵感应能量环绕着你的身躯，推开所有想要碰你的蠢货。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -6506,12 +6506,12 @@
     </Entry>
     <Entry>
       <ID>1301</ID>
-      <DefaultText>麦特琪娜更喜欢在战场中潜行。只要没有被发现，她的攻击就可以对敌人造成更深的伤口，此外她还会用环绕在身上的潮之力令敌人失明。</DefaultText>
+      <DefaultText>麦特琪娜更喜欢在战场中潜行。只要没有被发现，她的攻击就可以对敌人造成更深的伤口，此外她还会用环绕在身上的潮力令敌人失明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1302</ID>
-      <DefaultText>念出一句咒语，麦特琪娜就可以释放身上的潮之力，令周围的敌人失明。</DefaultText>
+      <DefaultText>念出一句咒语，麦特琪娜就可以释放身上的潮力，令周围的敌人失明。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

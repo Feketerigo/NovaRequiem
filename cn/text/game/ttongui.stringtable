@@ -916,12 +916,12 @@
     </Entry>
     <Entry>
       <ID>182</ID>
-      <DefaultText>{0}潮之力{1}提升</DefaultText>
+      <DefaultText>{0}潮力{1}提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>183</ID>
-      <DefaultText>{0}潮之力{1}降低</DefaultText>
+      <DefaultText>{0}潮力{1}降低</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7443,22 +7443,22 @@
     </Entry>
     <Entry>
       <ID>1489</ID>
-      <DefaultText>{0}潮之力提升</DefaultText>
+      <DefaultText>{0}潮力提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1490</ID>
-      <DefaultText>{0}潮之力提升</DefaultText>
+      <DefaultText>{0}潮力提升</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1491</ID>
-      <DefaultText>{0}潮之力下降</DefaultText>
+      <DefaultText>{0}潮力下降</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1492</ID>
-      <DefaultText>{0}潮之力下降</DefaultText>
+      <DefaultText>{0}潮力下降</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -7563,7 +7563,7 @@
     </Entry>
     <Entry>
       <ID>1513</ID>
-      <DefaultText>跟随潮之力的涌动</DefaultText>
+      <DefaultText>随潮力涌动</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

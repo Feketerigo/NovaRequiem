@@ -6,162 +6,162 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>The Right To Exist</DefaultText>
+      <DefaultText>生存的权利</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Descend to the Deepest Fathoms.</DefaultText>
+      <DefaultText>堕入最深的深渊。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Find the Resonance.</DefaultText>
+      <DefaultText>寻找共振腔。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Merged with the Specter.</DefaultText>
+      <DefaultText>与幽魂融为一体。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Open the Resonance.</DefaultText>
+      <DefaultText>打开共振腔。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Defeat the Specter.</DefaultText>
+      <DefaultText>击败幽魂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>6</ID>
-      <DefaultText>Defeated the Specter.</DefaultText>
+      <DefaultText>已击败幽魂。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>7</ID>
-      <DefaultText>Defeat the First.</DefaultText>
+      <DefaultText>击败最初的弃子。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>8</ID>
-      <DefaultText>Convinced the Specter he wasn't the real Changing God.</DefaultText>
+      <DefaultText>说服幽魂，他并不是化身神本尊。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>9</ID>
-      <DefaultText>Convinced the Specter to save his daughter.</DefaultText>
+      <DefaultText>说服幽魂，拯救他的女儿。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>The resonance chamber has trapped me and all the other castoffs in the Labyrinth. The ghostly woman says the true Resonance is in the deepest part of my mind. I have to get there before the Specter if I want to decide the fate of the castoffs.</DefaultText>
+      <DefaultText>我和其他所有弃子都被困在了迷宫中的共振腔内。那名幽灵般的女子说，真正的共振腔就在我大脑的最深处。如果我想要决定弃子们的命运，就得赶在幽魂之前抵达那里。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>The Specter is on his way to the Resonance. I have to get there first, to stop him from subsuming all our minds into his.</DefaultText>
+      <DefaultText>幽魂正在前往共振腔的路上。我必须率先抵达那里，来阻止他将我们所有人的精神都囊括到他的脑中。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>I've started the journey toward the Resonance. The Specter is down here somewhere. I have to reach the Resonance before he does.</DefaultText>
+      <DefaultText>我开始向着共振腔进发。幽魂就在附近。我必须在他之前赶到共振腔。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>I convinced the Specter that *I* am the Changing God, to the point where he merged with me. Now we just need to use the Resonance and end this.</DefaultText>
+      <DefaultText>我说服了幽魂，*我*才是化身神，他应该与我融合。现在我们只需要利用共振腔完成这一工作。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>I've found the door to the Resonance. The Specter isn't here, but the door is inaccessible. There are two other doors I *can* access. Maybe I can use them to get into the Resonance before the Specter knows I'm here.</DefaultText>
+      <DefaultText>我找到了通往共振腔的门。幽魂不在这里，但我无法打开这扇门。这里还有另外两扇我*可以*打开的门。也许我可以利用这两扇门，在幽魂不知道的情况下进入共振腔。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>The Specter is here! I need to destroy him before he smashes his way into the Resonance.</DefaultText>
+      <DefaultText>幽魂就在这里！我得在他冲进共振腔之前毁灭他。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10006</ID>
-      <DefaultText>I defeated the Specter before he could break into the Resonance. Now all that's left is to use the Resonance for myself.</DefaultText>
+      <DefaultText>我在幽魂进入共振腔之前击败了他。现在，我只需要为自己使用共振腔了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10007</ID>
-      <DefaultText>I decided the Specter's solution is really what's best for us all. The First Castoff disagreed. Now the Specter and I must defeat her.</DefaultText>
+      <DefaultText>我认为，对我们所有人而言，幽魂的解决方案都是最好的。最初的弃子对此表示异议。现在，我必须和幽魂联手击败她。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10008</ID>
-      <DefaultText>I convinced the Specter that he wasn't the true Changing God, that he had no place deciding the fate of the castoffs. Now all that remains is to enter the Resonance myself.</DefaultText>
+      <DefaultText>我说服了幽魂，他并不是真正的化身神，他也没有权利决定我们所有这些弃子的命运。现在，我只能自己进入共振腔了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10009</ID>
-      <DefaultText>I convinced the Specter to save his daughter, using the knowledge I gained in the Mere. He agreed. Now we just need to enter the Resonance and do it.</DefaultText>
+      <DefaultText>我说服了幽魂，利用我从虚梦中获得的知识去拯救他的女儿。他同意了。现在，他只需要进入共振腔，展开行动。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>I rescued Aligern from his torment in a village fathom.</DefaultText>
+      <DefaultText>我在村庄洞悉中将阿里戈恩从折磨中拯救了出来。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>I freed Callistege from her personal torment involving her sisters.</DefaultText>
+      <DefaultText>我令卡莱斯蒂从她的姐妹对她的折磨中解放了出来。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>I found Erritis being attacked by his glow.</DefaultText>
+      <DefaultText>我找到了被他的光辉攻击的艾瑞提斯。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>I rescued Matkina from reliving all the betrayals against her.</DefaultText>
+      <DefaultText>我从针对她的一切背叛中拯救了麦特琪娜</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>I rescued Oom.</DefaultText>
+      <DefaultText>我拯救了乌姆。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>I broke Rhin free from being tormented over her mistakes.</DefaultText>
+      <DefaultText>我帮助莱恩摆脱了因她的错误而受到的折磨。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>I helped Tybir resolve things with Auvigne - as best as he could, anyway.</DefaultText>
+      <DefaultText>我帮助提比尔解决了奥维尼的问题，反正他已经尽最大努力了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20007</ID>
-      <DefaultText>I've learned I can merge my consciousness with the daughter's.</DefaultText>
+      <DefaultText>我了解到，我可以将自己的意识与女儿融合。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20008</ID>
-      <DefaultText>It's possible that Miika's sickness is due to something like a Tidal Surge.</DefaultText>
+      <DefaultText>米卡的疾病很有可能源自潮力汹涌。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20009</ID>
-      <DefaultText>In a Mere, I learned there may be a way to save the Changing God's Daughter by merging castoff consciousnesses with hers.</DefaultText>
+      <DefaultText>在虚梦中，我了解到将弃子的意识与化身神的女儿融合，就有可能拯救她。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20010</ID>
-      <DefaultText>In a Mere, I discovered new information about Miika's illness - something the Changing God never figured out.</DefaultText>
+      <DefaultText>在虚梦中，我发现了和米卡的疾病有关的新知识，化身神一直也没有发现这一点。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20011</ID>
-      <DefaultText>The ghostly woman says my companions are trapped somewhere here in the Labyrinth. I can free them before I descend, though doing so may give the Changing God more time to acccomplish his goal.</DefaultText>
+      <DefaultText>那名幽灵般的女子说，我的同伴被困在了迷宫内。我可以在继续向下进发之前拯救他们，不过这会让化身神获得更多时间来实现他的计划。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

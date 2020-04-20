@@ -471,12 +471,12 @@
     </Entry>
     <Entry>
       <ID>1083</ID>
-      <DefaultText>通往大钟深渊</DefaultText>
+      <DefaultText>通往大钟洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1084</ID>
-      <DefaultText>通往女儿的深渊</DefaultText>
+      <DefaultText>通往女儿的洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -486,22 +486,22 @@
     </Entry>
     <Entry>
       <ID>1086</ID>
-      <DefaultText>通往苦痛深渊</DefaultText>
+      <DefaultText>通往苦痛洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1087</ID>
-      <DefaultText>通往克利夫顿深渊</DefaultText>
+      <DefaultText>通往克利夫顿洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1088</ID>
-      <DefaultText>通往村庄深渊</DefaultText>
+      <DefaultText>通往村庄洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1089</ID>
-      <DefaultText>通往绿洲深渊</DefaultText>
+      <DefaultText>通往绿洲洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -626,7 +626,7 @@
     </Entry>
     <Entry>
       <ID>1114</ID>
-      <DefaultText>通往下一处深渊</DefaultText>
+      <DefaultText>通往下一处洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -636,7 +636,7 @@
     </Entry>
     <Entry>
       <ID>1116</ID>
-      <DefaultText>通往最深的深渊</DefaultText>
+      <DefaultText>通往最深的洞悉</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -646,7 +646,7 @@
     </Entry>
     <Entry>
       <ID>1118</ID>
-      <DefaultText>通往升天之地的门</DefaultText>
+      <DefaultText>通往共振区的门</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

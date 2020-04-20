@@ -16,7 +16,7 @@
 	</Entry>
 	<Entry>
 		<ID>3</ID>
-		<DefaultText>苦痛深渊</DefaultText>
+		<DefaultText>苦痛洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>4</ID>
@@ -36,15 +36,15 @@
 	</Entry>
 	<Entry>
 		<ID>8</ID>
-		<DefaultText>幽魂深渊</DefaultText>
+		<DefaultText>幽魂洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>9</ID>
-		<DefaultText>最初的弃子深渊</DefaultText>
+		<DefaultText>最初的弃子洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>10</ID>
-		<DefaultText>破碎的深渊</DefaultText>
+		<DefaultText>破碎的洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>11</ID>
@@ -52,23 +52,23 @@
 	</Entry>
 	<Entry>
 		<ID>12</ID>
-		<DefaultText>克利夫顿深渊</DefaultText>
+		<DefaultText>克利夫顿洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>13</ID>
-		<DefaultText>绿洲深渊</DefaultText>
+		<DefaultText>绿洲洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>14</ID>
-		<DefaultText>村庄深渊</DefaultText>
+		<DefaultText>村庄洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>15</ID>
-		<DefaultText>大钟深渊</DefaultText>
+		<DefaultText>大钟洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>16</ID>
-		<DefaultText>女儿深渊</DefaultText>
+		<DefaultText>女儿的洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>17</ID>
@@ -84,7 +84,7 @@
 	</Entry>
 	<Entry>
 		<ID>20</ID>
-		<DefaultText>黑暗深渊</DefaultText>
+		<DefaultText>黑暗洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>21</ID>
@@ -236,11 +236,11 @@
 	</Entry>
 	<Entry>
 		<ID>58</ID>
-		<DefaultText>无尽战争深渊</DefaultText>
+		<DefaultText>无尽战争洞悉</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>59</ID>
-		<DefaultText>苦痛深渊实验室</DefaultText>
+		<DefaultText>苦痛洞悉中的实验室</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>60</ID>

@@ -6,32 +6,32 @@
   <Entries>
     <Entry>
       <ID>0</ID>
-      <DefaultText>Fallen To Earth</DefaultText>
+      <DefaultText>坠落地球</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Find a way to repair the resonance chamber.</DefaultText>
+      <DefaultText>找到修复共振腔的方法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2</ID>
-      <DefaultText>Fix the Clock in Circus Minor and investigate the figures that are trapped inside.</DefaultText>
+      <DefaultText>维修位于小广场的巨钟，并调查困在其中的人影。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3</ID>
-      <DefaultText>Find a way to escape the Fathom.</DefaultText>
+      <DefaultText>找到逃离洞察的方法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>4</ID>
-      <DefaultText>Return to Casmeen and Mimeon.</DefaultText>
+      <DefaultText>回去找卡斯敏和米蒙恩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>5</ID>
-      <DefaultText>Satisfied Casmeen and Mimeon</DefaultText>
+      <DefaultText>令卡斯敏和米蒙恩满意。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -41,34 +41,34 @@
     </Entry>
     <Entry>
       <ID>10000</ID>
-      <DefaultText>I miraculously survived a fall from many kilometers above the Earth's surface, only to find myself in another unexpected situation. My only hope of stopping the Sorrow - the creature that hunts me - is to climb inside the crystal resonance chamber and activate the device. Unfortunately, the resonance chamber was badly damaged by my fall, so it'll need to be fixed. </DefaultText>
+      <DefaultText>我从距地球表面几公里的地方坠落，奇迹般地活了下来，却发现自己坠入了另一个意外之中。「苦痛」一直在狩猎我，而我阻止它的唯一希望就是爬进水晶共振腔，将这一装置激活。不幸的是，共振腔被我砸中，遭到了严重的破坏，所以我需要先修好它。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10001</ID>
-      <DefaultText>The two people who found me have conflicting opinions about where I should go for help. Aligern suggested that I speak with the cultists of the Changing God, while Callistege directed me to the Order of Truth.</DefaultText>
+      <DefaultText>找到我的两个人在我应该去哪里寻求帮助这一问题上产生了矛盾。阿里戈恩建议我去找化身神的信徒们聊聊，而 卡莱斯蒂则想带我去真理修会。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10002</ID>
-      <DefaultText>Casmeen and Mimeon, the local leaders of the Changing God cult, may know something about the resonance chamber. In exchange for their knowledge, they have asked me to discover the identity of mysterious figures trapped inside the Clock, a device crafted long ago by the Changing God.
+      <DefaultText>化身神教在这一地区的领导人卡斯敏和米蒙恩可能了解一些共振腔的事。为了换取他们的知识，他们要求我探寻被困在很久以前由化身神制作的一座巨钟里的神秘人物的身份。
 
-Complicating matters, the Clock appears to be unmoored in time, so I won't be able to investigate the figures until I've realigned it with the present time. </DefaultText>
+但复杂的是，这座巨钟似乎从时间轴上解放了，所以在将它与现在的时间重新校准之前，我无法调查那些人影。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10003</ID>
-      <DefaultText>The figures in the Clock surged into my mind and unlocked (or perhaps created) a new Fathom. I'm now trapped in the Fathom with them. If I speak to them, perhaps I can find a way out. </DefaultText>
+      <DefaultText>巨钟里的人影涌入了我的脑海，打开（或者创造）了一个新的洞悉。现在，我和他们一起都被困在洞悉深处。和他们谈谈的话，我也许就能找到出路。 </DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10004</ID>
-      <DefaultText>The figures in the Clock were actually Reflections of three castoffs - Kamose, Diviaticu, and Villon. I should return to Casmeen and Mimeon at their encampment in Circus Minor and tell them what I've learned.</DefaultText>
+      <DefaultText>巨钟里的人影实际上是三名弃子，凯莫斯、迪维亚蒂库和威伦的映像。我应该去小广场的营地把我了解到的情况告诉卡斯敏和米蒙恩。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>10005</ID>
-      <DefaultText>According to Casmeen and Mimeon, the Changing God built the resonance chamber with the help of another castoff. They don't know this castoff's name, but they suspect that my other castoff 'siblings' do. One of them is currently in the city - an albino assassin named Matkina.</DefaultText>
+      <DefaultText>根据卡斯敏和米蒙恩的说法，化身神在另一名弃子帮助下建造了共振腔。他们不知道那名弃子的名字，但他们怀疑我有其他弃子「同胞」知道。其中之一目前就在这座城市——一位患有白化病的刺客，麦特琪娜。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -78,37 +78,37 @@ Complicating matters, the Clock appears to be unmoored in time, so I won't be ab
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>I've learned that the cultists of the Changing God are encamped around a great clock in Circus Minor.</DefaultText>
+      <DefaultText>我了解到化身神的信徒们都在小广场的巨钟周围安营扎寨。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>I've learned that the Order of Truth is located in Government Square.</DefaultText>
+      <DefaultText>我了解到真理修会位于政府区。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>I showed a fragment of crystal from the resonance chamber to the Master Foreman, an ancient builder construct. It says that the chamber's crystals are alive, so they can't be fixed by conventional means. Someone in the Order of Truth might know more.</DefaultText>
+      <DefaultText>我向一台古老的构装体，总工头，展示了共振腔的一块水晶碎片。它说这块晶体是活的，所以它们无法用传统的方法进行修复。真理修会里可能有人更了解。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>I've realigned the Clock with the present time. Now I can interact with the main clock face and investigate the trapped figures.</DefaultText>
+      <DefaultText>我将巨钟与现在的时间重新校准。现在我可以与钟面互动，调查被困的人影了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20004</ID>
-      <DefaultText>My efforts to "fix" the Clock didn't go quite as planned. Circus Minor is now enclosed in a weird time bubble in which it is always night.</DefaultText>
+      <DefaultText>我修复巨钟的努力并没有完全按计划产生效果。小广场被包裹在了一个永远处于夜晚的时间泡泡里面了。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20005</ID>
-      <DefaultText>When I tried to interact with the Clock, Tidal forces erupted from my body and brought several nearby devices to life. They might provide a means to repair the Clock. </DefaultText>
+      <DefaultText>我再次与巨钟互动，潮力从我体内爆发了出来，附近的几台设备开始运转。利用它们，我可能找到修复这座巨钟的办法。</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20006</ID>
-      <DefaultText>Salimeri, an old friend of the Changing God, told me that another castoff helped my sire to build the resonance chamber. She suggested that I ask the Cult of the Changing God about him.</DefaultText>
+      <DefaultText>化身神的老朋友萨利迈利告诉我，另一名弃子帮助我的父亲建造了共振腔。她建议我向化身神教徒们询问相关情况。</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

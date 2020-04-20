@@ -74,7 +74,7 @@
 	</Entry>
 	<Entry>
 		<ID>17</ID>
-		<DefaultText>魔葵内这片无风的区域里，一面破旧的军旗无力地垂在那里。旗子上绘着一条咆哮的黄鼠狼，你认为这黄鼠狼在某种程度上可能相当危险。</DefaultText>
+		<DefaultText>魔葵内这片无风的区域里，一面破旧的军旗无力地垂在那里。旗子上绘着一条咆哮的黄鼠狼，你认为这黄鼠狼可能相当危险。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>18</ID>
@@ -98,7 +98,7 @@
 	</Entry>
 	<Entry>
 		<ID>23</ID>
-		<DefaultText>这几扇华丽的门牢牢地关着。你走过去的时候，一个声音用陌生的语言说了什么。你听不懂，但觉得对方可能是在拒绝。</DefaultText>
+		<DefaultText>这几扇华丽的门牢牢地关着。你走过去的时候，一个声音用陌生的语言说了什么。你听不懂，但觉得对方可能拒绝了你。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>24</ID>
@@ -154,7 +154,7 @@
 	</Entry>
 	<Entry>
 		<ID>37</ID>
-		<DefaultText>这里的路标上面似乎曾经写着「贸易站」，但是最近，有人涂掉了「P」并在那个位置写了一个「L」。</DefaultText>
+		<DefaultText>这里的路标上面似乎曾经写着「贸易站」，但是最近，有人涂掉了「站」并在那个位置写了一个「失败」。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>38</ID>
@@ -309,7 +309,7 @@
 	</Entry>
 	<Entry>
 		<ID>76</ID>
-		<DefaultText>这里有一堆骨头和其他残骸。就在你继续往前看的时候，你看到了角落里有一堆闪闪发光的东西。</DefaultText>
+		<DefaultText>这里有一堆骨头和其他残骸。随着你目光的移动，你发现角落里有一堆闪闪发光的东西。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>77</ID>
@@ -317,7 +317,7 @@
 	</Entry>
 	<Entry>
 		<ID>78</ID>
-		<DefaultText>那名瓦杰伦纳米使死在地板上，显然是被邪教徒谋杀了。他和他的保镖带着几名邪教徒，但似乎他们反而被击倒了。</DefaultText>
+		<DefaultText>那名瓦杰伦纳米使躺在地板上，死了，显然是被邪教徒谋杀了。他和他的保镖带着几名邪教徒，但似乎他们反而被击倒了。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>79</ID>
@@ -428,11 +428,11 @@
 	</Entry>
 	<Entry>
 		<ID>106</ID>
-		<DefaultText>对沙漠中的洞窟来说，这里的水非常多。这不可能是自然现象的。</DefaultText>
+		<DefaultText>对一座位于沙漠中的洞窟来说，这里的水非常充足。这不可能是自然现象的。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>107</ID>
-		<DefaultText>这里曾经有一座控制台，但它已经……以某种方式被删除了。</DefaultText>
+		<DefaultText>这里曾经有一座控制台，但它已经……被以某种方式被删除了。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>108</ID>
@@ -952,7 +952,7 @@
 	</Entry>
 	<Entry>
 		<ID>238</ID>
-		<DefaultText>一根恶心的柱子正在从地板上滋出来。口水和胆汁从扭曲的轧机上滴下来，在下面汇成了一条水沟。</DefaultText>
+		<DefaultText>一根恶心的柱子正在从地板上滋出来。口水和胆汁从扭曲的大嘴上滴下来，在下面汇成了一条水沟。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>239</ID>
@@ -1488,7 +1488,7 @@
 	</Entry>
 	<Entry>
 		<ID>372</ID>
-		<DefaultText>这些东西非常像谐振腔。整间实验室肯定是根据你的创造者那首次实验的记忆建造的。</DefaultText>
+		<DefaultText>这些东西非常像共振腔。整间实验室肯定是根据你的创造者那首次实验的记忆建造的。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>373</ID>
@@ -2410,7 +2410,7 @@
 	</Entry>
 	<Entry>
 		<ID>603</ID>
-		<DefaultText>她看上去非常真实。每次呼吸，她的胸脯都会上下起伏。看到这个幽灵般的女人即在这个房间里，又在这个房间外，感觉很奇怪。</DefaultText>
+		<DefaultText>她看上去非常真实。每次呼吸，她的胸脯都会上下起伏。看到这个幽灵般的女子既在房间里，又在房间外，感觉很奇怪。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>604</ID>
@@ -2486,7 +2486,7 @@
 	</Entry>
 	<Entry>
 		<ID>622</ID>
-		<DefaultText>离开这处深渊的传送门遥不可及，你必须得找到一个方法到那里去。</DefaultText>
+		<DefaultText>离开这处洞悉的传送门遥不可及，你必须得找到一个方法到那里去。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>623</ID>
@@ -2753,7 +2753,7 @@
 	</Entry>
 	<Entry>
 		<ID>691</ID>
-		<DefaultText>苦痛打破了这面通往黑暗深渊的镜子。触摸这些玻璃随便，它们便会嘶嘶作响。</DefaultText>
+		<DefaultText>苦痛打破了这面通往黑暗洞悉的镜子。触摸这些玻璃碎片，它们便会嘶嘶作响。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>692</ID>
@@ -2815,7 +2815,7 @@
 	</Entry>
 	<Entry>
 		<ID>707</ID>
-		<DefaultText>没有门或传送门可以把你带回你来时经过的深渊，只有一道无法辨别光源的漫射光。</DefaultText>
+		<DefaultText>没有门或传送门可以把你带回你来时经过的洞悉，只有一道无法辨别光源的漫射光。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>708</ID>
@@ -3011,7 +3011,7 @@
 	</Entry>
 	<Entry>
 		<ID>756</ID>
-		<DefaultText>球黑暗而孤独，失去了往日的光芒。</DefaultText>
+		<DefaultText>球体黑暗而孤独，失去了往日的光芒。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>757</ID>
@@ -3139,7 +3139,7 @@
 	</Entry>
 	<Entry>
 		<ID>788</ID>
-		<DefaultText>在破旧不堪的状态下，这座雕像无法发出足够的声音来吸引啮蜂。</DefaultText>
+		<DefaultText>这座破旧不堪的雕像无法发出足够的声音来吸引啮蜂。</DefaultText>
 	</Entry>
 	<Entry>
 		<ID>789</ID>
